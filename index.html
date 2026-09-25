@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>NFL Model Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800&family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#e6eee2; --panel:#f3f7f0; --ink:#14261c; --muted:#56695c; --rule:#b9c9b6;
+  --pick:#c2281d; --pick-soft:#f4d9d4; --home:#1f5c3d; --away:#8a5a12; --bar:#cfdcca;
+  --display:"Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
+  --cond:"Barlow Condensed", "Arial Narrow", sans-serif;
+  --body:"Barlow", "Helvetica Neue", Arial, sans-serif;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --paper:#0f1a14; --panel:#16241c; --ink:#e3ece1; --muted:#98ab9c; --rule:#2c4234;
+  --pick:#ff6a57; --pick-soft:#3a1d19; --home:#7fcf9f; --away:#e3b262; --bar:#243a2d; } }
+:root[data-theme="dark"]{
+  --paper:#0f1a14; --panel:#16241c; --ink:#e3ece1; --muted:#98ab9c; --rule:#2c4234;
+  --pick:#ff6a57; --pick-soft:#3a1d19; --home:#7fcf9f; --away:#e3b262; --bar:#243a2d; }
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.5 var(--body);font-variant-numeric:tabular-nums}
+.wrap{max-width:1080px;margin:0 auto;padding:28px 20px 64px}
+header{display:grid;grid-template-columns:1fr auto;gap:12px 32px;align-items:end;border-bottom:3px solid var(--ink);padding-bottom:18px}
+h1{font:800 clamp(56px,11vw,120px)/.85 var(--display);margin:0;letter-spacing:-.01em}
+h1 small{display:block;font:600 clamp(18px,2.6vw,26px)/1.2 var(--cond);color:var(--muted);letter-spacing:.01em;margin-top:10px}
+.verdict{font:500 15px/1.4 var(--body);max-width:34ch;color:var(--muted);text-align:right}
+.verdict b{color:var(--ink);font-weight:600}
+h2{font:800 34px/1 var(--display);margin:48px 0 6px}
+.lede{color:var(--muted);max-width:68ch;margin:0 0 18px}
+.controls{display:flex;flex-wrap:wrap;gap:14px 28px;padding:16px 0;border-bottom:1px solid var(--rule);align-items:end}
+.controls label{display:flex;flex-direction:column;font:600 15px/1.2 var(--cond);color:var(--muted);gap:6px}
+.controls output{color:var(--ink);font-weight:700}
+input[type=range]{width:170px;accent-color:var(--pick)}
+input[type=number]{width:110px;font:600 16px var(--body);padding:6px 8px;border:1px solid var(--rule);background:var(--panel);color:var(--ink);border-radius:3px}
+:focus-visible{outline:2px solid var(--pick);outline-offset:2px}
+.scroll{overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:980px}
+th{font:600 14px/1.2 var(--cond);color:var(--muted);text-align:left;padding:10px 8px;border-bottom:1px solid var(--rule);white-space:nowrap}
+td{padding:12px 8px;border-bottom:1px solid var(--rule);vertical-align:middle}
+.num{text-align:right;white-space:nowrap}
+.match{font:700 22px/1.05 var(--cond)}
+.match .at{color:var(--muted);font-weight:500;padding:0 4px}
+.qbs{font-size:13px;color:var(--muted);margin-top:3px}
+.qbnote{display:inline-block;margin-top:5px;font:600 13px/1.3 var(--body);color:var(--away)}
+.line{font:600 18px var(--cond)}
+.when{font:500 14px/1.25 var(--cond);color:var(--muted);white-space:nowrap}
+.edgecell{width:150px}
+.ebar{position:relative;height:10px;background:var(--bar);border-radius:5px}
+.ebar i{position:absolute;top:0;height:10px;border-radius:5px;background:var(--muted)}
+.ebar::after{content:"";position:absolute;left:50%;top:-3px;width:2px;height:16px;background:var(--ink)}
+.etxt{font:600 14px var(--cond);margin-top:4px;color:var(--muted)}
+tr.bet{background:var(--pick-soft)}
+tr.bet .ebar i{background:var(--pick)}
+tr.bet .etxt{color:var(--pick)}
+.stake{font:700 22px var(--cond)}
+tr:not(.bet) .stake{color:var(--muted);font-weight:500;font-size:16px}
+.tally{font:600 17px var(--cond);margin:14px 0 0}
+.grid2{display:grid;grid-template-columns:1.1fr .9fr;gap:40px}
+@media (max-width:820px){.grid2{grid-template-columns:1fr} header{grid-template-columns:1fr}.verdict{text-align:left}}
+.pr{display:grid;grid-template-columns:44px 1fr 44px;gap:8px;align-items:center;font:600 15px var(--cond);padding:2px 0}
+.pr .track{position:relative;height:14px}
+.pr .track::before{content:"";position:absolute;left:50%;top:-3px;bottom:-3px;width:1px;background:var(--rule)}
+.pr .track i{position:absolute;top:1px;height:12px}
+.pr .v{text-align:right;color:var(--muted)}
+.bt td,.bt th{padding:8px}
+.bt tr.sel{background:var(--pick-soft)}
+.good{color:var(--home);font-weight:600}.bad{color:var(--pick);font-weight:600}
+.seasons{display:flex;align-items:flex-end;gap:4px;height:170px;position:relative;margin:24px 0 6px;border-bottom:1px solid var(--rule)}
+.seasons .be{position:absolute;left:0;right:0;border-top:2px dashed var(--ink);opacity:.55}
+.seasons .be span{position:absolute;right:0;top:-20px;font:600 13px var(--cond);background:var(--paper);padding:0 4px}
+.seasons div.c{flex:1;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;height:100%}
+.seasons div.c i{width:100%;max-width:34px;border-radius:2px 2px 0 0}
+.yrs{display:flex;gap:4px;font:500 12px var(--cond);color:var(--muted)}.yrs span{flex:1;text-align:center}
+.mae{display:grid;gap:10px;margin-top:10px}
+.mae div{display:grid;grid-template-columns:170px 1fr 60px;align-items:center;gap:10px;font:600 16px var(--cond)}
+.mae i{display:block;height:14px;background:var(--muted);border-radius:2px}
+.mae div:first-child i{background:var(--home)}
+.notes{columns:2 300px;column-gap:40px;color:var(--muted);font-size:15px}
+.notes p{margin:0 0 12px;break-inside:avoid}.notes b{color:var(--ink)}
+
+.seg{display:inline-flex;border:2px solid var(--ink);border-radius:4px;overflow:hidden}
+.seg button{font:700 17px var(--cond);padding:8px 14px;border:0;background:transparent;color:var(--ink);cursor:pointer}
+.seg button+button{border-left:2px solid var(--ink)}
+.seg button[aria-pressed=true]{background:var(--ink);color:var(--paper)}
+.ml{font:600 16px var(--cond);color:var(--muted)}
+.ml.on{color:var(--ink);font-size:18px;font-weight:700;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}
+.injnote{display:block;margin-top:4px;font:600 13px/1.3 var(--body);color:var(--pick)}
+.half{display:block;font:500 12px/1.3 var(--body);color:var(--muted);margin-top:2px}
+.pw{font:600 16px var(--cond)}.pp{display:block;font:500 12px var(--body);color:var(--muted)}
+.bt td.selcol{font-weight:700}
+.prt{display:grid;grid-template-columns:44px 1fr 44px 58px;gap:8px;align-items:center;font:600 15px var(--cond);padding:2px 0}
+.prt .track{position:relative;height:14px}.prt .track::before{content:"";position:absolute;left:50%;top:-3px;bottom:-3px;width:1px;background:var(--rule)}
+.prt .track i{position:absolute;top:1px;height:12px}.prt .v{text-align:right;color:var(--muted)}
+.prh{display:grid;grid-template-columns:44px 1fr 44px 58px;gap:8px;font:600 13px var(--cond);color:var(--muted);margin-bottom:4px}.prh span:nth-child(n+3){text-align:right}
+
+.alert{display:block;margin-top:5px;font:600 13px/1.35 var(--body);color:var(--ink);background:var(--pick-soft);border-left:3px solid var(--pick);padding:3px 7px}
+.gnews{margin-top:6px;font:400 13px/1.35 var(--body);color:var(--muted)}
+.gnews a{color:inherit}.gnews b{color:var(--ink);font-weight:600}
+.feed{display:grid;gap:0;border-top:1px solid var(--rule)}
+.feed article{display:grid;grid-template-columns:140px 1fr;gap:6px 20px;padding:12px 0;border-bottom:1px solid var(--rule)}
+.feed .who{font:600 15px/1.2 var(--cond)}.feed .when2{display:block;font:500 13px var(--cond);color:var(--muted)}
+.feed p{margin:0;max-width:72ch}.feed a{color:var(--ink)}
+.tag{display:inline-block;font:600 12px/1 var(--cond);padding:3px 6px;border:1px solid var(--rule);border-radius:3px;margin-right:6px;color:var(--muted)}
+.tag.hot{border-color:var(--pick);color:var(--pick)}
+.srcline{font:500 14px var(--cond);color:var(--muted);margin:8px 0 0}
+@media (max-width:640px){.feed article{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:no-preference){ tr.bet{transition:background .25s} }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1 id="title">Week</h1>
+  <p class="verdict" id="verdict"></p>
+</header>
+
+<div class="controls" aria-label="Betting settings">
+  <label>Model used for picks
+    <span class="seg" role="group" aria-label="Model">
+      <button data-m="elo">Elo only</button><button data-m="eloqb">Elo + QB</button><button data-m="blend">Blend + EPA</button>
+    </span></label>
+  <label>Only bet edges of at least <output id="thOut"></output>
+    <input type="range" id="th" min="0" max="7" step="1" value="3"></label>
+  <label>Trust in model vs. market <output id="trustOut"></output>
+    <input type="range" id="trust" min="0" max="0.5" step="0.01" value="0.12"></label>
+  <label>Bankroll ($)
+    <input type="number" id="bank" min="0" step="50" value="1000"></label>
+</div>
+
+<div class="scroll">
+<table id="board">
+  <thead><tr><th>Kickoff (ET)</th><th>Matchup</th><th class="num">Market</th><th class="num">Elo</th><th class="num">Elo+QB</th><th class="num">Blend</th><th>Model vs market</th><th>Pick</th><th class="num">Cover / push</th><th class="num">Stake</th></tr></thead>
+  <tbody></tbody>
+</table>
+</div>
+<p class="tally" id="tally"></p>
+
+<div class="grid2">
+  <section>
+    <h2>Did it work in the past?</h2>
+    <p class="lede">Every game since 2010, betting whichever side each model preferred at the closing line. You need 52.4% to break even at -110. The highlighted row matches your edge setting; bold is the model you picked.</p>
+    <div class="scroll"><table class="bt" style="min-width:420px">
+      <thead><tr><th>Min edge</th><th class="num">Elo only</th><th class="num">Elo + QB</th><th class="num">Blend</th><th class="num">Bets (selected)</th></tr></thead>
+      <tbody id="bt"></tbody></table></div>
+    <h2 style="font-size:26px;margin-top:36px" id="seasonTitle">Season by season</h2>
+    <div class="seasons" id="seasons"></div>
+    <div class="yrs" id="yrs"></div>
+  </section>
+  <section>
+    <h2>Power ratings</h2>
+    <p class="lede">Elo: points better or worse than an average team on a neutral field, before QB adjustments. EPA: net expected points per play (offense minus defense), the efficiency input to the blend.</p>
+    <div id="power"></div>
+  </section>
+</div>
+
+<h2>News feed</h2>
+<p class="lede">The last seven days from the sources this board watches, newest first. Tags come from reading each item; red means a confirmed availability change.</p>
+<p class="srcline" id="srcline"></p>
+<div class="feed" id="feed"></div>
+
+<h2>Who predicts final margins best?</h2>
+<p class="lede">Average miss versus the actual final margin since 2020, seasons the blend was never fitted on. Lower is better. The market still wins, which is why each model's disagreement gets shrunk before sizing bets.</p>
+<div class="mae" id="mae"></div>
+
+<h2>How to read this</h2>
+<div class="notes">
+  <p><b>Three models.</b> Elo only uses final scores. Elo + QB adjusts for the starting quarterback. Blend + EPA mixes Elo + QB with play-by-play efficiency, weighted by a regression fit on 2010 to 2019 only. The underlined line is the model driving picks.</p>
+  <p><b>Trust</b> is how much of the model's disagreement with the market to believe. The default is fitted from history for each model (about 12% for the QB models, 5% for Elo only). This is the honest answer to "how good is the model."</p>
+  <p><b>Key numbers.</b> Cover chances account for how often games land exactly on 3, 7, 10, and 14. Games end on exactly 3 almost three times as often as a smooth curve predicts, so a half point around 3 or 7 is worth far more than elsewhere. When it matters, the board shows what a half point is worth for the pick.</p>
+  <p><b>Quarterback adjustment.</b> Each QB gets a rolling rating from his box scores (FiveThirtyEight's formula). When the listed starter is better or worse than who that team has normally played, the line moves. Chicago with Case Keenum is the clearest example this week.</p>
+  <p><b>Injuries.</b> Regular starters (50%+ of snaps) listed Out or Doubtful are flagged in red. Reports fill in Wednesday through Friday, so rerun late in the week. These are flags only; the model does not price them yet. Listed QBs can also lag late news, so verify starters before betting.</p>
+  <p><b>Stakes</b> use quarter Kelly on the shrunk edge. Treat them as paper trades until the model beats the closing line over a full season.</p>
+  <p><b>Updates.</b> This page rebuilds itself on a schedule (last data date <span id="asof"></span>). Starters named in confirmed news automatically replace the listed QB, and the change is shown in red on that game.</p>
+</div>
+</div>
+
+<script>
+const D = {"season": 2026, "week": 3, "asof": "2026-09-24", "updated": "2026-09-24T23:28+00:00", "games": [{"date": "2026-09-24", "time": "20:15", "away": "ATL", "home": "GB", "aqb": "Michael Penix Jr.", "hqb": "Jordan Love", "market": 4.5, "elo": 7.0, "eloqb": 5.7, "blend": 6.2, "aqa": 1.2, "hqa": -0.1, "hodds": -112, "aodds": -108, "hinj": [{"name": "Zach Bako-Bewele", "pos": "T", "status": "Out", "snaps": 52}], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "13:00", "away": "LAC", "home": "BUF", "aqb": "Justin Herbert", "hqb": "Josh Allen", "market": 7.0, "elo": 10.7, "eloqb": 9.9, "blend": 10.6, "aqa": 0.5, "hqa": -0.3, "hodds": -112, "aodds": -108, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "13:00", "away": "CAR", "home": "CLE", "aqb": "Bryce Young", "hqb": "Deshaun Watson", "market": -2.5, "elo": -0.1, "eloqb": 1.1, "blend": 0.9, "aqa": -0.1, "hqa": 1.1, "hodds": -102, "aodds": -118, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "13:00", "away": "NYJ", "home": "DET", "aqb": "Geno Smith", "hqb": "Jared Goff", "market": 6.5, "elo": 9.4, "eloqb": 9.9, "blend": 10.3, "aqa": -0.5, "hqa": 0.0, "hodds": -110, "aodds": -110, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "13:00", "away": "HOU", "home": "IND", "aqb": "C.J. Stroud", "hqb": "Daniel Jones", "market": -1.5, "elo": -2.6, "eloqb": -2.3, "blend": -2.2, "aqa": -0.1, "hqa": 0.2, "hodds": -102, "aodds": -118, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "13:00", "away": "NE", "home": "JAX", "aqb": "Drake Maye", "hqb": "Trevor Lawrence", "market": 3.0, "elo": 0.5, "eloqb": 0.6, "blend": 1.1, "aqa": 0.0, "hqa": 0.1, "hodds": -105, "aodds": -115, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "13:00", "away": "KC", "home": "MIA", "aqb": "Patrick Mahomes", "hqb": "Malik Willis", "market": -10.5, "elo": -2.7, "eloqb": -3.1, "blend": -3.8, "aqa": 1.6, "hqa": 1.1, "hodds": -108, "aodds": -112, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "13:00", "away": "TEN", "home": "NYG", "aqb": "Cam Ward", "hqb": "Jameis Winston", "market": 2.5, "elo": 7.1, "eloqb": 5.5, "blend": 5.8, "aqa": 0.3, "hqa": -1.3, "hodds": -118, "aodds": -102, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "13:00", "away": "CIN", "home": "PIT", "aqb": "Joe Burrow", "hqb": "Aaron Rodgers", "market": -3.5, "elo": 0.6, "eloqb": 0.1, "blend": -0.2, "aqa": 0.5, "hqa": 0.0, "hodds": -105, "aodds": -115, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "13:00", "away": "SEA", "home": "WAS", "aqb": "Drew Lock", "hqb": "Jayden Daniels", "market": -7.5, "elo": -8.3, "eloqb": -7.3, "blend": -8.3, "aqa": 0.1, "hqa": 1.1, "hodds": -112, "aodds": -108, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "16:05", "away": "ARI", "home": "SF", "aqb": "Jacoby Brissett", "hqb": "Brock Purdy", "market": 8.5, "elo": 9.0, "eloqb": 9.8, "blend": 10.4, "aqa": -0.8, "hqa": -0.0, "hodds": -108, "aodds": -112, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "16:05", "away": "MIN", "home": "TB", "aqb": "Kyler Murray", "hqb": "Baker Mayfield", "market": -1.5, "elo": -3.6, "eloqb": -8.6, "blend": -7.5, "aqa": 5.0, "hqa": -0.0, "hodds": -112, "aodds": -108, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "16:25", "away": "BAL", "home": "DAL", "aqb": "Lamar Jackson", "hqb": "Dak Prescott", "market": -3.5, "elo": -3.1, "eloqb": -3.4, "blend": -3.7, "aqa": 0.5, "hqa": 0.2, "hodds": -115, "aodds": -105, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "16:25", "away": "LV", "home": "NO", "aqb": "Kirk Cousins", "hqb": "Tyler Shough", "market": 3.0, "elo": 4.9, "eloqb": 1.9, "blend": 3.3, "aqa": 2.8, "hqa": -0.2, "hodds": -120, "aodds": 100, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-27", "time": "20:20", "away": "LA", "home": "DEN", "aqb": "Matthew Stafford", "hqb": "Bo Nix", "market": -2.5, "elo": 2.1, "eloqb": 2.7, "blend": 1.8, "aqa": -0.0, "hqa": 0.6, "hodds": -110, "aodds": -110, "hinj": [], "ainj": [], "alerts": [], "news": []}, {"date": "2026-09-28", "time": "20:15", "away": "PHI", "home": "CHI", "aqb": "Jalen Hurts", "hqb": "Case Keenum", "market": -4.5, "elo": 0.6, "eloqb": -3.4, "blend": -2.4, "aqa": 0.4, "hqa": -3.6, "hodds": 100, "aodds": -120, "hinj": [], "ainj": [], "alerts": [], "news": []}], "power": [{"team": "SEA", "elo": 7.8, "epa": 0.141}, {"team": "BUF", "elo": 5.7, "epa": 0.085}, {"team": "SF", "elo": 4.6, "epa": 0.056}, {"team": "NE", "elo": 3.9, "epa": 0.079}, {"team": "DEN", "elo": 3.4, "epa": 0.003}, {"team": "LA", "elo": 3.3, "epa": 0.08}, {"team": "MIN", "elo": 3.1, "epa": 0.029}, {"team": "PHI", "elo": 2.8, "epa": 0.037}, {"team": "JAX", "elo": 2.5, "epa": 0.079}, {"team": "HOU", "elo": 1.7, "epa": 0.011}, {"team": "DET", "elo": 1.6, "epa": 0.013}, {"team": "CHI", "elo": 1.5, "epa": 0.021}, {"team": "CIN", "elo": 1.5, "epa": 0.011}, {"team": "BAL", "elo": 1.4, "epa": 0.065}, {"team": "GB", "elo": 1.3, "epa": -0.011}, {"team": "KC", "elo": 1.3, "epa": 0.043}, {"team": "PIT", "elo": 0.2, "epa": -0.052}, {"team": "NO", "elo": -1.0, "epa": 0.019}, {"team": "DAL", "elo": -1.7, "epa": -0.041}, {"team": "CAR", "elo": -1.8, "epa": -0.01}, {"team": "LAC", "elo": -2.1, "epa": -0.04}, {"team": "WAS", "elo": -2.4, "epa": -0.062}, {"team": "TB", "elo": -2.4, "epa": -0.039}, {"team": "ARI", "elo": -2.5, "epa": -0.06}, {"team": "NYG", "elo": -2.8, "epa": -0.063}, {"team": "IND", "elo": -2.9, "epa": -0.05}, {"team": "MIA", "elo": -3.3, "epa": -0.085}, {"team": "ATL", "elo": -3.8, "epa": -0.07}, {"team": "CLE", "elo": -3.8, "epa": -0.062}, {"team": "LV", "elo": -3.9, "epa": -0.061}, {"team": "NYJ", "elo": -4.9, "epa": -0.088}, {"team": "TEN", "elo": -8.0, "epa": -0.106}], "back": {"elo": [{"th": 0, "w": 2173, "l": 2112}, {"th": 1, "w": 1625, "l": 1599}, {"th": 2, "w": 1151, "l": 1081}, {"th": 3, "w": 771, "l": 716}, {"th": 4, "w": 474, "l": 431}, {"th": 5, "w": 271, "l": 266}, {"th": 6, "w": 157, "l": 157}, {"th": 7, "w": 86, "l": 88}], "eloqb": [{"th": 0, "w": 2127, "l": 2158}, {"th": 1, "w": 1555, "l": 1559}, {"th": 2, "w": 1067, "l": 1008}, {"th": 3, "w": 687, "l": 616}, {"th": 4, "w": 401, "l": 334}, {"th": 5, "w": 220, "l": 175}, {"th": 6, "w": 119, "l": 99}, {"th": 7, "w": 60, "l": 49}], "blend": [{"th": 0, "w": 2135, "l": 2150}, {"th": 1, "w": 1502, "l": 1489}, {"th": 2, "w": 955, "l": 941}, {"th": 3, "w": 608, "l": 546}, {"th": 4, "w": 342, "l": 277}, {"th": 5, "w": 181, "l": 156}, {"th": 6, "w": 76, "l": 83}, {"th": 7, "w": 40, "l": 35}]}, "seasons": {"elo": {"0": [{"season": 2010, "bets": 262, "w": 124}, {"season": 2011, "bets": 256, "w": 135}, {"season": 2012, "bets": 262, "w": 132}, {"season": 2013, "bets": 260, "w": 134}, {"season": 2014, "bets": 261, "w": 137}, {"season": 2015, "bets": 257, "w": 148}, {"season": 2016, "bets": 262, "w": 136}, {"season": 2017, "bets": 259, "w": 141}, {"season": 2018, "bets": 258, "w": 136}, {"season": 2019, "bets": 257, "w": 122}, {"season": 2020, "bets": 269, "w": 144}, {"season": 2021, "bets": 281, "w": 138}, {"season": 2022, "bets": 274, "w": 130}, {"season": 2023, "bets": 271, "w": 122}, {"season": 2024, "bets": 281, "w": 140}, {"season": 2025, "bets": 284, "w": 138}, {"season": 2026, "bets": 31, "w": 16}], "1": [{"season": 2010, "bets": 190, "w": 90}, {"season": 2011, "bets": 199, "w": 106}, {"season": 2012, "bets": 187, "w": 94}, {"season": 2013, "bets": 203, "w": 101}, {"season": 2014, "bets": 194, "w": 98}, {"season": 2015, "bets": 196, "w": 110}, {"season": 2016, "bets": 192, "w": 95}, {"season": 2017, "bets": 195, "w": 102}, {"season": 2018, "bets": 196, "w": 105}, {"season": 2019, "bets": 180, "w": 90}, {"season": 2020, "bets": 199, "w": 104}, {"season": 2021, "bets": 220, "w": 110}, {"season": 2022, "bets": 213, "w": 104}, {"season": 2023, "bets": 211, "w": 97}, {"season": 2024, "bets": 223, "w": 110}, {"season": 2025, "bets": 205, "w": 101}, {"season": 2026, "bets": 21, "w": 8}], "2": [{"season": 2010, "bets": 128, "w": 60}, {"season": 2011, "bets": 129, "w": 70}, {"season": 2012, "bets": 112, "w": 54}, {"season": 2013, "bets": 151, "w": 78}, {"season": 2014, "bets": 132, "w": 65}, {"season": 2015, "bets": 140, "w": 80}, {"season": 2016, "bets": 133, "w": 69}, {"season": 2017, "bets": 137, "w": 67}, {"season": 2018, "bets": 143, "w": 75}, {"season": 2019, "bets": 131, "w": 72}, {"season": 2020, "bets": 137, "w": 72}, {"season": 2021, "bets": 158, "w": 78}, {"season": 2022, "bets": 152, "w": 81}, {"season": 2023, "bets": 147, "w": 73}, {"season": 2024, "bets": 151, "w": 82}, {"season": 2025, "bets": 139, "w": 70}, {"season": 2026, "bets": 12, "w": 5}], "3": [{"season": 2010, "bets": 73, "w": 33}, {"season": 2011, "bets": 76, "w": 39}, {"season": 2012, "bets": 72, "w": 36}, {"season": 2013, "bets": 99, "w": 51}, {"season": 2014, "bets": 90, "w": 49}, {"season": 2015, "bets": 94, "w": 56}, {"season": 2016, "bets": 87, "w": 44}, {"season": 2017, "bets": 95, "w": 46}, {"season": 2018, "bets": 108, "w": 56}, {"season": 2019, "bets": 82, "w": 49}, {"season": 2020, "bets": 85, "w": 45}, {"season": 2021, "bets": 111, "w": 54}, {"season": 2022, "bets": 117, "w": 62}, {"season": 2023, "bets": 95, "w": 49}, {"season": 2024, "bets": 107, "w": 60}, {"season": 2025, "bets": 88, "w": 39}, {"season": 2026, "bets": 8, "w": 3}], "4": [{"season": 2010, "bets": 48, "w": 24}, {"season": 2011, "bets": 50, "w": 24}, {"season": 2012, "bets": 39, "w": 16}, {"season": 2013, "bets": 55, "w": 26}, {"season": 2014, "bets": 55, "w": 28}, {"season": 2015, "bets": 61, "w": 36}, {"season": 2016, "bets": 54, "w": 28}, {"season": 2017, "bets": 54, "w": 28}, {"season": 2018, "bets": 79, "w": 42}, {"season": 2019, "bets": 44, "w": 28}, {"season": 2020, "bets": 53, "w": 29}, {"season": 2021, "bets": 73, "w": 39}, {"season": 2022, "bets": 64, "w": 37}, {"season": 2023, "bets": 55, "w": 31}, {"season": 2024, "bets": 64, "w": 37}, {"season": 2025, "bets": 53, "w": 20}, {"season": 2026, "bets": 4, "w": 1}], "5": [{"season": 2010, "bets": 31, "w": 14}, {"season": 2011, "bets": 34, "w": 15}, {"season": 2012, "bets": 18, "w": 6}, {"season": 2013, "bets": 33, "w": 16}, {"season": 2014, "bets": 32, "w": 15}, {"season": 2015, "bets": 35, "w": 18}, {"season": 2016, "bets": 32, "w": 17}, {"season": 2017, "bets": 38, "w": 20}, {"season": 2018, "bets": 48, "w": 23}, {"season": 2019, "bets": 31, "w": 17}, {"season": 2020, "bets": 26, "w": 15}, {"season": 2021, "bets": 42, "w": 23}, {"season": 2022, "bets": 31, "w": 17}, {"season": 2023, "bets": 32, "w": 19}, {"season": 2024, "bets": 41, "w": 24}, {"season": 2025, "bets": 30, "w": 12}, {"season": 2026, "bets": 3, "w": 0}], "6": [{"season": 2010, "bets": 18, "w": 9}, {"season": 2011, "bets": 16, "w": 8}, {"season": 2012, "bets": 9, "w": 1}, {"season": 2013, "bets": 19, "w": 11}, {"season": 2014, "bets": 13, "w": 5}, {"season": 2015, "bets": 20, "w": 11}, {"season": 2016, "bets": 19, "w": 9}, {"season": 2017, "bets": 24, "w": 11}, {"season": 2018, "bets": 30, "w": 15}, {"season": 2019, "bets": 20, "w": 11}, {"season": 2020, "bets": 14, "w": 8}, {"season": 2021, "bets": 31, "w": 16}, {"season": 2022, "bets": 14, "w": 9}, {"season": 2023, "bets": 20, "w": 11}, {"season": 2024, "bets": 26, "w": 15}, {"season": 2025, "bets": 20, "w": 7}, {"season": 2026, "bets": 1, "w": 0}], "7": [{"season": 2010, "bets": 8, "w": 4}, {"season": 2011, "bets": 9, "w": 4}, {"season": 2012, "bets": 4, "w": 0}, {"season": 2013, "bets": 10, "w": 6}, {"season": 2014, "bets": 4, "w": 3}, {"season": 2015, "bets": 8, "w": 4}, {"season": 2016, "bets": 10, "w": 5}, {"season": 2017, "bets": 13, "w": 5}, {"season": 2018, "bets": 18, "w": 9}, {"season": 2019, "bets": 15, "w": 7}, {"season": 2020, "bets": 10, "w": 6}, {"season": 2021, "bets": 24, "w": 11}, {"season": 2022, "bets": 8, "w": 7}, {"season": 2023, "bets": 8, "w": 4}, {"season": 2024, "bets": 17, "w": 9}, {"season": 2025, "bets": 8, "w": 2}]}, "eloqb": {"0": [{"season": 2010, "bets": 262, "w": 114}, {"season": 2011, "bets": 256, "w": 134}, {"season": 2012, "bets": 262, "w": 125}, {"season": 2013, "bets": 260, "w": 135}, {"season": 2014, "bets": 261, "w": 139}, {"season": 2015, "bets": 257, "w": 147}, {"season": 2016, "bets": 262, "w": 131}, {"season": 2017, "bets": 259, "w": 133}, {"season": 2018, "bets": 258, "w": 125}, {"season": 2019, "bets": 257, "w": 124}, {"season": 2020, "bets": 269, "w": 139}, {"season": 2021, "bets": 281, "w": 136}, {"season": 2022, "bets": 274, "w": 137}, {"season": 2023, "bets": 271, "w": 131}, {"season": 2024, "bets": 281, "w": 134}, {"season": 2025, "bets": 284, "w": 130}, {"season": 2026, "bets": 31, "w": 13}], "1": [{"season": 2010, "bets": 172, "w": 80}, {"season": 2011, "bets": 197, "w": 107}, {"season": 2012, "bets": 178, "w": 86}, {"season": 2013, "bets": 206, "w": 105}, {"season": 2014, "bets": 190, "w": 97}, {"season": 2015, "bets": 183, "w": 109}, {"season": 2016, "bets": 204, "w": 98}, {"season": 2017, "bets": 192, "w": 99}, {"season": 2018, "bets": 190, "w": 96}, {"season": 2019, "bets": 178, "w": 86}, {"season": 2020, "bets": 200, "w": 105}, {"season": 2021, "bets": 199, "w": 95}, {"season": 2022, "bets": 214, "w": 105}, {"season": 2023, "bets": 195, "w": 94}, {"season": 2024, "bets": 208, "w": 96}, {"season": 2025, "bets": 187, "w": 88}, {"season": 2026, "bets": 21, "w": 9}], "2": [{"season": 2010, "bets": 113, "w": 54}, {"season": 2011, "bets": 129, "w": 69}, {"season": 2012, "bets": 105, "w": 49}, {"season": 2013, "bets": 140, "w": 78}, {"season": 2014, "bets": 130, "w": 66}, {"season": 2015, "bets": 114, "w": 69}, {"season": 2016, "bets": 131, "w": 67}, {"season": 2017, "bets": 129, "w": 65}, {"season": 2018, "bets": 136, "w": 68}, {"season": 2019, "bets": 120, "w": 63}, {"season": 2020, "bets": 133, "w": 70}, {"season": 2021, "bets": 145, "w": 71}, {"season": 2022, "bets": 148, "w": 77}, {"season": 2023, "bets": 130, "w": 67}, {"season": 2024, "bets": 139, "w": 73}, {"season": 2025, "bets": 120, "w": 54}, {"season": 2026, "bets": 13, "w": 7}], "3": [{"season": 2010, "bets": 74, "w": 38}, {"season": 2011, "bets": 87, "w": 47}, {"season": 2012, "bets": 68, "w": 34}, {"season": 2013, "bets": 94, "w": 51}, {"season": 2014, "bets": 89, "w": 48}, {"season": 2015, "bets": 61, "w": 40}, {"season": 2016, "bets": 84, "w": 44}, {"season": 2017, "bets": 80, "w": 42}, {"season": 2018, "bets": 95, "w": 48}, {"season": 2019, "bets": 77, "w": 47}, {"season": 2020, "bets": 78, "w": 44}, {"season": 2021, "bets": 85, "w": 42}, {"season": 2022, "bets": 90, "w": 49}, {"season": 2023, "bets": 76, "w": 34}, {"season": 2024, "bets": 84, "w": 45}, {"season": 2025, "bets": 70, "w": 29}, {"season": 2026, "bets": 11, "w": 5}], "4": [{"season": 2010, "bets": 56, "w": 28}, {"season": 2011, "bets": 45, "w": 25}, {"season": 2012, "bets": 30, "w": 13}, {"season": 2013, "bets": 47, "w": 27}, {"season": 2014, "bets": 40, "w": 22}, {"season": 2015, "bets": 39, "w": 27}, {"season": 2016, "bets": 58, "w": 29}, {"season": 2017, "bets": 44, "w": 23}, {"season": 2018, "bets": 59, "w": 31}, {"season": 2019, "bets": 44, "w": 25}, {"season": 2020, "bets": 48, "w": 29}, {"season": 2021, "bets": 51, "w": 25}, {"season": 2022, "bets": 49, "w": 30}, {"season": 2023, "bets": 40, "w": 22}, {"season": 2024, "bets": 45, "w": 27}, {"season": 2025, "bets": 34, "w": 14}, {"season": 2026, "bets": 6, "w": 4}], "5": [{"season": 2010, "bets": 38, "w": 18}, {"season": 2011, "bets": 26, "w": 12}, {"season": 2012, "bets": 14, "w": 5}, {"season": 2013, "bets": 23, "w": 14}, {"season": 2014, "bets": 23, "w": 13}, {"season": 2015, "bets": 14, "w": 7}, {"season": 2016, "bets": 38, "w": 22}, {"season": 2017, "bets": 21, "w": 13}, {"season": 2018, "bets": 36, "w": 21}, {"season": 2019, "bets": 28, "w": 16}, {"season": 2020, "bets": 25, "w": 14}, {"season": 2021, "bets": 25, "w": 13}, {"season": 2022, "bets": 26, "w": 19}, {"season": 2023, "bets": 13, "w": 8}, {"season": 2024, "bets": 29, "w": 17}, {"season": 2025, "bets": 13, "w": 6}, {"season": 2026, "bets": 3, "w": 2}], "6": [{"season": 2010, "bets": 26, "w": 13}, {"season": 2011, "bets": 12, "w": 5}, {"season": 2012, "bets": 7, "w": 2}, {"season": 2013, "bets": 12, "w": 9}, {"season": 2014, "bets": 10, "w": 6}, {"season": 2015, "bets": 5, "w": 2}, {"season": 2016, "bets": 24, "w": 15}, {"season": 2017, "bets": 11, "w": 5}, {"season": 2018, "bets": 24, "w": 13}, {"season": 2019, "bets": 13, "w": 6}, {"season": 2020, "bets": 13, "w": 6}, {"season": 2021, "bets": 15, "w": 9}, {"season": 2022, "bets": 14, "w": 10}, {"season": 2023, "bets": 7, "w": 4}, {"season": 2024, "bets": 12, "w": 7}, {"season": 2025, "bets": 11, "w": 6}, {"season": 2026, "bets": 2, "w": 1}], "7": [{"season": 2010, "bets": 11, "w": 6}, {"season": 2011, "bets": 4, "w": 2}, {"season": 2012, "bets": 4, "w": 1}, {"season": 2013, "bets": 5, "w": 4}, {"season": 2014, "bets": 4, "w": 3}, {"season": 2016, "bets": 13, "w": 8}, {"season": 2017, "bets": 6, "w": 3}, {"season": 2018, "bets": 11, "w": 6}, {"season": 2019, "bets": 8, "w": 3}, {"season": 2020, "bets": 9, "w": 5}, {"season": 2021, "bets": 10, "w": 5}, {"season": 2022, "bets": 6, "w": 4}, {"season": 2023, "bets": 5, "w": 2}, {"season": 2024, "bets": 7, "w": 5}, {"season": 2025, "bets": 6, "w": 3}]}, "blend": {"0": [{"season": 2010, "bets": 262, "w": 126}, {"season": 2011, "bets": 256, "w": 135}, {"season": 2012, "bets": 262, "w": 131}, {"season": 2013, "bets": 260, "w": 132}, {"season": 2014, "bets": 261, "w": 139}, {"season": 2015, "bets": 257, "w": 143}, {"season": 2016, "bets": 262, "w": 132}, {"season": 2017, "bets": 259, "w": 137}, {"season": 2018, "bets": 258, "w": 129}, {"season": 2019, "bets": 257, "w": 122}, {"season": 2020, "bets": 269, "w": 136}, {"season": 2021, "bets": 281, "w": 134}, {"season": 2022, "bets": 274, "w": 137}, {"season": 2023, "bets": 271, "w": 126}, {"season": 2024, "bets": 281, "w": 135}, {"season": 2025, "bets": 284, "w": 129}, {"season": 2026, "bets": 31, "w": 12}], "1": [{"season": 2010, "bets": 170, "w": 78}, {"season": 2011, "bets": 186, "w": 103}, {"season": 2012, "bets": 165, "w": 84}, {"season": 2013, "bets": 192, "w": 100}, {"season": 2014, "bets": 186, "w": 101}, {"season": 2015, "bets": 179, "w": 105}, {"season": 2016, "bets": 186, "w": 91}, {"season": 2017, "bets": 171, "w": 90}, {"season": 2018, "bets": 188, "w": 94}, {"season": 2019, "bets": 177, "w": 87}, {"season": 2020, "bets": 195, "w": 102}, {"season": 2021, "bets": 190, "w": 89}, {"season": 2022, "bets": 206, "w": 101}, {"season": 2023, "bets": 187, "w": 84}, {"season": 2024, "bets": 201, "w": 98}, {"season": 2025, "bets": 191, "w": 87}, {"season": 2026, "bets": 21, "w": 8}], "2": [{"season": 2010, "bets": 109, "w": 52}, {"season": 2011, "bets": 120, "w": 67}, {"season": 2012, "bets": 95, "w": 45}, {"season": 2013, "bets": 128, "w": 67}, {"season": 2014, "bets": 122, "w": 61}, {"season": 2015, "bets": 105, "w": 57}, {"season": 2016, "bets": 116, "w": 57}, {"season": 2017, "bets": 112, "w": 58}, {"season": 2018, "bets": 117, "w": 55}, {"season": 2019, "bets": 106, "w": 53}, {"season": 2020, "bets": 126, "w": 65}, {"season": 2021, "bets": 127, "w": 66}, {"season": 2022, "bets": 134, "w": 65}, {"season": 2023, "bets": 116, "w": 56}, {"season": 2024, "bets": 135, "w": 72}, {"season": 2025, "bets": 117, "w": 54}, {"season": 2026, "bets": 11, "w": 5}], "3": [{"season": 2010, "bets": 75, "w": 37}, {"season": 2011, "bets": 69, "w": 37}, {"season": 2012, "bets": 47, "w": 18}, {"season": 2013, "bets": 79, "w": 44}, {"season": 2014, "bets": 66, "w": 34}, {"season": 2015, "bets": 63, "w": 40}, {"season": 2016, "bets": 81, "w": 41}, {"season": 2017, "bets": 68, "w": 34}, {"season": 2018, "bets": 75, "w": 39}, {"season": 2019, "bets": 58, "w": 35}, {"season": 2020, "bets": 84, "w": 47}, {"season": 2021, "bets": 79, "w": 40}, {"season": 2022, "bets": 83, "w": 44}, {"season": 2023, "bets": 58, "w": 29}, {"season": 2024, "bets": 91, "w": 52}, {"season": 2025, "bets": 67, "w": 32}, {"season": 2026, "bets": 11, "w": 5}], "4": [{"season": 2010, "bets": 49, "w": 25}, {"season": 2011, "bets": 41, "w": 22}, {"season": 2012, "bets": 18, "w": 5}, {"season": 2013, "bets": 38, "w": 24}, {"season": 2014, "bets": 30, "w": 14}, {"season": 2015, "bets": 33, "w": 22}, {"season": 2016, "bets": 48, "w": 29}, {"season": 2017, "bets": 33, "w": 17}, {"season": 2018, "bets": 53, "w": 30}, {"season": 2019, "bets": 34, "w": 21}, {"season": 2020, "bets": 38, "w": 21}, {"season": 2021, "bets": 36, "w": 19}, {"season": 2022, "bets": 42, "w": 25}, {"season": 2023, "bets": 31, "w": 15}, {"season": 2024, "bets": 55, "w": 35}, {"season": 2025, "bets": 36, "w": 15}, {"season": 2026, "bets": 4, "w": 3}], "5": [{"season": 2010, "bets": 29, "w": 13}, {"season": 2011, "bets": 23, "w": 13}, {"season": 2012, "bets": 10, "w": 2}, {"season": 2013, "bets": 16, "w": 9}, {"season": 2014, "bets": 12, "w": 7}, {"season": 2015, "bets": 14, "w": 9}, {"season": 2016, "bets": 33, "w": 18}, {"season": 2017, "bets": 21, "w": 11}, {"season": 2018, "bets": 29, "w": 15}, {"season": 2019, "bets": 22, "w": 11}, {"season": 2020, "bets": 21, "w": 11}, {"season": 2021, "bets": 18, "w": 10}, {"season": 2022, "bets": 21, "w": 14}, {"season": 2023, "bets": 19, "w": 11}, {"season": 2024, "bets": 26, "w": 16}, {"season": 2025, "bets": 20, "w": 9}, {"season": 2026, "bets": 3, "w": 2}], "6": [{"season": 2010, "bets": 17, "w": 7}, {"season": 2011, "bets": 9, "w": 3}, {"season": 2012, "bets": 4, "w": 0}, {"season": 2013, "bets": 8, "w": 6}, {"season": 2014, "bets": 2, "w": 1}, {"season": 2015, "bets": 3, "w": 1}, {"season": 2016, "bets": 17, "w": 9}, {"season": 2017, "bets": 7, "w": 3}, {"season": 2018, "bets": 17, "w": 7}, {"season": 2019, "bets": 12, "w": 6}, {"season": 2020, "bets": 12, "w": 6}, {"season": 2021, "bets": 8, "w": 4}, {"season": 2022, "bets": 10, "w": 7}, {"season": 2023, "bets": 6, "w": 3}, {"season": 2024, "bets": 15, "w": 8}, {"season": 2025, "bets": 11, "w": 5}, {"season": 2026, "bets": 1, "w": 0}], "7": [{"season": 2010, "bets": 8, "w": 3}, {"season": 2011, "bets": 2, "w": 1}, {"season": 2012, "bets": 1, "w": 0}, {"season": 2013, "bets": 6, "w": 5}, {"season": 2016, "bets": 8, "w": 5}, {"season": 2017, "bets": 3, "w": 0}, {"season": 2018, "bets": 7, "w": 4}, {"season": 2019, "bets": 8, "w": 4}, {"season": 2020, "bets": 6, "w": 3}, {"season": 2021, "bets": 7, "w": 4}, {"season": 2022, "bets": 3, "w": 2}, {"season": 2023, "bets": 2, "w": 1}, {"season": 2024, "bets": 7, "w": 5}, {"season": 2025, "bets": 6, "w": 3}, {"season": 2026, "bets": 1, "w": 0}]}}, "maeTest": {"elo": 10.21, "eloqb": 10.14, "blend": 10.13, "spread_line": 9.8}, "trust": {"elo": 0.05, "eloqb": 0.12, "blend": 0.12}, "keyw": [0.111, 0.822, 0.828, 2.776, 0.974, 0.796, 1.336, 1.817, 0.883, 0.326, 1.181, 0.513, 0.458, 0.64, 1.459, 0.5, 0.801, 1.196, 0.942, 0.45, 0.909, 1.226, 0.606, 0.755, 1.461, 0.902, 0.779, 0.988, 1.665, 0.706, 0.743, 1.927, 0.897, 0.544, 1.44, 1.952, 0.079, 1.212, 2.1, 0.263, 1.259, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0], "blendCoef": [0.623, 0.841, 13.584], "feed": [], "xEnabled": false, "claudeEnabled": false};
+const BE = 110/210, SD = 13.5, KF = 0.25, NAMES={elo:'Elo only',eloqb:'Elo + QB',blend:'Blend + EPA'};
+let M = 'blend';
+const $ = id => document.getElementById(id);
+const fmt = n => (n>0?'+':'') + n.toFixed(1);
+function favLine(s, home, away){ if (Math.abs(s) < 0.05) return 'Pick'; return (s>0?home:away)+' -'+Math.abs(s).toFixed(1); }
+function erf(x){const t=1/(1+0.3275911*Math.abs(x));const y=1-(((((1.061405429*t-1.453152027)*t)+1.421413741)*t-0.284496736)*t+0.254829592)*t*Math.exp(-x*x);return x>=0?y:-y;}
+const Phi = z => 0.5*(1+erf(z/Math.SQRT2));
+const dec = o => 1 + (o>0 ? o/100 : 100/-o);
+// Margin distribution with key-number weights: P(home margin = k)
+function dist(m){ const p={}; let s=0;
+  for(let k=-60;k<=60;k++){ const v=(Phi((k+.5-m)/SD)-Phi((k-.5-m)/SD))*D.keyw[Math.min(Math.abs(k),60)]; p[k]=v; s+=v; }
+  for(const k in p) p[k]/=s; return p; }
+function outcome(p, line, home){ let w=0,push=0,l=0; // line: home favored by `line`
+  for(const k in p){ const x=+k; if (x===line) push+=p[k]; else if ((x>line)===home) w+=p[k]; else l+=p[k]; } return {w,push,l}; }
+// Market-implied center: the mean at which the market line is a true 50/50 (ignoring pushes)
+const _c={}; function center(L){ if(_c[L]!==undefined) return _c[L]; let lo=L-6, hi=L+6;
+  for(let i=0;i<40;i++){ const m=(lo+hi)/2, o=outcome(dist(m),L,true); if(o.w>o.l) hi=m; else lo=m; } return _c[L]=(lo+hi)/2; }
+function fmtTime(d,t){const dt=new Date(d+'T12:00:00');const day=dt.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
+  let [h,m]=t.split(':').map(Number);const ap=h>=12?'pm':'am';h=h%12||12;return day+'<br>'+h+(m?':'+String(m).padStart(2,'0'):'')+ap;}
+const injTxt = (arr,team) => arr.map(i=>`<span class="injnote">${team} ${i.pos} ${i.name}: ${i.status} (${i.snaps}% of snaps)</span>`).join('');
+
+$('title').innerHTML = `Week ${D.week}<small>${D.season} NFL model board: three models, key-number pricing</small>`;
+$('asof').textContent = new Date(D.asof+'T12:00:00').toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric'});
+
+const esc = s => String(s??'').replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function ago(iso){ if(!iso) return ''; const m=(Date.now()-new Date(iso))/60000; if(m<60) return Math.max(1,Math.round(m))+'m ago'; if(m<1440) return Math.round(m/60)+'h ago'; return Math.round(m/1440)+'d ago'; }
+function renderFeed(){
+  const F=D.feed||[];
+  $('srcline').textContent = `Updated ${new Date(D.updated||D.asof).toLocaleString('en-US',{weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})}. Sources: ESPN${D.xEnabled?', X insiders':' (X not connected yet)'}. Tagging: ${D.claudeEnabled?'Claude':'keyword rules (add a Claude key for better tagging)'}.`;
+  $('feed').innerHTML = F.length ? F.map(n=>`<article><div><span class="who">${esc(n.author)}</span><span class="when2">${n.source} ${ago(n.time)}</span></div>
+    <div><p>${n.url?`<a href="${n.url}" target="_blank" rel="noopener">${esc(n.text)}</a>`:esc(n.text)}</p>
+    <div style="margin-top:6px">${(n.teams||[]).map(x=>`<span class="tag">${x}</span>`).join('')}${n.status&&n.status!=='other'?`<span class="tag ${n.confirmed?'hot':''}">${esc(n.status)}${n.confirmed?'':' (unconfirmed)'}</span>`:''}</div></div></article>`).join('')
+    : '<p class="lede">No news collected yet. The feed fills in after the first scheduled run.</p>';
+}
+function setModel(m){ M=m; document.querySelectorAll('.seg button').forEach(b=>b.setAttribute('aria-pressed', b.dataset.m===m));
+  $('trust').value = D.trust[m]; render(); }
+document.querySelectorAll('.seg button').forEach(b=>b.addEventListener('click',()=>setModel(b.dataset.m)));
+
+function render(){
+  const th=+$('th').value, trust=+$('trust').value, bank=Math.max(0,+$('bank').value||0);
+  $('thOut').textContent = th+(th===1?' point':' points');
+  $('trustOut').textContent = Math.round(trust*100)+'%';
+  let nb=0, tot=0;
+  $('board').querySelector('tbody').innerHTML = D.games.map(g=>{
+    const model=g[M], edge=model-g.market, pickHome=edge>0, pick=pickHome?g.home:g.away, odds=pickHome?g.hodds:g.aodds;
+    const mEff = center(g.market) + trust*edge, P = dist(mEff), o = outcome(P, g.market, pickHome), b = dec(odds)-1;
+    const f = (o.w+o.l)>0 ? Math.max(0,(b*o.w-o.l)/(b*(o.w+o.l))) : 0, stake=Math.round(bank*KF*f);
+    const bet = Math.abs(edge)>=th && stake>0; if(bet){nb++;tot+=stake;}
+    // value of a half point better for the pick
+    const better = pickHome ? g.market-0.5 : g.market+0.5, o2 = outcome(P, better, pickHome);
+    const halfGain = (o2.w - o.w)*100;
+    const w = Math.min(Math.abs(edge),8)/8*50, bar = edge>=0?`left:50%;width:${w}%`:`left:${50-w}%;width:${w}%`;
+    const notes=[]; if(Math.abs(g.hqa)>=1) notes.push(`${g.hqb}: ${fmt(g.hqa)} pts for ${g.home}`); if(Math.abs(g.aqa)>=1) notes.push(`${g.aqb}: ${fmt(g.aqa)} pts for ${g.away}`);
+    const cell = k => `<td class="num"><span class="ml ${k===M?'on':''}">${favLine(g[k],g.home,g.away)}</span></td>`;
+    return `<tr class="${bet?'bet':''}">
+      <td class="when">${fmtTime(g.date,g.time)}</td>
+      <td><div class="match">${g.away}<span class="at">at</span>${g.home}</div><div class="qbs">${g.aqb} vs ${g.hqb}</div>
+        ${notes.map(n=>`<div class="qbnote">QB adjustment: ${n}</div>`).join('')}${injTxt(g.ainj,g.away)}${injTxt(g.hinj,g.home)}
+        ${(g.alerts||[]).map(a=>`<span class="alert">${esc(a)}</span>`).join('')}
+        ${(g.news||[]).length?`<div class="gnews">${g.news.slice(0,2).map(n=>`<div><b>${esc(n.author)}</b> ${ago(n.time)}: ${n.url?`<a href="${n.url}" target="_blank" rel="noopener">${esc(n.text)}</a>`:esc(n.text)}</div>`).join('')}</div>`:''}</td>
+      <td class="num line">${favLine(g.market,g.home,g.away)}</td>${cell('elo')}${cell('eloqb')}${cell('blend')}
+      <td class="edgecell"><div class="ebar" role="img" aria-label="${NAMES[M]} favors ${pick} by ${Math.abs(edge).toFixed(1)} points more than the market"><i style="${bar}"></i></div>
+        <div class="etxt">${Math.abs(edge).toFixed(1)} pts toward ${pick}</div></td>
+      <td class="line">${pick} <span style="color:var(--muted);font-weight:500;font-size:14px">${odds>0?'+':''}${odds}</span>
+        ${halfGain>=1.5?`<span class="half">Half point worth ${halfGain.toFixed(1)}%</span>`:''}</td>
+      <td class="num"><span class="pw">${(o.w*100).toFixed(1)}%</span><span class="pp">${o.push>=0.005?(o.push*100).toFixed(1)+'% push':''}</span></td>
+      <td class="num stake">${bet?'$'+stake:'Pass'}</td></tr>`; }).join('');
+  $('tally').textContent = nb ? `${NAMES[M]}: ${nb} bet${nb>1?'s':''} this week, $${tot} total at risk (${bank?(tot/bank*100).toFixed(1):0}% of bankroll).` : `${NAMES[M]}: no games clear your settings this week.`;
+
+  $('bt').innerHTML = [...Array(8).keys()].map(i=>{
+    const pc = m => { const r=D.back[m][i], p=r.w/(r.w+r.l); return `<td class="num ${p>=BE?'good':'bad'} ${m===M?'selcol':''}">${(p*100).toFixed(1)}%</td>`; };
+    const r=D.back[M][i]; return `<tr class="${i===th?'sel':''}"><td>${i}+ pts</td>${pc('elo')}${pc('eloqb')}${pc('blend')}<td class="num">${(r.w+r.l).toLocaleString()}</td></tr>`; }).join('');
+  $('seasonTitle').textContent = `Season by season, ${NAMES[M]}`;
+  const S=D.seasons[M][th]||[], lo=.35, hi=.70, y=v=>(Math.min(Math.max(v,lo),hi)-lo)/(hi-lo)*100;
+  $('seasons').innerHTML = `<div class="be" style="bottom:${y(BE)}%"><span>52.4% breakeven</span></div>`+S.map(s=>{const p=s.bets?s.w/s.bets:0;
+    return `<div class="c" title="${s.season}: ${s.w}-${s.bets-s.w} (${(p*100).toFixed(1)}%)"><i style="height:${y(p)}%;background:${p>=BE?'var(--home)':'var(--pick)'}"></i></div>`}).join('');
+  $('yrs').innerHTML = S.map(s=>`<span>'${String(s.season).slice(2)}</span>`).join('');
+  const r3=D.back[M][3], p3=r3.w/(r3.w+r3.l), rec=(D.seasons[M][3]||[]).filter(s=>s.season>=2020), rw=rec.reduce((a,s)=>a+s.w,0), rn=rec.reduce((a,s)=>a+s.bets,0);
+  $('verdict').innerHTML = `${NAMES[M]} at 3+ point edges: <b>${r3.w}-${r3.l} (${(p3*100).toFixed(1)}%)</b> since 2010, <b>${rw}-${rn-rw} (${(rw/rn*100).toFixed(1)}%)</b> since 2020. Breakeven is 52.4%. No proven edge yet.`;
+}
+const mx=Math.max(...D.power.map(p=>Math.abs(p.elo)));
+$('power').innerHTML = `<div class="prh"><span>Team</span><span></span><span>Elo</span><span>EPA</span></div>`+D.power.map(p=>{const w=Math.abs(p.elo)/mx*50;
+  const s=p.elo>=0?`left:50%;width:${w}%;background:var(--home)`:`left:${50-w}%;width:${w}%;background:var(--away)`;
+  return `<div class="prt"><span>${p.team}</span><span class="track"><i style="${s}"></i></span><span class="v">${fmt(p.elo)}</span><span class="v">${(p.epa>0?'+':'')+p.epa.toFixed(3)}</span></div>`}).join('');
+const T=D.maeTest, maes=[['Betting market',T.spread_line],['Blend + EPA',T.blend],['Elo + QB',T.eloqb],['Elo only',T.elo]];
+$('mae').innerHTML = maes.map(([n,v])=>`<div><span>${n}</span><i style="width:${(v-9.3)/1.1*100}%"></i><span>${v.toFixed(2)}</span></div>`).join('');
+['th','trust','bank'].forEach(id=>$(id).addEventListener('input',render));
+setModel('blend');
+if($('feed')) renderFeed();
+</script>
+</body>
+</html>

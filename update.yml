@@ -1,0 +1,40 @@
+name: Update NFL board
+
+on:
+  workflow_dispatch:            # "Run workflow" button for manual refreshes
+  schedule:                     # times are UTC; GitHub can start these 5 to 15 minutes late
+    - cron: "0 13 * * *"               # every morning (6am Pacific)
+    - cron: "0 21 * * 3,4,5"           # Wed-Fri afternoons, after practice and injury reports
+    - cron: "0 22 * * 1,4"             # Monday and Thursday before prime time
+    - cron: "*/20 14-19 * * 0"         # Sundays every 20 min, 10am to 3:40pm Eastern (inactives)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nfl-board
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Build board
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: python -m pipeline.build
+      - name: Save results
+        run: |
+          git config user.name "nfl-board-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs state
+          git diff --cached --quiet || git commit -m "Board update $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push

@@ -1,0 +1,7 @@
+nflreadpy
+pyarrow
+pandas
+numpy
+scipy
+requests
+anthropic
