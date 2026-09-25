@@ -1,0 +1,516 @@
+[
+ {
+  "id": "espn-dfeb06d913ab4",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-25T18:25:05.436Z",
+  "text": "Puka Nacua will not practice and will be listed as doubtful for the game against the Broncos. Sean McVay believes that, barring a setback, Nacua could return next week vs. the Eagles.",
+  "url": "https://www.espn.com/contributor/adam-schefter/dfeb06d913ab4",
+  "teams": [
+   "DEN",
+   "LA"
+  ],
+  "facts": {
+   "id": "espn-dfeb06d913ab4",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "doubtful",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-e567ce4b18623",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-25T15:17:58.96Z",
+  "text": "Another round: Cowboys TE Jake Ferguson was fined $13,611 for what the NFL said was his \u201cimitation of shotgunning a beer\u201d Sunday vs. Washington that \u201cconstituted an offensive demonstration and could reasonably could be construed as being in poor taste.\u201d",
+  "url": "https://www.espn.com/contributor/adam-schefter/e567ce4b18623",
+  "teams": [
+   "DAL",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espn-e567ce4b18623",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-021acaf15d4f8",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-25T15:06:20.961Z",
+  "text": "Five-time Pro-Bowl DE Nick Bosa pulled his calf during Thursday\u2019s practice and now is expected to miss \u201ca few weeks\u201d, including Sunday\u2019s game vs. the Cardinals, sources tell me and @RapSheet. The team is figuring out whether or not Bosa needs to be placed on injured reserve.",
+  "url": "https://www.espn.com/contributor/adam-schefter/021acaf15d4f8",
+  "teams": [
+   "SF",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espn-021acaf15d4f8",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-f9a88f667f9bc",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-09-25T15:06:01.12Z",
+  "text": "49ers Pro Bowl DE Nick Bosa suffered a calf injury in practice this week and is expected to miss a few weeks, per me and Adam Schefter. \n\nHe's out this week against the #AZCardinals and TBD on whether he lands on IR.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/f9a88f667f9bc",
+  "teams": [
+   "SF",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espn-f9a88f667f9bc",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-e1c765f53661c",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-25T13:31:07.457Z",
+  "text": "Commanders QB Jayden Daniels will not be placed on injured reserve, sources confirmed to @RapSheet and me. After imaging on his dislocated left elbow was evaluated and multiple specialists were consulted, the consensus is that Daniels now will be considered week-to-week. Both Daniels and the Commanders say they are aiming for him to return as soon as possible.",
+  "url": "https://www.espn.com/contributor/adam-schefter/e1c765f53661c",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espn-e1c765f53661c",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-2f7273cf63f6f",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-09-25T13:30:36.812Z",
+  "text": "Commanders QB Jayden Daniels will not be placed on IR, per me and Adam Schefter. \n\nAfter imaging was evaluated and multiple specialists were consulted this week, the consensus is Daniels is week-to-week and both WAS and Daniels are aiming for him to return as soon as possible.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/2f7273cf63f6f",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espn-2f7273cf63f6f",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-043f2e7b8617a",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-24T23:00:10.473Z",
+  "text": "For the second straight day, Rams WR Puka Nacua did not practice due to what the team is calling a hip injury.",
+  "url": "https://www.espn.com/contributor/adam-schefter/043f2e7b8617a",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espn-043f2e7b8617a",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-8e389ef085e6c",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-23T21:08:49.183Z",
+  "text": "Giants QB Jaxson Dart is out for the \u201cregular season,\u201d Giants HC John Harbaugh confirmed today. Harbaugh is holding out hope that Dart can return for the postseason if the Giants can advance there.",
+  "url": "https://www.espn.com/contributor/adam-schefter/8e389ef085e6c",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espn-8e389ef085e6c",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-b84880d32666f",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-23T20:37:52.736Z",
+  "text": "More Giants woes: OLB Brian Burns, who is dealing with an ankle injury and was not spotted on the practice field earlier today, is not expected to need surgery but is likely to miss some time, per source.",
+  "url": "https://www.espn.com/contributor/adam-schefter/b84880d32666f",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espn-b84880d32666f",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-0ce69238847c2",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-23T15:40:26.82Z",
+  "text": "Colts HC Shane Steichen told reporters that WR Alec Pierce is being placed on injured reserve due to his heel injury. Pierce now will miss a minimum of four games.",
+  "url": "https://www.espn.com/contributor/adam-schefter/0ce69238847c2",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espn-0ce69238847c2",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-c6ee53c0728e4",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-22T21:54:27.89Z",
+  "text": "Source: free-agent WR Brandin Cooks is signing with the 49ers practice squad, initially to get up to speed for games. It is year 13 for the former first-round pick from Oregon State who now is 189 yards short of 10,000 receiving yards for his NFL career.",
+  "url": "https://www.espn.com/contributor/adam-schefter/c6ee53c0728e4",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espn-c6ee53c0728e4",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-8819081a6db44",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-22T18:37:54.882Z",
+  "text": "Breaking: Further testing today revealed Giants QB Jaxson Dart\u2019s knee injury is worse than initially thought, and the team and Dart now are facing the possibility of season-ending knee surgery, sources tell ESPN.\n\nOf all the QB injuries suffered in Week 2, Dart\u2019s is turning  out to easily be the most significant.",
+  "url": "https://www.espn.com/contributor/adam-schefter/8819081a6db44",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espn-8819081a6db44",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-1419660d32f32",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-22T01:59:13.142Z",
+  "text": "Giants now have officially ruled out QB Jaxson Dart.",
+  "url": "https://www.espn.com/contributor/adam-schefter/1419660d32f32",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espn-1419660d32f32",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-1c5d190beee58",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-21T22:44:06.232Z",
+  "text": "Rams WR Puka Nacua officially is inactive tonight.",
+  "url": "https://www.espn.com/contributor/adam-schefter/1c5d190beee58",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espn-1c5d190beee58",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-29daf02aa2485",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-21T22:14:55.792Z",
+  "text": "Three-time Pro-Bowl tight end Zach Ertz, who played in Philadelphia from 2013-\u201821 and helped the team win its first Super Bowl, is returning to the city and signing with the Eagles practice squad, per sources. The Eagles lost TE Dallas Goedert to a sprained MCL and now are turning to Ertz, who spent the past two seasons in Washington.",
+  "url": "https://www.espn.com/contributor/adam-schefter/29daf02aa2485",
+  "teams": [
+   "PHI",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espn-29daf02aa2485",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-ea1607f7b16e6",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-21T20:31:32.889Z",
+  "text": "Falcons named Michael Penix Jr. their starting quarterback for Thursday's game in Green Bay.",
+  "url": "https://www.espn.com/contributor/adam-schefter/ea1607f7b16e6",
+  "teams": [
+   "GB",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espn-ea1607f7b16e6",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-016b7921c0eaf",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-21T19:06:35.216Z",
+  "text": "Commanders QB Marcus Mariota is expected to start Sunday vs. Seattle as Washington continues to gather more information about Jayden Daniels\u2019 dislocated left elbow.",
+  "url": "https://www.espn.com/contributor/adam-schefter/016b7921c0eaf",
+  "teams": [
+   "SEA",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espn-016b7921c0eaf",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-f1b9df40408c8",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-21T18:23:19.453Z",
+  "text": "Vikings HC Kevin O\u2019Connell said Kyler Murray has cleared concussion protocol and will start Sunday versus Tampa Bay.",
+  "url": "https://www.espn.com/contributor/adam-schefter/f1b9df40408c8",
+  "teams": [
+   "MIN",
+   "TB"
+  ],
+  "facts": {
+   "id": "espn-f1b9df40408c8",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "will start",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-f67c9608e4630",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-21T16:31:50.354Z",
+  "text": "Bears HC Ben Johnson told @ESPN1000 that he expects QB Caleb Williams to be \u201cweek to week\u201d with the hamstring injury that he suffered Sunday. Williams underwent an MRI this morning.",
+  "url": "https://www.espn.com/contributor/adam-schefter/f67c9608e4630",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espn-f67c9608e4630",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-e391753595bd0",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-21T00:08:05.233Z",
+  "text": "Commanders HC Dan Quinn said QB Jayden Daniels dislocated his left elbow. Daniels will undergo additional testing Monday.",
+  "url": "https://www.espn.com/contributor/adam-schefter/e391753595bd0",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espn-e391753595bd0",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-48b0add43fe8d",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-20T22:00:45.957Z",
+  "text": "Commanders QB Jayden Daniels was carted to the locker room with an apparent elbow injury.",
+  "url": "https://www.espn.com/contributor/adam-schefter/48b0add43fe8d",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espn-48b0add43fe8d",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-57ec2fe4167e4",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-20T19:58:48.604Z",
+  "text": "Bears say Caleb Williams, who was carted off today, suffered a hamstring injury.",
+  "url": "https://www.espn.com/contributor/adam-schefter/57ec2fe4167e4",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espn-57ec2fe4167e4",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-7d9d6ea397db4",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-19T18:44:03.16Z",
+  "text": "Rams HC Sean McVay said WR Puka Nacua will not practice today due to his hip injury and he will be listed as questionable for Monday night\u2019s game against the Giants.",
+  "url": "https://www.espn.com/contributor/adam-schefter/7d9d6ea397db4",
+  "teams": [
+   "NYG",
+   "LA"
+  ],
+  "facts": {
+   "id": "espn-7d9d6ea397db4",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "questionable",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-e92ec444b0487",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-18T20:00:37.807Z",
+  "text": "Texans ruled out WR Nico Collins for Sunday\u2019s game vs. the Bengals due to his hamstring injury.",
+  "url": "https://www.espn.com/contributor/adam-schefter/e92ec444b0487",
+  "teams": [
+   "HOU",
+   "CIN"
+  ],
+  "facts": {
+   "id": "espn-e92ec444b0487",
+   "team": "HOU",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ }
+]
