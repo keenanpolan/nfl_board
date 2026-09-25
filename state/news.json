@@ -1,5 +1,27 @@
 [
  {
+  "id": "espn-91525a2650230",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-25T20:26:25.248Z",
+  "text": "Seahawks QB Sam Darnold is off the injury report for Sunday\u2019s game at Washington and is good to go.",
+  "url": "https://www.espn.com/contributor/adam-schefter/91525a2650230",
+  "teams": [
+   "SEA",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espn-91525a2650230",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espn-dfeb06d913ab4",
   "source": "ESPN",
   "author": "Adam Schefter",
@@ -488,28 +510,6 @@
    "status": "questionable",
    "starting_qb": null,
    "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-e92ec444b0487",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-18T20:00:37.807Z",
-  "text": "Texans ruled out WR Nico Collins for Sunday\u2019s game vs. the Bengals due to his hamstring injury.",
-  "url": "https://www.espn.com/contributor/adam-schefter/e92ec444b0487",
-  "teams": [
-   "HOU",
-   "CIN"
-  ],
-  "facts": {
-   "id": "espn-e92ec444b0487",
-   "team": "HOU",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
    "summary": null
   }
  }
