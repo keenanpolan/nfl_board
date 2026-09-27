@@ -1,5 +1,91 @@
 [
  {
+  "id": "espn-332e3211b309d",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-09-27T12:08:47.692Z",
+  "text": "Bears QB Caleb Williams, dealing with a Grade 2 hamstring strain, was given a 3-4 week recovery timeline, sources tell me and Adam Schefter.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/332e3211b309d",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espn-332e3211b309d",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-bf4de4450d1d4",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-27T12:06:34.639Z",
+  "text": "Chicago Bears quarterback Caleb Williams has a Grade 2 hamstring injury that doctors consider a three-to-four-week injury, league sources told me and @RapSheet.",
+  "url": "https://www.espn.com/contributor/adam-schefter/bf4de4450d1d4",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espn-bf4de4450d1d4",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-ba70ed93a37b7",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-26T20:27:46.269Z",
+  "text": "Source: With a high-ankle sprain, Broncos RB Jonah Coleman now will miss the next few games and be placed on short-term injured reserve today.\n\nColeman is expected back for the Broncos\u2019 game against the Cardinals in late October.",
+  "url": "https://www.espn.com/contributor/adam-schefter/ba70ed93a37b7",
+  "teams": [
+   "DEN",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espn-ba70ed93a37b7",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-0839804beae50",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-26T18:53:49.282Z",
+  "text": "Bears officially have ruled out Caleb Williams for Monday night\u2019s game vs. the Eagles.\n\nTyson Bagent is questionable.",
+  "url": "https://www.espn.com/contributor/adam-schefter/0839804beae50",
+  "teams": [
+   "CHI",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espn-0839804beae50",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
   "id": "espn-91525a2650230",
   "source": "ESPN",
   "author": "Adam Schefter",
@@ -486,28 +572,6 @@
    "player": null,
    "position": null,
    "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-7d9d6ea397db4",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-19T18:44:03.16Z",
-  "text": "Rams HC Sean McVay said WR Puka Nacua will not practice today due to his hip injury and he will be listed as questionable for Monday night\u2019s game against the Giants.",
-  "url": "https://www.espn.com/contributor/adam-schefter/7d9d6ea397db4",
-  "teams": [
-   "NYG",
-   "LA"
-  ],
-  "facts": {
-   "id": "espn-7d9d6ea397db4",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "questionable",
    "starting_qb": null,
    "confirmed": false,
    "summary": null
