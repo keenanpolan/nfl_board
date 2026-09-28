@@ -1,5 +1,48 @@
 [
  {
+  "id": "espn-3eaaf59626ce3",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-09-28T11:47:01.283Z",
+  "text": "Giants star pass-rusher Brian Burns is believed to have suffered a torn ACL, sources tell me and Adam Schefter.\n\nBurns, who played Sunday through ankle pain, now has a major knee injury. A significant loss.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/3eaaf59626ce3",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espn-3eaaf59626ce3",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-71c7442d89e60",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-28T11:46:45.535Z",
+  "text": "Giants standout pass rusher Brian Burns is believed to have torn his ACL during Sunday\u2019s win over the Titans, sources tell @rapsheet and me. Burns entered Sunday\u2019s game with an ankle injury, then hurt his knee.",
+  "url": "https://www.espn.com/contributor/adam-schefter/71c7442d89e60",
+  "teams": [
+   "NYG",
+   "TEN"
+  ],
+  "facts": {
+   "id": "espn-71c7442d89e60",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espn-332e3211b309d",
   "source": "ESPN",
   "author": "Ian Rapoport",
@@ -505,69 +548,6 @@
   ],
   "facts": {
    "id": "espn-f67c9608e4630",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-e391753595bd0",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-21T00:08:05.233Z",
-  "text": "Commanders HC Dan Quinn said QB Jayden Daniels dislocated his left elbow. Daniels will undergo additional testing Monday.",
-  "url": "https://www.espn.com/contributor/adam-schefter/e391753595bd0",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espn-e391753595bd0",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-48b0add43fe8d",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-20T22:00:45.957Z",
-  "text": "Commanders QB Jayden Daniels was carted to the locker room with an apparent elbow injury.",
-  "url": "https://www.espn.com/contributor/adam-schefter/48b0add43fe8d",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espn-48b0add43fe8d",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-57ec2fe4167e4",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-20T19:58:48.604Z",
-  "text": "Bears say Caleb Williams, who was carted off today, suffered a hamstring injury.",
-  "url": "https://www.espn.com/contributor/adam-schefter/57ec2fe4167e4",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espn-57ec2fe4167e4",
    "team": "CHI",
    "player": null,
    "position": null,
