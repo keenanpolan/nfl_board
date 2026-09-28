@@ -1,5 +1,134 @@
 [
  {
+  "id": "espn-d760fcb8dcf65",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-09-28T18:58:59.026Z",
+  "text": "Jets star RB Breece Hall, who suffered a quad injury in Sunday\u2019s game, is considered week-to-week, per me and Adam Schefter. \n\nHall received some good news after the MRI, as the injury isn\u2019t as significant as feared.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/d760fcb8dcf65",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espn-d760fcb8dcf65",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-c4823194b197e",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-28T16:31:02.22Z",
+  "text": "#Buccaneers HC Todd Bowles said QB Baker Mayfield will miss three weeks due to his thumb injury.",
+  "url": "https://www.espn.com/contributor/adam-schefter/c4823194b197e",
+  "teams": [
+   "TB"
+  ],
+  "facts": {
+   "id": "espn-c4823194b197e",
+   "team": "TB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-475dbe33942c5",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-09-28T16:11:36.724Z",
+  "text": "\ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \n\nThe Giants are trading for Vikings former first-round QB JJ McCarthy, per me, Adam Schefter and Mike Garafolo.\n\nWith Jaxson Dart out for the regular season, NYG acquires McCarthy to help solidify their room. An intriguing add.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/475dbe33942c5",
+  "teams": [
+   "NYG",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espn-475dbe33942c5",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-3390e9062cd63",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-28T16:08:56.997Z",
+  "text": "Trade: Vikings are sending J.J. McCarthy to the New York Giants, sources tell me, @rapsheet and @mikegarafolo.",
+  "url": "https://www.espn.com/contributor/adam-schefter/3390e9062cd63",
+  "teams": [
+   "NYG",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espn-3390e9062cd63",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-ea8305121bd04",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-09-28T14:31:10.144Z",
+  "text": "Dolphins star RB De\u2019Von Achane suffered a torn ACL, sources tell me and Adam Schefter, and he\u2019s out for the season.\n\nIn an already trying season for Miami, the team loses Achane.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/ea8305121bd04",
+  "teams": [
+   "MIA"
+  ],
+  "facts": {
+   "id": "espn-ea8305121bd04",
+   "team": "MIA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-ba45050c8dafe",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-28T14:30:44.378Z",
+  "text": "Dolphins RB De\u2019Von Achane suffered a torn ACL during Sunday\u2019s loss to the Chiefs and will be out for the season, sources tell @rapsheet and me.",
+  "url": "https://www.espn.com/contributor/adam-schefter/ba45050c8dafe",
+  "teams": [
+   "KC",
+   "MIA"
+  ],
+  "facts": {
+   "id": "espn-ba45050c8dafe",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espn-3eaaf59626ce3",
   "source": "ESPN",
   "author": "Ian Rapoport",
@@ -462,93 +591,6 @@
   "facts": {
    "id": "espn-29daf02aa2485",
    "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-ea1607f7b16e6",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-21T20:31:32.889Z",
-  "text": "Falcons named Michael Penix Jr. their starting quarterback for Thursday's game in Green Bay.",
-  "url": "https://www.espn.com/contributor/adam-schefter/ea1607f7b16e6",
-  "teams": [
-   "GB",
-   "ATL"
-  ],
-  "facts": {
-   "id": "espn-ea1607f7b16e6",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-016b7921c0eaf",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-21T19:06:35.216Z",
-  "text": "Commanders QB Marcus Mariota is expected to start Sunday vs. Seattle as Washington continues to gather more information about Jayden Daniels\u2019 dislocated left elbow.",
-  "url": "https://www.espn.com/contributor/adam-schefter/016b7921c0eaf",
-  "teams": [
-   "SEA",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espn-016b7921c0eaf",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-f1b9df40408c8",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-21T18:23:19.453Z",
-  "text": "Vikings HC Kevin O\u2019Connell said Kyler Murray has cleared concussion protocol and will start Sunday versus Tampa Bay.",
-  "url": "https://www.espn.com/contributor/adam-schefter/f1b9df40408c8",
-  "teams": [
-   "MIN",
-   "TB"
-  ],
-  "facts": {
-   "id": "espn-f1b9df40408c8",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "will start",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espn-f67c9608e4630",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-21T16:31:50.354Z",
-  "text": "Bears HC Ben Johnson told @ESPN1000 that he expects QB Caleb Williams to be \u201cweek to week\u201d with the hamstring injury that he suffered Sunday. Williams underwent an MRI this morning.",
-  "url": "https://www.espn.com/contributor/adam-schefter/f67c9608e4630",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espn-f67c9608e4630",
-   "team": "CHI",
    "player": null,
    "position": null,
    "status": "other",
