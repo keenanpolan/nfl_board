@@ -1,5 +1,26 @@
 [
  {
+  "id": "espn-1dac01b2014aa",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-29T01:20:56.987Z",
+  "text": "Eagles QB Jalen Hurts was evaluated for a concussion and cleared to return.",
+  "url": "https://www.espn.com/contributor/adam-schefter/1dac01b2014aa",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espn-1dac01b2014aa",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espn-d760fcb8dcf65",
   "source": "ESPN",
   "author": "Ian Rapoport",
@@ -527,70 +548,6 @@
   "facts": {
    "id": "espn-8819081a6db44",
    "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-1419660d32f32",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-22T01:59:13.142Z",
-  "text": "Giants now have officially ruled out QB Jaxson Dart.",
-  "url": "https://www.espn.com/contributor/adam-schefter/1419660d32f32",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espn-1419660d32f32",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espn-1c5d190beee58",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-21T22:44:06.232Z",
-  "text": "Rams WR Puka Nacua officially is inactive tonight.",
-  "url": "https://www.espn.com/contributor/adam-schefter/1c5d190beee58",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espn-1c5d190beee58",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-29daf02aa2485",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-21T22:14:55.792Z",
-  "text": "Three-time Pro-Bowl tight end Zach Ertz, who played in Philadelphia from 2013-\u201821 and helped the team win its first Super Bowl, is returning to the city and signing with the Eagles practice squad, per sources. The Eagles lost TE Dallas Goedert to a sprained MCL and now are turning to Ertz, who spent the past two seasons in Washington.",
-  "url": "https://www.espn.com/contributor/adam-schefter/29daf02aa2485",
-  "teams": [
-   "PHI",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espn-29daf02aa2485",
-   "team": "PHI",
    "player": null,
    "position": null,
    "status": "other",
