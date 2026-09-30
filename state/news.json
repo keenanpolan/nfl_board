@@ -1,5 +1,69 @@
 [
  {
+  "id": "espn-f8e27825adef5",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-30T20:51:28.353Z",
+  "text": "Rams HC Sean McVay told reporters that he expects WR Puka Nacua, who has had a groin injury, to play Sunday vs. the Eagles.",
+  "url": "https://www.espn.com/contributor/adam-schefter/f8e27825adef5",
+  "teams": [
+   "PHI",
+   "LA"
+  ],
+  "facts": {
+   "id": "espn-f8e27825adef5",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-16d3e6bdb0352",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-30T15:52:06.135Z",
+  "text": "Packers are placing WR Jayden Reed on injured reserve due to his neck injury, per sources. Reed is out indefinitely if not for the season as he continues his recovery. He posted on IG today, \u201c11 out.\u201d",
+  "url": "https://www.espn.com/contributor/adam-schefter/16d3e6bdb0352",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espn-16d3e6bdb0352",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-fac049bb45426",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-09-30T13:22:39.585Z",
+  "text": "More offensive line help: Veteran guard Kevin Zeitler, who has played 14 NFL seasons, is signing a one-year deal with the Green Bay Packers, per sources. This week, the Packers now have added veteran offensive linemen Zeitler, Laken Tomlinson and Mekhi Becton.",
+  "url": "https://www.espn.com/contributor/adam-schefter/fac049bb45426",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espn-fac049bb45426",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espn-1dac01b2014aa",
   "source": "ESPN",
   "author": "Adam Schefter",
@@ -448,69 +512,6 @@
    "status": "other",
    "starting_qb": null,
    "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-8e389ef085e6c",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-23T21:08:49.183Z",
-  "text": "Giants QB Jaxson Dart is out for the \u201cregular season,\u201d Giants HC John Harbaugh confirmed today. Harbaugh is holding out hope that Dart can return for the postseason if the Giants can advance there.",
-  "url": "https://www.espn.com/contributor/adam-schefter/8e389ef085e6c",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espn-8e389ef085e6c",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-b84880d32666f",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-23T20:37:52.736Z",
-  "text": "More Giants woes: OLB Brian Burns, who is dealing with an ankle injury and was not spotted on the practice field earlier today, is not expected to need surgery but is likely to miss some time, per source.",
-  "url": "https://www.espn.com/contributor/adam-schefter/b84880d32666f",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espn-b84880d32666f",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-0ce69238847c2",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-23T15:40:26.82Z",
-  "text": "Colts HC Shane Steichen told reporters that WR Alec Pierce is being placed on injured reserve due to his heel injury. Pierce now will miss a minimum of four games.",
-  "url": "https://www.espn.com/contributor/adam-schefter/0ce69238847c2",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espn-0ce69238847c2",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
    "summary": null
   }
  }
