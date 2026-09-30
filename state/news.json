@@ -513,47 +513,5 @@
    "confirmed": true,
    "summary": null
   }
- },
- {
-  "id": "espn-c6ee53c0728e4",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-22T21:54:27.89Z",
-  "text": "Source: free-agent WR Brandin Cooks is signing with the 49ers practice squad, initially to get up to speed for games. It is year 13 for the former first-round pick from Oregon State who now is 189 yards short of 10,000 receiving yards for his NFL career.",
-  "url": "https://www.espn.com/contributor/adam-schefter/c6ee53c0728e4",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espn-c6ee53c0728e4",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-8819081a6db44",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-22T18:37:54.882Z",
-  "text": "Breaking: Further testing today revealed Giants QB Jaxson Dart\u2019s knee injury is worse than initially thought, and the team and Dart now are facing the possibility of season-ending knee surgery, sources tell ESPN.\n\nOf all the QB injuries suffered in Week 2, Dart\u2019s is turning  out to easily be the most significant.",
-  "url": "https://www.espn.com/contributor/adam-schefter/8819081a6db44",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espn-8819081a6db44",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
  }
 ]
