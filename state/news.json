@@ -1,5 +1,91 @@
 [
  {
+  "id": "espnnews-50079218",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-01T22:03:15Z",
+  "text": "Joey Porter Jr. calls trade to Cowboys 'unreal'. Joey Porter Jr. calls trade to Cowboys 'unreal'",
+  "url": "https://www.espn.com/video/clip/_/id/50079218/joey-porter-jr-calls-trade-cowboys-unreal",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50079218",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50079466",
+  "source": "ESPN",
+  "author": "Todd Archer",
+  "time": "2026-10-01T21:59:16Z",
+  "text": "Joey Porter happy for fresh start with Cowboys, eyes Sunday debut. Joey Porter Jr. says he hopes to make his debut for the Cowboys on Sunday, when they play the Texans.",
+  "url": "https://www.espn.com/nfl/story/_/id/50079466/joey-porter-happy-fresh-start-cowboys-eyes-sunday-debut",
+  "teams": [
+   "DAL",
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50079466",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50079538",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-01T21:40:19Z",
+  "text": "Jaguars will take 'goldfish mentality' in defending Ja'Marr Chase. Michael DiRocco details Liam Coen's approach to slowing down Bengals star WR Ja'Marr Chase.",
+  "url": "https://www.espn.com/video/clip/_/id/50079538/jaguars-take-goldfish-mentality-defending-jamarr-chase",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50079538",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50079368",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-01T21:15:33Z",
+  "text": "Jalen Hurts challenges underdog Eagles to find out who they are ahead of matchup with Rams. \u2014 Jalen Hurts isn't used to losing much with the Philadelphia Eagles \u2014 only 16 times since 2022 \u2014 and he certainly isn't used to getting embarrassed.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401872970",
+  "teams": [
+   "PHI",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50079368",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50079185",
   "source": "ESPN",
   "author": "Katherine Terrell",
