@@ -1,5 +1,798 @@
 [
  {
+  "id": "espnnews-50069588",
+  "source": "ESPN",
+  "author": "Eric Karabell",
+  "time": "2026-10-02T12:58:46Z",
+  "text": "Don't be surprised if ... these three hot starters continue to shine all season. Don't be surprised if a few early stars stay hot, and if a slow-starting QB enjoys a big Week 4.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50069588/fantasy-football-start-sit-sleepers-breakouts-week-4",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50069588",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50069246",
+  "source": "ESPN",
+  "author": "Matt Bowen",
+  "time": "2026-10-02T12:50:56Z",
+  "text": "Fantasy football last-minute pickups for Week 4: Raymond, Allen, Waller among top options. If injuries or tough matchups have you seeking help, Matt Bowen provides options at each key position.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50069246/fantasy-football-streamers-last-minute-pickups-week-4",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50069246",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50084241",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-02T12:48:06Z",
+  "text": "'Get Up' crew divided over Aaron Rodgers' angry exchange with Mike McCarthy. 'Get Up' crew divided over Aaron Rodgers' angry exchange with Mike McCarthy",
+  "url": "https://www.espn.com/video/clip/_/id/50084241/get-crew-divided-aaron-rodgers-angry-exchange-mike-mccarthy",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50084241",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50084137",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-02T12:41:29Z",
+  "text": "Donte Whitner: 'The Cleveland Browns are contenders this year!'. Donte Whitner: 'The Cleveland Browns are contenders this year!'",
+  "url": "https://www.espn.com/video/clip/_/id/50084137/cleveland-browns-contenders-year",
+  "teams": [
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50084137",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50082783",
+  "source": "ESPN",
+  "author": "Brooke Pryor",
+  "time": "2026-10-02T12:36:30Z",
+  "text": "Steelers' McCarthy regrets angry exchange with Rodgers in loss. Steelers coach Mike McCarthy said he regretted directing a profanity toward quarterback Aaron Rodgers during a heated exchange that was caught on the broadcast of Thursday's 27-24 loss to the Browns.",
+  "url": "https://www.espn.com/nfl/story/_/id/50082783/steelers-mccarthy-regrets-angry-exchange-rodgers-loss",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50082783",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50084140",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-02T12:36:09Z",
+  "text": "Mike McCarthy regrets angry exchange with Aaron Rodgers. Mike McCarthy regrets angry exchange with Aaron Rodgers",
+  "url": "https://www.espn.com/video/clip/_/id/50084140/mike-mccarthy-regrets-angry-exchange-aaron-rodgers",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50084140",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50082906",
+  "source": "ESPN",
+  "author": "Daniel Oyefusi",
+  "time": "2026-10-02T12:08:05Z",
+  "text": "Watson leads third straight winning drive, puts Browns atop North. Deshaun Watson has the Browns atop the division at 3-1 after directing a winning drive for the third straight game Thursday night in a 27-24 win over the Steelers.",
+  "url": "https://www.espn.com/nfl/story/_/id/50082906/watson-leads-third-straight-winning-drive-puts-browns-atop-north",
+  "teams": [
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50082906",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50078089",
+  "source": "ESPN",
+  "author": "Nate Taylor",
+  "time": "2026-10-02T11:51:17Z",
+  "text": "Patrick Mahomes, Chiefs have rediscovered the deep pass. Much improved from last season, Mahomes has completed eight of 14 attempts on passes traveling at least 15 yards in 2026.",
+  "url": "https://www.espn.com/nfl/story/_/id/50078089/mahomes-chiefs-deep-passes-rashee-rice-xavier-worthy",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50078089",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50079473",
+  "source": "ESPN",
+  "author": "Brooke Pryor and Daniel Oyefusi",
+  "time": "2026-10-02T11:49:24Z",
+  "text": "Browns best Steelers on TNF to take lead in AFC North. The Browns move to 3-1 while adding to Pittsburgh's historic five-year futility in Cleveland.",
+  "url": "https://www.espn.com/nfl/story/_/id/50079473/cleveland-browns-pittsburgh-steelers-week-4-tnf",
+  "teams": [
+   "CLE",
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50079473",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49745176",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-10-02T10:51:41Z",
+  "text": "2026 NFL playoff picture: AFC, NFC seed projections, chances. We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+  "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49745176",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49794361",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-10-02T10:51:10Z",
+  "text": "2027 NFL draft order projections for Round 1, top pick, more. ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+  "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+  "teams": [
+   "ARI",
+   "ATL",
+   "BAL",
+   "BUF",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "HOU",
+   "JAX",
+   "KC",
+   "LV",
+   "LAC",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SF",
+   "SEA",
+   "TB",
+   "TEN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-49794361",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49965396",
+  "source": "ESPN",
+  "author": "Eric Moody",
+  "time": "2026-10-02T10:46:47Z",
+  "text": "Fantasy football: Live Week 4 Q&A with our expert, noon ET. ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49965396/fantasy-football-start-sit-lineup-advice-week",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49965396",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50067784",
+  "source": "ESPN",
+  "author": "NFL Nation, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
+  "time": "2026-10-02T10:46:25Z",
+  "text": "NFL Week 4 preview: Picks, predictions, schedule, betting odds, fantasy tips. Trevor Lawrence vs. Joe Burrow? New England looking to bounce back? There are 15 more games in Week 4, and we have picks, predictions and more for all of them.",
+  "url": "https://www.espn.com/nfl/story/_/id/50067784/week-4-picks-predictions-schedule-fantasy-odds-2026",
+  "teams": [
+   "NYG",
+   "DET",
+   "TB",
+   "ATL",
+   "PIT",
+   "NYJ",
+   "BUF",
+   "CIN",
+   "CLE",
+   "MIA",
+   "IND",
+   "LV",
+   "NE",
+   "ARI",
+   "NO",
+   "CAR",
+   "JAX",
+   "TEN",
+   "DEN",
+   "SF",
+   "SEA",
+   "LA",
+   "MIN",
+   "DAL",
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50067784",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50077631",
+  "source": "ESPN",
+  "author": "Adam Rank",
+  "time": "2026-10-02T10:43:25Z",
+  "text": "What to know before setting your lineup for Week 4: Mariota, Tuten in store for breakout week. Adam Rank catches you up on the vital information and insight needed to make tough lineup decisions in Week 4.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50077631/fantasy-football-start-sit-week-4-need-know",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50077631",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50077145",
+  "source": "ESPN",
+  "author": "Dan Graziano",
+  "time": "2026-10-02T10:31:28Z",
+  "text": "2026 NFL trade deadline early look: Candidates to move, key teams, predictions. Could the Cardinals listen on Marvin Harrison Jr. or Josh Sweat? Will the Bears or Raiders be active? Here's our way-too-early preview of the Nov. 10 trade deadline.",
+  "url": "https://www.espn.com/nfl/story/_/id/50077145/2026-trade-deadline-early-look-players-teams-predictions",
+  "teams": [
+   "ARI",
+   "LAC",
+   "PIT",
+   "TEN",
+   "GB",
+   "MIA",
+   "WAS",
+   "CLE",
+   "LV",
+   "CHI",
+   "PHI",
+   "DET",
+   "LA",
+   "JAX",
+   "KC",
+   "DAL",
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50077145",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50077206",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-10-02T10:00:21Z",
+  "text": "Greg Rousseau's sacks, Josh Allen's rushing TDs are on record paces. With multiple sacks and rushing TDs, Rousseau and Allen are on cusp of streaks no one else has done.",
+  "url": "https://www.espn.com/nfl/story/_/id/50077206/greg-rousseau-josh-allen-record-pace",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50077206",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50079470",
+  "source": "ESPN",
+  "author": "Michael DiRocco",
+  "time": "2026-10-02T10:00:12Z",
+  "text": "Is Brian Thomas Jr.'s playing time being impacted by an emerging Jaguars rookie?. Thomas was targeted just once in Week 3. Will he rebound against the Bengals, or will other Jaguars pass catchers get all the work?",
+  "url": "https://www.espn.com/nfl/story/_/id/50079470/jaguars-wr-brian-thomas-jr-josh-cameron",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50079470",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50077823",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-10-02T10:00:11Z",
+  "text": "Kyler Murray's future with Vikings: Clock's already ticking. Murray is on a one-year deal with a no-tag clause, so every game counts as both sides assess their future.",
+  "url": "https://www.espn.com/nfl/story/_/id/50077823/kyler-murray-jj-mccarthy-vikings",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50077823",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50077952",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-10-02T10:00:02Z",
+  "text": "Have the Rams improved special teams enough to make a difference?. The Rams will get a chance to see how effective such changes have been when they travel to Philly this weekend.",
+  "url": "https://www.espn.com/nfl/story/_/id/50077952/los-angeles-rams-improved-special-teams-enough",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50077952",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50082143",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-02T05:54:28Z",
+  "text": "Watson leads another game-winning drive, Szmyt hits 56-yard FG and Browns beat Steelers 27-24. \u2014 Deshaun Watson and the Cleveland Browns are developing a knack for coming up big in the fourth quarter.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872964",
+  "teams": [
+   "CLE",
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50082143",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50028072",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-02T04:50:48Z",
+  "text": "NFL Week 4 betting: Odds, lines and totals for every game. A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals",
+  "teams": [
+   "ARI",
+   "ATL",
+   "BAL",
+   "BUF",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "GB",
+   "HOU",
+   "IND",
+   "JAX",
+   "KC",
+   "LV",
+   "LAC",
+   "LA",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SF",
+   "SEA",
+   "TB",
+   "TEN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50028072",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50078973",
+  "source": "ESPN",
+  "author": "Daniel Oyefusi and Brooke Pryor",
+  "time": "2026-10-02T04:01:01Z",
+  "text": "Steelers-Browns on TNF Week 4: Highlights, key plays. Look back at the biggest TDs and highlights from Thursday night's Browns win over AFC North rival Steelers.",
+  "url": "https://www.espn.com/nfl/story/_/id/50078973/nfl-week-4-steelers-browns-top-plays-tnf",
+  "teams": [
+   "CLE",
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50078973",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50082179",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-02T04:00:17Z",
+  "text": "Browns fend off Steelers' late surge to prevail on TNF. Browns fend off Steelers' late surge to prevail on TNF",
+  "url": "https://www.espn.com/video/clip/_/id/50082179/browns-fend-steelers-late-surge-prevail-tnf",
+  "teams": [
+   "PIT",
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50082179",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50081421",
+  "source": "ESPN",
+  "author": "Daniel Oyefusi",
+  "time": "2026-10-02T03:51:38Z",
+  "text": "Browns DT Mason Graham leaves game with knee injury. Cleveland Browns defensive tackle Mason Graham has been ruled out for the remainder of Thursday night's home game against the Pittsburgh Steelers because of a knee injury.",
+  "url": "https://www.espn.com/nfl/story/_/id/50081421/browns-dt-mason-graham-leaves-game-knee-injury",
+  "teams": [
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50081421",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50081470",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-02T02:30:33Z",
+  "text": "Falcons and Saints renew their longstanding rivalry as each seek early season momentum. \u2014 Long-time Saints defensive end Cameron Jordan can be counted on to echo the sentiments of many New Orleans fans whenever the rival Atlanta Falcons are next on the schedule.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401872979",
+  "teams": [
+   "NO",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50081470",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50080246",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-02T00:06:29Z",
+  "text": "Colts and Commanders try to build on Week 3 wins when they face each other in London. Last November, the Indianapolis Colts went to Europe and came home with an 8-2 record. They'd beaten Atlanta in Berlin and seemed on a glide...",
+  "url": "http://www.espn.com/nfl/preview?gameId=401872965",
+  "teams": [
+   "WAS",
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50080246",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50079780",
+  "source": "ESPN",
+  "author": "ESPN Staff",
+  "time": "2026-10-01T23:21:46Z",
+  "text": "NFL Week 4's best arrivals, led by Cleveland Browns mascot. NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+  "url": "https://www.espn.com/nfl/story/_/id/50079780/nfl-week-4-fashionable-arrivals",
+  "teams": [
+   "GB",
+   "ATL",
+   "KC",
+   "NYG",
+   "CLE",
+   "LAC",
+   "IND",
+   "CAR",
+   "TEN",
+   "PIT",
+   "HOU",
+   "WAS",
+   "BAL",
+   "MIN",
+   "TB",
+   "LV",
+   "NO",
+   "ARI",
+   "DAL",
+   "PHI",
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50079780",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50079926",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-01T23:01:30Z",
+  "text": "Brian Flores and his dominant Vikings defense take on the winless Dolphins, the team he once coached. \u2014 Brian Flores has become one of the most impactful and prominent assistant coaches in the ",
+  "url": "http://www.espn.com/nfl/preview?gameId=401872974",
+  "teams": [
+   "MIN",
+   "MIA"
+  ],
+  "facts": {
+   "id": "espnnews-50079926",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50079893",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-01T22:53:30Z",
+  "text": "Burrow seeks to stay unbeaten vs Lawrence as Bengals host Jaguars in matchup of 2-1 teams. Joe Burrow has gotten the better of Trevor Lawrence whenever their teams have met.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401872969",
+  "teams": [
+   "CIN",
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50079893",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50079891",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-01T22:51:31Z",
+  "text": "Henry is on Baltimore's side now as the Ravens host the Titans in a series where road teams flourish. \u2014 The last two times the Tennessee Titans played at Baltimore were in 2020. Derrick Henry was on their side then, and boy was he decisive.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401872973",
+  "teams": [
+   "BAL",
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50079891",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50079739",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-10-01T22:45:45Z",
+  "text": "Minkah Fitzpatrick healthy, ready to rejoin Jets. vs. Bears. After suffering a groin injury in Week 1, Minkah Fitzpatrick said he will be back on the field with the Jets on Sunday against the Bears.",
+  "url": "https://www.espn.com/nfl/story/_/id/50079739/minkah-fitzpatrick-healthy-ready-rejoin-jets-vs-bears",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50079739",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50079855",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-01T22:43:45Z",
+  "text": "Panthers defense looks to slow down Jared Goff and the Lions while missing both starting cornerbacks. \u2014 The Carolina Panthers found themselves in a precarious position last November, facing a red hot Matthew Stafford without three defensive starters, including standout cornerback Jaycee Horn.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401872978",
+  "teams": [
+   "CAR",
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50079855",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50079218",
   "source": "ESPN",
   "author": "ESPN",
@@ -1673,27 +2466,6 @@
    "status": "injured reserve",
    "starting_qb": null,
    "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espn-043f2e7b8617a",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-24T23:00:10.473Z",
-  "text": "For the second straight day, Rams WR Puka Nacua did not practice due to what the team is calling a hip injury.",
-  "url": "https://www.espn.com/contributor/adam-schefter/043f2e7b8617a",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espn-043f2e7b8617a",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
    "summary": null
   }
  }
