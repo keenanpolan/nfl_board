@@ -1,5 +1,376 @@
 [
  {
+  "id": "espnnews-50102925",
+  "source": "ESPN",
+  "author": "Stephen Holder",
+  "time": "2026-10-04T21:20:36Z",
+  "text": "Despite Daniel Jones' struggles, Colts win second straight. Jones has lost three fumbles over the past two weeks, but the Colts won both games.",
+  "url": "https://www.espn.com/nfl/story/_/id/50102925/colts-daniel-jones-turnovers-win",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50102925",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50103615",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T21:02:19Z",
+  "text": "Dallas Cowboys vs. Houston Texans: Game Highlights. Dallas Cowboys vs. Houston Texans: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50103615/game-highlights",
+  "teams": [
+   "DAL",
+   "HOU"
+  ],
+  "facts": {
+   "id": "espnnews-50103615",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50102350",
+  "source": "ESPN",
+  "author": "Rob Demovsky",
+  "time": "2026-10-04T21:00:09Z",
+  "text": "Packers' Edgerrin Cooper believed to have torn Achilles. Packers linebacker Edgerrin Cooper suffered what is expected be a season-ending Achilles tear during the third quarter of Sunday's 17-14 win over the Buccaneers.",
+  "url": "https://www.espn.com/nfl/story/_/id/50102350/packers-edgerrin-cooper-hurts-achilles-carted-vs-bucs",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50102350",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50103645",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:59:30Z",
+  "text": "Maye overcomes his two turnovers with 3 TD passes in Patriots' 29-26 win over Bills. \u2014 Drake Maye threw three touchdown passes, including Efton Chism\u2019s one-handed catch with 1:50 remaining, and the New England Patriots defeated the Buffalo Bills 29-26 on Sunday.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872971",
+  "teams": [
+   "BUF",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50103645",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50103486",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:56:49Z",
+  "text": "New England Patriots vs. Buffalo Bills Game Highlights. New England Patriots vs. Buffalo Bills Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50103486/new-england-patriots-vs-buffalo-bills-game-highlights",
+  "teams": [
+   "NE",
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50103486",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50103156",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:54:50Z",
+  "text": "New York Jets vs. Chicago Bears: Game Highlights. New York Jets vs. Chicago Bears: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50103156/game-highlights",
+  "teams": [
+   "CHI",
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50103156",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50103377",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:54:13Z",
+  "text": "Arizona Cardinals vs. New York Giants: Game Highlights. Arizona Cardinals vs. New York Giants: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50103377/game-highlights",
+  "teams": [
+   "NYG",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50103377",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50103533",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:49:30Z",
+  "text": "Rams rally behind Stafford, Williams from 10 points down in 4th quarter to beat Eagles 24-20. \u2014 Kyren Williams ran for two touchdowns in the final four minutes as Matthew Stafford and the Los Angeles Rams rallied from a 10-point deficit to beat the Philadelphia Eagles 24-20 on Sunday.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872970",
+  "teams": [
+   "PHI",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50103533",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50102378",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-10-04T20:44:40Z",
+  "text": "Lamar Jackson injures ankle during Ravens' win over Titans. Lamar Jackson left the Ravens' game against the Titans on Sunday with an ankle injury.",
+  "url": "https://www.espn.com/nfl/story/_/id/50102378/ravens-qb-lamar-jackson-leaves-game-vs-titans-ankle-injury",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50102378",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50103335",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:37:39Z",
+  "text": "Tennessee Titans vs. Baltimore Ravens: Game Highlights. Tennessee Titans vs. Baltimore Ravens: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50103335/game-highlights",
+  "teams": [
+   "TEN",
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50103335",
+   "team": "TEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50103340",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:37:30Z",
+  "text": "CeeDee Lamb\u2019s late TD caps a wild Cowboys rally to beat winless Texans 34-30. \u2014 CeeDee Lamb had a career-high 17 catches for 189 yards and his 12-yard TD reception with 40 seconds left lifted the Dallas Cowboys to a 34-30 win over Houston on Sunday to keep the Texans winless.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872967",
+  "teams": [
+   "HOU",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50103340",
+   "team": "HOU",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50103301",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:37:23Z",
+  "text": "Los Angeles Rams vs. Philadelphia Eagles: Game Highlights. Los Angeles Rams vs. Philadelphia Eagles: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50103301/game-highlights",
+  "teams": [
+   "PHI",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50103301",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50103274",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:32:30Z",
+  "text": "Trevor Lawrence finally gets 1st win over Bengals as Jaguars hold on for 22-17 victory. \u2014 Trevor Lawrence passed for 227 yards and a touchdown, Jacksonville's defense forced two critical turnovers and the Jaguars held off the Cincinnati Bengals 22-17 on Sunday.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872969",
+  "teams": [
+   "CIN",
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50103274",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50103196",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:25:31Z",
+  "text": "Winston throws 3 touchdown passes and Banks' pick-6 seals Giants' 36-24 win over Cardinals. \u2014 Jameis Winston threw three touchdown passes to offset a pair of interceptions, Deonte Banks had a 98-yard pick-6 in the final seconds and the New York Giants won another not-so-pretty game, defeating the Arizona Cardinals 36-24 on Sunday.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872966",
+  "teams": [
+   "NYG",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50103196",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50102997",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:14:36Z",
+  "text": "Ravens beat Titans 24-18 despite Lamar Jackson's ankle injury. Henry scores against his old team. \u2014 Lamer Jackson threw for 222 yards and two touchdowns before leaving the game with an ankle injury, Derrick Henry scored against his former team, and the Baltimore Ravens handled the Tennessee Titans 24-18 on Sunday.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872973",
+  "teams": [
+   "BAL",
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50102997",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50102988",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:14:31Z",
+  "text": "Kyle Monangai scores 2 TDs as the Chicago Bears beat the New York Jets 23-12. \u2014 Kyle Monangai rushed for 146 yards and two touchdowns, and the Chicago Bears stuffed the New York Jets for a 23-12 victory on Sunday.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872972",
+  "teams": [
+   "CHI",
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50102988",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50102919",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T20:09:43Z",
+  "text": "Jordan Love throws 2 touchdown passes, Packers edge Buccaneers 17-14. \u2014 Jordan Love threw two touchdown passes and the Green Bay Packers overcame two fourth-quarter turnovers to beat the Tampa Bay Buccaneers 17-14 on Sunday.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872968",
+  "teams": [
+   "TB",
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50102919",
+   "team": "TB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50101891",
   "source": "ESPN",
   "author": "Ben Baby",
