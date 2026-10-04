@@ -1,5 +1,730 @@
 [
  {
+  "id": "espnnews-50099890",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-10-04T18:16:20Z",
+  "text": "Marcus Mariota out as Commanders turn to rookie Athan Kaliakmanis. Marcus Mariota left Sunday's game against the Colts with a knee injury, forcing the Commanders to turn to seventh-round rookie Athan Kaliakmanis at quarterback.",
+  "url": "https://www.espn.com/nfl/story/_/id/50099890/marcus-mariota-injured-commanders-turn-rookie-qb-athan-kaliakmanis",
+  "teams": [
+   "IND",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50099890",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50101102",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-10-04T18:14:13Z",
+  "text": "Minkah Fitzpatrick records INT, snapping Jets' record drought. The Jets snapped one of the most ignominious droughts in NFL history on Sunday when Minkah Fitzpatrick intercepted a pass by Bears quarterback Tyson Bagent.",
+  "url": "https://www.espn.com/nfl/story/_/id/50101102/minkah-fitzpatrick-records-int-snapping-jets-record-drought",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50101102",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50077236",
+  "source": "ESPN",
+  "author": "NFL Nation",
+  "time": "2026-10-04T17:52:03Z",
+  "text": "NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games. Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
+  "url": "https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026",
+  "teams": [
+   "IND",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50077236",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50100819",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T17:30:04Z",
+  "text": "Michael Florio: Jonathan Taylor looking like the RB3 of fantasy football. Michael Florio: Jonathan Taylor looking like the RB3 of fantasy football",
+  "url": "https://www.espn.com/video/clip/_/id/50100819/jonathan-taylor-looking-rb3-fantasy-football",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50100819",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50100573",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T17:24:07Z",
+  "text": "Indianapolis Colts vs. Washington Commanders Game Highlights. Indianapolis Colts vs. Washington Commanders Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50100573/indianapolis-colts-vs-washington-commanders-game-highlights",
+  "teams": [
+   "WAS",
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50100573",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-59c80041fa001",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-04T17:22:50.466Z",
+  "text": "Saquon Barkley has a hamstring injury and is questionable to return today.",
+  "url": "https://www.espn.com/contributor/adam-schefter/59c80041fa001",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espn-59c80041fa001",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "questionable",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50100617",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T17:21:32Z",
+  "text": "Michael Florio: Jonathan Taylor looking like the RB3 of fantasy football. Michael Florio: Jonathan Taylor looking like the RB3 of fantasy football",
+  "url": "https://www.espn.com/video/clip/_/id/50100617/jonathan-taylor-looking-rb3-fantasy-football",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50100617",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50100584",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T17:11:09Z",
+  "text": "Michael Florio: Jonathan Taylor looking like the RB3 of fantasy football. Michael Florio: Jonathan Taylor looking like the RB3 of fantasy football",
+  "url": "https://www.espn.com/video/clip/_/id/50100584/jonathan-taylor-looking-rb3-fantasy-football",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50100584",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50085799",
+  "source": "ESPN",
+  "author": "NFL Nation",
+  "time": "2026-10-04T16:46:14Z",
+  "text": "Week 4 NFL highlights: Best plays, moments, touchdowns, more. Check out top the plays from Week 4, featuring the season's first game in London and a showdown of unbeatens in the late afternoon.",
+  "url": "https://www.espn.com/nfl/story/_/id/50085799/week-4-highlights-best-plays-touchdowns-2026",
+  "teams": [
+   "IND",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50085799",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49881131",
+  "source": "ESPN",
+  "author": "Mel Kiper Jr. and Jordan Reid",
+  "time": "2026-10-04T16:40:59Z",
+  "text": "2027 NFL draft questions, latest intel, risers, CFB standouts. Would an NFL team think about Jeremiah Smith with the first pick? Which Notre Dame players stood out Saturday? Here's draft spin off Week 5 of the CFB season.",
+  "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49881131",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50096452",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-10-04T16:40:37Z",
+  "text": "Michael Penix Jr., wife announce they're expecting first child. The couple took to Instagram to announce the news, jointly posting a video to the social media site titled \"A Short Love Story.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50096452/michael-penix-jr-wife-expecting-first-child",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50096452",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50100232",
+  "source": "ESPN",
+  "author": "Tim McManus",
+  "time": "2026-10-04T16:32:41Z",
+  "text": "Eagles RT Lane Johnson surprise inactive due to personal reasons. Eagles right tackle Lane Johnson is inactive against the Rams for personal reasons.",
+  "url": "https://www.espn.com/nfl/story/_/id/50100232/eagles-rt-lane-johnson-surprise-inactive-due-personal-reasons",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50100232",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-795c6081883f6",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-04T16:25:14.422Z",
+  "text": "Raiders TE Brock Bowers, who had been on the injury report due to his knee, now has an illness for today\u2019s game vs. the Chiefs as well. The Raiders are fully expecting Bowers to play, but he does have an illness.",
+  "url": "https://www.espn.com/contributor/adam-schefter/795c6081883f6",
+  "teams": [
+   "KC",
+   "LV"
+  ],
+  "facts": {
+   "id": "espn-795c6081883f6",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50095248",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-10-04T15:54:05Z",
+  "text": "Sources: Steelers' contract philosophy led to Joey Porter Jr. trade. The Steelers' philosophy of avoiding second-year contract guarantees was a factor in their inability to reach a deal with Joey Porter Jr., sources told NFL Network.",
+  "url": "https://www.espn.com/nfl/story/_/id/50095248/sources-steelers-contract-philosophy-led-joey-porter-jr-trade",
+  "teams": [
+   "DAL",
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50095248",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50098838",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-04T15:49:36Z",
+  "text": "Sources: Rams don't intend to limit Puka Nacua's workload. The Rams do not intend to limit Puka Nacua's workload Sunday against the Eagles, sources told ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50098838/sources-rams-intend-limit-puka-nacua-workload",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50098838",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-1ad07491fcaf3",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-04T15:31:38.734Z",
+  "text": "Eagles OT Lane Johnson is inactive today. Eagles are 18-29 without Johnson.",
+  "url": "https://www.espn.com/contributor/adam-schefter/1ad07491fcaf3",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espn-1ad07491fcaf3",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50099432",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-10-04T15:27:13Z",
+  "text": "Ex-Vikings WR Reed: Cancer fostered 'different connection' with Moss. Jake Reed's friendship with former Vikings teammate Randy Moss runs deeper than football. Because of their diagnoses, Reed and Moss are doing their parts to raise money for cancer research.",
+  "url": "https://www.espn.com/nfl/story/_/id/50099432/former-viking-reed-says-cancer-fostered-different-connection-moss",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50099432",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50099522",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T15:26:19Z",
+  "text": "How a Demaryius Thomas tradition is being kept alive through donuts. How a Demaryius Thomas tradition is being kept alive through donuts",
+  "url": "https://www.espn.com/video/clip/_/id/50099522/how-demaryius-thomas-tradition-being-kept-alive-donuts",
+  "teams": [
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50099522",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50099497",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T14:56:58Z",
+  "text": "Source: Steelers' Derrick Harmon expected to miss multiple weeks. Steelers defensive tackle Derrick Harmon, who was carted off the field Thursday night with a foot injury, is expected to miss a few weeks, a source told NFL Network.",
+  "url": "https://www.espn.com/nfl/story/_/id/50099497/source-steelers-derrick-harmon-expected-miss-multiple-weeks",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50099497",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50099334",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-10-04T14:39:19Z",
+  "text": "Commanders WR Terry McLaurin inactive after Friday injury. Commanders wide receiver Terry McLaurin will not play against the Colts because of a hamstring injury suffered in practice Friday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50099334/commanders-wr-terry-mclaurin-inactive-friday-injury",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50099334",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50090537",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-04T14:32:34Z",
+  "text": "Sources: Baker Mayfield return hinges on when QB can grip football. Baker Mayfield is expected to miss anywhere from three to six weeks, sources told ESPN, depending on how quickly the Buccaneers quarterback can grip the football.",
+  "url": "https://www.espn.com/nfl/story/_/id/50090537/sources-baker-mayfield-return-hinges-qb-grip-football",
+  "teams": [
+   "TB"
+  ],
+  "facts": {
+   "id": "espnnews-50090537",
+   "team": "TB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50094193",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-10-04T13:52:53Z",
+  "text": "Sources: TE Sam LaPorta, Lions break off contract talks. The Lions and star tight end Sam LaPorta have broken off contract talks, sources told NFL Network, after attempting to work out a long-term deal for the first few weeks of the season.",
+  "url": "https://www.espn.com/nfl/story/_/id/50094193/sources-sam-laporta-lions-break-contract-talks",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50094193",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50095892",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-10-04T12:50:51Z",
+  "text": "Brian Schottenheimer owned up to Rio mistakes in Cowboys meeting. Cowboys coach Brian Schottenheimer took accountability in the locker room for last Sunday's late-game loss to the Ravens.",
+  "url": "https://www.espn.com/nfl/story/_/id/50095892/brian-schottenheimer-owned-rio-mistakes-cowboys-meeting",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50095892",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50093238",
+  "source": "ESPN",
+  "author": "Mike Kaye",
+  "time": "2026-10-04T12:50:06Z",
+  "text": "Panthers put Legette on IR; Coker also likely out vs. Lions. The Panthers have placed 2024 first-round pick Xavier Legette on injured reserve ahead of Sunday's primetime matchup against the Lions. Wide receiver Jalen Coker is also unlikely to play against the Lions, sources told ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50093238/panthers-place-wr-xavier-legette-ir-knee-injury",
+  "teams": [
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50093238",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50053980",
+  "source": "ESPN",
+  "author": "Pamela Maldonado",
+  "time": "2026-10-04T10:38:39Z",
+  "text": "How to bet Lions-Panthers on 'SNF': Analysis, tips and top prop plays. Odds, bets and analysis to help you bet Lions-Panthers on \"Sunday Night Football.\"",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50053980/nfl-week-4-odds-betting-tips-picks-detroit-lions-carolina-panthers",
+  "teams": [
+   "DET",
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50053980",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50080901",
+  "source": "ESPN",
+  "author": "Marcel Louis-Jacques",
+  "time": "2026-10-04T10:00:15Z",
+  "text": "What are the top 10 upsets in Super Bowl history?. What are the biggest upsets in Super Bowl history? The Patriots, Jets, Giants, Eagles, Seahawks and others make their cases.",
+  "url": "https://www.espn.com/nfl/story/_/id/50080901/super-bowl-top-10-upsets-patriots-jets-giants",
+  "teams": [
+   "NE",
+   "NYG",
+   "NYJ",
+   "DEN",
+   "LA",
+   "SEA",
+   "GB",
+   "IND",
+   "PHI",
+   "BUF",
+   "WAS",
+   "LV",
+   "TB"
+  ],
+  "facts": {
+   "id": "espnnews-50080901",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50086456",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-10-04T10:00:11Z",
+  "text": "Jets rookie Kenyon Sadiq has been a necessity instead of a 'luxury' draft pick. New York used its second (No. 16) of three first-round picks on the tight end out of Oregon.",
+  "url": "https://www.espn.com/nfl/story/_/id/50086456/jets-rookie-kenyon-sadiq-necessity-not-luxury",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50086456",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50092718",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-10-04T00:13:54Z",
+  "text": "How Commanders owner Josh Harris, fans connected at London bar. The Commanders owner covered drinks for a crowd of approximately 3,000 fans on Saturday afternoon at the BrewDog in London.",
+  "url": "https://www.espn.com/nfl/story/_/id/50092718/washington-commanders-josh-harris-london-bar",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50092718",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50087681",
+  "source": "ESPN",
+  "author": "Mike Reiss",
+  "time": "2026-10-03T22:00:02Z",
+  "text": "Patriots preach patience when it comes to receiver WR Romeo Doubs' modest start. After the Patriots signed him to a four-year deal in March, Doubs is searching for his footing in the offense entering Week 4.",
+  "url": "https://www.espn.com/nfl/story/_/id/50087681/patriots-romeo-doubs-bills-game",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50087681",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50093007",
+  "source": "ESPN",
+  "author": "Brady Henderson",
+  "time": "2026-10-03T21:00:28Z",
+  "text": "Seahawks place RB Jadarian Price (chest) on IR. The Seattle Seahawks are placing starting running back Jadarian Price on injured reserve, the team announced Saturday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50093007/seahawks-place-rb-jadarian-price-chest-ir",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50093007",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50092744",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-10-03T20:37:39Z",
+  "text": "Bears LT Braxton Jones on IR; Theo Benedet to start vs. Jets. Bears left tackle Braxton Jones has been placed on injured reserve after sustaining an injury to his right knee against the Eagles in Week 3.",
+  "url": "https://www.espn.com/nfl/story/_/id/50092744/bears-lt-braxton-jones-ir-theo-benedet-start-vs-jets",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50092744",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-741196fd11b34",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-03T19:54:56.541Z",
+  "text": "Seahawks are placing first-round pick, RB Jadarian Price, on injured reserve due to the chest injury he aggravated at practice this week. Price now will miss a minimum of four weeks.",
+  "url": "https://www.espn.com/contributor/adam-schefter/741196fd11b34",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espn-741196fd11b34",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50092475",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-03T19:52:53Z",
+  "text": "Terry McLaurin could miss Sunday's game against Colts. John Keim gives the latest updated on the status of Terry McLaurin heading into the Commanders game against the Colts.",
+  "url": "https://www.espn.com/video/clip/_/id/50092475/terry-mclaurin-miss-sunday-game-colts",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50092475",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50092081",
+  "source": "ESPN",
+  "author": "Katherine Terrell",
+  "time": "2026-10-03T19:16:45Z",
+  "text": "Saints rule out LB Kaden Elliss, pass rusher Carl Granderson. Saints linebacker Kaden Elliss (calf) and edge rushers Carl Granderson (ankle) and Anfernee Jennings (knee) have been ruled out against the Falcons on \"Monday Night Football.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50092081/saints-rule-lb-kaden-elliss-pass-rusher-carl-granderson",
+  "teams": [
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50092081",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50090624",
   "source": "ESPN",
   "author": "Stephen Holder",
@@ -3347,92 +4072,6 @@
    "status": "other",
    "starting_qb": null,
    "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-332e3211b309d",
-  "source": "ESPN",
-  "author": "Ian Rapoport",
-  "time": "2026-09-27T12:08:47.692Z",
-  "text": "Bears QB Caleb Williams, dealing with a Grade 2 hamstring strain, was given a 3-4 week recovery timeline, sources tell me and Adam Schefter.",
-  "url": "https://www.espn.com/contributor/ian-rapoport/332e3211b309d",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espn-332e3211b309d",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-bf4de4450d1d4",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-27T12:06:34.639Z",
-  "text": "Chicago Bears quarterback Caleb Williams has a Grade 2 hamstring injury that doctors consider a three-to-four-week injury, league sources told me and @RapSheet.",
-  "url": "https://www.espn.com/contributor/adam-schefter/bf4de4450d1d4",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espn-bf4de4450d1d4",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-ba70ed93a37b7",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-26T20:27:46.269Z",
-  "text": "Source: With a high-ankle sprain, Broncos RB Jonah Coleman now will miss the next few games and be placed on short-term injured reserve today.\n\nColeman is expected back for the Broncos\u2019 game against the Cardinals in late October.",
-  "url": "https://www.espn.com/contributor/adam-schefter/ba70ed93a37b7",
-  "teams": [
-   "DEN",
-   "ARI"
-  ],
-  "facts": {
-   "id": "espn-ba70ed93a37b7",
-   "team": "DEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-0839804beae50",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-26T18:53:49.282Z",
-  "text": "Bears officially have ruled out Caleb Williams for Monday night\u2019s game vs. the Eagles.\n\nTyson Bagent is questionable.",
-  "url": "https://www.espn.com/contributor/adam-schefter/0839804beae50",
-  "teams": [
-   "CHI",
-   "PHI"
-  ],
-  "facts": {
-   "id": "espn-0839804beae50",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
    "summary": null
   }
  }
