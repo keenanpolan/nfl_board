@@ -1,5 +1,90 @@
 [
  {
+  "id": "espnnews-50101891",
+  "source": "ESPN",
+  "author": "Ben Baby",
+  "time": "2026-10-04T19:03:01Z",
+  "text": "Bengals star WR Ja'Marr Chase suffers concussion vs. Jaguars. Bengals wide receiver Ja'Marr Chase has been ruled out of Sunday's game against the Jaguars with a concussion.",
+  "url": "https://www.espn.com/nfl/story/_/id/50101891/bengals-star-wr-jamarr-chase-suffers-concussion-vs-jaguars",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50101891",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50100589",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T18:56:29Z",
+  "text": "Tea time as Jonathan Taylor runs for 2 TDs and Colts beat Commanders 30-13 in London. \u2014 Sip some tea, score some touchdowns.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872965",
+  "teams": [
+   "WAS",
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50100589",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50101817",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-10-04T18:54:53Z",
+  "text": "Bills WR D.J. Moore doubtful to return after injuring shoulder. Bills wide receiver D.J. Moore is doubtful to return for the second half against the Patriots due to a shoulder injury.",
+  "url": "https://www.espn.com/nfl/story/_/id/50101817/bills-wr-dj-moore-doubtful-return-injuring-shoulder",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50101817",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "doubtful",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50101243",
+  "source": "ESPN",
+  "author": "Tim McManus",
+  "time": "2026-10-04T18:46:12Z",
+  "text": "Eagles RB Saquon Barkley leaves game with hamstring injury. Eagles running back Saquon Barkley has been ruled out of Sunday's game against the Rams with a hamstring injury.",
+  "url": "https://www.espn.com/nfl/story/_/id/50101243/eagles-rb-saquon-barkley-leaves-game-hamstring-injury",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50101243",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50099890",
   "source": "ESPN",
   "author": "John Keim",
