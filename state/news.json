@@ -1,5 +1,1001 @@
 [
  {
+  "id": "espnnews-50109020",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T13:07:31Z",
+  "text": "Did Drake Maye prove doubters wrong with win over Bills?. Did Drake Maye prove doubters wrong with win over Bills?",
+  "url": "https://www.espn.com/video/clip/_/id/50109020/did-drake-maye-prove-doubters-wrong-win-bills",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50109020",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50108951",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T13:05:41Z",
+  "text": "Rex Ryan: Cowboys can win NFC East with just average D. Rex Ryan: Cowboys can win NFC East with just average D",
+  "url": "https://www.espn.com/video/clip/_/id/50108951/cowboys-win-nfc-east-just-average-d",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50108951",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50100800",
+  "source": "ESPN",
+  "author": "Bill Barnwell",
+  "time": "2026-10-05T13:05:17Z",
+  "text": "How the Rams, Cowboys, Patriots pulled Week 4 comebacks to save their seasons. The Rams, Cowboys and Pats were all looking at 1-3 ... then everything changed. How did a trio of stunning rallies play out -- and are these teams all back on track at 2-2?",
+  "url": "https://www.espn.com/nfl/story/_/id/50100800/week-4-rams-cowboys-patriots-comeback-wins-save-season",
+  "teams": [
+   "LA",
+   "DAL",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50100800",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50068590",
+  "source": "ESPN",
+  "author": "Seth Walder",
+  "time": "2026-10-05T13:02:49Z",
+  "text": "How to bet Falcons-Saints on MNF: Analysis, tips and top prop plays. Odds and analysis to help you bet Falcons-Saints on \"Monday Night Football.\"",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50068590/nfl-week-4-odds-betting-tips-picks-atlanta-falcons-new-orleans-saints",
+  "teams": [
+   "ATL",
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50068590",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50108871",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-05T13:02:24Z",
+  "text": "Sources: Saints rookie Jordyn Tyson weeks away from return. Saints rookie Jordyn Tyson, who has been on IR after suffering another hamstring injury, is making progress and feeling good but is still considered to be weeks away from returning to action, sources told ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50108871/sources-saints-rookie-jordyn-tyson-weeks-away-return",
+  "teams": [
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50108871",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50106379",
+  "source": "ESPN",
+  "author": "Rob Demovsky",
+  "time": "2026-10-05T12:48:25Z",
+  "text": "With Edgerrin Cooper out, Evan Williams shines for Packers. The Packers lost one of their two young defensive stars in Cooper (Achilles), but Williams delivered a big game.",
+  "url": "https://www.espn.com/nfl/story/_/id/50106379/packers-edgerrin-cooper-achilles-evan-williams",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50106379",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50108900",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T12:37:10Z",
+  "text": "Rex Ryan: Eagles O-line is 'hot garbage'. Rex Ryan: Eagles O-line is 'hot garbage'",
+  "url": "https://www.espn.com/video/clip/_/id/50108900/eagles-o-line-hot-garbage",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50108900",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105859",
+  "source": "ESPN",
+  "author": "Ben Baby",
+  "time": "2026-10-05T12:29:00Z",
+  "text": "Joe Burrow after 2nd straight loss: Not 'Armageddon'. Another Burrow fourth-quarter turnover helped bring the Bengals back to .500, but optimism remains.",
+  "url": "https://www.espn.com/nfl/story/_/id/50105859/bengals-joe-burrow-armageddon",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50105859",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50107710",
+  "source": "ESPN",
+  "author": "Mike Kaye",
+  "time": "2026-10-05T12:12:25Z",
+  "text": "Tetairoa McMillan, Bryce Young star as Panthers defeat Lions. Carolina receiver Tetairoa McMillan was dominant in his team's 32-36 win over Detroit Lions Sunday night, catching 14 passes for 192 yards and two touchdowns from teammate Bryce Young, who threw for 329 yards to help the Panthers even their record at 2-2.",
+  "url": "https://www.espn.com/nfl/story/_/id/50107710/tetairoa-mcmillan-bryce-young-star-panthers-defeat-lions",
+  "teams": [
+   "DET",
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50107710",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50107855",
+  "source": "ESPN",
+  "author": "Eric Woodyard",
+  "time": "2026-10-05T12:11:20Z",
+  "text": "Lions' Campbell won't discuss dismissing DC Sheppard after loss. Despite the Lions' defense's continued slide, Dan Campbell and his players refused to blame second-year defensive coordinator Kelvin Sheppard after their loss Sunday night to the Panthers.",
+  "url": "https://www.espn.com/nfl/story/_/id/50107855/lions-campbell-discuss-dismissing-dc-sheppard-loss",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50107855",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50101403",
+  "source": "ESPN",
+  "author": "Marc Raimondi",
+  "time": "2026-10-05T11:48:59Z",
+  "text": "Is Bijan Robinson the NFL's top RB? He is when he's in primetime. Bijan Robinson has the most scrimmage yards per game in primetime, and he'll get a chance to keep it rolling on 'Monday Night Football' this week.",
+  "url": "https://www.espn.com/nfl/story/_/id/50101403/falcons-bijan-robinson-prime-mnf",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50101403",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105860",
+  "source": "ESPN",
+  "author": "Todd Archer",
+  "time": "2026-10-05T10:00:11Z",
+  "text": "Cowboys flip script after Rio loss with key win over Texans. A week after everything went wrong late against the Ravens, Dallas rebounded with a winning drive Sunday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50105860/dallas-cowboys-ceedee-lamb-dak-texans",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50105860",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50103536",
+  "source": "ESPN",
+  "author": "Katherine Terrell",
+  "time": "2026-10-05T10:00:11Z",
+  "text": "How Steve Gleason's punt block unified New Orleans, Falcons-Saints rivalry. Ahead of Monday's Falcons-Saints game, players and coaches reflect on the storm, the game and a play from 20 years ago.",
+  "url": "https://www.espn.com/nfl/story/_/id/50103536/new-orleans-saints-falcons-gleason-20-years-mnf-rivalry",
+  "teams": [
+   "ATL",
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50103536",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50107156",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T05:14:34Z",
+  "text": "Big-time catches headline the top plays of Week 4. Big-time catches headline the top plays of Week 4",
+  "url": "https://www.espn.com/video/clip/_/id/50107156/big-catches-headline-top-plays-week-4",
+  "teams": [
+   "KC",
+   "NYG",
+   "DET",
+   "NE",
+   "DAL",
+   "BUF",
+   "CAR",
+   "HOU",
+   "LA",
+   "ARI",
+   "WAS",
+   "LV",
+   "IND",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50107156",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50102250",
+  "source": "ESPN",
+  "author": "Matt Bowen and Tristan H. Cockcroft",
+  "time": "2026-10-05T05:04:18Z",
+  "text": "Week 4 winners and losers: Tetairoa McMillan, CeeDee Lamb dominate; Jaxon Smith-Njigba struggles. CeeDee Lamb and Kyren Williams came up big in Week 4, while Jaxon Smith-Njigba and D'Andre Swift had disappointing days.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50102250/nfl-week-4-fantasy-football-winners-losers-injuries-rankings-more",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50102250",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50107325",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T04:56:29Z",
+  "text": "Young, McMillan connect for 2 TDs to lead Panthers past Lions 32-26. \u2014 Carolina Panthers coach Dave Canales was a little worried after Bryce Young and Tetairoa McMillan had some issues connecting on passes in practice.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872978",
+  "teams": [
+   "CAR",
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50107325",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50106946",
+  "source": "ESPN",
+  "author": "Kris Rhim",
+  "time": "2026-10-05T04:37:52Z",
+  "text": "Chargers' Jim Harbaugh says OC Mike McDaniel's job 'not in jeopardy'. After another poor offensive performance Sunday, Chargers coach Jim Harbaugh is standing by offensive coordinator Mike McDaniel.",
+  "url": "https://www.espn.com/nfl/story/_/id/50106946/chargers-jim-harbaugh-says-oc-mike-mcdaniel-job-not-jeopardy",
+  "teams": [
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50106946",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50107442",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T04:37:25Z",
+  "text": "'His job is not in jeopardy': Harbaugh defends McDaniel after 0-4 start. 'His job is not in jeopardy': Harbaugh defends McDaniel after 0-4 start",
+  "url": "https://www.espn.com/video/clip/_/id/50107442/harbaugh-defends-mcdaniel-0-4-start",
+  "teams": [
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50107442",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50106983",
+  "source": "ESPN",
+  "author": "Brady Henderson",
+  "time": "2026-10-05T04:35:36Z",
+  "text": "Macdonald laments 'unacceptable' penalties in Seahawks' win. Thea Seahawks set a club record with 150 penalty yards in Sunday's win over the Chargers, something coach Mike Macdonald said his team would need to clean up.",
+  "url": "https://www.espn.com/nfl/story/_/id/50106983/macdonald-laments-unacceptable-penalties-seahawks-win",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50106983",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105587",
+  "source": "ESPN",
+  "author": "Anthony Gharib",
+  "time": "2026-10-05T04:14:45Z",
+  "text": "Cowboys' Texas-themed jabs at Houston tops Week 4 trolls. The calendar shifted to October, and the trolls are becoming a little more impactful, led by the Dallas Cowboys.",
+  "url": "https://www.espn.com/nfl/story/_/id/50105587/nfl-week-4-2026-trolls",
+  "teams": [
+   "DAL",
+   "HOU",
+   "LA",
+   "PHI",
+   "JAX",
+   "CLE",
+   "PIT",
+   "CIN",
+   "CAR",
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50105587",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50107279",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T03:49:34Z",
+  "text": "Panthers hold off Lions in a SNF thriller. Panthers hold off Lions in a SNF thriller ",
+  "url": "https://www.espn.com/video/clip/_/id/50107279/panthers-hold-lions-snf-thriller",
+  "teams": [
+   "CAR",
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50107279",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50107098",
+  "source": "ESPN",
+  "author": "Ryan McFadden",
+  "time": "2026-10-05T03:41:24Z",
+  "text": "Klint Kubiak laments decisions gone wrong in Raiders' loss. First-time coach Klint Kubiak might be up extra late Sunday night after a pair of his decisions backfired in the Las Vegas Raiders' 30-27 loss to the Chiefs.",
+  "url": "https://www.espn.com/nfl/story/_/id/50107098/klint-kubiak-laments-decisions-gone-wrong-raiders-loss",
+  "teams": [
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50107098",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105514",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T03:25:35Z",
+  "text": "NFL looking into official apparently cursing at Cardinals' McBride. The NFL says it is reviewing an official's apparent use of profanity directed at Cardinals tight end Trey McBride in Sunday's game against the Giants.",
+  "url": "https://www.espn.com/nfl/story/_/id/50105514/nfl-looking-official-apparently-cursing-cardinals-mcbride",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50105514",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50106743",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-10-05T03:23:38Z",
+  "text": "NFL looking into exchange between Vikings' Wilson, ref Hill. The NFL is looking into an unusual exchange between referee Adrian Hill and Vikings linebacker Eric Wilson that took place in Minnesota's 15-10 victory over the Dolphins, ESPN's Adam Schefter reported Sunday night.",
+  "url": "https://www.espn.com/nfl/story/_/id/50106743/nfl-looking-exchange-vikings-wilson-ref-hill",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50106743",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50106742",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-10-05T02:47:28Z",
+  "text": "Dre Greenlaw had 'a little extra' vs. the Broncos, his ex-team. Dre Greenlaw had 'a little extra' vs. the Broncos, his ex-team.",
+  "url": "https://www.espn.com/nfl/story/_/id/50106742/dre-greenlaw-had-little-extra-vs-broncos-ex-team",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50106742",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50106875",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T02:38:51Z",
+  "text": "Jacksonville Jaguars vs. Cincinnati Bengals Game Highlights. Jacksonville Jaguars vs. Cincinnati Bengals Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50106875/jacksonville-jaguars-vs-cincinnati-bengals-game-highlights",
+  "teams": [
+   "JAX",
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50106875",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50106575",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-10-05T02:14:22Z",
+  "text": "Kyle Juszczyk (knee), two more 49ers injured in win over Broncos. For the fourth straight week, the 49ers clawed out a victory but were unable to come out of the game against the Broncos without injury concerns.",
+  "url": "https://www.espn.com/nfl/story/_/id/50106575/kyle-juszczyk-knee-two-more-49ers-injured-win-broncos",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50106575",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50100789",
+  "source": "ESPN",
+  "author": "Ben Solak",
+  "time": "2026-10-05T01:56:31Z",
+  "text": "Wild stats from NFL Week 4 featuring Cowboys, Bears, Eagles, Seahawks, more. Sunday featured wild plays, historic numbers and a game that started with two straight interceptions. Catch up on the day's most interesting stats.",
+  "url": "https://www.espn.com/nfl/story/_/id/50100789/week-4-key-stats-solak-cee-dee-lamb-cowboys",
+  "teams": [
+   "PHI",
+   "HOU",
+   "DAL",
+   "CHI",
+   "LAC",
+   "LA",
+   "SEA",
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50100789",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105539",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T01:54:29Z",
+  "text": "Chiefs beat the Raiders 30-27 to move to 4-0 behind Patrick Mahomes and Kenneth Walker III. \u2014 Patrick Mahomes said he loves playing in Allegiant Stadium, and it's no wonder, given his perfect record in one of the NFL's newer venues.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872976",
+  "teams": [
+   "LV",
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50105539",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105328",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T01:38:29Z",
+  "text": "Unbeaten Vikings keep Dolphins winless with dominant defense, Reichard's kicks, Hockenson's catches. \u2014 Kyler Murray and the Minnesota Vikings ' offense would've appreciated a touchdown for their progress down the stretch, but there was only one way to truly secure this victory.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872974",
+  "teams": [
+   "MIN",
+   "MIA"
+  ],
+  "facts": {
+   "id": "espnnews-50105328",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105352",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T01:27:30Z",
+  "text": "Brock Purdy throws 2 TD passes to lead the undefeated 49ers past the Broncos 24-14. \u2014 Once the San Francisco 49ers got going on offense, Brock Purdy and crew once again couldn't be stopped.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872975",
+  "teams": [
+   "SF",
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50105352",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105589",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T01:15:29Z",
+  "text": "Emanuel Wilson sparks Seahawks past Chargers 30-23, handing Los Angeles a fourth straight loss. \u2014 The Seattle Seahawks got their rebound win, but it was far from perfect.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872977",
+  "teams": [
+   "SEA",
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50105589",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50043976",
+  "source": "ESPN",
+  "author": "Michael DiRocco",
+  "time": "2026-10-05T01:03:45Z",
+  "text": "Tracking Jaguars CB/WR Travis Hunter's 2026 season: How did he do vs. Bengals?. Every week, we will look at how many snaps the two-way corner/receiver plays on offense and defense. Is there a trend in his usage?",
+  "url": "https://www.espn.com/nfl/story/_/id/50043976/jacksonville-jaguars-travis-hunter-stats-snaps-tracker",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50043976",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50100701",
+  "source": "ESPN",
+  "author": "Dan Graziano",
+  "time": "2026-10-05T00:59:29Z",
+  "text": "Judging overreactions to NFL Week 4: Patriots, Rams are back? Eagles in trouble?. Are the Patriots on track for another AFC East title? Are the Chiefs back to being the class of the NFL? We're judging Week 4 overreactions.",
+  "url": "https://www.espn.com/nfl/story/_/id/50100701/week-4-overreactions-2026-graziano-patriots-rams-eagles",
+  "teams": [
+   "NE",
+   "LA",
+   "PHI",
+   "HOU",
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50100701",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-40994229",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T00:51:42Z",
+  "text": "What are the longest field goals in NFL history?. Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+  "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
+  "teams": [
+   "BAL",
+   "DAL",
+   "NE",
+   "CAR",
+   "SF",
+   "NO",
+   "ARI",
+   "KC",
+   "TB",
+   "BUF",
+   "PHI",
+   "WAS",
+   "MIN",
+   "HOU",
+   "SEA",
+   "LA",
+   "MIA",
+   "TEN",
+   "CLE",
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-40994229",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105493",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-10-05T00:22:50Z",
+  "text": "Bears call Case Keenum co-start a 'ceremonial first pitch'. Both Tyson Bagent and Case Keenum started Sunday's game for the Bears, with coach Ben Johnson calling it a \"ceremonial first pitch\" of sorts for the latter.",
+  "url": "https://www.espn.com/nfl/story/_/id/50105493/bears-call-case-keenum-co-start-ceremonial-first-pitch",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50105493",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105678",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T00:21:51Z",
+  "text": "Kansas City Chiefs vs Las Vegas Raiders: Game Highlights. Kansas City Chiefs vs Las Vegas Raiders: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50105678/game-highlights",
+  "teams": [
+   "KC",
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50105678",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-39286200",
+  "source": "ESPN",
+  "author": "Alex Kennedy and Keith Jenkins",
+  "time": "2026-10-05T00:19:39Z",
+  "text": "Who are the winningest NFL coaches of all time?. From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+  "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
+  "teams": [
+   "NE",
+   "KC",
+   "NYG",
+   "MIA",
+   "CHI",
+   "PHI",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-39286200",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105515",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T00:02:37Z",
+  "text": "Seahawks send the Chargers to 0-4. Seahawks send the Chargers to 0-4",
+  "url": "https://www.espn.com/video/clip/_/id/50105515/seahawks-send-chargers-0-4",
+  "teams": [
+   "LAC",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50105515",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50104876",
+  "source": "ESPN",
+  "author": "Todd Archer",
+  "time": "2026-10-04T23:57:11Z",
+  "text": "CeeDee Lamb's 17 catches, go-ahead score power Cowboys. CeeDee Lamb returned to Houston and caught 17 passes for 189 yards, including the game-winning, 12-yard touchdown with 40 seconds to go, as a large number of family members watched from the stands.",
+  "url": "https://www.espn.com/nfl/story/_/id/50104876/ceedee-lamb-17-catches-go-ahead-score-power-cowboys",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50104876",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105425",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T23:56:45Z",
+  "text": "Denver Broncos vs. San Francisco 49ers: Game Highlights.  Denver Broncos vs. San Francisco 49ers: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50105425/game-highlights",
+  "teams": [
+   "DEN",
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50105425",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-44a7712cd9caf",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-04T23:31:54.915Z",
+  "text": "The NFL said it is reviewing the situation in which an official appears to use profanity at Cardinals TE Trey McBride. The NFLPA Executive Director JC Tretter called for the NFL to hold the official accountable.",
+  "url": "https://www.espn.com/contributor/adam-schefter/44a7712cd9caf",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espn-44a7712cd9caf",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50105087",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-04T23:27:00Z",
+  "text": "Miami Dolphins vs. Minnesota Vikings: Game Highlights.  Miami Dolphins vs. Minnesota Vikings: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50105087/game-highlights",
+  "teams": [
+   "MIN",
+   "MIA"
+  ],
+  "facts": {
+   "id": "espnnews-50105087",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50104692",
+  "source": "ESPN",
+  "author": "Jordan Raanan",
+  "time": "2026-10-04T23:20:14Z",
+  "text": "Skattebo scoffs at first-place Giants' underdog tag: 'It's dumb'. The New York Giants were underdogs at home against the Arizona Cardinals. That didn't sit well with running back Cam Skattebo and some of his teammates.",
+  "url": "https://www.espn.com/nfl/story/_/id/50104692/skattebo-scoffs-first-place-giants-underdog-tag-dumb",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50104692",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50102925",
   "source": "ESPN",
   "author": "Stephen Holder",
@@ -4480,49 +5476,6 @@
   "facts": {
    "id": "espn-ba45050c8dafe",
    "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-3eaaf59626ce3",
-  "source": "ESPN",
-  "author": "Ian Rapoport",
-  "time": "2026-09-28T11:47:01.283Z",
-  "text": "Giants star pass-rusher Brian Burns is believed to have suffered a torn ACL, sources tell me and Adam Schefter.\n\nBurns, who played Sunday through ankle pain, now has a major knee injury. A significant loss.",
-  "url": "https://www.espn.com/contributor/ian-rapoport/3eaaf59626ce3",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espn-3eaaf59626ce3",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-71c7442d89e60",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-28T11:46:45.535Z",
-  "text": "Giants standout pass rusher Brian Burns is believed to have torn his ACL during Sunday\u2019s win over the Titans, sources tell @rapsheet and me. Burns entered Sunday\u2019s game with an ankle injury, then hurt his knee.",
-  "url": "https://www.espn.com/contributor/adam-schefter/71c7442d89e60",
-  "teams": [
-   "NYG",
-   "TEN"
-  ],
-  "facts": {
-   "id": "espn-71c7442d89e60",
-   "team": "NYG",
    "player": null,
    "position": null,
    "status": "other",
