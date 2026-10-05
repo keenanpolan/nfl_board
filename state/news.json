@@ -1,5 +1,1040 @@
 [
  {
+  "id": "espnnews-50112395",
+  "source": "ESPN",
+  "author": "Kris Rhim",
+  "time": "2026-10-05T22:00:33Z",
+  "text": "Sources: Chargers OT Rashawn Slater has high ankle sprain. Chargers offensive tackle Rashawn Slater suffered a high ankle sprain in Sunday's loss to the Seahawks in Seattle, sources told NFL Network's Ian Rapoport.",
+  "url": "https://www.espn.com/nfl/story/_/id/50112395/sources-chargers-ot-rashawn-slater-high-ankle-sprain",
+  "teams": [
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50112395",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50108832",
+  "source": "ESPN",
+  "author": "Eric Karabell",
+  "time": "2026-10-05T22:00:33Z",
+  "text": "Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options. Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50108832/fantasy-football-waiver-wire-free-agent-pickups-nfl-week-5",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50108832",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50111452",
+  "source": "ESPN",
+  "author": "Josh Weinfuss",
+  "time": "2026-10-05T21:55:52Z",
+  "text": "NFL suspends officials Jeff Seeman, Adrian Hill for conduct toward players. The NFL has suspended line judge Jeff Seeman for two games for appearing to swear at Cardinals tight end Trey McBride. Referee Adrian Hill has been suspended one game for a separate incident in the Vikings' win over the Dolphins.",
+  "url": "https://www.espn.com/nfl/story/_/id/50111452/nfl-suspends-officials-jeff-seeman-adrian-hill-conduct-players",
+  "teams": [
+   "ARI",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50111452",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "suspended",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-a729adacbe9dd",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-05T21:53:24.038Z",
+  "text": "A big loss: Cardinals HC Mike LaFleur said LT Paris Johnson Jr. tore his bicep and now will be out for the season.",
+  "url": "https://www.espn.com/contributor/adam-schefter/a729adacbe9dd",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espn-a729adacbe9dd",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50112291",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-10-05T21:50:28Z",
+  "text": "McVay: Rams coaches will 'learn' from incident with Eagles fans. Rams coach Sean McVay says his assistant coaches will learn from their viral interaction with Eagles fans during Sunday's win over Philadelphia.",
+  "url": "https://www.espn.com/nfl/story/_/id/50112291/mcvay-rams-coaches-learn-incident-eagles-fans",
+  "teams": [
+   "LA",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50112291",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50111928",
+  "source": "ESPN",
+  "author": "Tim McManus",
+  "time": "2026-10-05T21:46:38Z",
+  "text": "Sources: Eagles RB Tank Bigsby to have surgery, headed to IR. Eagles running back Tank Bigsby sustained a core muscle injury Sunday that requires surgery, sources told NFL Network's Ian Rapoport.",
+  "url": "https://www.espn.com/nfl/story/_/id/50111928/sources-eagles-rb-tank-bigsby-surgery-headed-ir",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50111928",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50111202",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-10-05T21:39:19Z",
+  "text": "Sources: 49ers Pro Bowl FB Juszczyk (knee) expected out 2-3 weeks. 49ers Pro Bowl fullback Kyle Juszczyk suffered a knee sprain and bone bruise that is expected to sideline him for two to three weeks, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
+  "url": "https://www.espn.com/nfl/story/_/id/50111202/sources-49ers-pro-bowl-fb-juszczyk-knee-expected-2-3-weeks",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50111202",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50111808",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-10-05T21:34:58Z",
+  "text": "Bills CB Maxwell Hairston sorry for skipping media, addresses struggles. A day after skipping out on the media, Bills cornerback Maxwell Hairston held an impromptu news conference to apologize and provide context for his early-season struggles.",
+  "url": "https://www.espn.com/nfl/story/_/id/50111808/bills-cb-maxwell-hairston-sorry-skipping-media-addresses-struggles",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50111808",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50110486",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-10-05T21:30:49Z",
+  "text": "Ben Johnson: Tyson Bagent will start at QB for Bears vs. Packers. Tyson Bagent will be the Bears' starting quarterback for Sunday's game at the Packers, coach Ben Johnson announced Monday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50110486/ben-johnson-tyson-bagent-start-qb-bears-vs-packers",
+  "teams": [
+   "CHI",
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50110486",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "will start",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50110763",
+  "source": "ESPN",
+  "author": "Rob Demovsky",
+  "time": "2026-10-05T21:25:23Z",
+  "text": "Packers LB Edgerrin Cooper has season-ending torn Achilles. Packers linebacker Edgerrin Cooper suffered a season-ending Achilles tear during Sunday's 17-14 victory over the Buccaneers.",
+  "url": "https://www.espn.com/nfl/story/_/id/50110763/sources-packers-lb-edgerrin-cooper-torn-achilles",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50110763",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50111568",
+  "source": "ESPN",
+  "author": "Nate Taylor",
+  "time": "2026-10-05T21:24:35Z",
+  "text": "Sources: Chiefs WR Tyquan Thornton expected back in 12-16 weeks. Chiefs wide receiver Tyquan Thornton is expected back from a dislocated left ankle injury within 12 to 16 weeks, sources told NFL Network.",
+  "url": "https://www.espn.com/nfl/story/_/id/50111568/sources-chiefs-wr-tyquan-thornton-expected-back-12-16-weeks",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50111568",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50110871",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T21:08:12Z",
+  "text": "Broncos get good news on Pat Surtain II's ankle, sources say. Broncos star cornerback Pat Surtain II avoided a worst-case scenario on his ankle injury, sources told NFL Network's Ian Rapoport.",
+  "url": "https://www.espn.com/nfl/story/_/id/50110871/broncos-get-good-news-pat-surtain-ii-ankle-sources-say",
+  "teams": [
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50110871",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50110612",
+  "source": "ESPN",
+  "author": "Jeff Legwold",
+  "time": "2026-10-05T21:06:16Z",
+  "text": "Pat Surtain II out with an ankle injury: How will the Denver Broncos adjust?. While Surtain was able to avoid a long-term, season-ending injury, the loss of him and Riley Moss puts the Broncos in a short-term bind.",
+  "url": "https://www.espn.com/nfl/story/_/id/50110612/pat-surtain-ii-injury-denver-broncos-defense-effects",
+  "teams": [
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50110612",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50111779",
+  "source": "ESPN",
+  "author": "Ben Baby",
+  "time": "2026-10-05T21:04:24Z",
+  "text": "Bengals WR Tee Higgins day-to-day with adductor injury, coach says. Bengals wide receiver Tee Higgins is considered day-to-day with an adductor issue he suffered toward the end of Sunday's 22-17 loss to the Jacksonville Jaguars.",
+  "url": "https://www.espn.com/nfl/story/_/id/50111779/bengals-wr-tee-higgins-day-day-adductor-injury-coach-says",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50111779",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109680",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T20:41:32Z",
+  "text": "Tyreek Hill could sign with new team soon, agent says. Free agent wide receiver Tyreek Hill could sign with a new team \"over the next few days,\" his agent, Drew Rosenhaus, told ESPN's Adam Schefter. Hill's former team, the Chiefs, are believed to be one of those interested.",
+  "url": "https://www.espn.com/nfl/story/_/id/50109680/tyreek-hill-expected-sign-team-soon-agent-says",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50109680",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50111468",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-10-05T20:39:10Z",
+  "text": "Vikings LG Jackson likely out for season, LT Darrisaw has concussion. Vikings left guard Donovan Jackson is headed for what is likely season-ending surgery to repair a meniscus tear, and left tackle Christian Darrisaw is in the concussion protocol.",
+  "url": "https://www.espn.com/nfl/story/_/id/50111468/vikings-lg-jackson-likely-season-lt-darrisaw-concussion",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50111468",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50111347",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-10-05T20:26:25Z",
+  "text": "Ravens unsure if Lamar Jackson (ankle) will play vs. Falcons. The Ravens are uncertain whether quarterback Lamar Jackson will play Sunday night against the Falcons.",
+  "url": "https://www.espn.com/nfl/story/_/id/50111347/ravens-unsure-lamar-jackson-ankle-play-vs-falcons",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50111347",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109768",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T20:08:35Z",
+  "text": "Chris Canty shares frustration with how much blame Joe Burrow deserves. Chris Canty shares frustration with how much blame Joe Burrow deserves",
+  "url": "https://www.espn.com/video/clip/_/id/50109768/chris-canty-shares-frustration-how-much-blame-joe-burrow-deserves",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50109768",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50110299",
+  "source": "ESPN",
+  "author": "Nate Taylor",
+  "time": "2026-10-05T20:08:17Z",
+  "text": "Why a Tyreek Hill-Chiefs reunion makes so much sense. The Chiefs had been monitoring and receiving updates on Hill's rehab and training sessions, even before the injuries to Tyquan Thornton and Rashee Rice.",
+  "url": "https://www.espn.com/nfl/story/_/id/50110299/tyreek-hill-chiefs-reunion-help",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50110299",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50111484",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T20:05:15Z",
+  "text": "Schefter: Officials involved in Week 4 controversies receiving suspensions. Schefter: Officials involved in Week 4 controversies receiving suspensions",
+  "url": "https://www.espn.com/video/clip/_/id/50111484/officials-involved-week-4-controversies-receiving-suspensions",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50111484",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50111470",
+  "source": "ESPN",
+  "author": "Jenna Laine",
+  "time": "2026-10-05T20:03:10Z",
+  "text": "Buccaneers S Antoine Winfield Jr. out 2-4 weeks with rib fracture. Buccaneers All-Pro safety Antoine Winfield Jr. is expected to miss 2-4 weeks with a :slight rib fracture,\" coach Todd Bowles said Monday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50111470/buccaneers-s-antoine-winfield-jr-2-4-weeks-rib-fracture",
+  "teams": [
+   "TB"
+  ],
+  "facts": {
+   "id": "espnnews-50111470",
+   "team": "TB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-9f532c9eab6db",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-05T19:39:20.173Z",
+  "text": "The NFL confirmed today that line judge Jeff Seeman has been suspended for two games and referee Adrian Hill has been suspended for one game, each for an instance of unprofessional conduct toward a player in Sunday\u2019s Arizona-New York Giants (Seeman) and Miami-Minnesota games (Hill). The suspensions were issued by NFL Vice President of Officiating Ramon George.",
+  "url": "https://www.espn.com/contributor/adam-schefter/9f532c9eab6db",
+  "teams": [
+   "NYG",
+   "ARI",
+   "MIA",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espn-9f532c9eab6db",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "suspended",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-b028e3159ee1e",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-05T19:07:24.807Z",
+  "text": "Ravens HC Jesse Minter said he is unsure whether Lamar Jackson will be able to start Sunday night at the Falcons due to his ankle injury while adding that he doesn\u2019t think his QB\u2019s ankle injury is going to be \u201ccrazy long-term.\u201d",
+  "url": "https://www.espn.com/contributor/adam-schefter/b028e3159ee1e",
+  "teams": [
+   "BAL",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espn-b028e3159ee1e",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50085582",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T19:06:46Z",
+  "text": "Early bets for NFL Week 5: Three games we're jumping on before potential odds changes. Which Week 5 lines offered immediate value once odds came out? Here are three early bets we like.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50085582/nfl-week-5-betting-odds-props-early-picks-predictions-first-bet",
+  "teams": [
+   "CLE",
+   "WAS",
+   "LV",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50085582",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50110820",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T17:47:57Z",
+  "text": "Head coach Kyle Shanahan makes franchise history. The 49ers' win against the Broncos marks Kyle Shanahan's 167th franchise win, surpassing Bill Walsh for the all-time franchise record.",
+  "url": "https://www.espn.com/video/clip/_/id/50110820/head-coach-kyle-shanahan-makes-franchise-history",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50110820",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50110782",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T17:46:26Z",
+  "text": "Adam Schefter's players to watch at the trade deadline. Adam Schefter's players to watch at the trade deadline ",
+  "url": "https://www.espn.com/video/clip/_/id/50110782/adam-schefter-players-watch-trade-deadline",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50110782",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50110790",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T17:42:20Z",
+  "text": "Breaking down the Broncos' offensive struggles. Jeffrey Legwold details Head Coach Sean Payton's thoughts on the Broncos' loss against the 49ers.",
+  "url": "https://www.espn.com/video/clip/_/id/50110790/breaking-broncos-offensive-struggles",
+  "teams": [
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50110790",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-91ff816490c2e",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-05T17:16:24.298Z",
+  "text": "Source: Tests confirmed that Packers LB Edgerrin Cooper tore his Achilles.",
+  "url": "https://www.espn.com/contributor/adam-schefter/91ff816490c2e",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espn-91ff816490c2e",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-61a8b315a0773",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-05T16:34:53.906Z",
+  "text": "Bears HC Ben Johnson told @JeffJoniak on @ESPN1000 that QB Tyson Bagent is expected to start Sunday at Green Bay against the Packers.",
+  "url": "https://www.espn.com/contributor/adam-schefter/61a8b315a0773",
+  "teams": [
+   "CHI",
+   "GB"
+  ],
+  "facts": {
+   "id": "espn-61a8b315a0773",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50110007",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T16:28:19Z",
+  "text": "Is Omarion Hampton a good fantasy option in Week 5?. Is Omarion Hampton a good fantasy option in Week 5?",
+  "url": "https://www.espn.com/video/clip/_/id/50110007/is-omarion-hampton-good-fantasy-option-week-5",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50110007",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109963",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T16:18:04Z",
+  "text": "Why Mike Clay warns against getting carried away by Kyle Monangai's big fantasy haul in Week 4. Why Mike Clay warns against getting carried away by Kyle Monangai's big fantasy haul in Week 4",
+  "url": "https://www.espn.com/video/clip/_/id/50109963/why-mike-clay-warns-getting-carried-away-kyle-monangai-big-fantasy-haul-week-4",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50109963",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-47809892",
+  "source": "ESPN",
+  "author": "Doug Greenberg",
+  "time": "2026-10-05T16:16:21Z",
+  "text": "Super Bowl LXI odds: All 32 teams' odds to win the championship. Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+  "teams": [
+   "SEA",
+   "BAL",
+   "LA",
+   "BUF",
+   "SF",
+   "CHI",
+   "KC",
+   "JAX",
+   "HOU",
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-47809892",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-34636537",
+  "source": "ESPN",
+  "author": "ESPN Staff",
+  "time": "2026-10-05T16:16:08Z",
+  "text": "ManningCast 2026 schedule: How to watch MNF games and guests. Monday Night Football with Eli and Peyton Manning is back. Here's the 2026 game lineup, special guests and more.",
+  "url": "https://www.espn.com/nfl/story/_/id/34636537/maningcast-schedule-monday-night-football-guests-mnf",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-34636537",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109981",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T16:12:01Z",
+  "text": "Why Daniel Dopp sees Ollie Gordon II as a fantasy 'mirage'. Why Daniel Dopp sees Ollie Gordon II as a fantasy 'mirage'",
+  "url": "https://www.espn.com/video/clip/_/id/50109981/why-daniel-dopp-sees-ollie-gordon-ii-fantasy-mirage",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50109981",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49309401",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T16:11:37Z",
+  "text": "Fantasy football 14-team Knockout league rankings: The 196 players to draft. Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49309401",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109814",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T16:08:14Z",
+  "text": "Why Field Yates likes Drake Maye's fantasy prospects with more relaxed schedule. Why Field Yates likes Drake Maye's fantasy prospects with more relaxed schedule",
+  "url": "https://www.espn.com/video/clip/_/id/50109814/why-field-yates-likes-drake-maye-fantasy-prospects-more-relaxed-schedule",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50109814",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109800",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T16:01:39Z",
+  "text": "Mike Clay: CeeDee Lamb is an elite fantasy receiver. Mike Clay: CeeDee Lamb is an elite fantasy receiver  ",
+  "url": "https://www.espn.com/video/clip/_/id/50109800/ceedee-lamb-elite-fantasy-receiver",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50109800",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109541",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-10-05T16:00:01Z",
+  "text": "'Unacceptable': Ravens steaming after most penalty yards in 6 years. The Ravens were flagged 13 times Sunday for 131 yards, which was their most in a game in six years.",
+  "url": "https://www.espn.com/nfl/story/_/id/50109541/baltimore-ravens-steaming-most-penalty-yards-week-4",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50109541",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-48476156",
+  "source": "ESPN",
+  "author": "Doug Greenberg",
+  "time": "2026-10-05T15:51:05Z",
+  "text": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more. Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-48476156",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109897",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T15:46:33Z",
+  "text": "Stephen A.: Nobody is beating the Chiefs if they sign Tyreek Hill. Stephen A.: Nobody is beating the Chiefs if they sign Tyreek Hill ",
+  "url": "https://www.espn.com/video/clip/_/id/50109897/beating-chiefs-sign-tyreek-hill",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50109897",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109563",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T14:56:37Z",
+  "text": "Stephen A. disappointed by C.J. Gardner-Johnson's 'classless' response to Bills' loss. Stephen A. disappointed by C.J. Gardner-Johnson's 'classless' response to Bills' loss ",
+  "url": "https://www.espn.com/video/clip/_/id/50109563/stephen-disappointed-cj-gardner-johnson-classless-response-bills-loss",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50109563",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50085464",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T14:51:54Z",
+  "text": "NFL Week 5 betting: Odds, lines and totals for every game. A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals",
+  "teams": [
+   "ARI",
+   "ATL",
+   "BAL",
+   "BUF",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "GB",
+   "HOU",
+   "IND",
+   "JAX",
+   "KC",
+   "LV",
+   "LAC",
+   "LA",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SF",
+   "SEA",
+   "TB",
+   "TEN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50085464",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-fd521aa4cf8ab",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-05T14:47:55.68Z",
+  "text": "Developing: Tyreek Hill\u2019s agent Drew Rosenhaus said he plans to begin negotiating a deal for his veteran wide receiver with multiple teams today.\n\nOne of those teams is the Chiefs, who have maintained contact with Hill.\n\n\u201cI would anticipate Tyreek  potentially signing with a team over the next few days,\u201d Rosenhaus said.",
+  "url": "https://www.espn.com/contributor/adam-schefter/fd521aa4cf8ab",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espn-fd521aa4cf8ab",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109444",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T14:37:20Z",
+  "text": "Stephen A. not buying into Cowboys after win over Texans. Stephen A. not buying into Cowboys after win over Texans",
+  "url": "https://www.espn.com/video/clip/_/id/50109444/stephen-not-buying-cowboys-win-texans",
+  "teams": [
+   "DAL",
+   "HOU"
+  ],
+  "facts": {
+   "id": "espnnews-50109444",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109192",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T14:11:16Z",
+  "text": "Tedy Bruschi: NFL officials need to show more self-control. Tedy Bruschi: NFL officials need to show more self-control",
+  "url": "https://www.espn.com/video/clip/_/id/50109192/nfl-officials-need-show-more-self-control",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50109192",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50108953",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-10-05T14:09:38Z",
+  "text": "Vikings make history at 4-0 -- without a scoring offense. Minnesota sits atop the NFC North despite its special teams outscoring its offense the past three weeks.",
+  "url": "https://www.espn.com/nfl/story/_/id/50108953/minnesota-vikings-kyler-murray-4-0-justin-jefferson",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50108953",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-47879613",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-10-05T14:04:29Z",
+  "text": "Fantasy football 2026 offensive depth charts. Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-47879613",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109126",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-05T13:50:45Z",
+  "text": "C.J. Gardner-Johnson: Efton Chism III is a 'practice squad player' who 'made a hell of a catch'. C.J. Gardner-Johnson dismissed Efton Chism III as a \"practice squad player\" and said the Patriots WR's one-handed TD catch \"probably\" will never happen again.",
+  "url": "https://www.espn.com/nfl/story/_/id/50109126/cj-gardner-johnson-efton-chism-iii-practice-squad-player-made-helluva-catch",
+  "teams": [
+   "BUF",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50109126",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50109020",
   "source": "ESPN",
   "author": "ESPN",
@@ -5347,135 +6382,6 @@
   "facts": {
    "id": "espn-1dac01b2014aa",
    "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-d760fcb8dcf65",
-  "source": "ESPN",
-  "author": "Ian Rapoport",
-  "time": "2026-09-28T18:58:59.026Z",
-  "text": "Jets star RB Breece Hall, who suffered a quad injury in Sunday\u2019s game, is considered week-to-week, per me and Adam Schefter. \n\nHall received some good news after the MRI, as the injury isn\u2019t as significant as feared.",
-  "url": "https://www.espn.com/contributor/ian-rapoport/d760fcb8dcf65",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espn-d760fcb8dcf65",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-c4823194b197e",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-28T16:31:02.22Z",
-  "text": "#Buccaneers HC Todd Bowles said QB Baker Mayfield will miss three weeks due to his thumb injury.",
-  "url": "https://www.espn.com/contributor/adam-schefter/c4823194b197e",
-  "teams": [
-   "TB"
-  ],
-  "facts": {
-   "id": "espn-c4823194b197e",
-   "team": "TB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-475dbe33942c5",
-  "source": "ESPN",
-  "author": "Ian Rapoport",
-  "time": "2026-09-28T16:11:36.724Z",
-  "text": "\ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \n\nThe Giants are trading for Vikings former first-round QB JJ McCarthy, per me, Adam Schefter and Mike Garafolo.\n\nWith Jaxson Dart out for the regular season, NYG acquires McCarthy to help solidify their room. An intriguing add.",
-  "url": "https://www.espn.com/contributor/ian-rapoport/475dbe33942c5",
-  "teams": [
-   "NYG",
-   "MIN"
-  ],
-  "facts": {
-   "id": "espn-475dbe33942c5",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-3390e9062cd63",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-28T16:08:56.997Z",
-  "text": "Trade: Vikings are sending J.J. McCarthy to the New York Giants, sources tell me, @rapsheet and @mikegarafolo.",
-  "url": "https://www.espn.com/contributor/adam-schefter/3390e9062cd63",
-  "teams": [
-   "NYG",
-   "MIN"
-  ],
-  "facts": {
-   "id": "espn-3390e9062cd63",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "traded",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espn-ea8305121bd04",
-  "source": "ESPN",
-  "author": "Ian Rapoport",
-  "time": "2026-09-28T14:31:10.144Z",
-  "text": "Dolphins star RB De\u2019Von Achane suffered a torn ACL, sources tell me and Adam Schefter, and he\u2019s out for the season.\n\nIn an already trying season for Miami, the team loses Achane.",
-  "url": "https://www.espn.com/contributor/ian-rapoport/ea8305121bd04",
-  "teams": [
-   "MIA"
-  ],
-  "facts": {
-   "id": "espn-ea8305121bd04",
-   "team": "MIA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-ba45050c8dafe",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-28T14:30:44.378Z",
-  "text": "Dolphins RB De\u2019Von Achane suffered a torn ACL during Sunday\u2019s loss to the Chiefs and will be out for the season, sources tell @rapsheet and me.",
-  "url": "https://www.espn.com/contributor/adam-schefter/ba45050c8dafe",
-  "teams": [
-   "KC",
-   "MIA"
-  ],
-  "facts": {
-   "id": "espn-ba45050c8dafe",
-   "team": "KC",
    "player": null,
    "position": null,
    "status": "other",
