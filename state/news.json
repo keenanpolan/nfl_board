@@ -1,5 +1,491 @@
 [
  {
+  "id": "espnnews-50116287",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T13:03:59Z",
+  "text": "Is Baker Mayfield really the worst QB in the NFC South?. Is Baker Mayfield really the worst QB in the NFC South?",
+  "url": "https://www.espn.com/video/clip/_/id/50116287/is-baker-mayfield-really-worst-qb-nfc-south",
+  "teams": [
+   "TB"
+  ],
+  "facts": {
+   "id": "espnnews-50116287",
+   "team": "TB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109845",
+  "source": "ESPN",
+  "author": "NFL Nation",
+  "time": "2026-10-06T12:41:40Z",
+  "text": "2026 NFL Power Rankings: How all 32 teams stack up for Week 5. How does every NFL team stack up heading into Week 5? We made our 1-32 list and sized up each franchise's performance so far.",
+  "url": "https://www.espn.com/nfl/story/_/id/50109845/nfl-power-rankings-week-5-teams-first-month-recap",
+  "teams": [
+   "KC",
+   "LAC",
+   "LV",
+   "DEN",
+   "NE",
+   "NYJ",
+   "MIA",
+   "BUF",
+   "BAL",
+   "PIT",
+   "CLE",
+   "CIN",
+   "HOU",
+   "IND",
+   "TEN",
+   "JAX",
+   "SEA",
+   "SF",
+   "LA",
+   "ARI",
+   "PHI",
+   "WAS",
+   "NYG",
+   "DAL",
+   "DET",
+   "CHI",
+   "GB",
+   "MIN",
+   "TB",
+   "ATL",
+   "CAR",
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50109845",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50110488",
+  "source": "ESPN",
+  "author": "Ben Solak",
+  "time": "2026-10-06T12:25:08Z",
+  "text": "Seven things Solak thinks entering NFL Week 5: Jaguars are the AFC's best, more. Has Jacksonville climbed to the top of its conference? Get ready for Week 5 with takes on the Jaguars, Bengals, Rams, Bears, Texans, Eagles and Lions.",
+  "url": "https://www.espn.com/nfl/story/_/id/50110488/week-5-seven-things-solak-thinks-afc-nfc",
+  "teams": [
+   "JAX",
+   "LA",
+   "CHI",
+   "DET",
+   "PHI",
+   "HOU",
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50110488",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50114987",
+  "source": "ESPN",
+  "author": "Marc Raimondi",
+  "time": "2026-10-06T12:12:58Z",
+  "text": "Resurgent Falcons score 80 points in two-game winning streak. The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined points in a two-game winning surge.",
+  "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak",
+  "teams": [
+   "ATL",
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50114987",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49998196",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-06T11:09:12Z",
+  "text": "Fantasy football: Live Week 5 free agent pickups advice with ESPN expert. ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49998196/fantasy-football-waiver-wire-pickups-week",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49998196",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50112518",
+  "source": "ESPN",
+  "author": "Tristan H. Cockcroft",
+  "time": "2026-10-06T10:44:54Z",
+  "text": "Seven tips to drafting a winning short-season Knockout league team. From navigating early bye weeks, injuries and a deeper talent pool, here's how to approach a 14-team Knockout league.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50112518/knockout-league-short-season-strategy",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50112518",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50112803",
+  "source": "ESPN",
+  "author": "Mike Reiss",
+  "time": "2026-10-06T10:00:04Z",
+  "text": "Patriots shut down Dalton Kincaid but have Brock Bowers, Michael Mayer looming. The Patriots neutralized a red-hot Kincaid in Week 4 but know they have their work cut out for them against the Raiders' 1-2 tight end punch in Week 5.",
+  "url": "https://www.espn.com/nfl/story/_/id/50112803/new-england-patriots-defense-tight-ends-shut-dalton-kincaid",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50112803",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50113264",
+  "source": "ESPN",
+  "author": "Marcel Louis-Jacques",
+  "time": "2026-10-06T10:00:03Z",
+  "text": "How Dolphins QB Malik Willis prepared for second chance. Willis has worked for this opportunity in Miami, and he and the Dolphins believe he's ready for it.",
+  "url": "https://www.espn.com/nfl/story/_/id/50113264/malik-willis-dolphins-qb-second-chance",
+  "teams": [
+   "GB",
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50113264",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50115183",
+  "source": "ESPN",
+  "author": "Katherine Terrell",
+  "time": "2026-10-06T07:08:15Z",
+  "text": "Boos rain down from Superdome stands in Saints' blowout loss. New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities that we didn't take advantage of.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss",
+  "teams": [
+   "NO",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50115183",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50114656",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T05:18:30Z",
+  "text": "Bijan Robinson powers Falcons past Saints 45-24 on the 20th anniversary of the Superdome's reopening. \u2014 Bijan Robinson ensured there would be no punt to block this time \u2014 and the Atlanta Falcons were off and running.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401872979",
+  "teams": [
+   "NO",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50114656",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50112984",
+  "source": "ESPN",
+  "author": "Kalyn Kahler",
+  "time": "2026-10-06T05:14:35Z",
+  "text": "Ex-Bears LB Wilson in altercation with security at Soldier Field. Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
+  "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50112984",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50114045",
+  "source": "ESPN",
+  "author": "Marc Raimondi and Katherine Terrell",
+  "time": "2026-10-06T04:49:57Z",
+  "text": "Bijan Robinson sparks Falcons' rout of division rival Saints. The Falcons rolled over the Saints with Brian Robinson and Bijan Robinson combining for five rushing TDs.",
+  "url": "https://www.espn.com/nfl/story/_/id/50114045/mnf-falcons-saints-bijan-robinson",
+  "teams": [
+   "NO",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50114045",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50112493",
+  "source": "ESPN",
+  "author": "Brady Henderson",
+  "time": "2026-10-06T04:44:47Z",
+  "text": "Sources: Seahawks plan to sign RB Joe Mixon to practice squad. The Seahawks plan to sign veteran running back Joe Mixon to their practice squad as long as he passes his physical, sources told ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50112493/seahawks-signing-rb-joe-mixon-workout-source-says",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50112493",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50114836",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T04:26:26Z",
+  "text": "Bijan Robinson: Primetime games bring out a different energy. Bijan Robinson: Primetime games bring out a different energy ",
+  "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy",
+  "teams": [
+   "NO",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50114836",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50114637",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T03:39:06Z",
+  "text": "Falcons clobber Saints on the road. Falcons clobber Saints on the road",
+  "url": "https://www.espn.com/video/clip/_/id/50114637/falcons-clobber-saints-road",
+  "teams": [
+   "NO",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50114637",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50114232",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T02:37:25Z",
+  "text": "Steve Gleason and former teammates lead 'Who Dat?' chant on 20-year 'Domecoming' anniversary. Steve Gleason and former teammates lead 'Who Dat?' chant on 20-year 'Domecoming' anniversary",
+  "url": "https://www.espn.com/video/clip/_/id/50114232/steve-gleason-former-teammates-lead-dat-chant-20-year-domecoming-anniversary",
+  "teams": [
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50114232",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50112842",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-10-06T01:32:08Z",
+  "text": "MCL sprain sidelines Mariota; Daniels preps for full practice. In his team's loss to the Indianapolis Colts on Sunday, Washington Commanders quarterback Marcus Mariota suffered a sprained MCL of his right knee, and the timetable for his return remains uncertain coach Dan Quinn said on Monday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50112842/mcl-sprain-sidelines-mariota-daniels-preps-practice",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50112842",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50112533",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T00:56:13Z",
+  "text": "Cardinals LT Paris Johnson out for season after tearing biceps. Cardinals starting left tackle Paris Johnson Jr. is out for the season after tearing his left biceps in a 36-24 loss to the New York Giants on Sunday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50112533/cardinals-lt-paris-johnson-season-tearing-biceps",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50112533",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50112467",
+  "source": "ESPN",
+  "author": "ESPN Staff",
+  "time": "2026-10-05T23:50:50Z",
+  "text": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes. From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
+  "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel",
+  "teams": [
+   "JAX",
+   "CIN",
+   "DAL",
+   "BUF",
+   "NE",
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50112467",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50112664",
+  "source": "ESPN",
+  "author": "Todd Archer",
+  "time": "2026-10-05T22:57:26Z",
+  "text": "Cowboys' Tyler Smith hoping to be ready to face Bucs. Cowboys Pro Bowl guard Tyler Smith hopes to make his season debut Thursday against the Buccaneers after having surgery last month on his left thumb.",
+  "url": "https://www.espn.com/nfl/story/_/id/50112664/cowboys-tyler-smith-hoping-ready-face-bucs",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50112664",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-393713da9e3e9",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-05T22:04:24.705Z",
+  "text": "Seahawks are signing former Pro Bowl RB Joe Mixon, per @mikegarafolo. Mixon spent last year out of football recovering from an ankle injury and now lands with the Seahawks.",
+  "url": "https://www.espn.com/contributor/adam-schefter/393713da9e3e9",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espn-393713da9e3e9",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50112395",
   "source": "ESPN",
   "author": "Kris Rhim",
@@ -223,6 +709,38 @@
   "facts": {
    "id": "espnnews-50111568",
    "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50111576",
+  "source": "ESPN",
+  "author": "Doug Greenberg",
+  "time": "2026-10-05T21:15:51Z",
+  "text": "How the sportsbooks adjust after high volume of early-season NFL injuries. With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds",
+  "teams": [
+   "WAS",
+   "BAL",
+   "TB",
+   "CHI",
+   "NYG",
+   "PHI",
+   "NO",
+   "NE",
+   "CIN",
+   "MIN",
+   "MIA",
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50111576",
+   "team": "WAS",
    "player": null,
    "position": null,
    "status": "other",
@@ -6361,27 +6879,6 @@
   "facts": {
    "id": "espn-fac049bb45426",
    "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-1dac01b2014aa",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-29T01:20:56.987Z",
-  "text": "Eagles QB Jalen Hurts was evaluated for a concussion and cleared to return.",
-  "url": "https://www.espn.com/contributor/adam-schefter/1dac01b2014aa",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espn-1dac01b2014aa",
-   "team": "PHI",
    "player": null,
    "position": null,
    "status": "other",
