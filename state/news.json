@@ -1,5 +1,718 @@
 [
  {
+  "id": "espnnews-50127513",
+  "source": "ESPN",
+  "author": "Brooke Pryor",
+  "time": "2026-10-07T21:11:08Z",
+  "text": "Steelers QB Rodgers downplays heated exchange with McCarthy. The Steelers downplayed the several confrontations between players and coaches during Thursday night's loss, with Aaron Rodgers calling the display of emotion and passion a \"positive.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50127513/steelers-qb-rodgers-downplays-heated-exchange-mccarthy",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50127513",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50124990",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-10-07T21:10:29Z",
+  "text": "49ers FB Kyle Juszczyk's celebration fine rescinded after appeal. The NFL has rescinded the $14,926 fine it imposed on the 49ers' Kyle Juszczyk for what it thought was a distasteful celebration of chugging a beer.",
+  "url": "https://www.espn.com/nfl/story/_/id/50124990/nfl-rescinds-juszczyk-fine-says-misunderstood-celebration",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50124990",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50127635",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-10-07T21:05:47Z",
+  "text": "NFL, union clarify celebration rules, OK drinking gestures. The NFL and NFLPA said recent player celebrations imitating drinking a beverage will no longer be violations or result in discipline. The sides also clarified what celebrations remain prohibited.",
+  "url": "https://www.espn.com/nfl/story/_/id/50127635/nfl-union-clarify-celebration-rules-ok-drinking-gestures",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50127635",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50127527",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T20:59:33Z",
+  "text": "Why Jacoby Brissett is a great Week 5 fill-in for fantasy managers. Why Jacoby Brissett is a great Week 5 fill-in for fantasy managers",
+  "url": "https://www.espn.com/video/clip/_/id/50127527/why-jacoby-brissett-great-week-5-fill-fantasy-managers",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50127527",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50127531",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T20:54:53Z",
+  "text": "Why the Jets are a fantasy defense to consider in Week 5. Why the Jets are a fantasy defense to consider in Week 5",
+  "url": "https://www.espn.com/video/clip/_/id/50127531/why-jets-fantasy-defense-consider-week-5",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50127531",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50127526",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T20:49:44Z",
+  "text": "Why fantasy managers should look to add Jacob Rodriguez. Why fantasy managers should look to add Jacob Rodriguez",
+  "url": "https://www.espn.com/video/clip/_/id/50127526/why-fantasy-managers-look-add-jacob-rodriguez",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50127526",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50127159",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T20:47:50Z",
+  "text": "Texans' DeMeco Ryans taking over defensive playcalling duties. Texans coach DeMeco Ryans said Wednesday that he will be taking over the defensive playcalling duties amid his team's 0-4 start.",
+  "url": "https://www.espn.com/nfl/story/_/id/50127159/texans-demeco-ryans-taking-defensive-playcalling-duties",
+  "teams": [
+   "HOU"
+  ],
+  "facts": {
+   "id": "espnnews-50127159",
+   "team": "HOU",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50127154",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-10-07T20:41:55Z",
+  "text": "Jets' Aaron Glenn encouraged by support from owner Woody Johnson. Aaron Glenn has lost 17 of 21 games since becoming coach of the Jets, but he's encouraged by the support he's receiving from owner Woody Johnson.",
+  "url": "https://www.espn.com/nfl/story/_/id/50127154/jets-aaron-glenn-encouraged-support-owner-woody-johnson",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50127154",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50124795",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-10-07T20:37:40Z",
+  "text": "Is it time to panic about 49ers' injuries? Breaking down IR, trade deadline plan. The 49ers are again among the most injured teams in the NFL. We answered questions about their injuries and how they will affect the 2026 season.",
+  "url": "https://www.espn.com/nfl/story/_/id/50124795/san-francisco-49ers-2026-season-injuries-list",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50124795",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50127437",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T20:36:29Z",
+  "text": "Cowboys close hectic stretch on short week with another winless opponent in the Buccaneers. \u2014 The Dallas Cowboys are near the end of a hectic two-week itinerary that included 10-hour flights to and from Rio de Janeiro, another trip to Houston and now a quick turn to finish off three games in 11 days.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401872980",
+  "teams": [
+   "DAL",
+   "TB"
+  ],
+  "facts": {
+   "id": "espnnews-50127437",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50127172",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T20:04:01Z",
+  "text": "DeMeco Ryans announces he's taking over defensive playcalling duties. DeMeco Ryans announces he's taking over defensive playcalling duties",
+  "url": "https://www.espn.com/video/clip/_/id/50127172/demeco-ryans-announces-taking-defensive-playcalling-duties",
+  "teams": [
+   "HOU"
+  ],
+  "facts": {
+   "id": "espnnews-50127172",
+   "team": "HOU",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50127033",
+  "source": "ESPN",
+  "author": "Stephen Holder",
+  "time": "2026-10-07T19:51:49Z",
+  "text": "Colts' Sauce Gardner vows not to repeat 'embarrassing' effort. Colts cornerback Sauce Gardner said he gave his team an \"embarrassing\" effort in London and vowed there would not be a repeat performance.",
+  "url": "https://www.espn.com/nfl/story/_/id/50127033/colts-sauce-gardner-vows-not-repeat-embarrassing-effort",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50127033",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-b432b9a66ae0a",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-07T19:46:47.506Z",
+  "text": "Texans HC DeMeco Ryans said he now will take over defensive play-calling duties.",
+  "url": "https://www.espn.com/contributor/adam-schefter/b432b9a66ae0a",
+  "teams": [
+   "HOU"
+  ],
+  "facts": {
+   "id": "espn-b432b9a66ae0a",
+   "team": "HOU",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50126306",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-10-07T19:40:21Z",
+  "text": "Ravens acquire center Cam Jurgens in trade with Eagles. The Ravens have acquired two-time Pro Bowl center Cam Jurgens in a trade with the Eagles.",
+  "url": "https://www.espn.com/nfl/story/_/id/50126306/ravens-acquire-center-cam-jurgens-trade-eagles",
+  "teams": [
+   "BAL",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50126306",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50125332",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-10-07T19:37:56Z",
+  "text": "Odell Beckham Jr. signs with Vikings on practice squad. The Vikings are signing wide receiver Odell Beckham Jr. to their practice squad, a source told NFL Network's Ian Rapoport.",
+  "url": "https://www.espn.com/nfl/story/_/id/50125332/odell-beckham-jr-signs-vikings-practice-squad",
+  "teams": [
+   "MIN",
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50125332",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50119009",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-10-07T19:17:02Z",
+  "text": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage. The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+  "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+  "teams": [
+   "ARI",
+   "ATL",
+   "BAL",
+   "BUF",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "GB",
+   "HOU",
+   "IND",
+   "JAX",
+   "KC",
+   "LV",
+   "LAC",
+   "LA",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SF",
+   "SEA",
+   "TB",
+   "TEN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50119009",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50125971",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T18:57:17Z",
+  "text": "ESPN's Super Bowl LXI broadcast will also stream on Disney+. ESPN announced on Tuesday that its broadcast of Super Bowl LXI on Feb. 14, 2027, will also be streamed on Disney+.",
+  "url": "https://www.espn.com/nfl/story/_/id/50125971/espn-super-bowl-61-broadcast-stream-disney+",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50125971",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50126793",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T18:39:36Z",
+  "text": "Kevin O'Connell talks about bringing in OBJ to Vikings' practice squad. Kevin O'Connell talks about bringing in OBJ to Vikings' practice squad",
+  "url": "https://www.espn.com/video/clip/_/id/50126793/kevin-oconnell-talks-bringing-obj-vikings-practice-squad",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50126793",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50126768",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T18:32:49Z",
+  "text": "Jason Kelce excited for Cam Jurgens to return to center position in Baltimore. Jason Kelce excited for Cam Jurgens to return to center position in Baltimore",
+  "url": "https://www.espn.com/video/clip/_/id/50126768/jason-kelce-excited-cam-jurgens-return-center-position-baltimore",
+  "teams": [
+   "BAL",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50126768",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50126355",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T17:44:41Z",
+  "text": "Tetairoa McMillan to Rich Eisen: Bryce Young is easy to connect with. Tetairoa McMillan to Rich Eisen: Bryce Young is easy to connect with",
+  "url": "https://www.espn.com/video/clip/_/id/50126355/bryce-young-easy-connect-with",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50126355",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50126120",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T17:00:56Z",
+  "text": "Sirianni: I'll miss Lane Johnson dearly. Sirianni: I'll miss Lane Johnson dearly",
+  "url": "https://www.espn.com/video/clip/_/id/50126120/miss-lane-johnson-dearly",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50126120",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-b4363161357fd",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-07T16:54:58.757Z",
+  "text": "Trade: Eagles are sending two-time Pro Bowl center Cam Jurgens and a 2027 7th-round pick to the Ravens in exchange for a 2027 5th-round pick and a 2028 2nd-round pick, sources tell ESPN.",
+  "url": "https://www.espn.com/contributor/adam-schefter/b4363161357fd",
+  "teams": [
+   "PHI",
+   "BAL"
+  ],
+  "facts": {
+   "id": "espn-b4363161357fd",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-1490f83130562",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-07T16:23:03.264Z",
+  "text": "NFL rescinded the $13,611 fine given to Cowboys TE Jake Ferguson for saying he was \u201cshotgunning a beer\u201d. Ferguson told the league it was his Gatorade celebration that he previously had done on multiple occasions in practice, as the team had documented on social media. Fine rescinded.",
+  "url": "https://www.espn.com/contributor/adam-schefter/1490f83130562",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espn-1490f83130562",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50125164",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T15:52:58Z",
+  "text": "Why Daniel Dopp is not worried about D'Andre Swift's recent decline. Why Daniel Dopp is not worried about D'Andre Swift's recent decline",
+  "url": "https://www.espn.com/video/clip/_/id/50125164/why-daniel-dopp-not-worried-dandre-swift-recent-decline",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50125164",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50124472",
+  "source": "ESPN",
+  "author": "Liz Loza",
+  "time": "2026-10-07T15:44:37Z",
+  "text": "Facts vs. Feelings: Should you start Brissett, Tate or Burden in Week 5?. Whether you are 4-0 or 0-4, setting a smart Week 5 lineup starts with sorting the facts from your feelings.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50124472/facts-vs-feelings-fantasy-advice-week-5",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50124472",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50125335",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T15:36:47Z",
+  "text": "Why Field, Dopp are split on Shipley vs. Monangai in Week 5. Why Field, Dopp are split on Shipley vs. Monangai in Week 5",
+  "url": "https://www.espn.com/video/clip/_/id/50125335/why-field-dopp-split-shipley-vs-monangai-week-5",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50125335",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50125330",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T15:29:27Z",
+  "text": "Michael Wilson or Zay Flowers in Week 5? Mike Clay breaks the standoff. Michael Wilson or Zay Flowers in Week 5? Mike Clay breaks the standoff",
+  "url": "https://www.espn.com/video/clip/_/id/50125330/michael-wilson-zay-flowers-week-5-mike-clay-breaks-standoff",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50125330",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50125333",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T15:25:32Z",
+  "text": "Is Bo Nix or Sam Darnold a better fantasy play this week?. Is Bo Nix or Sam Darnold a better fantasy play this week?",
+  "url": "https://www.espn.com/video/clip/_/id/50125333/is-bo-nix-sam-darnold-better-fantasy-play-week",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50125333",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50125183",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T15:18:17Z",
+  "text": "Why Mike Clay is finally backing Jared Goff in Week 5. Why Mike Clay is finally backing Jared Goff in Week 5",
+  "url": "https://www.espn.com/video/clip/_/id/50125183/why-mike-clay-backing-jared-goff-week-5",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50125183",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50125078",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T15:13:42Z",
+  "text": "Can Michael Penix Jr. lead the Falcons to an NFC South title?. Can Michael Penix Jr. lead the Falcons to an NFC South title?",
+  "url": "https://www.espn.com/video/clip/_/id/50125078/can-michael-penix-jr-lead-falcons-nfc-south-title",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50125078",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-f60fc456c3a0e",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-07T14:54:35.714Z",
+  "text": "Vikings are signing veteran WR Odell Beckham Jr. to their practice squad.",
+  "url": "https://www.espn.com/contributor/adam-schefter/f60fc456c3a0e",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espn-f60fc456c3a0e",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50124626",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T14:29:16Z",
+  "text": "Can a healthy 49ers reach the Super Bowl?. Can a healthy 49ers reach the Super Bowl?",
+  "url": "https://www.espn.com/video/clip/_/id/50124626/can-healthy-49ers-reach-super-bowl",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50124626",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-5b4e12de8edcc",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-07T13:54:03.324Z",
+  "text": "The NFL has rescinded the $14,926 fine it imposed on 49ers FB Kyle \u201cJuice\u201d Juszczyk for what it thought was a distasteful celebration of chugging a beer. The league said it was withdrawing the fine \u201cbecause his celebration was simulating drinking a juice box, not a beer\u2026.Mr. Juszczyk finally stated that the fine is hypocritical with the amount of Bud Light sponsorships surrounding the NFL.\u201d Fine rescinded.",
+  "url": "https://www.espn.com/contributor/adam-schefter/5b4e12de8edcc",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espn-5b4e12de8edcc",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50122062",
   "source": "ESPN",
   "author": "Daniel Oyefusi",
@@ -7760,70 +8473,6 @@
    "status": "traded",
    "starting_qb": null,
    "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espn-f8e27825adef5",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-30T20:51:28.353Z",
-  "text": "Rams HC Sean McVay told reporters that he expects WR Puka Nacua, who has had a groin injury, to play Sunday vs. the Eagles.",
-  "url": "https://www.espn.com/contributor/adam-schefter/f8e27825adef5",
-  "teams": [
-   "PHI",
-   "LA"
-  ],
-  "facts": {
-   "id": "espn-f8e27825adef5",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-16d3e6bdb0352",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-30T15:52:06.135Z",
-  "text": "Packers are placing WR Jayden Reed on injured reserve due to his neck injury, per sources. Reed is out indefinitely if not for the season as he continues his recovery. He posted on IG today, \u201c11 out.\u201d",
-  "url": "https://www.espn.com/contributor/adam-schefter/16d3e6bdb0352",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espn-16d3e6bdb0352",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-fac049bb45426",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-30T13:22:39.585Z",
-  "text": "More offensive line help: Veteran guard Kevin Zeitler, who has played 14 NFL seasons, is signing a one-year deal with the Green Bay Packers, per sources. This week, the Packers now have added veteran offensive linemen Zeitler, Laken Tomlinson and Mekhi Becton.",
-  "url": "https://www.espn.com/contributor/adam-schefter/fac049bb45426",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espn-fac049bb45426",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
    "summary": null
   }
  }
