@@ -1,5 +1,945 @@
 [
  {
+  "id": "espnnews-50122062",
+  "source": "ESPN",
+  "author": "Daniel Oyefusi",
+  "time": "2026-10-07T12:57:10Z",
+  "text": "How Browns' defense reemerged as a strength after Week 1. The return to its strength of playing man coverage has played a big role in the unit's resurgence.",
+  "url": "https://www.espn.com/nfl/story/_/id/50122062/cleveland-browns-defense-reemerged-strength-man-zone",
+  "teams": [
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50122062",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50120611",
+  "source": "ESPN",
+  "author": "Stephen Holder",
+  "time": "2026-10-07T12:56:58Z",
+  "text": "Irsay-Gordon's presence on Colts sideline reignites debate. Carlie Irsay-Gordon's game-day routine isn't typical for owners, but she said it \"helps to understand and to ask questions.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50120611/indianapolis-colts-carlie-irsay-gordon-sideline",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50120611",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50109391",
+  "source": "ESPN",
+  "author": "Tristan H. Cockcroft",
+  "time": "2026-10-07T12:53:54Z",
+  "text": "Fantasy football matchup rankings: Upgrade D'Andre Swift, fade James Cook III. The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50109391/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50109391",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50121315",
+  "source": "ESPN",
+  "author": "Michael Rothstein",
+  "time": "2026-10-07T12:00:29Z",
+  "text": "Tyreek Hill's wife recounts assault, verbal abuse at trial. Tyreek Hill's wife recounted details of assault and verbal abuse during testimony Tuesday on the first day of a civil assault and battery trial in Florida, proceedings that began a day after ESPN reported Hill would potentially sign an NFL contract soon.",
+  "url": "https://www.espn.com/nfl/story/_/id/50121315/tyreek-hill-wife-recounts-assault-verbal-abuse-trial",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50121315",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50107443",
+  "source": "ESPN",
+  "author": "Pamela Maldonado",
+  "time": "2026-10-07T11:22:46Z",
+  "text": "Are Texans and Chargers this bad? And how do we bet the Rams one month in?. Four weeks into the NFL season, what do we know, and what can we expect moving forward?",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50107443/nfl-betting-lessons-2026-season-odds",
+  "teams": [
+   "HOU",
+   "LAC",
+   "SF",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50107443",
+   "team": "HOU",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50121196",
+  "source": "ESPN",
+  "author": "Jordan Raanan",
+  "time": "2026-10-07T10:36:50Z",
+  "text": "Giants' Berrios says he'll undergo season-ending foot surgery. Giants receiver Braxton Berrios will undergo season-ending surgery on his foot, he announced Tuesday on Instagram.",
+  "url": "https://www.espn.com/nfl/story/_/id/50121196/giants-berrios-says-undergo-season-ending-foot-surgery",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50121196",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117945",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T10:35:57Z",
+  "text": "NFL Referees Association to challenge officials' suspensions. The NFL Referees Association said it will challenge the severity of the suspensions of two officials for unprofessional conduct.",
+  "url": "https://www.espn.com/nfl/story/_/id/50117945/nfl-referees-association-challenge-officials-suspensions",
+  "teams": [
+   "ARI",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50117945",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50119122",
+  "source": "ESPN",
+  "author": "Tim McManus",
+  "time": "2026-10-07T10:35:42Z",
+  "text": "Eagles All-Pro Lane Johnson retires, ending 14-season NFL career. Eagles two-time All-Pro right tackle Lane Johnson announced his retirement Tuesday, ending a 14-year career spent entirely in Philadelphia.",
+  "url": "https://www.espn.com/nfl/story/_/id/50119122/eagles-all-pro-rt-lane-johnson-reties-ending-14-season-nfl-career",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50119122",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50119594",
+  "source": "ESPN",
+  "author": "Aaron Schatz",
+  "time": "2026-10-07T10:18:34Z",
+  "text": "Early 2026 NFL trends for the 49ers, Vikings, Bucs, Texans, Giants, Browns. Just how good are the 49ers? Are the Texans and Bucs better than their records? Are the Giants and Browns worse? We put the NFL season's first month in historical context.",
+  "url": "https://www.espn.com/nfl/story/_/id/50119594/early-2026-trends-stats-records-history-four-games",
+  "teams": [
+   "SF",
+   "MIN",
+   "TB",
+   "HOU",
+   "NYG",
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50119594",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50116787",
+  "source": "ESPN",
+  "author": "Jeremy Fowler and Dan Graziano",
+  "time": "2026-10-07T10:18:02Z",
+  "text": "NFL Week 5 latest intel, buzz questions, news, fantasy tips: What we're hearing. Could injuries to Saquon Barkley, Lamar Jackson and others derail their teams? Which AFC teams should trade for a WR? Which coordinators could get head coach interest?",
+  "url": "https://www.espn.com/nfl/story/_/id/50116787/week-5-buzz-fantasy-predictions-graziano-fowler-2026",
+  "teams": [
+   "PHI",
+   "BAL",
+   "DEN",
+   "KC",
+   "DET",
+   "LV",
+   "IND",
+   "TB",
+   "LAC",
+   "CIN",
+   "JAX",
+   "WAS",
+   "CAR",
+   "ATL",
+   "MIN",
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50116787",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50120750",
+  "source": "ESPN",
+  "author": "Michael DiRocco",
+  "time": "2026-10-07T10:00:11Z",
+  "text": "Why Jaguars play 26 of next 30 regular-season games away from Jacksonville. The Jaguars will become the first NFL team since 1926 to play in 12 or more stadiums in a single season -- including Tottenham Hotspur Stadium on Sunday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50120750/jacksonville-jaguars-road-games-london-orlando-2027",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50120750",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117262",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-10-07T10:00:11Z",
+  "text": "Jets searching for identity as losses become 'tough to stomach'. After a Week 1 win, New York has fallen to 1-3 and has struggled to assert itself the way it wants.",
+  "url": "https://www.espn.com/nfl/story/_/id/50117262/new-york-jets-searching-identity-aaron-glenn",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50117262",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50120172",
+  "source": "ESPN",
+  "author": "DJ Bien-Aime",
+  "time": "2026-10-07T10:00:02Z",
+  "text": "Texans' defense has gone from elite to struggling to close out games. Houston has given up late leads in three of the first four games despite scoring go-ahead touchdowns.",
+  "url": "https://www.espn.com/nfl/story/_/id/50120172/winless-texans-defense-struggling-cj-stroud",
+  "teams": [
+   "HOU"
+  ],
+  "facts": {
+   "id": "espnnews-50120172",
+   "team": "HOU",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50123398",
+  "source": "ESPN",
+  "author": "Leonard Solms",
+  "time": "2026-10-07T08:29:31Z",
+  "text": "Kyle Monangai, Chuba Hubbard starred in superb week for Africa's running backs in NFL. The Chicago Bears' Kyle Monangai (ties to Cameroon) and the Carolina Panthers' Chuba Hubbard (ties to Nigeria) starred in an NFL week which saw running backs with links to Africa impress.",
+  "url": "https://www.espn.com/espn/story/_/id/50123398/kyle-monangai-chuba-hubbard-starred-superb-week-africa-running-backs-nfl",
+  "teams": [
+   "CHI",
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50123398",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117244",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T01:18:20Z",
+  "text": "Is Isaiah Likely a top-10 TE option in Week 5?. Is Isaiah Likely a top-10 TE option in Week 5?",
+  "url": "https://www.espn.com/video/clip/_/id/50117244/is-isaiah-likely-top-10-te-option-week-5",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50117244",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50118818",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-07T00:56:05Z",
+  "text": "Three of Nolan Wells' friends sue Terrell Owens for defamation. Three friends of Nolan Wells, a Black college student who went missing from a Mississippi island during a Fourth of July celebration and was later found dead, are suing Terrell Owens for defamation.",
+  "url": "https://www.espn.com/nfl/story/_/id/50118818/three-nolan-wells-friends-sue-terrell-owens-defamation",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50118818",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50119780",
+  "source": "ESPN",
+  "author": "Mike Kaye",
+  "time": "2026-10-06T22:49:31Z",
+  "text": "MVP?! 3 keys to watch if Panthers QB Bryce Young is on that path. The 2023 first-round pick's start -- he leads the NFL with 1,268 passing yards -- puts him in the MVP conversation.",
+  "url": "https://www.espn.com/nfl/story/_/id/50119780/carolina-panthers-qb-bryce-young-3-keys-mvp-path",
+  "teams": [
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50119780",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49954186",
+  "source": "ESPN",
+  "author": "Tristan H. Cockcroft",
+  "time": "2026-10-06T21:44:26Z",
+  "text": "Fantasy football consistency ratings: 2024 to 2026. The consistency ratings weigh both how consistent and how start-worthy players have been from 2024 to 2026.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49954186/fantasy-football-rankings-consistency-ratings-start-sit-value",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49954186",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50119375",
+  "source": "ESPN",
+  "author": "Tristan H. Cockcroft",
+  "time": "2026-10-06T21:43:24Z",
+  "text": "Fantasy football consistency ratings for 2026. The consistency ratings weigh how consistent, as well as how start-worthy, players have been in ESPN fantasy football leagues in 2026.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50119375/2026-fantasy-football-rankings-start-sit",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50119375",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50118173",
+  "source": "ESPN",
+  "author": "Brady Henderson",
+  "time": "2026-10-06T21:02:30Z",
+  "text": "Source: Seahawks decide not to sign RB Joe Mixon after physical. The Seahawks decided not to sign veteran running back Joe Mixon to their practice squad after he underwent a physical, a source told ESPN's Adam Schefter.",
+  "url": "https://www.espn.com/nfl/story/_/id/50118173/source-seahawks-decide-not-sign-rb-joe-mixon-physical",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50118173",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117645",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T20:50:02Z",
+  "text": "Bryce Young to McAfee: 'We rally around the city in the same way they rally around us'. Bryce Young to McAfee: 'We rally around the city in the same way they rally around us'",
+  "url": "https://www.espn.com/video/clip/_/id/50117645/rally-city-same-way-rally-us",
+  "teams": [
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50117645",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50119243",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T20:29:07Z",
+  "text": "Dan Orlovsky: Lane Johnson's retirement a 'significant loss' for Eagles. Dan Orlovsky: Lane Johnson's retirement a 'significant loss' for Eagles",
+  "url": "https://www.espn.com/video/clip/_/id/50119243/lane-johnson-retirement-significant-loss-eagles",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50119243",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50119127",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T20:11:06Z",
+  "text": "Ian Rapoport: Eagles all-pro OT Lane Johnson announces retirement. Ian Rapoport: Eagles all-pro OT Lane Johnson announces retirement",
+  "url": "https://www.espn.com/video/clip/_/id/50119127/eagles-all-pro-ot-lane-johnson-announces-retirement",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50119127",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117108",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-10-06T20:03:05Z",
+  "text": "Strength of schedule (SOS) cheat sheet: Every team's year-to-date and rest-of-season ratings. Ranking each team's remaining schedule and how it might impact every position's fantasy performance.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50117108/fantasy-football-2026-strength-schedule-rest-season",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50117108",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-866e00e56c0e7",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-06T19:57:05.403Z",
+  "text": "Eagles perennial Pro Bowl OT Lane Johnson announced his retirement.",
+  "url": "https://www.espn.com/contributor/adam-schefter/866e00e56c0e7",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espn-866e00e56c0e7",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50118441",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T19:09:14Z",
+  "text": "Eisen reacts to Seahawks passing on Joe Mixon after his physical. Eisen reacts to Seahawks passing on Joe Mixon after his physical",
+  "url": "https://www.espn.com/video/clip/_/id/50118441/eisen-reacts-seahawks-passing-joe-mixon-physical",
+  "teams": [
+   "SEA",
+   "HOU"
+  ],
+  "facts": {
+   "id": "espnnews-50118441",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49949224",
+  "source": "ESPN",
+  "author": "Eric Karabell",
+  "time": "2026-10-06T18:17:19Z",
+  "text": "Rest-of-season rankings: Tetairoa McMillan, George Kittle rise while Jalen Hurts slips. Need a quick free agent pickup -- or roster overhaul -- after Week 4? These rankings are designed to help.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49949224",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-312abf267c140",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-06T17:44:20.851Z",
+  "text": "As it turns out, the Seahawks decided not to sign veteran running back Joe Mixon to their practice squad after he underwent a physical for the team, per league source. Mixon will remain a free agent.",
+  "url": "https://www.espn.com/contributor/adam-schefter/312abf267c140",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espn-312abf267c140",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117652",
+  "source": "ESPN",
+  "author": "Tristan H. Cockcroft",
+  "time": "2026-10-06T17:36:34Z",
+  "text": "Knockout league pickups: Jaxon Smith-Njigba, Ja'Marr Chase among big names available in Week 5. Tristan H. Cockcroft lists the most common players on eliminated teams and finds how much FAB to spend this week.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50117652/fantasy-football-knockout-waiver-wire-free-agent-pickups-nfl-week-5",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50117652",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117893",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T17:05:36Z",
+  "text": "What Kevin O'Connell sees in Kyler Murray. What Kevin O'Connell sees in Kyler Murray ",
+  "url": "https://www.espn.com/video/clip/_/id/50117893/what-kevin-oconnell-sees-kyler-murray",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50117893",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117199",
+  "source": "ESPN",
+  "author": "Tristan H. Cockcroft",
+  "time": "2026-10-06T17:04:36Z",
+  "text": "Fantasy football D/ST outlook for Weeks 5-8: Jaguars a solid option in October. Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50117199/fantasy-football-defense-special-teams-streaming-week-5",
+  "teams": [
+   "JAX",
+   "LA",
+   "WAS",
+   "KC",
+   "HOU",
+   "SEA",
+   "DAL",
+   "PIT",
+   "TB",
+   "BAL",
+   "CAR",
+   "CIN",
+   "NYJ",
+   "NYG",
+   "NE",
+   "IND",
+   "PHI",
+   "DET",
+   "MIN",
+   "CLE",
+   "TEN",
+   "CHI",
+   "LAC",
+   "BUF",
+   "MIA",
+   "ATL",
+   "LV",
+   "SF",
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50117199",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117083",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T16:00:51Z",
+  "text": "Are Keon Coleman and Dohnte Meyers good options for fantasy managers?. Are Keon Coleman and Dohnte Meyers good options for fantasy managers?",
+  "url": "https://www.espn.com/video/clip/_/id/50117083/are-keon-coleman-dohnte-meyers-good-options-fantasy-managers",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50117083",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117332",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T15:58:36Z",
+  "text": "Daniel Dopp: Michael Wilson is a fantasy football must-start in Week 5. Daniel Dopp: Michael Wilson is a fantasy football must-start in Week 5",
+  "url": "https://www.espn.com/video/clip/_/id/50117332/michael-wilson-fantasy-football-start-week-5",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50117332",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117248",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T15:46:00Z",
+  "text": "Daniel Dopp congratulates fantasy managers that have Bijan Robinson. Daniel Dopp congratulates fantasy managers that have Bijan Robinson",
+  "url": "https://www.espn.com/video/clip/_/id/50117248/daniel-dopp-congratulates-fantasy-managers-bijan-robinson",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50117248",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50116953",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T15:14:48Z",
+  "text": "Is Will Shipley a good fantasy option vs. Jaguars?. Is Will Shipley a good fantasy option vs. Jaguars?",
+  "url": "https://www.espn.com/video/clip/_/id/50116953/is-shipley-good-fantasy-option-vs-jaguars",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50116953",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50116889",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T15:06:19Z",
+  "text": "Mike Clay: Jacoby Brissett is a \u2018great streamer\u2019 in Week 5. Mike Clay: Jacoby Brissett is a \u2018great streamer\u2019 in Week 5",
+  "url": "https://www.espn.com/video/clip/_/id/50116889/jacoby-brissett-great-streamer-week-5",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50116889",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117073",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T15:01:17Z",
+  "text": "Is Tyreek Hill relevant in fantasy football?. Is Tyreek Hill relevant in fantasy football?  ",
+  "url": "https://www.espn.com/video/clip/_/id/50117073/is-tyreek-hill-relevant-fantasy-football",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50117073",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117068",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T14:57:20Z",
+  "text": "Stephen A. puzzled why Zac Taylor not under more scrutiny for Bengals' woes. Stephen A. puzzled why Zac Taylor not under more scrutiny for Bengals' woes ",
+  "url": "https://www.espn.com/video/clip/_/id/50117068/stephen-puzzled-why-zac-taylor-not-more-scrutiny-bengals-woes",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50117068",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50116802",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-06T14:24:08Z",
+  "text": "Stephen A. praises 'formidable' Falcons, Bijan after thumping Saints. Stephen A. praises 'formidable' Falcons, Bijan after thumping Saints",
+  "url": "https://www.espn.com/video/clip/_/id/50116802/stephen-praises-formidable-falcons-bijan-thumping-saints",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50116802",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49869463",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-10-06T14:18:25Z",
+  "text": "2026 expected fantasy points against (xFPA) by position. Measuring the best defenses against specific positions by using expected points vs. actual fantasy production.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49869463/2026-fantasy-football-expected-points-xfpa-position-qb-rb-wr-te",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49869463",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49869668",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-10-06T14:12:15Z",
+  "text": "Expected fantasy points (xFP): 2026 leaderboard for TEs. xFP focuses solely on opportunity. Here are the leaders for 2026.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49869668/2026-fantasy-football-expected-fantasy-points-xfp-te",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49869668",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49869659",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-10-06T14:10:09Z",
+  "text": "Expected fantasy points (xFP): 2026 leaderboard for WRs. xFP focuses solely on opportunity. Here are the leaders for 2026.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49869659/fantasy-football-2026-expected-fantasy-points-xfp-wr",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49869659",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49869631",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-10-06T14:08:45Z",
+  "text": "Expected fantasy points (xFP): 2026 leaderboard for RBs. xFP focuses solely on opportunity. Here are the leaders for 2026.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49869631/2026-fantasy-football-expected-fantasy-points-xfp-rb",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49869631",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49869566",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-10-06T14:07:28Z",
+  "text": "Expected fantasy points (xFP): 2026 leaderboard for QBs. xFP focuses solely on opportunity. Here are the leaders for 2026.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49869566/2026-fantasy-football-expected-fantasy-points-xfp-qb",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49869566",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50116287",
   "source": "ESPN",
   "author": "ESPN",
