@@ -1,5 +1,92 @@
 [
  {
+  "id": "espnnews-50135536",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-08T22:00:28Z",
+  "text": "Jayden Daniels is set to return but Commanders have other key injuries ahead of matchup with Giants. \u2014 As Commanders quarterback Jayden Daniels prepares for his return to the lineup, Washington could be without a handful of other key players for...",
+  "url": "http://www.espn.com/nfl/preview?gameId=401872988",
+  "teams": [
+   "WAS",
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50135536",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50135472",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-08T21:51:28Z",
+  "text": "The 49ers travel to face the Seahawks in their 1st meeting since last season's playoff loss. Games between the San Francisco 49ers and Seattle Seahawks are typically intense with the two rivals often competing for NFC West supremacy.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401872992",
+  "teams": [
+   "SEA",
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50135472",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50135427",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-10-08T21:41:37Z",
+  "text": "'That ain't me': Bears' D'Andre Swift laments early fumble issues. After fumbling twice in the Bears first four games, running back D'Andre Swift said Thursday his turnover problem is \"over with now.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50135427/that-aint-bears-dandre-swift-laments-early-season-fumbles",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50135427",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50135429",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-08T21:36:28Z",
+  "text": "Lions, Cardinals both trying to shake early season problems when they meet in the desert. \u2014 The Arizona Cardinals and Detroit Lions are two teams that aren't particularly happy with the way they're playing these days.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401872991",
+  "teams": [
+   "ARI",
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50135429",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-29553205",
   "source": "ESPN",
   "author": "ESPN",
@@ -520,6 +607,25 @@
   }
  },
  {
+  "id": "espnnews-49804332",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-08T16:04:25Z",
+  "text": "Fantasy football rankings for Week 5: IDP. Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804332",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50133068",
   "source": "ESPN",
   "author": "ESPN",
@@ -542,6 +648,63 @@
   }
  },
  {
+  "id": "espnnews-49804233",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-08T16:04:02Z",
+  "text": "Fantasy football rankings for Week 5: Kicker. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804233",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804273",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-08T16:03:41Z",
+  "text": "Fantasy football rankings for Week 5: D/ST. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804273",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804164",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-08T16:01:56Z",
+  "text": "Fantasy football rankings for Week 5: Tight end. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804164",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espn-47b7ba79d9fad",
   "source": "ESPN",
   "author": "Adam Schefter",
@@ -555,6 +718,63 @@
   "facts": {
    "id": "espn-47b7ba79d9fad",
    "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804149",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-08T16:01:25Z",
+  "text": "Fantasy football rankings for Week 5: Wide receiver. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804149",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804068",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-08T16:00:55Z",
+  "text": "Fantasy football rankings for Week 5: Running back. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804068",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804022",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-08T15:59:40Z",
+  "text": "Fantasy football rankings for Week 5: Quarterback. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804022",
+   "team": null,
    "player": null,
    "position": null,
    "status": "other",
@@ -644,6 +864,25 @@
   }
  },
  {
+  "id": "espnnews-49797082",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-08T15:17:22Z",
+  "text": "Fantasy football rankings Week 5: PPR and superflex. Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49797082",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50133156",
   "source": "ESPN",
   "author": "ESPN",
@@ -673,6 +912,27 @@
   "facts": {
    "id": "espnnews-50133263",
    "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-40699880",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-08T15:02:41Z",
+  "text": "Fantasy football buzz: Start Bucky Irving, sit Emeka Egbuka on Thursday night. Which Buccaneers should you start, sit or monitor coming into a Thursday night matchup with the Cowboys?",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-40699880",
+   "team": "SEA",
    "player": null,
    "position": null,
    "status": "other",
@@ -8394,92 +8654,6 @@
   "facts": {
    "id": "espnnews-50079855",
    "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50079218",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-01T22:03:15Z",
-  "text": "Joey Porter Jr. calls trade to Cowboys 'unreal'. Joey Porter Jr. calls trade to Cowboys 'unreal'",
-  "url": "https://www.espn.com/video/clip/_/id/50079218/joey-porter-jr-calls-trade-cowboys-unreal",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50079218",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50079466",
-  "source": "ESPN",
-  "author": "Todd Archer",
-  "time": "2026-10-01T21:59:16Z",
-  "text": "Joey Porter happy for fresh start with Cowboys, eyes Sunday debut. Joey Porter Jr. says he hopes to make his debut for the Cowboys on Sunday, when they play the Texans.",
-  "url": "https://www.espn.com/nfl/story/_/id/50079466/joey-porter-happy-fresh-start-cowboys-eyes-sunday-debut",
-  "teams": [
-   "DAL",
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50079466",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50079538",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-01T21:40:19Z",
-  "text": "Jaguars will take 'goldfish mentality' in defending Ja'Marr Chase. Michael DiRocco details Liam Coen's approach to slowing down Bengals star WR Ja'Marr Chase.",
-  "url": "https://www.espn.com/video/clip/_/id/50079538/jaguars-take-goldfish-mentality-defending-jamarr-chase",
-  "teams": [
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50079538",
-   "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50079368",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-01T21:15:33Z",
-  "text": "Jalen Hurts challenges underdog Eagles to find out who they are ahead of matchup with Rams. \u2014 Jalen Hurts isn't used to losing much with the Philadelphia Eagles \u2014 only 16 times since 2022 \u2014 and he certainly isn't used to getting embarrassed.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401872970",
-  "teams": [
-   "PHI",
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50079368",
-   "team": "PHI",
    "player": null,
    "position": null,
    "status": "other",
