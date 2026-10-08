@@ -1,5 +1,370 @@
 [
  {
+  "id": "espnnews-50118457",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-10-08T13:11:25Z",
+  "text": "'A loaded question': How do the Ravens plan to stop Bijan Robinson?. Baltimore is facing the NFL's most electric running back under the lights on Sunday night.",
+  "url": "https://www.espn.com/nfl/story/_/id/50118457/how-do-baltimore-ravens-plan-stop-bijan-robinson-week-5",
+  "teams": [
+   "BAL",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50118457",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50120618",
+  "source": "ESPN",
+  "author": "Anthony Gharib",
+  "time": "2026-10-08T13:07:04Z",
+  "text": "NFL Week 5 uniforms: Packers debut Rivalries look, Patriots wearing throwbacks. Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.",
+  "url": "https://www.espn.com/nfl/story/_/id/50120618/nfl-week-5-uniforms",
+  "teams": [
+   "ARI",
+   "ATL",
+   "BAL",
+   "BUF",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "GB",
+   "HOU",
+   "IND",
+   "JAX",
+   "KC",
+   "LV",
+   "LAC",
+   "LA",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SF",
+   "SEA",
+   "TB",
+   "TEN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50120618",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50124371",
+  "source": "ESPN",
+  "author": "Todd Archer",
+  "time": "2026-10-08T12:49:06Z",
+  "text": "Experience Cowboys QB Dak Prescott directing a TD play. From pre-snap to post-snap, Prescott processes dozens of elements before the ball leaves his hand and is caught for a 21-yard TD.",
+  "url": "https://www.espn.com/nfl/story/_/id/50124371/dallas-cowboys-dak-prescott-touchdown",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50124371",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50128245",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-10-08T10:47:50Z",
+  "text": "Vikings' Justin Jefferson says plan is to play vs. Saints. Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
+  "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50128245",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50127736",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-10-08T10:46:40Z",
+  "text": "Commanders' Jayden Daniels fully practices, trending toward return. Commanders quarterback Jayden Daniels continued on a path that is expected to result in him playing Sunday against the New York Giants, only three weeks after he dislocated his elbow.",
+  "url": "https://www.espn.com/nfl/story/_/id/50127736/commanders-jayden-daniels-fully-practices-trending-return",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50127736",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50125051",
+  "source": "ESPN",
+  "author": "Matt Bowen",
+  "time": "2026-10-08T10:40:59Z",
+  "text": "Fantasy football stock watch: Boston among players rising; Hurts falling. Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50125051",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50107167",
+  "source": "ESPN",
+  "author": "Matt Bowen",
+  "time": "2026-10-08T10:35:49Z",
+  "text": "How to bet Bucs-Cowboys on TNF: Analysis, tips and top prop plays. Odds, bets and analysis to help you bet Tampa Bay Buccaneers at Dallas Cowboys on \"Thursday Night Football.\"",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50107167/nfl-week-5-odds-betting-tips-picks-buccaneers-cowboys",
+  "teams": [
+   "TB",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50107167",
+   "team": "TB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50118698",
+  "source": "ESPN",
+  "author": "Bill Barnwell",
+  "time": "2026-10-08T10:21:17Z",
+  "text": "2026 NFL quarter-season awards: MVP picks, top rookies, OPOY, DPOY, best coaches. Brock Purdy for MVP? Klint Kubiak taking Coach of the Year? Will Anderson Jr. getting DPOY honors? We ranked the top candidates to win eight NFL awards through Week 4.",
+  "url": "https://www.espn.com/nfl/story/_/id/50118698/2026-early-awards-ranking-mvp-rookies-coaches-barnwell",
+  "teams": [
+   "MIA",
+   "LV",
+   "NYG",
+   "NYJ",
+   "KC",
+   "CLE",
+   "SF",
+   "CHI",
+   "MIN",
+   "BUF",
+   "HOU",
+   "SEA",
+   "ATL",
+   "DAL",
+   "JAX",
+   "DEN",
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50118698",
+   "team": "MIA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50125173",
+  "source": "ESPN",
+  "author": "Tim McManus",
+  "time": "2026-10-08T10:00:14Z",
+  "text": "Eagles offensive state of affairs in limbo. The offensive line has long been the lifeblood of this franchise.",
+  "url": "https://www.espn.com/nfl/story/_/id/50125173/philadelphia-eagles-offensive-line-limbo-week-5",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50125173",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50126338",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-10-08T10:00:11Z",
+  "text": "5 reasons why Vikings' defense sits atop the NFL rankings. Coordinator Brian Flores has Minnesota's defense humming and it's not just because Dallas Turner has elevated his game.",
+  "url": "https://www.espn.com/nfl/story/_/id/50126338/minnesota-vikings-defense-brian-flores-dallas-turner",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50126338",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50128547",
+  "source": "ESPN",
+  "author": "Xuan Thai",
+  "time": "2026-10-08T00:38:11Z",
+  "text": "Tyreek Hill's wife cross-examined during Day 2 of trial. Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+  "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50128547",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50128136",
+  "source": "ESPN",
+  "author": "Jeff Legwold",
+  "time": "2026-10-07T22:57:41Z",
+  "text": "Broncos' Payton: Concerned about details, not playcalling. Sean Payton said righting the wrongs of Denver's offense is more about the \"specific and the detail of each play,\" not who is actually calling the plays.",
+  "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling",
+  "teams": [
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50128136",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50127865",
+  "source": "ESPN",
+  "author": "Eric Woodyard",
+  "time": "2026-10-07T22:50:55Z",
+  "text": "TE Sam LaPorta says extension talks with Lions at 'stalemate'. Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
+  "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50127865",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50127773",
+  "source": "ESPN",
+  "author": "Jordan Raanan",
+  "time": "2026-10-07T22:38:43Z",
+  "text": "Giants' Malik Nabers has 'sore' knee, doesn't practice. Giants star wide receiver Malik Nabers did not practice Wednesday because of a knee injury, saying only he was more \"sore\" than usual.",
+  "url": "https://www.espn.com/nfl/story/_/id/50127773/giants-malik-nabers-sore-knee-practice",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50127773",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50126490",
+  "source": "ESPN",
+  "author": "Mackenzie Kraemer",
+  "time": "2026-10-07T21:37:07Z",
+  "text": "NFL survivor power rankings: Why you should use Texans, Cowboys. ESPN NFL survivor pool strategy, predictions and picks for Week 5 including the Texans and Cowboys.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50126490/nfl-survivor-week-5-survivor-pool-strategy-advice-picks",
+  "teams": [
+   "HOU",
+   "DAL",
+   "CIN",
+   "WAS",
+   "ATL",
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50126490",
+   "team": "HOU",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50127513",
   "source": "ESPN",
   "author": "Brooke Pryor",
@@ -8214,265 +8579,6 @@
    "status": "other",
    "starting_qb": null,
    "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50058762",
-  "source": "ESPN",
-  "author": "Mike Clay",
-  "time": "2026-10-01T12:49:02Z",
-  "text": "Fantasy playbook: NFL Week 4 Shadow Reports, lineup locks and projected scores. An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50058762/fantasy-playbook-projections-lineup-locks-2026-week-4-shadow-reports",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50058762",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50076456",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-01T12:47:54Z",
-  "text": "Gerald McCoy: Trade for Joey Porter Jr. doesn't solve Cowboys' defensive woes. Gerald McCoy: Trade for Joey Porter Jr. doesn't solve Cowboys' defensive woes",
-  "url": "https://www.espn.com/video/clip/_/id/50076456/trade-joey-porter-jr-solve-cowboys-defensive-woes",
-  "teams": [
-   "DAL",
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50076456",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50052991",
-  "source": "ESPN",
-  "author": "Ben Solak",
-  "time": "2026-10-01T12:15:26Z",
-  "text": "How to bet Steelers Browns on TNF: Analysis, tips and top prop plays. Odds, bets and analysis to help you bet Steelers-Browns on \"Thursday Night Football.\"",
-  "url": "https://www.espn.com/espn/betting/story/_/id/50052991/nfl-week-4-odds-betting-tips-picks-pittsburgh-steelers-cleveland-browns",
-  "teams": [
-   "PIT",
-   "CLE"
-  ],
-  "facts": {
-   "id": "espnnews-50052991",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50071255",
-  "source": "ESPN",
-  "author": "Rob Demovsky",
-  "time": "2026-10-01T10:00:02Z",
-  "text": "Packers' O-line leaves Jordan Love under constant pressure. The Packers have allowed more \"quick pressures\" against Love than any team in the NFL -- and it's not close.",
-  "url": "https://www.espn.com/nfl/story/_/id/50071255/nfl-green-bay-packers-jordan-love-offensive-line-pressure",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50071255",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50071416",
-  "source": "ESPN",
-  "author": "Brooke Pryor",
-  "time": "2026-10-01T10:00:01Z",
-  "text": "Why Darnell Washington has become the Steelers' X factor. At 6-foot-7 and nearly 300 pounds, the Pittsburgh tight end is more than a viral hurdle highlight reel.",
-  "url": "https://www.espn.com/nfl/story/_/id/50071416/pittsburgh-steelers-darnell-washington-viral-x-factor",
-  "teams": [
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50071416",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49907062",
-  "source": "ESPN",
-  "author": "Brooke Pryor",
-  "time": "2026-10-01T09:40:31Z",
-  "text": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones. The Steelers QB is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
-  "teams": [
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-49907062",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50043542",
-  "source": "ESPN",
-  "author": "Ben Solak and Seth Walder",
-  "time": "2026-10-01T05:22:52Z",
-  "text": "NFL trade deadline grades: Joey Porter Jr. to Cowboys, J.J. McCarthy to Giants. Can Joey Porter Jr. clean up the Cowboys' defense? Will J.J. McCarthy improve the Giants' QB situation? We're grading NFL trades ahead of November's deadline.",
-  "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-  "teams": [
-   "MIN",
-   "NYG",
-   "DAL",
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50043542",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50043471",
-  "source": "ESPN",
-  "author": "ESPN staff",
-  "time": "2026-10-01T04:57:54Z",
-  "text": "2026 NFL trade deadline updates: Latest on Joey Porter Jr., J.J. McCarthy deals. The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including the Steelers sending Joey Porter Jr. to the Cowboys.",
-  "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-  "teams": [
-   "MIN",
-   "NYG",
-   "DAL",
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50043471",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50073098",
-  "source": "ESPN",
-  "author": "Anthony Gharib",
-  "time": "2026-10-01T03:15:33Z",
-  "text": "Former Steelers HC Mike Tomlin reveals massive Minecraft city. The former Steelers coach revealed an unexpected longtime hobby that shocked the sports and gaming worlds.",
-  "url": "https://www.espn.com/nfl/story/_/id/50073098/former-steelers-coach-mike-tomlin-minecraft-city-12-year-reveal",
-  "teams": [
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50073098",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50073415",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-01T02:40:34Z",
-  "text": "Brian Flores set for reunion with Dolphins. Kevin Seifert breaks down Brian Flores' upcoming matchup against Miami as the Vikings prepare to host his former team.",
-  "url": "https://www.espn.com/video/clip/_/id/50073415/brian-flores-set-reunion-dolphins",
-  "teams": [
-   "MIA",
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50073415",
-   "team": "MIA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50071152",
-  "source": "ESPN",
-  "author": "John Keim",
-  "time": "2026-09-30T23:33:41Z",
-  "text": "London game reminds Marcus Mariota of the connection between football and soccer. For Mariota, who grew up playing soccer, Sunday's game against the Indianapolis Colts at Tottenham Hotspur Stadium is a chance to combine his love of both sports.",
-  "url": "https://www.espn.com/nfl/story/_/id/50071152/marcus-mariota-washington-commanders-london-game-soccer-tottenham-hotspur",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50071152",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-2c5da60c526bb",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-09-30T21:55:50.752Z",
-  "text": "Falcons DT Gervon Dexter is signing a four-year, $78 million extension that includes $46.5 million guaranteed, per his agents Drew and Jason Rosenhaus. Atlanta traded for Dexter on August 30, and now is signing him to an extension one month later.",
-  "url": "https://www.espn.com/contributor/adam-schefter/2c5da60c526bb",
-  "teams": [
-   "ATL"
-  ],
-  "facts": {
-   "id": "espn-2c5da60c526bb",
-   "team": "ATL",
-   "player": null,
-   "position": null,
-   "status": "traded",
-   "starting_qb": null,
-   "confirmed": true,
    "summary": null
   }
  }
