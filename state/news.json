@@ -1,5 +1,816 @@
 [
  {
+  "id": "espnnews-50142134",
+  "source": "ESPN",
+  "author": "Tim McManus",
+  "time": "2026-10-09T21:01:42Z",
+  "text": "Eagles release QB Andy Dalton after costly pick, demotion. Andy Dalton, who lost his spot as the Eagles' backup quarterback following a costly interception against the Bears, has been released.",
+  "url": "https://www.espn.com/nfl/story/_/id/50142134/sources-eagles-release-andy-dalton-costly-pick-demotion",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50142134",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "released",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50142241",
+  "source": "ESPN",
+  "author": "Kristian Rhim",
+  "time": "2026-10-09T20:59:14Z",
+  "text": "Chargers LT Rashawn Slater on IR following ankle surgery. The Chargers are placing Rashawn Slater on injured reserve after the left tackle had surgery for a high ankle sprain. Los Angeles will be without three of its starting offensive linemen against the Broncos on Sunday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50142241/chargers-lt-rashawn-slater-ir-following-ankle-surgery",
+  "teams": [
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50142241",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50140701",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T20:56:57Z",
+  "text": "Legendary coach, Hall of Fame TE Mike Ditka dies at age 86. Mike Ditka, a Hall of Fame tight end who became an NFL legend for his time as coach of the Bears, has died at the age of 86.",
+  "url": "https://www.espn.com/nfl/story/_/id/50140701/legendary-coach-hall-fame-te-mike-ditka-dies-age-86",
+  "teams": [
+   "CHI",
+   "NO",
+   "PHI",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50140701",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50142553",
+  "source": "ESPN",
+  "author": "Tim McManus",
+  "time": "2026-10-09T20:56:39Z",
+  "text": "Saquon Barkley, DeVonta Smith among Eagles ruled out vs. Jaguars. Eagles running back Saquon Barkley, receiver DeVonta Smith, new starting center Drew Kendall, safety Marcus Epps and receiver Hollywood Brown were all ruled out for Sunday's game in London against the Jaguars.",
+  "url": "https://www.espn.com/nfl/story/_/id/50142553/saquon-barkley-devonta-smith-eagles-players-ruled-london-game-vs-jaguars",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50142553",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50142595",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T20:42:15Z",
+  "text": "Jordan Mason is expected to return Week 7. Kevin Seifert breaks down Aaron Jones' increased workload at running back with Mason on IR.",
+  "url": "https://www.espn.com/video/clip/_/id/50142595/jordan-mason-expected-return-week-7",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50142595",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50142584",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T20:37:27Z",
+  "text": "NFL's longest active Iron Man streak may be in jeopardy. Marc Raimondi provides an update on Jake Matthews' groin injury ahead of what would be his 200th consecutive game starting.",
+  "url": "https://www.espn.com/video/clip/_/id/50142584/nfl-longest-active-iron-man-streak-jeopardy",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50142584",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50140978",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T20:22:35Z",
+  "text": "Stephen A. remembers how Mike Ditka 'elevated the NFL'. Stephen A. remembers how Mike Ditka 'elevated the NFL'",
+  "url": "https://www.espn.com/video/clip/_/id/50140978/stephen-remembers-how-mike-ditka-elevated-nfl",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50140978",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50135197",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T20:00:27Z",
+  "text": "Where to watch NFL London Games: Eagles vs. Jaguars. Eagles vs. Jaguars is a part of the NFL's games in London this season.",
+  "url": "https://www.espn.com/nfl/story/_/id/50135197/watch-2026-nfl-london-games-eagles-vs-jaguars",
+  "teams": [
+   "JAX",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50135197",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-ff3b824185f7e",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-09T19:57:44.041Z",
+  "text": "Eagles officially ruled out RB Saquon Barkley (hamstring) and WR DeVonta Smith (hamstring) for Sunday\u2019s game in London vs. the Jaguars. They are two of six players the Eagles ruled out for Sunday.",
+  "url": "https://www.espn.com/contributor/adam-schefter/ff3b824185f7e",
+  "teams": [
+   "PHI",
+   "JAX"
+  ],
+  "facts": {
+   "id": "espn-ff3b824185f7e",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50134144",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T19:51:52Z",
+  "text": "Bills vs. Rams: Where to watch 'Monday Night Football'. Here's what to know about the Week 5 matchup.",
+  "url": "https://www.espn.com/nfl/story/_/id/50134144/bills-vs-rams-watch-monday-night-football-week-5",
+  "teams": [
+   "BUF",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50134144",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50142102",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-10-09T19:50:34Z",
+  "text": "Vikings list WRs Justin Jefferson, Jordan Addison as questionable. Vikings receivers Justin Jefferson (ankle) and Jordan Addison (hamstring) were both listed as questionable for Sunday's game against the New Orleans Saints.",
+  "url": "https://www.espn.com/nfl/story/_/id/50142102/vikings-list-wrs-justin-jefferson-jordan-addison-questionable",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50142102",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "questionable",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50142254",
+  "source": "ESPN",
+  "author": "Josh Weinfuss",
+  "time": "2026-10-09T19:50:08Z",
+  "text": "Jeremiyah Love 'trending well' to play despite ankle reinjury. Cardinals rookie running back Jeremiyah Love aggravated his ankle injury last week against the Giants. He was limited in practice this week but is trending to play against the Lions.",
+  "url": "https://www.espn.com/nfl/story/_/id/50142254/jeremiyah-love-trending-well-play-ankle-reinjury",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50142254",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50142255",
+  "source": "ESPN",
+  "author": "Jordan Raanan",
+  "time": "2026-10-09T19:48:42Z",
+  "text": "Giants expect Nabers, Thomas, Skattebo and Likely to play Sunday. New York Giants wide receiver Malik Nabers is expected to play Sunday against the Washington Commanders after missing a practice earlier in the week because of knee soreness.",
+  "url": "https://www.espn.com/nfl/story/_/id/50142255/giants-expect-nabers-thomas-skattebo-likely-play-sunday",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50142255",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50142140",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-10-09T19:36:31Z",
+  "text": "Bears RB Monangai out, QB Williams now questionable vs. Packers. The Bears have ruled RB Kyle Monangai out for Sunday's matchup against the Packers, while QB Caleb Williams is questionable after being a limited participant in Friday's practice.",
+  "url": "https://www.espn.com/nfl/story/_/id/50142140/bears-rb-monangai-qb-williams-now-questionable-vs-packers",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50142140",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "questionable",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50142192",
+  "source": "ESPN",
+  "author": "Ryan McFadden",
+  "time": "2026-10-09T19:34:09Z",
+  "text": "Raiders RB Ashton Jeanty (ankle/foot) questionable vs. Pats. Raiders coach Klint Kubiak said Friday that RB Ashton Jeanty was questionable to play against the Patriots as he deals with ankle and foot injuries.",
+  "url": "https://www.espn.com/nfl/story/_/id/50142192/raiders-rb-ashton-jeanty-ankle-foot-questionable-vs-pats",
+  "teams": [
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50142192",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "questionable",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50141914",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T18:50:19Z",
+  "text": "Greeny remembers Mike Ditka: He was the 'biggest star in Chicago sports'. Greeny remembers Mike Ditka: He was the 'biggest star in Chicago sports'",
+  "url": "https://www.espn.com/video/clip/_/id/50141914/was-biggest-star-chicago-sports",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50141914",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50141918",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T18:47:16Z",
+  "text": "Daniel Jeremiah: 49ers-Seahawks is going to be a 'war'. Daniel Jeremiah: 49ers-Seahawks is going to be a 'war'",
+  "url": "https://www.espn.com/video/clip/_/id/50141918/49ers-seahawks-going-war",
+  "teams": [
+   "SF",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50141918",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50141743",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-10-09T18:46:33Z",
+  "text": "Ravens QB Lamar Jackson out; Huntley to start SNF vs. Falcons. The Ravens are ruling out quarterback Lamar Jackson for Sunday's game against the Falcons.",
+  "url": "https://www.espn.com/nfl/story/_/id/50141743/ravens-qb-lamar-jackson-huntley-start-snf-vs-falcons",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50141743",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50141584",
+  "source": "ESPN",
+  "author": "Mike Reiss",
+  "time": "2026-10-09T18:39:41Z",
+  "text": "Patriots won't have starting CBs Christian Gonzalez, Carlton Davis. The Patriots will be without starting cornerbacks Christian Gonzalez and Carlton Davis this week.",
+  "url": "https://www.espn.com/nfl/story/_/id/50141584/patriots-starting-cbs-christian-gonzalez-carlton-davis",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50141584",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50141717",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T17:56:25Z",
+  "text": "Matt Bowen: Colston Loveland is 'trending upward'. Matt Bowen: Colston Loveland is 'trending upward'",
+  "url": "https://www.espn.com/video/clip/_/id/50141717/colston-loveland-trending-upward",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50141717",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50141653",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T17:44:15Z",
+  "text": "Jesse Minter expects 'Snoop' Huntley to play well. Jesse Minter expects 'Snoop' Huntley to play well",
+  "url": "https://www.espn.com/video/clip/_/id/50141653/jesse-minter-expects-snoop-huntley-play-well",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50141653",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50141641",
+  "source": "ESPN",
+  "author": "Daniel Oyefusi",
+  "time": "2026-10-09T17:43:20Z",
+  "text": "Browns rule out DTs Graham, Hall against Jets. The Cleveland Browns ruled out defensive tackles Mason Graham and Mike Hall Jr. for Sunday's road game against the New York Jets.",
+  "url": "https://www.espn.com/nfl/story/_/id/50141641/browns-rule-dts-graham-hall-jets",
+  "teams": [
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50141641",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50141410",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-10-09T17:32:49Z",
+  "text": "Commanders QB Daniels will play, WR Diggs out against Giants. Commanders quarterback Jayden Daniels will start Sunday in his return from an elbow injury, but wide receiver Stefon Diggs will not play against the Giants due to a hamstring injury.",
+  "url": "https://www.espn.com/nfl/story/_/id/50141410/commanders-qb-daniels-play-wr-diggs-giants",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50141410",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-7c2a310f8d9a0",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-09T17:30:47.673Z",
+  "text": "Ravens QB Lamar Jackson has been ruled out for Sunday night\u2019s game in Atlanta.",
+  "url": "https://www.espn.com/contributor/adam-schefter/7c2a310f8d9a0",
+  "teams": [
+   "ATL",
+   "BAL"
+  ],
+  "facts": {
+   "id": "espn-7c2a310f8d9a0",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50141443",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T17:13:27Z",
+  "text": "Saints DC Brandon Staley not happy with Troy Aikman's comments. New Orleans Saints Defensive Coordinator Brandon Staley took issue with Troy Aikan's comments about the Saints' defensive struggles against the Falcons.",
+  "url": "https://www.espn.com/video/clip/_/id/50141443/saints-dc-brandon-staley-not-happy-troy-aikman-comments",
+  "teams": [
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50141443",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50141431",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T17:08:36Z",
+  "text": "Daniel Dopp's Week 5 DraftKings tournament lineup. Daniel Dopp's Week 5 DraftKings tournament lineup",
+  "url": "https://www.espn.com/video/clip/_/id/50141431/daniel-dopp-week-5-draftkings-tournament-lineup",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50141431",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50141219",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T16:31:34Z",
+  "text": "How Jonathan Taylor can help the Colts' offense. Stephen Holder covers the Colts' passing game without receiver Alec Pierce.",
+  "url": "https://www.espn.com/video/clip/_/id/50141219/how-jonathan-taylor-help-colts-offense",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50141219",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50140522",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T15:58:02Z",
+  "text": "Why Dopp thinks Denzel Boston's fantasy upside is slightly higher than KC Concepcion's. Why Dopp thinks Denzel Boston's fantasy upside is slightly higher than KC Concepcion's",
+  "url": "https://www.espn.com/video/clip/_/id/50140522/why-dopp-thinks-denzel-boston-fantasy-upside-slightly-higher-kc-concepcions",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50140522",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50140857",
+  "source": "ESPN",
+  "author": "Michael F. Florio",
+  "time": "2026-10-09T15:52:43Z",
+  "text": "Fantasy football: Why now is the ideal time to trade Derrick Henry. The ageless back is off to a strong start, which presents the opportunity to maximize the return in a deal.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50140857/fantasy-football-trades-value-derrick-henry",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50140857",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50140789",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-10-09T15:42:07Z",
+  "text": "Sputtering Jets offense without RB Hall, WR Mitchell vs. Browns. The Jets, coming off a historically poor performance, will be without two of their top playmakers in RB Breece Hall and WR Adonai Mitchell vs. the Browns.",
+  "url": "https://www.espn.com/nfl/story/_/id/50140789/sputtering-jets-offense-rb-hall-wr-mitchell-vs-browns",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50140789",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50140570",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T15:39:52Z",
+  "text": "Field Yates: Daniel Jones is a 'nonfactor' in fantasy right now. Field Yates: Daniel Jones is a 'nonfactor' in fantasy right now",
+  "url": "https://www.espn.com/video/clip/_/id/50140570/daniel-jones-nonfactor-fantasy-right-now",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50140570",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50140573",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T15:27:01Z",
+  "text": "Why Field Yates still likes Jaylen Warren's fantasy upside. Why Field Yates still likes Jaylen Warren's fantasy upside",
+  "url": "https://www.espn.com/video/clip/_/id/50140573/why-field-yates-likes-jaylen-warren-fantasy-upside",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50140573",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50140693",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T15:17:00Z",
+  "text": "Can fantasy managers even consider benching Brock Purdy in Week 5?. Can fantasy managers even consider benching Brock Purdy in Week 5?",
+  "url": "https://www.espn.com/video/clip/_/id/50140693/can-fantasy-managers-even-consider-benching-brock-purdy-week-5",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50140693",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50140555",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T15:14:17Z",
+  "text": "Why Josh Downs' heavy volume makes him a Week 5 lineup lock for Mike Clay. Why Josh Downs' heavy volume makes him a Week 5 lineup lock for Mike Clay",
+  "url": "https://www.espn.com/video/clip/_/id/50140555/why-josh-downs-heavy-volume-makes-week-5-lineup-lock-mike-clay",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50140555",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-7c41bd14a8aa6",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-09T15:11:07.494Z",
+  "text": "NFL legend Mike Ditka, who revolutionized the tight end position before becoming the head coach of the world champion 1985 Bears and a towering figure in the city of Chicago, has passed away, his family announced. He was 86.",
+  "url": "https://www.espn.com/contributor/adam-schefter/7c41bd14a8aa6",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espn-7c41bd14a8aa6",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50140484",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T14:53:41Z",
+  "text": "Why Stephen A. is picking the Commanders to beat the Giants. Why Stephen A. is picking the Commanders to beat the Giants",
+  "url": "https://www.espn.com/video/clip/_/id/50140484/why-stephen-picking-commanders-beat-giants",
+  "teams": [
+   "WAS",
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50140484",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50140483",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T14:32:19Z",
+  "text": "Stephen A.: The Cowboys 'couldn't do anything right' against the Bucs. Stephen A.: The Cowboys 'couldn't do anything right' against the Bucs",
+  "url": "https://www.espn.com/video/clip/_/id/50140483/cowboys-do-anything-right-bucs",
+  "teams": [
+   "DAL",
+   "TB"
+  ],
+  "facts": {
+   "id": "espnnews-50140483",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49803708",
+  "source": "ESPN",
+  "author": "Eric Karabell",
+  "time": "2026-10-09T14:05:56Z",
+  "text": "Fantasy football flex and superflex rankings for Week 5. Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49803708",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50135296",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-09T14:00:00Z",
+  "text": "The game that put Peyton Hillis in the ESPN Fantasy Football Hall of Fame. One-year wonder Peyton Hillis announced himself as a fantasy football force in Week 9 of the 2010 season.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50135296/fantasy-football-hall-fame-peyton-hillis",
+  "teams": [
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50135296",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50107426",
   "source": "ESPN",
   "author": "Ben Solak, Seth Walder, Matt Bowen and Mike Clay",
@@ -118,6 +929,25 @@
   "facts": {
    "id": "espnnews-50134206",
    "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49965396",
+  "source": "ESPN",
+  "author": "Eric Moody",
+  "time": "2026-10-09T11:02:48Z",
+  "text": "Fantasy football: Live Week 5 Q&A with our expert, noon ET. ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49965396/fantasy-football-start-sit-lineup-advice-week",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49965396",
+   "team": null,
    "player": null,
    "position": null,
    "status": "other",
@@ -7671,852 +8501,6 @@
    "status": "out",
    "starting_qb": null,
    "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50086449",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T21:11:23Z",
-  "text": "Cowboys need to start stacking wins. Todd Archer breaks down the Cowboys next three opponents and the addition of Joey Porter Jr.",
-  "url": "https://www.espn.com/video/clip/_/id/50086449/cowboys-need-start-stacking-wins",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50086449",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50086081",
-  "source": "ESPN",
-  "author": "Kevin Seifert",
-  "time": "2026-10-02T21:05:11Z",
-  "text": "Vikings' Justin Jefferson out vs. Dolphins with ankle injury. Vikings WR Justin Jefferson won't play against the Dolphins because of a sprained left ankle, but coach Kevin O'Connell is hopeful he can return in Week 5 vs. the Saints.",
-  "url": "https://www.espn.com/nfl/story/_/id/50086081/vikings-justin-jefferson-vs-dolphins-ankle-injury",
-  "teams": [
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50086081",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085994",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-10-02T21:02:31Z",
-  "text": "Aaron Donald out, Puka Nacua to play in Rams' game vs. Eagles. Rams defensive tackle Aaron Donald will not play against the Eagles as he deals with back soreness, while wide receiver Puka Nacua will return from a hip injury after missing the past two games.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085994/aaron-donald-puka-nacua-play-rams-game-vs-eagles",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50085994",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50086264",
-  "source": "ESPN",
-  "author": "DJ Bien-Aime",
-  "time": "2026-10-02T20:51:25Z",
-  "text": "Texans get WR Nico Collins (hamstring) back vs. Cowboys. The winless Texans got good news Friday as star wide receiver Nico Collins is set to return Sunday from a hamstring injury that forced him to miss Houston's last two games.",
-  "url": "https://www.espn.com/nfl/story/_/id/50086264/texans-get-wr-nico-collins-hamstring-back-vs-cowboys",
-  "teams": [
-   "HOU"
-  ],
-  "facts": {
-   "id": "espnnews-50086264",
-   "team": "HOU",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50086232",
-  "source": "ESPN",
-  "author": "Todd Archer",
-  "time": "2026-10-02T20:38:33Z",
-  "text": "Joey Porter Jr. without designation, could debut for Cowboys. Newly acquired Cowboys cornerback Joey Porter Jr. does not carry an injury designation after practicing the past two days following his trade from the Steelers.",
-  "url": "https://www.espn.com/nfl/story/_/id/50086232/joey-porter-jr-designation-debut-cowboys",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50086232",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50086122",
-  "source": "ESPN",
-  "author": "Keith Jenkins",
-  "time": "2026-10-02T20:29:21Z",
-  "text": "Falcons vs Saints: Where to watch 'Monday Night Football'. Bijan Robinson and the Atlanta Falcons head to the Crescent City to face Tyler Shough and the New Orleans Saints on \"Monday Night Football.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50086122/falcons-saints-where-watch-monday-night-football",
-  "teams": [
-   "CHI",
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50086122",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50086083",
-  "source": "ESPN",
-  "author": "Keith Jenkins",
-  "time": "2026-10-02T20:21:06Z",
-  "text": "Colts vs. Commanders: Where to watch the NFL London game. Kickoff between the Colts and Commanders is set for 9:30 a.m. ET at Tottenham Hotspur Stadium.",
-  "url": "https://www.espn.com/nfl/story/_/id/50086083/watch-colts-vs-commanders-london",
-  "teams": [
-   "IND",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50086083",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50086150",
-  "source": "ESPN",
-  "author": "Tim McManus",
-  "time": "2026-10-02T20:19:49Z",
-  "text": "Eagles' DeVonta Smith out vs. Rams with hamstring injury. Eagles WR DeVonta Smith will miss Sunday's game due to a lingering hamstring injury and will be joined on the sideline by linebacker Zack Baun (concussion).",
-  "url": "https://www.espn.com/nfl/story/_/id/50086150/eagles-devonta-smith-vs-rams-hamstring-injury",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50086150",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085613",
-  "source": "ESPN",
-  "author": "Mike Reiss",
-  "time": "2026-10-02T19:46:39Z",
-  "text": "Shoulder injuries sideline Gonzalez, Barmore as Pats ready for Bills. The New England Patriots will be without starting cornerback Christian Gonzalez and defensive tackle Christian Barmore due to a shoulder injury when they visit the Bills on Sunday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085613/patriots-defense-loses-gonzalez-barmore-high-octane-bills",
-  "teams": [
-   "NE",
-   "BUF"
-  ],
-  "facts": {
-   "id": "espnnews-50085613",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085908",
-  "source": "ESPN",
-  "author": "Jordan Raanan",
-  "time": "2026-10-02T19:43:22Z",
-  "text": "McCarthy: Trade to Giants a 'shock,' turns page on Vikings. Quarterback J.J. McCarthy said it was a \"shock\" to be traded from the Vikings to the Giants this week but is looking at it as an opportunity to show what he can do.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085908/mccarthy-trade-giants-shock-turns-page-vikings",
-  "teams": [
-   "NYG",
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50085908",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "traded",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50086060",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T19:40:45Z",
-  "text": "Why Rapoport believes there's an 'immediate future' for McCarthy in N.Y.. Why Rapoport believes there's an 'immediate future' for McCarthy in N.Y.",
-  "url": "https://www.espn.com/video/clip/_/id/50086060/why-rapoport-believes-there-immediate-future-mccarthy-ny",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50086060",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085721",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-10-02T19:13:13Z",
-  "text": "49ers owner Jed York suspended six games, fined $500K by NFL. 49ers owner Jed York has been suspended for six games and fined $500,000 for violating the NFL's personal conduct policy stemming from his August arrest after he tried to engage in prostitution in Ohio.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085721/49ers-owner-jed-york-suspended-six-games-fined-500k-nfl",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50085721",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "suspended",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50084552",
-  "source": "ESPN",
-  "author": "John Keim",
-  "time": "2026-10-02T18:58:58Z",
-  "text": "Commanders QB Jayden Daniels (elbow) ruled out vs. Colts. Commanders QB Jayden Daniels was ruled out of Sunday's game vs. the Colts, causing him to miss a second consecutive game because of a dislocated left elbow.",
-  "url": "https://www.espn.com/nfl/story/_/id/50084552/commanders-qb-jayden-daniels-elbow-ruled-vs-colts",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50084552",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085727",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-10-02T18:50:07Z",
-  "text": "Ravens' Trey Hendrickson has surgery on finger, out vs. Titans. The Ravens will be without top pass rusher Trey Hendrickson against the Titans on Sunday after the outside linebacker had surgery for a broken finger.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085727/ravens-trey-hendrickson-surgery-finger-vs-titans",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50085727",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085386",
-  "source": "ESPN",
-  "author": "Daniel Oyefusi",
-  "time": "2026-10-02T18:33:26Z",
-  "text": "Browns DT Mason Graham week-to-week with MCL, ankle sprains. Browns defensive tackle Mason Graham suffered MCL and ankle sprains against the Steelers, with sources telling NFL Network that Cleveland's leader in sacks is expected to be out a few weeks.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085386/browns-dt-mason-graham-set-miss-weeks-sources-say",
-  "teams": [
-   "CLE"
-  ],
-  "facts": {
-   "id": "espnnews-50085386",
-   "team": "CLE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085542",
-  "source": "ESPN",
-  "author": "Mike Kaye",
-  "time": "2026-10-02T18:03:28Z",
-  "text": "Panthers in wait-and-see mode with leading receiver Coker (quad). The Carolina Panthers are monitoring starting wide receiver Jalen Coker's quadriceps injury ahead of their Week 4 \"Sunday Night Football\" matchup with the Detroit Lions.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085542/coker-questionable-quad-injury-panthers",
-  "teams": [
-   "CAR",
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50085542",
-   "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085487",
-  "source": "ESPN",
-  "author": "Courtney Cronin",
-  "time": "2026-10-02T18:03:23Z",
-  "text": "Bears coach Ben Johnson not ready to name QB starter. Bears coach Ben Johnson will not say whether Case Keenum or Tyson Bagent will start Sunday against the Jets.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085487/bears-coach-ben-johnson-not-ready-name-qb-starter",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50085487",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "will start",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espn-f0a727e046b7b",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-02T18:02:09.398Z",
-  "text": "Just in: San Francisco 49ers principal owner Jed York has been suspended for six regular-season games and fined $500,000 for violating the NFL\u2019s Personal Conduct Policy.",
-  "url": "https://www.espn.com/contributor/adam-schefter/f0a727e046b7b",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espn-f0a727e046b7b",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "suspended",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50084877",
-  "source": "ESPN",
-  "author": "Mike Clay",
-  "time": "2026-10-02T17:45:20Z",
-  "text": "DraftKings DFS cheat sheet: Best values for Sunday's main slate. Build a winning DFS lineup with our DraftKings NFL Week 4 cheat sheet identifying the players you want to spend up for, the teams to stack, the value picks to grab and the players you need to avoid.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50084877/draftkings-nfl-dfs-values-week-4",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50084877",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085321",
-  "source": "ESPN",
-  "author": "Michael Dirocco",
-  "time": "2026-10-02T17:38:32Z",
-  "text": "Jaguars' Coen: Hunter cares only about winning, not 'other stuff'. How much Jaguars cornerback/receiver Travis Hunter is playing on defense and offense may be a subject of discussion among fans and analysts, but it definitely isn't inside the building.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085321/jaguars-coen-hunter-only-cares-winning-not-other-stuff",
-  "teams": [
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50085321",
-   "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085593",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T17:38:15Z",
-  "text": "Liam Coen: Travis Hunter cares only about winning. Liam Coen: Travis Hunter cares only about winning",
-  "url": "https://www.espn.com/video/clip/_/id/50085593/travis-hunter-cares-only-winning",
-  "teams": [
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50085593",
-   "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085069",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-10-02T17:21:39Z",
-  "text": "Jets rule out RB Hall, WR Mitchell, TE Taylor, LG Parham vs. Bears. Running back Breece Hall, wide receiver Adonai Mitchell, tight end Mason Taylor and left guard Dylan Parham were ruled out Friday for the Jets' road game against the Bears.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085069/jets-rule-rb-hall-wr-mitchell-te-taylor-lg-parham-vs-bears",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50085069",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085462",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T17:12:07Z",
-  "text": "Why Denzel Boston should be on the radar for all fantasy managers. Why Denzel Boston should be on the radar for all fantasy managers",
-  "url": "https://www.espn.com/video/clip/_/id/50085462/why-denzel-boston-the-radar-all-fantasy-managers",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50085462",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085245",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T16:57:47Z",
-  "text": "Tony Romo, CBS Sports agree to part after ex-QB's OWI arrest. Tony Romo will not return as an NFL game analyst for CBS Sports, the network announced, after he was arrested in July on charges of operating a vehicle while intoxicated.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085245/tony-romo-cbs-sports-agree-part-ex-qb-owi-arrest",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50085245",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085359",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T16:35:26Z",
-  "text": "Daniel Dopp's Week 4 DraftKings tournament lineup. Daniel Dopp's Week 4 DraftKings tournament lineup",
-  "url": "https://www.espn.com/video/clip/_/id/50085359/daniel-dopp-week-4-draftkings-tournament-lineup",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50085359",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50084902",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T15:39:21Z",
-  "text": "Mike Clay: David Montgomery is 'touchdown or bust'. Mike Clay: David Montgomery is 'touchdown or bust'",
-  "url": "https://www.espn.com/video/clip/_/id/50084902/david-montgomery-touchdown-bust",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50084902",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50084923",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T15:31:00Z",
-  "text": "Dopp: Saquon Barkley has turned into a mid to low-end running back. Dopp: Saquon Barkley has turned into a mid to low-end running back",
-  "url": "https://www.espn.com/video/clip/_/id/50084923/saquon-barkley-turned-mid-low-end-running-back",
-  "teams": [
-   "PHI",
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50084923",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50084873",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T15:27:35Z",
-  "text": "Why Mike Clay is concerned over Bhayshul Tuten's fantasy prospects. Why Mike Clay is concerned over Bhayshul Tuten's fantasy prospects",
-  "url": "https://www.espn.com/video/clip/_/id/50084873/why-mike-clay-concerned-bhayshul-tuten-fantasy-prospects",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50084873",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50084849",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T15:27:23Z",
-  "text": "Why Jalen Hurts has 'high bust potential' for fantasy managers in Week 4. Why Jalen Hurts has 'high bust potential' for fantasy managers in Week 4",
-  "url": "https://www.espn.com/video/clip/_/id/50084849/why-jalen-hurts-high-bust-potential-fantasy-managers-week-4",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50084849",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50084977",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T15:22:19Z",
-  "text": "Mike Clay lays out the red flags with Omarion Hampton. Mike Clay lays out the red flags with Omarion Hampton",
-  "url": "https://www.espn.com/video/clip/_/id/50084977/mike-clay-lays-red-flags-omarion-hampton",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50084977",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50084937",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T15:20:28Z",
-  "text": "Stephen A. adamant Eagles' offense a bigger problem than their defense. Stephen A. adamant Eagles' offense a bigger problem than their defense",
-  "url": "https://www.espn.com/video/clip/_/id/50084937/stephen-adamant-eagles-offense-bigger-problem-their-defense",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50084937",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085057",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T15:19:56Z",
-  "text": "Have Cowboys proven they are better off without Micah Parsons? Stephen A. weighs in. Have Cowboys proven they are better off without Micah Parsons? Stephen A. weighs in",
-  "url": "https://www.espn.com/video/clip/_/id/50085057/have-cowboys-proven-better-micah-parsons-stephen-weighs-in",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50085057",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085025",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T15:14:57Z",
-  "text": "Former Falcons C, 6-time Pro Bowler Jeff Van Note dies at 80. Jeff Van Note, a six-time Pro Bowl center who spent all 18 seasons of his NFL career with the Falcons and was inducted into the team's Ring of Honor in 2006, has died. He was 80.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085025/former-falcons-c-6-pro-bowler-jeff-van-note-dies-80",
-  "teams": [
-   "ATL"
-  ],
-  "facts": {
-   "id": "espnnews-50085025",
-   "team": "ATL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50053878",
-  "source": "ESPN",
-  "author": "Ben Solak, Seth Walder and Matt Bowen",
-  "time": "2026-10-02T15:00:27Z",
-  "text": "NFL Week 4 betting guide: Analysis and top plays for Sunday's games. Our experts dive into the odds and player props for Week 4 and offer their betting tips and favorite plays.",
-  "url": "https://www.espn.com/espn/betting/story/_/id/50053878/week-4-nfl-odds-spreads-lines-props-best-bets-sunday-football-games",
-  "teams": [
-   "BUF",
-   "NE",
-   "DET",
-   "CAR",
-   "LA",
-   "PHI",
-   "MIA"
-  ],
-  "facts": {
-   "id": "espnnews-50053878",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50084741",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T14:17:22Z",
-  "text": "Stephen A. kicks off 'First Take' with epic Steelers rant. Stephen A. kicks off 'First Take' with epic Steelers rant",
-  "url": "https://www.espn.com/video/clip/_/id/50084741/stephen-kicks-first-take-epic-steelers-rant",
-  "teams": [
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50084741",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50084718",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T14:09:36Z",
-  "text": "When will Zach Charbonnet return?. Brady Henderson reports on Charbonnet's return to practice and which week would be best for him to start.",
-  "url": "https://www.espn.com/video/clip/_/id/50084718/when-zach-charbonnet-return",
-  "teams": [
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50084718",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50084246",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T13:55:47Z",
-  "text": "Drew Brees inducted into ESPN Fantasy Football Hall of Fame. Drew Brees was first to 5,000 career fantasy points and stands as the No. 2 scorer of all time.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50084246/drew-brees-espn-fantasy-football-hall-fame",
-  "teams": [
-   "NO"
-  ],
-  "facts": {
-   "id": "espnnews-50084246",
-   "team": "NO",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49545945",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-10-02T13:54:32Z",
-  "text": "How active NFL players continue to redefine all-time sack list. Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-  "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
-  "teams": [
-   "LA",
-   "PIT",
-   "DAL",
-   "NO",
-   "BAL",
-   "ARI",
-   "ATL",
-   "BUF",
-   "CAR",
-   "CHI",
-   "CIN",
-   "CLE",
-   "DEN",
-   "DET",
-   "GB",
-   "HOU",
-   "IND",
-   "JAX",
-   "KC",
-   "LV",
-   "LAC",
-   "MIA",
-   "MIN",
-   "NE",
-   "NYG",
-   "NYJ",
-   "PHI",
-   "SF",
-   "SEA",
-   "TB",
-   "TEN",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-49545945",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50084412",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-02T13:15:12Z",
-  "text": "Dan Orlovsky: Brock Purdy is the best QB in football right now. Dan Orlovsky: Brock Purdy is the best QB in football right now",
-  "url": "https://www.espn.com/video/clip/_/id/50084412/brock-purdy-best-qb-football-right-now",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50084412",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
    "summary": null
   }
  }
