@@ -1,5 +1,47 @@
 [
  {
+  "id": "espnnews-50156254",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-11T16:47:53Z",
+  "text": "Sam Darnold embracing newfound stability in Seattle and life. Sam Darnold embracing newfound stability in Seattle and life",
+  "url": "https://www.espn.com/video/clip/_/id/50156254/sam-darnold-embracing-newfound-stability-seattle-life",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50156254",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50158493",
+  "source": "ESPN",
+  "author": "Michael Dirocco",
+  "time": "2026-10-11T16:45:08Z",
+  "text": "Jaguars rule out LT Anton Harrison with apparent knee injury. Jaguars left tackle Anton Harrison has been ruled out of Sunday's game against the Eagles after suffering an apparent knee injury in the second half.",
+  "url": "https://www.espn.com/nfl/story/_/id/50158493/jaguars-rule-lt-anton-harrison-apparent-knee-injury",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50158493",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50158323",
   "source": "ESPN",
   "author": "Tim McManus",
@@ -8369,68 +8411,6 @@
   "facts": {
    "id": "espnnews-50100584",
    "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085799",
-  "source": "ESPN",
-  "author": "NFL Nation",
-  "time": "2026-10-04T16:46:14Z",
-  "text": "Week 4 NFL highlights: Best plays, moments, touchdowns, more. Check out top the plays from Week 4, featuring the season's first game in London and a showdown of unbeatens in the late afternoon.",
-  "url": "https://www.espn.com/nfl/story/_/id/50085799/week-4-highlights-best-plays-touchdowns-2026",
-  "teams": [
-   "IND",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50085799",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49881131",
-  "source": "ESPN",
-  "author": "Mel Kiper Jr. and Jordan Reid",
-  "time": "2026-10-04T16:40:59Z",
-  "text": "2027 NFL draft questions, latest intel, risers, CFB standouts. Would an NFL team think about Jeremiah Smith with the first pick? Which Notre Dame players stood out Saturday? Here's draft spin off Week 5 of the CFB season.",
-  "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49881131",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50096452",
-  "source": "ESPN",
-  "author": "ESPN staff",
-  "time": "2026-10-04T16:40:37Z",
-  "text": "Michael Penix Jr., wife announce they're expecting first child. The couple took to Instagram to announce the news, jointly posting a video to the social media site titled \"A Short Love Story.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50096452/michael-penix-jr-wife-expecting-first-child",
-  "teams": [
-   "ATL"
-  ],
-  "facts": {
-   "id": "espnnews-50096452",
-   "team": "ATL",
    "player": null,
    "position": null,
    "status": "other",
