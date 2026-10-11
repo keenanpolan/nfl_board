@@ -1,5 +1,26 @@
 [
  {
+  "id": "espnnews-50158033",
+  "source": "ESPN",
+  "author": "Ryan McFadden",
+  "time": "2026-10-11T15:51:28Z",
+  "text": "Raiders RB Ashton Jeanty active against Patriots. Raiders starting running back Ashton Jeanty (ankle/foot) will play in Sunday's matchup against the Patriots after being listed as questionable.",
+  "url": "https://www.espn.com/nfl/story/_/id/50158033/raiders-rb-ashton-jeanty-active-patriots",
+  "teams": [
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50158033",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "questionable",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espn-d8eeb66f66bf2",
   "source": "ESPN",
   "author": "Adam Schefter",
@@ -8433,27 +8454,6 @@
   "facts": {
    "id": "espnnews-50095248",
    "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50098838",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-04T15:49:36Z",
-  "text": "Sources: Rams don't intend to limit Puka Nacua's workload. The Rams do not intend to limit Puka Nacua's workload Sunday against the Eagles, sources told ESPN.",
-  "url": "https://www.espn.com/nfl/story/_/id/50098838/sources-rams-intend-limit-puka-nacua-workload",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50098838",
-   "team": "LA",
    "player": null,
    "position": null,
    "status": "other",
