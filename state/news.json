@@ -1,5 +1,342 @@
 [
  {
+  "id": "espnnews-50151867",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-10-11T12:56:59Z",
+  "text": "Sources: Eagles mull Lane Johnson roster status amid O-line changes. Lane Johnson is expected to remain on the Eagles' 53-man roster until after June 1 for salary cap purposes as Philadelphia continues to navigate multiple changes to the offensive line.",
+  "url": "https://www.espn.com/nfl/story/_/id/50151867/sources-eagles-mull-lane-johnson-roster-status-amid-o-line-changes",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50151867",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50152303",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-11T12:54:43Z",
+  "text": "Doctors fear risk of further Jayden Daniels elbow injury. Doctors around the NFL believe it's a matter of when, not if, Commanders quarterback Jayden Daniels hurts his left elbow again, sources told ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50152303/doctors-fear-risk-further-jayden-daniels-elbow-injury",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50152303",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50149803",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-10-11T11:29:36Z",
+  "text": "Source: Odell Beckham Jr. joins Vikings roster, status unclear. While the Vikings elevated receiver Odell Beckham Jr. from the practice squad for Sunday's game, a source said, it's not yet decided if he'll play.",
+  "url": "https://www.espn.com/nfl/story/_/id/50149803/source-odell-beckham-jr-joins-vikings-roster-status-unclear",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50149803",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50150455",
+  "source": "ESPN",
+  "author": "Mike Reiss",
+  "time": "2026-10-11T11:14:08Z",
+  "text": "Patriots place veteran WR Mack Hollins on IR with calf injury. The Patriots placed veteran wide receiver Mack Hollins on injured reserve Saturday with a calf injury.",
+  "url": "https://www.espn.com/nfl/story/_/id/50150455/patriots-place-veteran-wr-mack-hollins-ir-calf-injury",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50150455",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50085010",
+  "source": "ESPN",
+  "author": "Eric Moody",
+  "time": "2026-10-11T10:31:04Z",
+  "text": "How to bet Ravens-Falcons on SNF: Analysis, tips and top prop plays. Odds, bets and analysis to help you bet Ravens-Falcons on \"Sunday Night Football.\"",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50085010/nfl-week-5-odds-betting-tips-ravens-falcons",
+  "teams": [
+   "BAL",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50085010",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50136210",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-10-11T10:00:04Z",
+  "text": "HOFer Ronnie Lott offers words of encouragement to Aaron Glenn as losses pile up. Glenn is 4-17 in New York and hasn't beaten a team with a winning record with the 3-1 Browns up next.",
+  "url": "https://www.espn.com/nfl/story/_/id/50136210/ronnie-lott-encourages-jets-coach-aaron-glenn",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50136210",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50142515",
+  "source": "ESPN",
+  "author": "Mike Reiss",
+  "time": "2026-10-11T10:00:02Z",
+  "text": "Patriots to honor the 2001 Super Bowl team: Can the 2026 squad learn from them?. Robert Kraft talked about the similarities between the two teams as he prepares to honor the 25th anniversary of the Patriots' first championship.",
+  "url": "https://www.espn.com/nfl/story/_/id/50142515/new-england-patriots-2001-adam-vinatieri-raiders",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50142515",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50148005",
+  "source": "ESPN",
+  "author": "Josh Weinfuss",
+  "time": "2026-10-11T03:14:16Z",
+  "text": "Sources: Cardinals finalizing deal to trade WR Marvin Harrison Jr.. The Cardinals are finalizing a deal to trade Marvin Harrison Jr., sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
+  "url": "https://www.espn.com/nfl/story/_/id/50148005/sources-cardinals-finalizing-deal-trade-wr-marvin-harrison-jr",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50148005",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50151392",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-10-10T23:02:08Z",
+  "text": "Christian McCaffrey, Olivia Culpo announce birth of second child. McCaffrey and his wife, Olivia Culpo, announced the news of the birth of their second child in a joint post on Instagram on Saturday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50151392/christian-mccaffrey-olivia-culpo-second-child",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50151392",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50150638",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-10-10T21:13:08Z",
+  "text": "Rams: Myles Garrett making 'good progress,' but no return timeline. Los Angeles Rams defensive end Myles Garrett is \"making good progress\" in his recovery from knee surgery, coach Sean McVay said, but the team is unlikely to open his 21-day practice window next week.",
+  "url": "https://www.espn.com/nfl/story/_/id/50150638/rams-say-myles-garrett-making-good-progress-no-return-line",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50150638",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50149634",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-10T19:50:54Z",
+  "text": "Steelers place WR Michael Pittman Jr. on IR with foot injury. The Pittsburgh Steelers placed wide receiver Michael Pittman Jr. (foot) on injured reserve, the team announced on Saturday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50149634/steelers-placing-wr-pittman-injured-reserve",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50149634",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50149505",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-10-10T19:28:09Z",
+  "text": "Bills rule out Ed Oliver, Joshua Palmer, wait on WR DJ Moore. Bills wide receiver DJ Moore returned to practice in a noncontact jersey and will be designated as questionable for \"Monday Night Football\" against the Rams. Buffalo has ruled out wide receiver Joshua Palmer and defensive tackle Ed Oliver.",
+  "url": "https://www.espn.com/nfl/story/_/id/50149505/bills-rule-ed-oliver-joshua-palmer-wait-wr-dj-moore",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50149505",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50148833",
+  "source": "ESPN",
+  "author": "Stephen Holder",
+  "time": "2026-10-10T18:01:12Z",
+  "text": "Colts place DE Arden Key on IR with hamstring injury. Colts defensive end Arden Key has been placed on injured reserve with a hamstring injury, meaning he will miss at least four games before returning to the active roster.",
+  "url": "https://www.espn.com/nfl/story/_/id/50148833/colts-place-de-arden-key-ir-hamstring-injury",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50148833",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50147669",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-10T15:03:34Z",
+  "text": "Sources: Ravens held Cam Jurgens physical before trade with Eagles. As the Ravens and Eagles were preparing to agree to a trade that would send Cam Jurgens to Baltimore, the two sides made immediate plans for the center to undergo a physical in Philadelphia before any deal was finalized, league sources told ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50147669/sources-ravens-held-cam-jurgens-physical-trade-eagles",
+  "teams": [
+   "BAL",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50147669",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-7eefec99dbef4",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-10T15:02:26.656Z",
+  "text": "Breaking: the Arizona Cardinals are finalizing a deal to trade WR Marvin Harrison, sources tell me and @RapSheet.\n\nThe team informed Harrison this morning that he will be inactive for Sunday\u2019s game vs Detroit as details of the trade are finalized.",
+  "url": "https://www.espn.com/contributor/adam-schefter/7eefec99dbef4",
+  "teams": [
+   "ARI",
+   "DET"
+  ],
+  "facts": {
+   "id": "espn-7eefec99dbef4",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50147794",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-10-10T14:46:25Z",
+  "text": "DraftKings DFS cheat sheet: Best values for Sunday's main slate. Build a winning DFS lineup with our DraftKings NFL Week 5 cheat sheet identifying the players you want to spend up for, the teams to stack, the value picks to grab and the players you need to avoid.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50147794/draftkings-nfl-dfs-values-week-5",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50147794",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50144125",
   "source": "ESPN",
   "author": "Brady Henderson",
@@ -8179,334 +8516,6 @@
   "facts": {
    "id": "espnnews-50094193",
    "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50095892",
-  "source": "ESPN",
-  "author": "Ian Rapoport",
-  "time": "2026-10-04T12:50:51Z",
-  "text": "Brian Schottenheimer owned up to Rio mistakes in Cowboys meeting. Cowboys coach Brian Schottenheimer took accountability in the locker room for last Sunday's late-game loss to the Ravens.",
-  "url": "https://www.espn.com/nfl/story/_/id/50095892/brian-schottenheimer-owned-rio-mistakes-cowboys-meeting",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50095892",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50093238",
-  "source": "ESPN",
-  "author": "Mike Kaye",
-  "time": "2026-10-04T12:50:06Z",
-  "text": "Panthers put Legette on IR; Coker also likely out vs. Lions. The Panthers have placed 2024 first-round pick Xavier Legette on injured reserve ahead of Sunday's primetime matchup against the Lions. Wide receiver Jalen Coker is also unlikely to play against the Lions, sources told ESPN.",
-  "url": "https://www.espn.com/nfl/story/_/id/50093238/panthers-place-wr-xavier-legette-ir-knee-injury",
-  "teams": [
-   "CAR"
-  ],
-  "facts": {
-   "id": "espnnews-50093238",
-   "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50053980",
-  "source": "ESPN",
-  "author": "Pamela Maldonado",
-  "time": "2026-10-04T10:38:39Z",
-  "text": "How to bet Lions-Panthers on 'SNF': Analysis, tips and top prop plays. Odds, bets and analysis to help you bet Lions-Panthers on \"Sunday Night Football.\"",
-  "url": "https://www.espn.com/espn/betting/story/_/id/50053980/nfl-week-4-odds-betting-tips-picks-detroit-lions-carolina-panthers",
-  "teams": [
-   "DET",
-   "CAR"
-  ],
-  "facts": {
-   "id": "espnnews-50053980",
-   "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50080901",
-  "source": "ESPN",
-  "author": "Marcel Louis-Jacques",
-  "time": "2026-10-04T10:00:15Z",
-  "text": "What are the top 10 upsets in Super Bowl history?. What are the biggest upsets in Super Bowl history? The Patriots, Jets, Giants, Eagles, Seahawks and others make their cases.",
-  "url": "https://www.espn.com/nfl/story/_/id/50080901/super-bowl-top-10-upsets-patriots-jets-giants",
-  "teams": [
-   "NE",
-   "NYG",
-   "NYJ",
-   "DEN",
-   "LA",
-   "SEA",
-   "GB",
-   "IND",
-   "PHI",
-   "BUF",
-   "WAS",
-   "LV",
-   "TB"
-  ],
-  "facts": {
-   "id": "espnnews-50080901",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50086456",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-10-04T10:00:11Z",
-  "text": "Jets rookie Kenyon Sadiq has been a necessity instead of a 'luxury' draft pick. New York used its second (No. 16) of three first-round picks on the tight end out of Oregon.",
-  "url": "https://www.espn.com/nfl/story/_/id/50086456/jets-rookie-kenyon-sadiq-necessity-not-luxury",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50086456",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50092718",
-  "source": "ESPN",
-  "author": "John Keim",
-  "time": "2026-10-04T00:13:54Z",
-  "text": "How Commanders owner Josh Harris, fans connected at London bar. The Commanders owner covered drinks for a crowd of approximately 3,000 fans on Saturday afternoon at the BrewDog in London.",
-  "url": "https://www.espn.com/nfl/story/_/id/50092718/washington-commanders-josh-harris-london-bar",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50092718",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50087681",
-  "source": "ESPN",
-  "author": "Mike Reiss",
-  "time": "2026-10-03T22:00:02Z",
-  "text": "Patriots preach patience when it comes to receiver WR Romeo Doubs' modest start. After the Patriots signed him to a four-year deal in March, Doubs is searching for his footing in the offense entering Week 4.",
-  "url": "https://www.espn.com/nfl/story/_/id/50087681/patriots-romeo-doubs-bills-game",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50087681",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50093007",
-  "source": "ESPN",
-  "author": "Brady Henderson",
-  "time": "2026-10-03T21:00:28Z",
-  "text": "Seahawks place RB Jadarian Price (chest) on IR. The Seattle Seahawks are placing starting running back Jadarian Price on injured reserve, the team announced Saturday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50093007/seahawks-place-rb-jadarian-price-chest-ir",
-  "teams": [
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50093007",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50092744",
-  "source": "ESPN",
-  "author": "Courtney Cronin",
-  "time": "2026-10-03T20:37:39Z",
-  "text": "Bears LT Braxton Jones on IR; Theo Benedet to start vs. Jets. Bears left tackle Braxton Jones has been placed on injured reserve after sustaining an injury to his right knee against the Eagles in Week 3.",
-  "url": "https://www.espn.com/nfl/story/_/id/50092744/bears-lt-braxton-jones-ir-theo-benedet-start-vs-jets",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50092744",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espn-741196fd11b34",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-03T19:54:56.541Z",
-  "text": "Seahawks are placing first-round pick, RB Jadarian Price, on injured reserve due to the chest injury he aggravated at practice this week. Price now will miss a minimum of four weeks.",
-  "url": "https://www.espn.com/contributor/adam-schefter/741196fd11b34",
-  "teams": [
-   "SEA"
-  ],
-  "facts": {
-   "id": "espn-741196fd11b34",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50092475",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-03T19:52:53Z",
-  "text": "Terry McLaurin could miss Sunday's game against Colts. John Keim gives the latest updated on the status of Terry McLaurin heading into the Commanders game against the Colts.",
-  "url": "https://www.espn.com/video/clip/_/id/50092475/terry-mclaurin-miss-sunday-game-colts",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50092475",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50092081",
-  "source": "ESPN",
-  "author": "Katherine Terrell",
-  "time": "2026-10-03T19:16:45Z",
-  "text": "Saints rule out LB Kaden Elliss, pass rusher Carl Granderson. Saints linebacker Kaden Elliss (calf) and edge rushers Carl Granderson (ankle) and Anfernee Jennings (knee) have been ruled out against the Falcons on \"Monday Night Football.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50092081/saints-rule-lb-kaden-elliss-pass-rusher-carl-granderson",
-  "teams": [
-   "NO"
-  ],
-  "facts": {
-   "id": "espnnews-50092081",
-   "team": "NO",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50090624",
-  "source": "ESPN",
-  "author": "Stephen Holder",
-  "time": "2026-10-03T16:55:57Z",
-  "text": "Colts WR Keenan Allen (groin) out vs. Commanders in London. Colts wide receiver Keenan Allen has a groin injury that will force him to sit out Sunday's game in London against the Commanders.",
-  "url": "https://www.espn.com/nfl/story/_/id/50090624/colts-wr-keenan-allen-groin-vs-commanders-london",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50090624",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50090746",
-  "source": "ESPN",
-  "author": "Courtney Cronin",
-  "time": "2026-10-03T16:51:12Z",
-  "text": "Source: Bears expected to start QB Tyson Bagent vs. Jets. The Bears are expected to start Tyson Bagent at quarterback against the Jets, according to NFL Network's Ian Rapoport.",
-  "url": "https://www.espn.com/nfl/story/_/id/50090746/source-bears-expected-start-qb-tyson-bagent-vs-jets",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50090746",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50086531",
-  "source": "ESPN",
-  "author": "Josh Weinfuss",
-  "time": "2026-10-03T14:35:29Z",
-  "text": "Why Bill Parcells considers Jacoby Brissett to be like a son. Bill Parcells has been a mentor to Jacoby Brissett since high school, guiding him through football and life decisions.",
-  "url": "https://www.espn.com/nfl/story/_/id/50086531/bill-parcells-cardinals-jacoby-brissett-friendship",
-  "teams": [
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50086531",
-   "team": "ARI",
    "player": null,
    "position": null,
    "status": "other",
