@@ -1,5 +1,157 @@
 [
  {
+  "id": "espnnews-50192123",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-10-15T22:07:38Z",
+  "text": "Bears QB Williams unsure if he's playing, has to still go through protocols. Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
+  "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50192123",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50191830",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-10-15T22:06:28Z",
+  "text": "Jayden Daniels addresses teammates on gaffe, vows 'it'll never happen again'. Jayden Daniels addressed his Commanders teammates, once more blaming himself for the end-of-overtime debacle against the Giants and vowing it won't happen again.",
+  "url": "https://www.espn.com/nfl/story/_/id/50191830/jayden-daniels-addresses-commanders-teammates-ot-gaffe",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50191830",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50191945",
+  "source": "ESPN",
+  "author": "Brady Henderson and Jeff Legwold",
+  "time": "2026-10-15T21:50:48Z",
+  "text": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays. Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
+  "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf",
+  "teams": [
+   "SEA",
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50191945",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50192014",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-15T21:44:28Z",
+  "text": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback. \u2014 When Chicago Bears coach Ben Johnson said this week that \u201ca lot of things have gone through our minds\u201d about his quarterback depth chart, the Atlanta Falcons could relate.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401872999",
+  "teams": [
+   "ATL",
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50192014",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50191989",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-15T21:39:28Z",
+  "text": "The 49ers look to avoid letdown, while the Commanders try to get past hangover of disappointing tie. \u2014 The San Francisco 49ers were still basking in the glow of an exhilarating road win against division...",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873008",
+  "teams": [
+   "SF",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50191989",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50191957",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-15T21:28:28Z",
+  "text": "The Bills aim to avoid a letdown in Las Vegas as the Raiders seek a rebound. \u2014 Buffalo will come into its game against Las Vegas trying to maintain momentum. The Bills could learn a lesson on what not to do from the Raiders.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873005",
+  "teams": [
+   "LV",
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50191957",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-db5694b177c7e",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-15T21:21:38.755Z",
+  "text": "Texans RB\u00a0David Montgomery\u00a0(groin) and S\u00a0Jalen Pitre\u00a0(shoulder) will not travel with the team to London and have been ruled out for Sunday's game against the Jacksonville Jaguars.",
+  "url": "https://www.espn.com/contributor/adam-schefter/db5694b177c7e",
+  "teams": [
+   "JAX",
+   "HOU"
+  ],
+  "facts": {
+   "id": "espn-db5694b177c7e",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50191564",
   "source": "ESPN",
   "author": "Ryan McFadden",
@@ -215,6 +367,120 @@
   }
  },
  {
+  "id": "espnnews-49804233",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-15T19:23:48Z",
+  "text": "Fantasy football rankings for Week 6: Kicker. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804233",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804164",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-15T19:23:30Z",
+  "text": "Fantasy football rankings for Week 6: Tight end. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804164",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804149",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-15T19:23:10Z",
+  "text": "Fantasy football rankings for Week 6: Wide receiver. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804149",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804068",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-15T19:22:48Z",
+  "text": "Fantasy football rankings for Week 6: Running back. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804068",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804022",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-15T19:22:32Z",
+  "text": "Fantasy football rankings for Week 6: Quarterback. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804022",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49797082",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-15T19:22:12Z",
+  "text": "Fantasy football rankings Week 6: PPR and superflex. Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49797082",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50191108",
   "source": "ESPN",
   "author": "ESPN",
@@ -227,6 +493,65 @@
   "facts": {
    "id": "espnnews-50191108",
    "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-40699880",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-15T19:15:08Z",
+  "text": "Fantasy football buzz: QB options to add with Jalen Hurts ruled out in Week 6. With Jalen Hurts ruled out, here are three QB options to add, as well as the latest on the Steelers RB split.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-40699880",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804332",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-15T19:07:27Z",
+  "text": "Fantasy football rankings for Week 6: IDP. Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804332",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804273",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-15T19:05:32Z",
+  "text": "Fantasy football rankings for Week 6: D/ST. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804273",
+   "team": null,
    "player": null,
    "position": null,
    "status": "other",
@@ -7339,93 +7664,6 @@
   "facts": {
    "id": "espnnews-50135848",
    "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50135536",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-08T22:00:28Z",
-  "text": "Jayden Daniels is set to return but Commanders have other key injuries ahead of matchup with Giants. \u2014 As Commanders quarterback Jayden Daniels prepares for his return to the lineup, Washington could be without a handful of other key players for...",
-  "url": "http://www.espn.com/nfl/preview?gameId=401872988",
-  "teams": [
-   "WAS",
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50135536",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50135472",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-08T21:51:28Z",
-  "text": "The 49ers travel to face the Seahawks in their 1st meeting since last season's playoff loss. Games between the San Francisco 49ers and Seattle Seahawks are typically intense with the two rivals often competing for NFC West supremacy.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401872992",
-  "teams": [
-   "SEA",
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50135472",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50135427",
-  "source": "ESPN",
-  "author": "Courtney Cronin",
-  "time": "2026-10-08T21:41:37Z",
-  "text": "'That ain't me': Bears' D'Andre Swift laments early fumble issues. After fumbling twice in the Bears first four games, running back D'Andre Swift said Thursday his turnover problem is \"over with now.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50135427/that-aint-bears-dandre-swift-laments-early-season-fumbles",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50135427",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50135429",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-08T21:36:28Z",
-  "text": "Lions, Cardinals both trying to shake early season problems when they meet in the desert. \u2014 The Arizona Cardinals and Detroit Lions are two teams that aren't particularly happy with the way they're playing these days.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401872991",
-  "teams": [
-   "ARI",
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50135429",
-   "team": "ARI",
    "player": null,
    "position": null,
    "status": "other",
