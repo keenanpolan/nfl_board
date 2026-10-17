@@ -1,5 +1,313 @@
 [
  {
+  "id": "espnnews-50200910",
+  "source": "ESPN",
+  "author": "Mike Reiss",
+  "time": "2026-10-17T13:15:21Z",
+  "text": "Source: Patriots likely to activate WR A.J. Brown for Sunday's game vs. Jets. Patriots wide receiver A.J. Brown is likely to be activated Saturday after missing the last four games with a right high-ankle sprain, a source told NFL Network's Ian Rapoport.",
+  "url": "https://www.espn.com/nfl/story/_/id/50200910/source-patriots-likely-activate-aj-brown-jets-game",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50200910",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50200792",
+  "source": "ESPN",
+  "author": "Michael Dirocco",
+  "time": "2026-10-17T12:26:41Z",
+  "text": "Jags unlikely to play 3 international games in 2027 during EverBank renovations. Jaguars team president Mark Lamping said the team is unlikely to play three international home games in 2027 while renovations to EverBank Stadium continue.",
+  "url": "https://www.espn.com/nfl/story/_/id/50200792/jaguars-unlikely-play-3-international-home-games-2027",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50200792",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50200331",
+  "source": "ESPN",
+  "author": "Ian Rapoport and Adam Schefter",
+  "time": "2026-10-17T12:17:04Z",
+  "text": "Sources: Eagles' Jalen Hurts, out indefinitely with blood clot, not planned for IR. The Eagles are not planning to put Jalen Hurts on injured reserve, sources told ESPN, even as he remains sidelined indefinitely with a superficial blood clot.",
+  "url": "https://www.espn.com/nfl/story/_/id/50200331/sources-no-ir-plans-hurts-indefinitely-clot",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50200331",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-10387c0370efb",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-17T12:05:01.49Z",
+  "text": "The Philadelphia Eagles are not planning to place quarterback Jalen Hurts on injured reserve, sources told @RapSheet and me, even as he remains sidelined indefinitely because of a superficial blood clot.",
+  "url": "https://www.espn.com/contributor/adam-schefter/10387c0370efb",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espn-10387c0370efb",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50190428",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-17T11:53:37Z",
+  "text": "Where to watch NFL London Games: Texans vs. Jaguars. Texans vs. Jaguars is a part of the NFL's games in London this season.",
+  "url": "https://www.espn.com/nfl/story/_/id/50190428/watch-2026-nfl-london-games-texans-vs-jaguars",
+  "teams": [
+   "HOU",
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50190428",
+   "team": "HOU",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50189544",
+  "source": "ESPN",
+  "author": "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
+  "time": "2026-10-17T10:48:57Z",
+  "text": "NFL Week 6 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more. First touchdown of 2026 for Drake London? Aaron Rodgers climbing the NFL record books? The Texans pulling an upset? Let's predict 15 things for Week 6.",
+  "url": "https://www.espn.com/nfl/story/_/id/50189544/week-6-predictions-upsets-fantasy-sleepers-stats-2026",
+  "teams": [
+   "DAL",
+   "HOU",
+   "NYG",
+   "IND",
+   "KC",
+   "LV",
+   "NO",
+   "LA",
+   "ATL",
+   "CLE",
+   "TEN",
+   "PIT",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50189544",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50190584",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-10-17T10:41:15Z",
+  "text": "Rams can't seem to fix their special teams. Special teams have played a significant role in five of the Rams' nine losses since the start of last season, including the playoffs.",
+  "url": "https://www.espn.com/nfl/story/_/id/50190584/los-angeles-rams-special-teams-no-fix-week-6",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50190584",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50189538",
+  "source": "ESPN",
+  "author": "Turron Davenport",
+  "time": "2026-10-17T10:38:28Z",
+  "text": "Where is the Tennessee Titans' pass rush?. The Titans invested more in the defensive front than any other area when Robert Saleh took over. So far, there hasn't been a significant ROI.",
+  "url": "https://www.espn.com/nfl/story/_/id/50189538/where-tennessee-titans-pass-rush-week-6",
+  "teams": [
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50189538",
+   "team": "TEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50190463",
+  "source": "ESPN",
+  "author": "Jamison Hensley and Daniel Oyefusi",
+  "time": "2026-10-17T10:00:10Z",
+  "text": "Ravens believe Browns' Todd Monken wants 'to kick our tail'. When Cleveland's coach takes the sideline Sunday, Baltimore players will face off against their fiery former OC.",
+  "url": "https://www.espn.com/nfl/story/_/id/50190463/baltimore-ravens-browns-todd-monken-rematch-week-6",
+  "teams": [
+   "BAL",
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50190463",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50195809",
+  "source": "ESPN",
+  "author": "Rob Demovsky and Todd Archer",
+  "time": "2026-10-17T10:00:02Z",
+  "text": "What Cowboys-Packers' Micah Parsons trade means a year later. We examine the fallout and lingering impact on both franchises more than a year after the blockbuster deal.",
+  "url": "https://www.espn.com/nfl/story/_/id/50195809/cowboys-packers-micah-parsons-trade-winner",
+  "teams": [
+   "GB",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50195809",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50192344",
+  "source": "ESPN",
+  "author": "Anthony Gharib",
+  "time": "2026-10-17T10:00:01Z",
+  "text": "Why is Chargers RB Omarion Hampton's snap count decreasing?. Coach Jim Harbaugh and OC Mike McDaniel on why RB Omarion Hampton is being used differently.",
+  "url": "https://www.espn.com/nfl/story/_/id/50192344/los-angeles-chargers-running-back-omarion-hampton-snaps",
+  "teams": [
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50192344",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50189765",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-17T03:53:00Z",
+  "text": "Commanders vs. 49ers: Where to watch 'Monday Night Football'. Here's what to know about the Week 6 matchup.",
+  "url": "https://www.espn.com/nfl/story/_/id/50189765/commanders-vs-49ers-watch-monday-night-football-week-6",
+  "teams": [
+   "SF",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50189765",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50198584",
+  "source": "ESPN",
+  "author": "Turron Davenport",
+  "time": "2026-10-16T23:49:32Z",
+  "text": "Titans CEO apologizes to fans, supports Robert Saleh, GM. Titans CEO Burke Nihill said the organization believes that coach Robert Saleh and GM Mike Borgonzi are \"ultimately going to get this team out of the woods.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50198584/titans-ceo-apologizes-fans-supports-robert-saleh-gm",
+  "teams": [
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50198584",
+   "team": "TEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49803708",
+  "source": "ESPN",
+  "author": "Eric Karabell",
+  "time": "2026-10-16T21:33:31Z",
+  "text": "Fantasy football flex and superflex rankings for Week 6. Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49803708",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50198056",
   "source": "ESPN",
   "author": "Tim McManus",
@@ -1087,6 +1395,27 @@
   "facts": {
    "id": "espnnews-50193213",
    "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50189868",
+  "source": "ESPN",
+  "author": "Ryan McFadden",
+  "time": "2026-10-16T10:00:00Z",
+  "text": "Five takeaways from five weeks of the Raiders' season. What should be taken away from the first five weeks of the Raiders' 2026 season?",
+  "url": "https://www.espn.com/nfl/story/_/id/50189868/las-vegas-raiders-2026-season-five-takeaways-kirk-cousins",
+  "teams": [
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50189868",
+   "team": "LV",
    "player": null,
    "position": null,
    "status": "other",
@@ -7255,227 +7584,6 @@
   "facts": {
    "id": "espnnews-50147794",
    "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50144125",
-  "source": "ESPN",
-  "author": "Brady Henderson",
-  "time": "2026-10-10T12:27:21Z",
-  "text": "Can the Seahawks' defense again silence the 49ers' hot offense Sunday?. Seattle's defense stole the show the past two times these teams met. But the 49ers and Brock Purdy are on a roll heading into Week 5.",
-  "url": "https://www.espn.com/nfl/story/_/id/50144125/seattle-seahawks-defense-49ers-offense-nfc-west-week-5",
-  "teams": [
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50144125",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50133043",
-  "source": "ESPN",
-  "author": "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
-  "time": "2026-10-10T10:40:06Z",
-  "text": "NFL Week 5 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more. Big performances for Brock Bowers, Travon Walker and Luther Burden III? The Giants pulling an upset? And an under-the-radar RB emerging this week in fantasy?",
-  "url": "https://www.espn.com/nfl/story/_/id/50133043/week-5-predictions-upsets-fantasy-sleepers-stats-2026",
-  "teams": [
-   "LV",
-   "NYG",
-   "PHI",
-   "MIA",
-   "ARI",
-   "DET",
-   "CLE",
-   "CHI",
-   "PIT",
-   "JAX",
-   "DEN",
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50133043",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50139238",
-  "source": "ESPN",
-  "author": "Ben Baby",
-  "time": "2026-10-10T10:00:10Z",
-  "text": "Can Burrow, Bengals establish identity vs. Dolphins?. The Bengals put Burrow under center but ultimately went back to what the QB knows best. What's next?",
-  "url": "https://www.espn.com/nfl/story/_/id/50139238/bengals-joe-burrow-dolphins-offensive-identity",
-  "teams": [
-   "CIN"
-  ],
-  "facts": {
-   "id": "espnnews-50139238",
-   "team": "CIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50140859",
-  "source": "ESPN",
-  "author": "Rob Demovsky and Courtney Cronin",
-  "time": "2026-10-10T10:00:01Z",
-  "text": "How wild-card game sent Bears, Packers in opposite directions. Ever since Chicago sent Green Bay home, the Bears have taken flight and the Packers can't find their footing.",
-  "url": "https://www.espn.com/nfl/story/_/id/50140859/green-bay-packers-chicago-bears-jordan-love-caleb-williams",
-  "teams": [
-   "GB",
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50140859",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50134036",
-  "source": "ESPN",
-  "author": "DJ Bien-Aime and Turron Davenport",
-  "time": "2026-10-10T10:00:01Z",
-  "text": "Texans, Titans face off desperately seeking first win after 0-4 starts. Tennessee coach Robert Saleh and Houston coach DeMeco Ryans put friendship aside in battle of winless teams.",
-  "url": "https://www.espn.com/nfl/story/_/id/50134036/texans-titans-0-4-matchup-desperate-win",
-  "teams": [
-   "HOU",
-   "TEN"
-  ],
-  "facts": {
-   "id": "espnnews-50134036",
-   "team": "HOU",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50116111",
-  "source": "ESPN",
-  "author": "Michael F. Florio",
-  "time": "2026-10-10T01:25:41Z",
-  "text": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out. Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50116111",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50142757",
-  "source": "ESPN",
-  "author": "Jeff Legwold",
-  "time": "2026-10-10T00:50:57Z",
-  "text": "Broncos OC Davis Webb says 'not ideal' to lose playcalling duties. Broncos offensive coordinator Davis Webb said \"it's not ideal\" to have been stripped of playcalling duties, but said he plans to \"be the best offensive coordinator I can be.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50142757/broncos-oc-davis-webb-says-not-ideal-lose-play-calling-duties",
-  "teams": [
-   "DEN"
-  ],
-  "facts": {
-   "id": "espnnews-50142757",
-   "team": "DEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50143342",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-10-10T00:05:43Z",
-  "text": "Rams DT Aaron Donald practices in full, plans to play MNF. Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
-  "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50143342",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50143042",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-10-09T22:16:36Z",
-  "text": "49ers DE Mykel Williams to make season debut vs. Seahawks. 49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-  "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50143042",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50142927",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-09T21:42:20Z",
-  "text": "Eagles will be tested against the Jaguars. After losing Lane Johnson and Cam Jergens, Philadelphia heads to London to face Jacksonville with no Saquon Barkley or DaVonta Smith.",
-  "url": "https://www.espn.com/video/clip/_/id/50142927/eagles-tested-jaguars",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50142927",
-   "team": "PHI",
    "player": null,
    "position": null,
    "status": "other",
