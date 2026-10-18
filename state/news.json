@@ -1,5 +1,445 @@
 [
  {
+  "id": "espnnews-50200514",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-18T13:15:42Z",
+  "text": "Sources: Saints QB Tyler Shough playing with 2 broken bones in non-throwing hand. Saints quarterback Tyler Shough has been playing with two broken bones in his left hand, sources told ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50200514/sources-saints-tyler-shough-broken-bones-left-hand",
+  "teams": [
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50200514",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50207241",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-10-18T13:10:56Z",
+  "text": "Gayle Benson endorses Kellen Moore, coaches after comments about state of Saints. Saints owner Gayle Benson endorsed Kellen Moore and the coaching staff Friday, three days after her pointed comments about the state of the team.",
+  "url": "https://www.espn.com/nfl/story/_/id/50207241/gayle-benson-endorses-kellen-moore-saints-coaches",
+  "teams": [
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50207241",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50197687",
+  "source": "ESPN",
+  "author": "Michael DiRocco",
+  "time": "2026-10-18T12:55:51Z",
+  "text": "Ranking the top 10 rookie performances in Super Bowl history. Which rookies made a name from themselves in the Super Bowl over the years? We listed 10 standout performances, plus honorable mentions.",
+  "url": "https://www.espn.com/nfl/story/_/id/50197687/top-10-super-bowl-rookie-performances-history",
+  "teams": [
+   "WAS",
+   "KC",
+   "LAC",
+   "ATL",
+   "IND",
+   "LA",
+   "SEA",
+   "NE",
+   "TB"
+  ],
+  "facts": {
+   "id": "espnnews-50197687",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50188691",
+  "source": "ESPN",
+  "author": "Michael F. Florio",
+  "time": "2026-10-18T12:03:36Z",
+  "text": "Fantasy football Week 6 inactives: Williams to play; Hurts, Jackson ruled out. Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50188691",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50119009",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-10-18T11:16:20Z",
+  "text": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage. The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+  "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+  "teams": [
+   "ARI",
+   "ATL",
+   "BAL",
+   "BUF",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "GB",
+   "HOU",
+   "IND",
+   "JAX",
+   "KC",
+   "LV",
+   "LAC",
+   "LA",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SF",
+   "SEA",
+   "TB",
+   "TEN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50119009",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50198740",
+  "source": "ESPN",
+  "author": "Mike Reiss",
+  "time": "2026-10-18T10:00:04Z",
+  "text": "Patriots' 2026 rookies: Who has made an impact through five weeks?. With two rookies assuming starting roles, let's take a look at how this year's draft class has panned out.",
+  "url": "https://www.espn.com/nfl/story/_/id/50198740/new-england-patriots-notebook-rookies-jets-lomu-jacas",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50198740",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50197835",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-10-18T10:00:01Z",
+  "text": "Jets great Mark Gastineau wants rookie David Bailey to celebrate after sacks. Gastineau's sack dances led to the NFL penalizing excessive celebrations for over 30 years.",
+  "url": "https://www.espn.com/nfl/story/_/id/50197835/jets-david-bailey-sacks-mark-gastineau",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50197835",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50206700",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-18T02:58:11Z",
+  "text": "Ex-Broncos exec John Beake, who helped land John Elway, dies at 87. John Beake, who was instrumental in the trade for John Elway and helped guide the Denver Broncos to back-to-back Super Bowl titles in the late 1990s, has died at age 87, the team said Saturday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50206700/ex-broncos-exec-john-beake-helped-land-john-elway-dies-87",
+  "teams": [
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50206700",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50205015",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-10-17T23:11:15Z",
+  "text": "49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk. The San Francisco 49ers will have to wait at least another week for the return of defensive end Nick Bosa, though there's at least a chance they'll have both receiver Mike Evans and fullback Kyle Juszczyk for Monday's game vs. the Washington Commanders.",
+  "url": "https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night",
+  "teams": [
+   "SF",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50205015",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50202417",
+  "source": "ESPN",
+  "author": "Adam Schefter and Ian Rapoport",
+  "time": "2026-10-17T22:48:14Z",
+  "text": "Eagles QB Jalen Hurts on IR due to blood clot, expected to be out indefinitely. The Eagles have placed Jalen Hurts on injured reserve after consultations with numerous doctors and experts, sources told ESPN and NFL Network.",
+  "url": "https://www.espn.com/nfl/story/_/id/50202417/sources-eagles-place-jalen-hurts-ir-due-blood-clot",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50202417",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50201828",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-17T20:47:43Z",
+  "text": "Sources: Bears plan to start QB Caleb Williams in Week 6 vs. Falcons. The Bears are planning to start Caleb Williams against the Falcons after the star QB missed the past three games, sources told NFL Network and ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50201828/sources-bears-plan-start-qb-caleb-williams-vs-falcons",
+  "teams": [
+   "CHI",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50201828",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-ef546ba214c38",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-17T20:32:17.277Z",
+  "text": "He\u2019s back: The Bears are planning to start Caleb Williams after he missed the past three games due to a torn hamstring but went through a full week of practice this week without any setbacks, per  NFLN and ESPN.",
+  "url": "https://www.espn.com/contributor/adam-schefter/ef546ba214c38",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espn-ef546ba214c38",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-248859ef912dc",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-17T20:01:36.093Z",
+  "text": "Patriots officially activated WR A.J. Brown to their 53-man roster. He is expected to play Sunday versus the Jets.",
+  "url": "https://www.espn.com/contributor/adam-schefter/248859ef912dc",
+  "teams": [
+   "NE",
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espn-248859ef912dc",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50203338",
+  "source": "ESPN",
+  "author": "Brooke Pryor",
+  "time": "2026-10-17T20:00:08Z",
+  "text": "Steelers place Wilson on IR with finger injury. The Pittsburgh Steelers placed Roman Wilson on the injured reserve list, their second key receiver lost to injury in as many weeks.",
+  "url": "https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir",
+  "teams": [
+   "PIT",
+   "TB"
+  ],
+  "facts": {
+   "id": "espnnews-50203338",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-bca36778793e5",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-10-17T19:57:27.609Z",
+  "text": "Breaking: After consultations with numerous doctors and experts that went into Saturday, the Eagles are placing quarterback Jalen Hurts on injured reserve, sources tell Adam Schefter and me.\n\nHurts is now out for the foreseeable future. More information coming\u2026",
+  "url": "https://www.espn.com/contributor/ian-rapoport/bca36778793e5",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espn-bca36778793e5",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-da6fcabb5f21a",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-17T19:57:07.858Z",
+  "text": "Breaking: After consultations with numerous doctors and experts that went into Saturday, the Eagles are placing quarterback Jalen Hurts on injured reserve, sources tell @rapsheet and me. The move will sideline Hurts indefinitely.",
+  "url": "https://www.espn.com/contributor/adam-schefter/da6fcabb5f21a",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espn-da6fcabb5f21a",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50202598",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-10-17T19:48:14Z",
+  "text": "Bears CB Kyler Gordon set for 2026 debut after PUP activation. Bears nickel corner Kyler Gordon has been activated off the PUP list and could make his season debut against the Falcons.",
+  "url": "https://www.espn.com/nfl/story/_/id/50202598/bears-cb-kyler-gordon-set-2026-debut-pup-activation",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50202598",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50202634",
+  "source": "ESPN",
+  "author": "Mike Kaye",
+  "time": "2026-10-17T19:23:52Z",
+  "text": "Taylor Moton among 3 Panthers activated ahead of Eagles game. The Panthers will have RT Taylor Moton and DE Tershawn Wharton available Sunday against the Eagles. RB Trevor Etienne was also activated off IR.",
+  "url": "https://www.espn.com/nfl/story/_/id/50202634/taylor-moton-3-panthers-activated-ahead-eagles-game",
+  "teams": [
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50202634",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50202044",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-10-17T17:50:22Z",
+  "text": "Commanders RB Jacory Croskey-Merritt out vs. 49ers with groin injury. Commanders running back Jacory Croskey-Merritt won't play against the 49ers because of a groin injury, coach Dan Quinn said.",
+  "url": "https://www.espn.com/nfl/story/_/id/50202044/commanders-rb-croskey-merritt-vs-49ers-groin-injury",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50202044",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50200910",
   "source": "ESPN",
   "author": "Mike Reiss",
@@ -7247,343 +7687,6 @@
   "facts": {
    "id": "espnnews-50156550",
    "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50151867",
-  "source": "ESPN",
-  "author": "Ian Rapoport",
-  "time": "2026-10-11T12:56:59Z",
-  "text": "Sources: Eagles mull Lane Johnson roster status amid O-line changes. Lane Johnson is expected to remain on the Eagles' 53-man roster until after June 1 for salary cap purposes as Philadelphia continues to navigate multiple changes to the offensive line.",
-  "url": "https://www.espn.com/nfl/story/_/id/50151867/sources-eagles-mull-lane-johnson-roster-status-amid-o-line-changes",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50151867",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50152303",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-11T12:54:43Z",
-  "text": "Doctors fear risk of further Jayden Daniels elbow injury. Doctors around the NFL believe it's a matter of when, not if, Commanders quarterback Jayden Daniels hurts his left elbow again, sources told ESPN.",
-  "url": "https://www.espn.com/nfl/story/_/id/50152303/doctors-fear-risk-further-jayden-daniels-elbow-injury",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50152303",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50149803",
-  "source": "ESPN",
-  "author": "Kevin Seifert",
-  "time": "2026-10-11T11:29:36Z",
-  "text": "Source: Odell Beckham Jr. joins Vikings roster, status unclear. While the Vikings elevated receiver Odell Beckham Jr. from the practice squad for Sunday's game, a source said, it's not yet decided if he'll play.",
-  "url": "https://www.espn.com/nfl/story/_/id/50149803/source-odell-beckham-jr-joins-vikings-roster-status-unclear",
-  "teams": [
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50149803",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50150455",
-  "source": "ESPN",
-  "author": "Mike Reiss",
-  "time": "2026-10-11T11:14:08Z",
-  "text": "Patriots place veteran WR Mack Hollins on IR with calf injury. The Patriots placed veteran wide receiver Mack Hollins on injured reserve Saturday with a calf injury.",
-  "url": "https://www.espn.com/nfl/story/_/id/50150455/patriots-place-veteran-wr-mack-hollins-ir-calf-injury",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50150455",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50085010",
-  "source": "ESPN",
-  "author": "Eric Moody",
-  "time": "2026-10-11T10:31:04Z",
-  "text": "How to bet Ravens-Falcons on SNF: Analysis, tips and top prop plays. Odds, bets and analysis to help you bet Ravens-Falcons on \"Sunday Night Football.\"",
-  "url": "https://www.espn.com/espn/betting/story/_/id/50085010/nfl-week-5-odds-betting-tips-ravens-falcons",
-  "teams": [
-   "BAL",
-   "ATL"
-  ],
-  "facts": {
-   "id": "espnnews-50085010",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50136210",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-10-11T10:00:04Z",
-  "text": "HOFer Ronnie Lott offers words of encouragement to Aaron Glenn as losses pile up. Glenn is 4-17 in New York and hasn't beaten a team with a winning record with the 3-1 Browns up next.",
-  "url": "https://www.espn.com/nfl/story/_/id/50136210/ronnie-lott-encourages-jets-coach-aaron-glenn",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50136210",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50142515",
-  "source": "ESPN",
-  "author": "Mike Reiss",
-  "time": "2026-10-11T10:00:02Z",
-  "text": "Patriots to honor the 2001 Super Bowl team: Can the 2026 squad learn from them?. Robert Kraft talked about the similarities between the two teams as he prepares to honor the 25th anniversary of the Patriots' first championship.",
-  "url": "https://www.espn.com/nfl/story/_/id/50142515/new-england-patriots-2001-adam-vinatieri-raiders",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50142515",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50148005",
-  "source": "ESPN",
-  "author": "Josh Weinfuss",
-  "time": "2026-10-11T03:14:16Z",
-  "text": "Sources: Cardinals finalizing deal to trade WR Marvin Harrison Jr.. The Cardinals are finalizing a deal to trade Marvin Harrison Jr., sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
-  "url": "https://www.espn.com/nfl/story/_/id/50148005/sources-cardinals-finalizing-deal-trade-wr-marvin-harrison-jr",
-  "teams": [
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50148005",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50151392",
-  "source": "ESPN",
-  "author": "ESPN staff",
-  "time": "2026-10-10T23:02:08Z",
-  "text": "Christian McCaffrey, Olivia Culpo announce birth of second child. McCaffrey and his wife, Olivia Culpo, announced the news of the birth of their second child in a joint post on Instagram on Saturday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50151392/christian-mccaffrey-olivia-culpo-second-child",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50151392",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50150638",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-10-10T21:13:08Z",
-  "text": "Rams: Myles Garrett making 'good progress,' but no return timeline. Los Angeles Rams defensive end Myles Garrett is \"making good progress\" in his recovery from knee surgery, coach Sean McVay said, but the team is unlikely to open his 21-day practice window next week.",
-  "url": "https://www.espn.com/nfl/story/_/id/50150638/rams-say-myles-garrett-making-good-progress-no-return-line",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50150638",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50149634",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-10T19:50:54Z",
-  "text": "Steelers place WR Michael Pittman Jr. on IR with foot injury. The Pittsburgh Steelers placed wide receiver Michael Pittman Jr. (foot) on injured reserve, the team announced on Saturday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50149634/steelers-placing-wr-pittman-injured-reserve",
-  "teams": [
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50149634",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50149505",
-  "source": "ESPN",
-  "author": "Nick Suss",
-  "time": "2026-10-10T19:28:09Z",
-  "text": "Bills rule out Ed Oliver, Joshua Palmer, wait on WR DJ Moore. Bills wide receiver DJ Moore returned to practice in a noncontact jersey and will be designated as questionable for \"Monday Night Football\" against the Rams. Buffalo has ruled out wide receiver Joshua Palmer and defensive tackle Ed Oliver.",
-  "url": "https://www.espn.com/nfl/story/_/id/50149505/bills-rule-ed-oliver-joshua-palmer-wait-wr-dj-moore",
-  "teams": [
-   "BUF"
-  ],
-  "facts": {
-   "id": "espnnews-50149505",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50148833",
-  "source": "ESPN",
-  "author": "Stephen Holder",
-  "time": "2026-10-10T18:01:12Z",
-  "text": "Colts place DE Arden Key on IR with hamstring injury. Colts defensive end Arden Key has been placed on injured reserve with a hamstring injury, meaning he will miss at least four games before returning to the active roster.",
-  "url": "https://www.espn.com/nfl/story/_/id/50148833/colts-place-de-arden-key-ir-hamstring-injury",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50148833",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50147669",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-10T15:03:34Z",
-  "text": "Sources: Ravens held Cam Jurgens physical before trade with Eagles. As the Ravens and Eagles were preparing to agree to a trade that would send Cam Jurgens to Baltimore, the two sides made immediate plans for the center to undergo a physical in Philadelphia before any deal was finalized, league sources told ESPN.",
-  "url": "https://www.espn.com/nfl/story/_/id/50147669/sources-ravens-held-cam-jurgens-physical-trade-eagles",
-  "teams": [
-   "BAL",
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50147669",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-7eefec99dbef4",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-10T15:02:26.656Z",
-  "text": "Breaking: the Arizona Cardinals are finalizing a deal to trade WR Marvin Harrison, sources tell me and @RapSheet.\n\nThe team informed Harrison this morning that he will be inactive for Sunday\u2019s game vs Detroit as details of the trade are finalized.",
-  "url": "https://www.espn.com/contributor/adam-schefter/7eefec99dbef4",
-  "teams": [
-   "ARI",
-   "DET"
-  ],
-  "facts": {
-   "id": "espn-7eefec99dbef4",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50147794",
-  "source": "ESPN",
-  "author": "Mike Clay",
-  "time": "2026-10-10T14:46:25Z",
-  "text": "DraftKings DFS cheat sheet: Best values for Sunday's main slate. Build a winning DFS lineup with our DraftKings NFL Week 5 cheat sheet identifying the players you want to spend up for, the teams to stack, the value picks to grab and the players you need to avoid.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50147794/draftkings-nfl-dfs-values-week-5",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50147794",
-   "team": null,
    "player": null,
    "position": null,
    "status": "other",
