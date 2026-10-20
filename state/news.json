@@ -1,5 +1,488 @@
 [
  {
+  "id": "espnnews-50225836",
+  "source": "ESPN",
+  "author": "Chris Wright",
+  "time": "2026-10-20T13:23:32Z",
+  "text": "PSG unveil jersey for Steelers vs. Saints NFL game in Paris. If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunch as an NFL franchise, this is it.",
+  "url": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
+  "teams": [
+   "PIT",
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50225836",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50227953",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-20T13:18:48Z",
+  "text": "'It's not a good look': Who's to blame for Commanders' game mismanagement?. 'It's not a good look': Who's to blame for Commanders' game mismanagement?",
+  "url": "https://www.espn.com/video/clip/_/id/50227953/blame-commanders-game-mismanagement",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50227953",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50219771",
+  "source": "ESPN",
+  "author": "Jordan Raanan",
+  "time": "2026-10-20T13:11:26Z",
+  "text": "Jameis Winston vs. J.J. McCarthy: Pros and cons of Giants' QBs. Coach John Harbaugh must weigh the options in his QB conundrum, with two players who could start at Houston.",
+  "url": "https://www.espn.com/nfl/story/_/id/50219771/jameis-winston-jj-mccarthy-qb-pros-cons-new-york-giants",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50219771",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50219611",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-10-20T13:10:06Z",
+  "text": "'It's Groundhog Day': Why Ravens are NFL's worst at blowing double-digit leads. Here is a look at the trends in the Ravens failing to hold double-digit leads.",
+  "url": "https://www.espn.com/nfl/story/_/id/50219611/ravens-nfl-worst-blowing-double-digit-leads",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50219611",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50224531",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-20T12:46:37Z",
+  "text": "49ers hold on for MNF win over the Commanders. 49ers hold on for MNF win over the Commanders",
+  "url": "https://www.espn.com/video/clip/_/id/50224531/49ers-hold-mnf-win-commanders",
+  "teams": [
+   "SF",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50224531",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50166789",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-20T12:36:31Z",
+  "text": "Which NFL teams are undefeated this season?. These teams have yet to lose a game in the 2026 NFL season.",
+  "url": "https://www.espn.com/nfl/story/_/id/50166789/nfl-teams-undefeated-2026-season",
+  "teams": [
+   "KC",
+   "SF",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50166789",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50220645",
+  "source": "ESPN",
+  "author": "Daniel Oyefusi and Cameron Wolfe",
+  "time": "2026-10-20T12:36:00Z",
+  "text": "How Browns' past two draft classes are catching the NFL's attention. From offensive playmakers to unknowns at QB, here is a look at the bedrock of Cleveland's young core.",
+  "url": "https://www.espn.com/nfl/story/_/id/50220645/cleveland-browns-draft-classes-catching-nfl-attention",
+  "teams": [
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50220645",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50220836",
+  "source": "ESPN",
+  "author": "Ben Solak",
+  "time": "2026-10-20T12:15:11Z",
+  "text": "Seven things Solak thinks entering NFL Week 7: From Eagles to Matthew Stafford. Get ready for Week 7 with takes on the Colts' decision-makers, Caleb Williams' MVP case, Matthew Stafford's play, the Browns' trajectory and the Eagles' next moves.",
+  "url": "https://www.espn.com/nfl/story/_/id/50220836/week-7-seven-things-solak-thinks-eagles-rams-colts",
+  "teams": [
+   "IND",
+   "PHI",
+   "CHI",
+   "CLE",
+   "NYG",
+   "TEN",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50220836",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117108",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-10-20T12:13:21Z",
+  "text": "Strength of schedule (SOS) cheat sheet: Every team's year-to-date and rest-of-season ratings. Ranking each team's remaining schedule and how it might impact every position's fantasy performance.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50117108/fantasy-football-2026-strength-schedule-rest-season",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50117108",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49998196",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-20T12:09:24Z",
+  "text": "Fantasy football: Live Week 7 free agent pickups advice with ESPN expert. ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49998196/fantasy-football-waiver-wire-pickups-week",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49998196",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50226804",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-20T12:01:04Z",
+  "text": "NFL readies for Steelers-Saints in Paris amid civil unrest, security concerns. The NFL is ramping up for its first-ever regular-season game in France amid civil unrest and security concerns in Paris.",
+  "url": "https://www.espn.com/nfl/story/_/id/50226804/nfl-ready-steelers-vs-saints-paris-amid-civil-unrest",
+  "teams": [
+   "PIT",
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50226804",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50226663",
+  "source": "ESPN",
+  "author": "Leonard Solms",
+  "time": "2026-10-20T10:52:49Z",
+  "text": "Bobby Okereke continues to play key role in Panthers' revival. Bobby Okereke had a mixed stint with the New York Giants, but the linebacker's game has progressed in leaps and bounds in the opening five games of his stint at the Carolina Panthers.",
+  "url": "https://www.espn.com/espn/story/_/id/50226663/bobby-okereke-continues-play-key-role-panthers-revival",
+  "teams": [
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50226663",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50218886",
+  "source": "ESPN",
+  "author": "NFL Nation",
+  "time": "2026-10-20T10:42:05Z",
+  "text": "NFL Power Rankings: How all 32 teams stack up for Week 7, plus offensive issues. How does every NFL team stack up heading into Week 7? We made our 1-32 list and picked the biggest offensive problem for every team.",
+  "url": "https://www.espn.com/nfl/story/_/id/50218886/nfl-power-rankings-week-7-teams-biggest-issue-offense",
+  "teams": [
+   "KC",
+   "LAC",
+   "LV",
+   "DEN",
+   "NE",
+   "NYJ",
+   "MIA",
+   "BUF",
+   "BAL",
+   "PIT",
+   "CLE",
+   "CIN",
+   "HOU",
+   "IND",
+   "TEN",
+   "JAX",
+   "SEA",
+   "SF",
+   "LA",
+   "ARI",
+   "PHI",
+   "WAS",
+   "NYG",
+   "DAL",
+   "DET",
+   "CHI",
+   "GB",
+   "MIN",
+   "TB",
+   "ATL",
+   "CAR",
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50218886",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50219846",
+  "source": "ESPN",
+  "author": "Judy Battista",
+  "time": "2026-10-20T10:35:01Z",
+  "text": "Inside NFL's field-stitching process from Rio to Paris. How does the NFL install new fields in stadiums not made for them? The man known as Papa Turf walked us through it.",
+  "url": "https://www.espn.com/nfl/story/_/id/50219846/nfl-field-turf-grass-international",
+  "teams": [
+   "PIT",
+   "NO",
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50219846",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50219895",
+  "source": "ESPN",
+  "author": "Michael DiRocco",
+  "time": "2026-10-20T10:00:00Z",
+  "text": "Three things that are working for Jaguars -- and three things they need to fix. Examining three things that are working (and not working) for 4-2 Jaguars as they enter Week 7 on a bye week.",
+  "url": "https://www.espn.com/nfl/story/_/id/50219895/jacksonville-jaguars-bye-week-3-things-need-fix",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50219895",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50223535",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-10-20T06:38:20Z",
+  "text": "Mike Evans unable to finish 49ers' win, exits with Achilles soreness. San Francisco wide receiver Mike Evans was unable to make it through Monday's night's 23-17 victory over Washington, leaving with a lingering bout of Achilles soreness that prevented the 49ers veteran from practicing Thursday, Friday and Saturday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50223535/49ers-rule-mike-evans-due-achilles-injury",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50223535",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50222846",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-10-20T05:25:05Z",
+  "text": "Commanders' Terry McLaurin carted off with knee injury in MNF loss to 49ers. Terry McLaurin was carted off the field with his left leg in an air cast after injuring his knee against the 49ers. He'll undergo additional testing Tuesday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50222846/commanders-terry-mclaurin-carted-knee-injury-ruled-mnf-vs-49ers",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50222846",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50224476",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-20T05:06:08Z",
+  "text": "Purdy and the 49ers build a big lead and hold on to beat the Commanders 23-17. \u2014 Brock Purdy and the offense staked San Francisco to a big lead. The defense made sure the 49ers remained undefeated.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873008",
+  "teams": [
+   "SF",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50224476",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50222471",
+  "source": "ESPN",
+  "author": "Nick Wagoner and John Keim",
+  "time": "2026-10-20T05:01:13Z",
+  "text": "49ers hold off furious Commanders' second-half rally to go 6-0. The 49ers dominated in the first half but had to hold off a second-half Commanders rally.",
+  "url": "https://www.espn.com/nfl/story/_/id/50222471/mnf-49ers-commanders-brock-purdy",
+  "teams": [
+   "SF",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50222471",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50222284",
+  "source": "ESPN",
+  "author": "Todd Archer",
+  "time": "2026-10-20T00:19:07Z",
+  "text": "Stephen Jones says Brian Schottenheimer has full support of Cowboys' ownership. Brian Schottenheimer has the full support of Cowboys ownership, Stephen Jones said Monday on 105.3 The Fan in Dallas.",
+  "url": "https://www.espn.com/nfl/story/_/id/50222284/brian-schottenheimer-full-support-cowboys-ownership",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50222284",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50220090",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-19T23:28:17Z",
+  "text": "How swimming fueled Fred Warner's rehab. How swimming fueled Fred Warner's rehab",
+  "url": "https://www.espn.com/video/clip/_/id/50220090/how-swimming-fueled-fred-warner-rehab",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50220090",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50221818",
   "source": "ESPN",
   "author": "Rob Demovsky",
@@ -7201,556 +7684,6 @@
   "facts": {
    "id": "espn-e0598693b799e",
    "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50173097",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-13T12:51:58Z",
-  "text": "Jeff Saturday: The Rams will figure it out. Jeff Saturday: The Rams will figure it out",
-  "url": "https://www.espn.com/video/clip/_/id/50173097/rams-figure-out",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50173097",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50168194",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-10-13T12:46:55Z",
-  "text": "Removing 'a dark cloud': How the Ravens' clutch play ended a 581-game streak. Baltimore became the first team to win a game down by eight or more points in the final minute in four years.",
-  "url": "https://www.espn.com/nfl/story/_/id/50168194/baltimore-ravens-clutch-play-falcons-remove-dark-cloud",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50168194",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50170610",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-13T12:26:19Z",
-  "text": "Peyton Manning draws up Brenda Song's play for the Rams. Peyton Manning draws up Brenda Song's play for the Rams",
-  "url": "https://www.espn.com/video/clip/_/id/50170610/peyton-manning-draws-brenda-song-play-rams",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50170610",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50171162",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-13T12:24:39Z",
-  "text": "Josh Allen: 'Feels good' to be on winning side of OT. Josh Allen: 'Feels good' to be on winning side of OT",
-  "url": "https://www.espn.com/video/clip/_/id/50171162/feels-good-winning-side-ot",
-  "teams": [
-   "BUF",
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50171162",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50171089",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-13T12:24:13Z",
-  "text": "Bills win OT thriller over the Rams to move to 4-1. Bills win OT thriller over the Rams to move to 4-1",
-  "url": "https://www.espn.com/video/clip/_/id/50171089/bills-win-ot-thriller-rams-move-4-1",
-  "teams": [
-   "BUF",
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50171089",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50171166",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-13T12:22:53Z",
-  "text": "Peyton Manning has his head in his hands after James Cook III's OT fumble. Peyton Manning has his head in his hands after James Cook III's OT fumble",
-  "url": "https://www.espn.com/video/clip/_/id/50171166/peyton-manning-head-hands-james-cook-iii-ot-fumble",
-  "teams": [
-   "BUF",
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50171166",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50171237",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-13T12:21:09Z",
-  "text": "Alaric Jackson throws a punch at Bradley Chubb after Bills-Rams. Alaric Jackson throws a punch at Bradley Chubb after Bills-Rams",
-  "url": "https://www.espn.com/video/clip/_/id/50171237/alaric-jackson-throws-punch-bradley-chubb-bills-rams",
-  "teams": [
-   "BUF",
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50171237",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50172717",
-  "source": "ESPN",
-  "author": "Michael DiRocco",
-  "time": "2026-10-13T11:41:27Z",
-  "text": "Sources: Jaguars LT Anton Harrison to undergo knee surgery. Jaguars left tackle Anton Harrison will have arthroscopic surgery on his right knee when the team returns from London next week, league sources told NFL Network's Ian Rapoport and ESPN's Jeremy Fowler.",
-  "url": "https://www.espn.com/nfl/story/_/id/50172717/sources-jaguars-lt-anton-harrison-undergo-knee-surgery",
-  "teams": [
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50172717",
-   "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50166233",
-  "source": "ESPN",
-  "author": "Ben Solak",
-  "time": "2026-10-13T10:55:35Z",
-  "text": "Seven things Solak thinks entering NFL Week 6: Time for Mendoza? Cowboys issues?. Get ready for Week 6 with takes on two QB situations, two teams with defensive issues, two coaches on the hot seat and more.",
-  "url": "https://www.espn.com/nfl/story/_/id/50166233/week-6-seven-things-solak-thinks-raiders-eagles-cowboys",
-  "teams": [
-   "ARI",
-   "CHI",
-   "DAL",
-   "LV",
-   "MIN",
-   "PHI",
-   "SEA",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50166233",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50166454",
-  "source": "ESPN",
-  "author": "NFL Nation",
-  "time": "2026-10-13T10:25:10Z",
-  "text": "2026 NFL Power Rankings: How all 32 teams stack up for Week 6. How does every NFL team stack up heading into Week 6? We made our 1-32 list and picked the biggest defensive problem for every team.",
-  "url": "https://www.espn.com/nfl/story/_/id/50166454/nfl-power-rankings-week-6-teams-biggest-issue-defense",
-  "teams": [
-   "KC",
-   "LAC",
-   "LV",
-   "DEN",
-   "NE",
-   "NYJ",
-   "MIA",
-   "BUF",
-   "BAL",
-   "PIT",
-   "CLE",
-   "CIN",
-   "HOU",
-   "IND",
-   "TEN",
-   "JAX",
-   "SEA",
-   "SF",
-   "LA",
-   "ARI",
-   "PHI",
-   "WAS",
-   "NYG",
-   "DAL",
-   "DET",
-   "CHI",
-   "GB",
-   "MIN",
-   "TB",
-   "ATL",
-   "CAR",
-   "NO"
-  ],
-  "facts": {
-   "id": "espnnews-50166454",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50167288",
-  "source": "ESPN",
-  "author": "Jeff Legwold",
-  "time": "2026-10-13T10:00:10Z",
-  "text": "Broncos offense searching for more big plays, ready for Bo Nix to 'let it rip'. Changing playcallers wasn't an immediate fix for the Broncos' offense, which still suffers from a lack of big plays and a QB who hasn't found his rhythm.",
-  "url": "https://www.espn.com/nfl/story/_/id/50167288/broncos-quarterback-bo-nix-struggles-slower-progressions",
-  "teams": [
-   "DEN"
-  ],
-  "facts": {
-   "id": "espnnews-50167288",
-   "team": "DEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50167436",
-  "source": "ESPN",
-  "author": "Rob Demovsky",
-  "time": "2026-10-13T10:00:10Z",
-  "text": "Packers' Watson-Golden WR combo reminiscent of Nelson-Cobb. It has been more than a decade since Green Bay had a dominant WR duo, but Watson and Golden are making their mark.",
-  "url": "https://www.espn.com/nfl/story/_/id/50167436/green-bay-packers-christian-watson-matthew-golden-nelson-cobb",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50167436",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50168846",
-  "source": "ESPN",
-  "author": "Marcel Louis-Jacques",
-  "time": "2026-10-13T10:00:02Z",
-  "text": "Dolphins not worried about young roster getting discouraged by losses. Miami coach Jeff Hafley doesn't believe his players will grow discouraged by the lack of results so far this season.",
-  "url": "https://www.espn.com/nfl/story/_/id/50168846/miami-dolphins-youngest-roster-excuses",
-  "teams": [
-   "MIA"
-  ],
-  "facts": {
-   "id": "espnnews-50168846",
-   "team": "MIA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50171556",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-10-13T06:49:30Z",
-  "text": "Sean McVay says Rams to 'evaluate everything' about kicking unit after OT loss. After the Rams missed a field goal attempt and had another blocked in Monday night's 37-34 overtime loss to the Bills, coach Sean McVay said Los Angeles will \"evaluate everything\" about the kicking unit.",
-  "url": "https://www.espn.com/nfl/story/_/id/50171556/sean-mcvay-says-rams-evaluate-everything-kicking-unit-ot-loss-bills",
-  "teams": [
-   "LA",
-   "BUF"
-  ],
-  "facts": {
-   "id": "espnnews-50171556",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50171415",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-10-13T06:49:20Z",
-  "text": "Rams' Alaric Jackson punches Bills' Bradley Chubb after MNF. On the field after the Los Angeles Rams' 37-34 overtime loss to the Buffalo Bills on Monday night, Rams left tackle Alaric Jackson punched Bills outside linebacker Bradley Chubb in a scene captured by ESPN's cameras at SoFi Stadium.",
-  "url": "https://www.espn.com/nfl/story/_/id/50171415/rams-alaric-jackson-punches-bills-bradley-chubb-mnf",
-  "teams": [
-   "BUF",
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50171415",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50171513",
-  "source": "ESPN",
-  "author": "Nick Suss",
-  "time": "2026-10-13T06:43:34Z",
-  "text": "Bills QB Josh Allen earns first overtime win of career vs. Rams on MNF. Josh Allen came through with his usual late-game theatrics in leading the Bills to a 37-34 overtime win against the Rams on \"Monday Night Football,\" breaking his careerlong winless streak in OT.",
-  "url": "https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf",
-  "teams": [
-   "BUF",
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50171513",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50171085",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-13T06:17:34Z",
-  "text": "Josh Allen racks up 331 yards and Bills outlast Rams with help from blocked FG for 37-34 win in OT. \u2014 Josh Allen realized that his extraordinary efforts throughout this frenetic game might all amount to nothing Monday night when the Buffalo Bills fumbled deep in Rams territory early in overtime.",
-  "url": "http://www.espn.com/nfl/recap?gameId=401872994",
-  "teams": [
-   "LA",
-   "BUF"
-  ],
-  "facts": {
-   "id": "espnnews-50171085",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50170100",
-  "source": "ESPN",
-  "author": "Anthony Gharib",
-  "time": "2026-10-13T06:07:09Z",
-  "text": "Jim Harbaugh says he, Chargers ownership 'in this fight together' amid 0-5 start. With the Chargers off to an 0-5 start for the first time since 2003, coach Jim Harbaugh said Monday that he and the team's ownership group are \"shoulder to shoulder where we're in this fight together.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50170100/amid-0-5-start-jim-harbaugh-chargers-ownership-fight-together",
-  "teams": [
-   "LAC"
-  ],
-  "facts": {
-   "id": "espnnews-50170100",
-   "team": "LAC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50170290",
-  "source": "ESPN",
-  "author": "Nick Suss and Sarah Barshop",
-  "time": "2026-10-13T05:49:58Z",
-  "text": "Bills, Josh Allen outlast Rams in overtime on MNF. Using a throwback offense with downhill runs and scrambles from their star QB, the Bills escape with the win.",
-  "url": "https://www.espn.com/nfl/story/_/id/50170290/buffalo-bills-los-angeles-rams-mnf-week-5-ot-josh-allen",
-  "teams": [
-   "LA",
-   "BUF"
-  ],
-  "facts": {
-   "id": "espnnews-50170290",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50167803",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-13T05:20:40Z",
-  "text": "How Dion Dawkins is using his past mistakes to help mentor kids in similar situations. How Dion Dawkins is using his past mistakes to help mentor kids in similar situations",
-  "url": "https://www.espn.com/video/clip/_/id/50167803/how-dion-dawkins-using-mistakes-help-mentor-kids-similar-situations",
-  "teams": [
-   "BUF"
-  ],
-  "facts": {
-   "id": "espnnews-50167803",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-34636537",
-  "source": "ESPN",
-  "author": "ESPN Staff",
-  "time": "2026-10-13T01:34:10Z",
-  "text": "ManningCast 2026 schedule: How to watch MNF games and guests. Monday Night Football with Eli and Peyton Manning is back. Here's the 2026 game lineup, special guests and more.",
-  "url": "https://www.espn.com/nfl/story/_/id/34636537/maningcast-schedule-monday-night-football-guests-mnf",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-34636537",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50169700",
-  "source": "ESPN",
-  "author": "Josh Weinfuss",
-  "time": "2026-10-13T00:45:20Z",
-  "text": "LaFleur: 1-4 Cardinals not planning to change playcallers. Mike LaFleur says he does not plan on making changes to Arizona's coaching duties after a 1-4 start.",
-  "url": "https://www.espn.com/nfl/story/_/id/50169700/lafleur-cardinals-not-planning-change-playcallers",
-  "teams": [
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50169700",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50168959",
-  "source": "ESPN",
-  "author": "Marcel Louis-Jacques",
-  "time": "2026-10-12T23:34:30Z",
-  "text": "Dolphins' Jeff Hafley says he's not mulling QB change entering bye. Dolphins coach Jeff Hafley is not considering a quarterback change heading into their Week 6 bye, but he did say the passing offense must improve.",
-  "url": "https://www.espn.com/nfl/story/_/id/50168959/dolphins-hafley-says-not-mulling-qb-change-entering-bye",
-  "teams": [
-   "MIA"
-  ],
-  "facts": {
-   "id": "espnnews-50168959",
-   "team": "MIA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-e2ab3c6cf09e2",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-12T22:50:25.977Z",
-  "text": "Bills WR DJ Moore is expected to be inactive tonight vs. the Rams.",
-  "url": "https://www.espn.com/contributor/adam-schefter/e2ab3c6cf09e2",
-  "teams": [
-   "LA",
-   "BUF"
-  ],
-  "facts": {
-   "id": "espn-e2ab3c6cf09e2",
-   "team": "LA",
    "player": null,
    "position": null,
    "status": "other",
