@@ -1,5 +1,801 @@
 [
  {
+  "id": "espnnews-50241322",
+  "source": "ESPN",
+  "author": "Mike Kaye",
+  "time": "2026-10-21T20:57:34Z",
+  "text": "Panthers LB Jaelan Phillips (hamstring) set to miss Week 7 game vs. Bucs. Panthers coach Dave Canales said the team is preparing to host the Buccaneers on Sunday without top outside linebacker Jaelan Phillips.",
+  "url": "https://www.espn.com/nfl/story/_/id/50241322/panthers-jaelan-phillips-set-miss-week-7-game-vs-buccaneers-hamstring-injury",
+  "teams": [
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50241322",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50241195",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-10-21T20:54:38Z",
+  "text": "Ravens' Lamar Jackson returns to practice but status remains unclear vs. Bengals. After practice, Jackson was favoring his injured left ankle, walking into the team facility with a noticeable limp.",
+  "url": "https://www.espn.com/nfl/story/_/id/50241195/lamar-jackson-practice-unclear-vs-bengals-week-7",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50241195",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50240756",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-10-21T20:07:47Z",
+  "text": "Bears RB Kyle Monangai (toe, thumb) out Thursday vs. Patriots. The Bears have ruled RB Kyle Monangai out for Thursday night's matchup against the Patriots with lingering toe and thumb injuries.",
+  "url": "https://www.espn.com/nfl/story/_/id/50240756/bears-rb-kyle-monangai-toe-thumb-thursday-vs-patriots",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50240756",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50240235",
+  "source": "ESPN",
+  "author": "Mike Reiss",
+  "time": "2026-10-21T19:56:08Z",
+  "text": "Patriots' Alijah Vera-Tucker, Ben Brown ruled out vs. Bears. The Patriots will be without starting guards Alijah Vera-Tucker and Ben Brown for Thursday's game against the Bears due to injuries, coach Mike Vrabel said.",
+  "url": "https://www.espn.com/nfl/story/_/id/50240235/patriots-alijah-vera-tucker-ben-brown-ruled-vs-bears",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50240235",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50238315",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T19:33:48Z",
+  "text": "Titans' Robert Saleh defends Jordan Elliott: Gun incident was not 'criminal act'. Titans coach Robert Saleh defended Jordan Elliott's character and said that last week's gun-related incident was \"a call for help more than a criminal act.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50238315/source-jordan-elliott-attempted-retrieve-gun-car",
+  "teams": [
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50238315",
+   "team": "TEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50240482",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T19:31:22Z",
+  "text": "Garrett Wilson's Week 7 fantasy preview. Garrett Wilson's Week 7 fantasy preview",
+  "url": "https://www.espn.com/video/clip/_/id/50240482/garrett-wilson-week-7-fantasy-preview",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50240482",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50240100",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T19:22:14Z",
+  "text": "Sam LaPorta not feeling contract 'love' from Lions ahead of 2027 free agency. Tight end Sam LaPorta, who will be a free agent after the season, expressed some frustration that the Lions are \"not showing the love\" and indicated he would be OK with playing elsewhere in 2027.",
+  "url": "https://www.espn.com/nfl/story/_/id/50240100/sam-laporta-extension-not-feeling-love-lions",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50240100",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50240343",
+  "source": "ESPN",
+  "author": "Nate Taylor",
+  "time": "2026-10-21T19:19:34Z",
+  "text": "Chiefs mourn Allen Bailey after former NFL player found dead at age 37. Allen Bailey, a former NFL player who spent the majority of his 10-year career with the Chiefs, has died at age 37.",
+  "url": "https://www.espn.com/nfl/story/_/id/50240343/allen-bailey-former-nfl-player-found-dead-age-37",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50240343",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50238746",
+  "source": "ESPN",
+  "author": "Jordan Raanan",
+  "time": "2026-10-21T19:14:03Z",
+  "text": "Giants turning to J.J. McCarthy as QB1 this week against Texans. The Giants plan to start J.J. McCarthy at quarterback this week against the Texans.",
+  "url": "https://www.espn.com/nfl/story/_/id/50238746/giants-start-jj-mccarthy-qb-week",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50238746",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50240355",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T19:13:55Z",
+  "text": "AJ Barner's Week 7 fantasy preview. AJ Barner's Week 7 fantasy preview",
+  "url": "https://www.espn.com/video/clip/_/id/50240355/aj-barner-week-7-fantasy-preview",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50240355",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50240051",
+  "source": "ESPN",
+  "author": "Mackenzie Kraemer",
+  "time": "2026-10-21T19:09:19Z",
+  "text": "NFL survivor power rankings: Why this is the week to use Texans, Jets. ESPN NFL survivor pool strategy, predictions and ranking the top five options for Week 7.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50240051/nfl-survivor-week-7-survivor-pool-strategy-advice-picks",
+  "teams": [
+   "DAL",
+   "MIN",
+   "PIT",
+   "NYJ",
+   "HOU"
+  ],
+  "facts": {
+   "id": "espnnews-50240051",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50238009",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-10-21T19:03:26Z",
+  "text": "Raheem Morris is back in Atlanta -- and he's bringing his surging 49ers defense. Raheem Morris is returning to Atlanta for the first time since being fired as head coach. And his tenure as the 49ers' defensive coordinator is off to an amazing start.",
+  "url": "https://www.espn.com/nfl/story/_/id/50238009/san-francisco-49ers-raheem-morris-atlanta-falcons-return",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50238009",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50240151",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T18:37:11Z",
+  "text": "It's Drake Maye versus Caleb Williams as the New England Patriots visit the Chicago Bears. \u2014 Caleb Williams and Drake Maye have known each other for years. They were part of the same draft class, and they grew up going to the same football camps.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873010",
+  "teams": [
+   "CHI",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50240151",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50239839",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T18:30:23Z",
+  "text": "Robert Saleh defends Jordan Elliott, says gun incident not a 'criminal act'. Robert Saleh defends Jordan Elliott, says gun incident not a 'criminal act'  ",
+  "url": "https://www.espn.com/video/clip/_/id/50239839/robert-saleh-defends-jordan-elliott-says-gun-incident-not-criminal-act",
+  "teams": [
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50239839",
+   "team": "TEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50237503",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-10-21T18:17:50Z",
+  "text": "Bills' Sam Franklin suspended one game for spitting; appealing, per sources. Bills defensive back Sam Franklin Jr. was suspended one game for unsportsmanlike conduct that the league said was a spitting incident against the Raiders.",
+  "url": "https://www.espn.com/nfl/story/_/id/50237503/bills-sam-franklin-suspended-spitting-appeal",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50237503",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "suspended",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50239882",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T18:03:46Z",
+  "text": "Goodell defends Giants' Tisch, 49ers' York attending NFL's fall meeting. NFL commissioner Roger Goodell defended the presence of the Giants' Steve Tisch and 49ers' Jed York at the NFL's two-day annual fall meeting.",
+  "url": "https://www.espn.com/nfl/story/_/id/50239882/goodell-defends-tisch-york-attending-nfl-fall-meeting",
+  "teams": [
+   "NYG",
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50239882",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50239811",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T17:59:35Z",
+  "text": "Goodell comfortable with security for NFL's Paris game. NFL commissioner Roger Goodell said Wednesday he has a high comfort level in the Saints and Steelers safely playing in Paris on Sunday in light of the civil unrest in the city.",
+  "url": "https://www.espn.com/nfl/story/_/id/50239811/goodell-comfortable-security-nfl-paris-game",
+  "teams": [
+   "NO",
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50239811",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50239517",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T17:37:57Z",
+  "text": "Eisen says starting J.J. McCarthy 'the only move John Harbaugh had'. Eisen says starting J.J. McCarthy 'the only move John Harbaugh had'",
+  "url": "https://www.espn.com/video/clip/_/id/50239517/eisen-says-starting-jj-mccarthy-only-move-john-harbaugh-had",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50239517",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50239029",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T17:36:31Z",
+  "text": "Goodell says NFL welcomes investigation into Eagles QB Hurts' medical care. NFL commissioner Roger Goodell said Wednesday that the league welcomes an investigation into the Eagles' handling of Jalen Hurts' blood clots.",
+  "url": "https://www.espn.com/nfl/story/_/id/50239029/roger-goodell-nfl-welcomes-probe-hurts-medical-care",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50239029",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50239027",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T16:47:04Z",
+  "text": "Jordan Rodgers: J.J. McCarthy gives Giants the best opportunity to win. Jordan Rodgers: J.J. McCarthy gives Giants the best opportunity to win",
+  "url": "https://www.espn.com/video/clip/_/id/50239027/jj-mccarthy-gives-giants-best-opportunity-win",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50239027",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50230871",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-10-21T16:43:11Z",
+  "text": "Why the Bills have been historically good, and bad, through six weeks. As Buffalo heads into its Week 7 bye, quarterback Josh Allen and the offense have thrived, while the defense has not.",
+  "url": "https://www.espn.com/nfl/story/_/id/50230871/bills-qb-josh-allen-good-bad-bye",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50230871",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50238754",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T16:00:58Z",
+  "text": "Daniel Dopp: Isaiah Likely can be started with confidence week in and week out. Daniel Dopp: Isaiah Likely can be started with confidence week in and week out",
+  "url": "https://www.espn.com/video/clip/_/id/50238754/isaiah-likely-started-confidence-week-week-out",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50238754",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50238711",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T15:53:59Z",
+  "text": "Daniel Dopp: Jared Goff locked in as a top-10 fantasy QB in Week 7. Daniel Dopp: Jared Goff locked in as a top-10 fantasy QB in Week 7",
+  "url": "https://www.espn.com/video/clip/_/id/50238711/jared-goff-locked-top-10-fantasy-qb-week-7",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50238711",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-ef87ea890782c",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-21T15:49:48.668Z",
+  "text": "Former Titans defensive lineman Jordan Elliott was attempting to retrieve a gun from his car following an altercation with a teammate during practice last week, a source confirmed to @MikeGarafolo.",
+  "url": "https://www.espn.com/contributor/adam-schefter/ef87ea890782c",
+  "teams": [
+   "TEN"
+  ],
+  "facts": {
+   "id": "espn-ef87ea890782c",
+   "team": "TEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50238528",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T15:47:11Z",
+  "text": "Are the Bears genuine Super Bowl contenders?. Are the Bears genuine Super Bowl contenders?",
+  "url": "https://www.espn.com/video/clip/_/id/50238528/are-bears-genuine-super-bowl-contenders",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50238528",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50238538",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T15:46:19Z",
+  "text": "Daniel Dopp confident in Jonathan Taylor despite tough matchup in Week 7. Daniel Dopp confident in Jonathan Taylor despite tough matchup in Week 7",
+  "url": "https://www.espn.com/video/clip/_/id/50238538/daniel-dopp-confident-jonathan-taylor-tough-matchup-week-7",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50238538",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50237936",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T15:26:05Z",
+  "text": "Is Matthew Stafford a locked-in top-10 fantasy QB?. Is Matthew Stafford a locked-in top-10 fantasy QB?",
+  "url": "https://www.espn.com/video/clip/_/id/50237936/is-matthew-stafford-locked-top-10-fantasy-qb",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50237936",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50234206",
+  "source": "ESPN",
+  "author": "Tristan H. Cockcroft",
+  "time": "2026-10-21T15:21:37Z",
+  "text": "Fantasy football matchup rankings: Upgrade Warren, downgrade Mahomes. The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50234206/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50234206",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50236847",
+  "source": "ESPN",
+  "author": "Liz Loza",
+  "time": "2026-10-21T15:18:17Z",
+  "text": "Facts vs. Feelings: Should you start Josh Jacobs and other Week 7 lineup questions. Josh Jacobs' return, emerging top-10 quarterbacks, two start 'em wide receivers and some tight end advice highlight how Liz Loza feels about some Week 7 fantasy football lineup options.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50236847/facts-vs-feelings-fantasy-advice-week-7",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50236847",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50238075",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T15:17:09Z",
+  "text": "The frustration around Harold Fannin Jr. for fantasy managers. The frustration around Harold Fannin Jr. for fantasy managers",
+  "url": "https://www.espn.com/video/clip/_/id/50238075/the-frustration-harold-fannin-jr-fantasy-managers",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50238075",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50238040",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T15:16:33Z",
+  "text": "Should managers put Josh Jacobs right in their starting lineups in Week 7?. Should managers put Josh Jacobs right in their starting lineups in Week 7?",
+  "url": "https://www.espn.com/video/clip/_/id/50238040/should-managers-put-josh-jacobs-right-their-starting-lineups-week-7",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50238040",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50238190",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T15:15:49Z",
+  "text": "Dopp, Clay face off on Nabers vs. Lamb as a better fantasy option in Week 7. Dopp, Clay face off on Nabers vs. Lamb as a better fantasy option in Week 7",
+  "url": "https://www.espn.com/video/clip/_/id/50238190/dopp-clay-face-nabers-vs-lamb-better-fantasy-option-week-7",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50238190",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50237981",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T15:13:25Z",
+  "text": "Stephen A. demands Howie Roseman answer for Jalen Hurts medical controversy. Stephen A. demands Howie Roseman answer for Jalen Hurts medical controversy",
+  "url": "https://www.espn.com/video/clip/_/id/50237981/stephen-demands-howie-roseman-answer-jalen-hurts-medical-controversy",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50237981",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50237926",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T15:11:26Z",
+  "text": "Mike Clay lays out his Rhamondre Stevenson concerns in Week 7. Mike Clay lays out his Rhamondre Stevenson concerns in Week 7",
+  "url": "https://www.espn.com/video/clip/_/id/50237926/mike-clay-lays-rhamondre-stevenson-concerns-week-7",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50237926",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50238160",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T15:11:25Z",
+  "text": "Jared Goff vs. C.J. Stroud: Dopp and Clay debate the QBs for Week 7. Jared Goff vs. C.J. Stroud: Dopp and Clay debate the QBs for Week 7 ",
+  "url": "https://www.espn.com/video/clip/_/id/50238160/dopp-clay-debate-qbs-week-7",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50238160",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50237982",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T15:09:26Z",
+  "text": "Saints GM Mickey Loomis asks for patience with 'young developing team'. Saints general manager Mickey Loomis said he understands the recent criticism from owner Gayle Benson but asked for patience with what he called a \"young developing team.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50237982/saints-gm-loomis-asks-patience-young-developing-team",
+  "teams": [
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50237982",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50238185",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T15:09:16Z",
+  "text": "Is Jonathan Taylor or Javonte Williams a better fantasy play in Week 7?. Is Jonathan Taylor or Javonte Williams a better fantasy play in Week 7?",
+  "url": "https://www.espn.com/video/clip/_/id/50238185/is-jonathan-taylor-javonte-williams-better-fantasy-play-week-7",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50238185",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50237843",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T14:17:25Z",
+  "text": "Mark Andrews' Week 7 fantasy preview. Mark Andrews' Week 7 fantasy preview",
+  "url": "https://www.espn.com/video/clip/_/id/50237843/mark-andrews-week-7-fantasy-preview",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50237843",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50237399",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-21T13:37:35Z",
+  "text": "Patrick Mahomes' Week 7 fantasy outlook. Patrick Mahomes' Week 7 fantasy outlook",
+  "url": "https://www.espn.com/video/clip/_/id/50237399/patrick-mahomes-week-7-fantasy-outlook",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50237399",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50237315",
   "source": "ESPN",
   "author": "ESPN",
@@ -7029,638 +7825,6 @@
   "facts": {
    "id": "espn-d072c0c04483f",
    "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182471",
-  "source": "ESPN",
-  "author": "Marc Raimondi",
-  "time": "2026-10-14T21:11:05Z",
-  "text": "Falcons QB Michael Penix on track to start vs. Bears if no setbacks, coach says. Falcons quarterback Michael Penix Jr. will start Sunday against the Bears despite a rib injury, as long as there are no setbacks during the week.",
-  "url": "https://www.espn.com/nfl/story/_/id/50182471/falcons-say-michael-penix-track-start-bears",
-  "teams": [
-   "ATL",
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50182471",
-   "team": "ATL",
-   "player": null,
-   "position": null,
-   "status": "will start",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50183044",
-  "source": "ESPN",
-  "author": "Mike Reiss",
-  "time": "2026-10-14T21:05:47Z",
-  "text": "Patriots CB Gonzalez says he's 'ready to go'; WR Brown returns to practice. Patriots cornerback Christian Gonzalez said Wednesday he's ready to return after missing the past two games with a shoulder injury.",
-  "url": "https://www.espn.com/nfl/story/_/id/50183044/patriots-gonzalez-set-return-wr-brown-back-practice",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50183044",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50184062",
-  "source": "ESPN",
-  "author": "Mackenzie Kraemer",
-  "time": "2026-10-14T21:01:52Z",
-  "text": "NFL survivor power rankings: Why you should use Rams, Patriots. ESPN NFL survivor pool strategy, predictions and picks for Week 6, including the Rams and Patriots.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50184062/nfl-survivor-week-6-survivor-pool-strategy-advice-picks",
-  "teams": [
-   "BUF",
-   "KC",
-   "SF",
-   "IND",
-   "LA",
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50184062",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50184369",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T20:54:23Z",
-  "text": "Cockcroft: Rhamondre Stevenson a borderline top-10 RB in Week 6. Cockcroft: Rhamondre Stevenson a borderline top-10 RB in Week 6",
-  "url": "https://www.espn.com/video/clip/_/id/50184369/rhamondre-stevenson-borderline-top-10-rb-week-6",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50184369",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50184347",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T20:53:10Z",
-  "text": "Why David Bailey is worth having in IDP lineups in Week 6. Why David Bailey is worth having in IDP lineups in Week 6",
-  "url": "https://www.espn.com/video/clip/_/id/50184347/why-david-bailey-worth-having-idp-lineups-week-6",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50184347",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50184332",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T20:49:36Z",
-  "text": "Why the Chiefs are Tristan H. Cockcroft's top fantasy defense for Week 6. Why the Chiefs are Tristan H. Cockcroft's top fantasy defense for Week 6",
-  "url": "https://www.espn.com/video/clip/_/id/50184332/why-chiefs-tristan-h-cockcroft-top-fantasy-defense-week-6",
-  "teams": [
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50184332",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50183688",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-10-14T19:48:07Z",
-  "text": "Adonai Mitchell had surgical procedure on finger, expected to miss Week 6. Jets receiver Adonai Mitchell underwent a surgical procedure last month on his injured finger and is expected to miss a fourth consecutive game Sunday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50183688/jets-adonai-mitchell-underwent-surgical-procedure-finger",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50183688",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181731",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T19:40:26Z",
-  "text": "Why Dopp is fine with fantasy managers cutting Jalen Hurts. Why Dopp is fine with fantasy managers cutting Jalen Hurts",
-  "url": "https://www.espn.com/video/clip/_/id/50181731/why-dopp-fine-fantasy-managers-cutting-jalen-hurts",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50181731",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182094",
-  "source": "ESPN",
-  "author": "Eric Woodyard",
-  "time": "2026-10-14T19:38:59Z",
-  "text": "What we've learned about the Detroit Lions after five weeks. At 3-2, Detroit enters its bye having found some much-needed momentum in Arizona. Here is a closer look.",
-  "url": "https://www.espn.com/nfl/story/_/id/50182094/lions-bye-week-learned-offense-goff-gibbs",
-  "teams": [
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50182094",
-   "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-47809892",
-  "source": "ESPN",
-  "author": "Doug Greenberg",
-  "time": "2026-10-14T18:51:31Z",
-  "text": "Super Bowl LXI odds: All 32 teams' odds to win the championship. Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-  "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-  "teams": [
-   "SEA",
-   "BAL",
-   "LA",
-   "BUF",
-   "SF",
-   "KC",
-   "JAX",
-   "LAC",
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-47809892",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181259",
-  "source": "ESPN",
-  "author": "Liz Loza",
-  "time": "2026-10-14T18:11:05Z",
-  "text": "Facts vs. Feelings: Out of Love with Jeremiyah, but another Cardinal looms. Why Jeremiyah Love is a bust candidate but Kendrick Bourne is a sleeper, and more Week 6 lineup insights.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50181259/facts-vs-feelings-fantasy-advice-week-6",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50181259",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182999",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T17:53:33Z",
-  "text": "Kiper: Jeremiah Smith is best player in 2027 draft 'by a wide margin'. Kiper: Jeremiah Smith is best player in 2027 draft 'by a wide margin'",
-  "url": "https://www.espn.com/video/clip/_/id/50182999/jeremiah-smith-best-player-2027-draft-wide-margin",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50182999",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182760",
-  "source": "ESPN",
-  "author": "Jeff Legwold",
-  "time": "2026-10-14T17:42:27Z",
-  "text": "Sources: Broncos S Talanoa Hufanga (ankle) set to miss multiple weeks. Safety Talanoa Hufanga, who has made several key plays for the Broncos defense in recent wins, is expected to miss multiple weeks with an ankle injury, sources told ESPN.",
-  "url": "https://www.espn.com/nfl/story/_/id/50182760/sources-broncos-s-hufanga-ankle-set-miss-multiple-weeks",
-  "teams": [
-   "DEN"
-  ],
-  "facts": {
-   "id": "espnnews-50182760",
-   "team": "DEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182603",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T17:03:36Z",
-  "text": "Dopp: I'd prefer not to start Woody Marks vs. the Jags. Dopp: I'd prefer not to start Woody Marks vs. the Jags",
-  "url": "https://www.espn.com/video/clip/_/id/50182603/prefer-not-start-woody-marks-vs-jags",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50182603",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182598",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T17:02:20Z",
-  "text": "Daniel Dopp urging fantasy owners to start Isaiah Likely in Week 6. Daniel Dopp urging fantasy owners to start Isaiah Likely in Week 6",
-  "url": "https://www.espn.com/video/clip/_/id/50182598/daniel-dopp-urging-fantasy-owners-start-isaiah-likely-week-6",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50182598",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-b2e51b851a225",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-14T17:02:10.911Z",
-  "text": "Patriots WR A.J. Brown is being designated to return from IR today, per HC Mike Vrabel.",
-  "url": "https://www.espn.com/contributor/adam-schefter/b2e51b851a225",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espn-b2e51b851a225",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182557",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T17:01:05Z",
-  "text": "Why Dopp is locking Jordan Love in as a top-7 QB in Week 6. Why Dopp is locking Jordan Love in as a top-7 QB in Week 6",
-  "url": "https://www.espn.com/video/clip/_/id/50182557/why-dopp-locking-jordan-love-top-7-qb-week-6",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50182557",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182552",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T16:52:18Z",
-  "text": "Where Daniel Dopp is ranking DK Metcalf in Week 6. Where Daniel Dopp is ranking DK Metcalf in Week 6",
-  "url": "https://www.espn.com/video/clip/_/id/50182552/where-daniel-dopp-ranking-dk-metcalf-week-6",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50182552",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182541",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T16:52:18Z",
-  "text": "Jaylen Waddle's Week 6 fantasy preview. Jaylen Waddle's Week 6 fantasy preview",
-  "url": "https://www.espn.com/video/clip/_/id/50182541/jaylen-waddle-week-6-fantasy-preview",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50182541",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182350",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T16:25:11Z",
-  "text": "Emeka Egbuka's Week 6 fantasy preview. Emeka Egbuka's Week 6 fantasy preview",
-  "url": "https://www.espn.com/video/clip/_/id/50182350/emeka-egbuka-week-6-fantasy-preview",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50182350",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182125",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T16:08:51Z",
-  "text": "Why Stephen A. believes Seahawks need a win more than Broncos. Why Stephen A. believes Seahawks need a win more than Broncos",
-  "url": "https://www.espn.com/video/clip/_/id/50182125/why-stephen-believes-seahawks-need-win-more-broncos",
-  "teams": [
-   "SEA",
-   "DEN"
-  ],
-  "facts": {
-   "id": "espnnews-50182125",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181936",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T15:39:34Z",
-  "text": "Mike Clay's emphatic case for choosing Javonte Williams over Bucky Irving in Week 6. Mike Clay's emphatic case for choosing Javonte Williams over Bucky Irving in Week 6",
-  "url": "https://www.espn.com/video/clip/_/id/50181936/mike-clay-emphatic-case-choosing-javonte-williams-bucky-irving-week-6",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50181936",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181962",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T15:39:12Z",
-  "text": "Is Drake London or Christian Watson a better fantasy option in Week 6?. Is Drake London or Christian Watson a better fantasy option in Week 6?",
-  "url": "https://www.espn.com/video/clip/_/id/50181962/is-drake-london-christian-watson-better-fantasy-option-week-6",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50181962",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181977",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T15:20:53Z",
-  "text": "Stephen A. has \u2018no problem\u2019 with Micah Parsons chiming in on Commanders\u2019 clock fiasco. Stephen A. has \u2018no problem\u2019 with Micah Parsons chiming in on Commanders\u2019 clock fiasco",
-  "url": "https://www.espn.com/video/clip/_/id/50181977/stephen-no-problem-micah-parsons-chiming-commanders-clock-fiasco",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50181977",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181899",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T15:10:49Z",
-  "text": "Who\u2019s the better fantasy QB in Week 6: Hurts or Rodgers?. Who\u2019s the better fantasy QB in Week 6: Hurts or Rodgers?",
-  "url": "https://www.espn.com/video/clip/_/id/50181899/hurts-rodgers",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50181899",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181721",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T14:52:21Z",
-  "text": "Is Kirk Cousins a viable streamer in Week 6?. Is Kirk Cousins a viable streamer in Week 6?",
-  "url": "https://www.espn.com/video/clip/_/id/50181721/is-kirk-cousins-viable-streamer-week-6",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50181721",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181806",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T14:46:57Z",
-  "text": "Mike Evans' Week 6 fantasy preview. Mike Evans' Week 6 fantasy preview",
-  "url": "https://www.espn.com/video/clip/_/id/50181806/mike-evans-week-6-fantasy-preview",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50181806",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181654",
-  "source": "ESPN",
-  "author": "Rob Demovsky",
-  "time": "2026-10-14T14:32:04Z",
-  "text": "Micah Parsons wants to ensure 'all the small things fixed first' before return. The Packers' Micah Parsons explained on his podcast why he's not rushing his return from last season's knee injury.",
-  "url": "https://www.espn.com/nfl/story/_/id/50181654/micah-parsons-not-rushing-return-prevent-different-injury",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50181654",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181677",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T14:27:14Z",
-  "text": "Jahmyr Gibbs' strong fantasy start in perspective. Jahmyr Gibbs' strong fantasy start in perspective",
-  "url": "https://www.espn.com/video/clip/_/id/50181677/jahmyr-gibbs-strong-fantasy-start-perspective",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50181677",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181398",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T14:26:15Z",
-  "text": "Source: Lamar Jackson has realistic chance to play Ravens' Week 6 game at Browns. Ravens quarterback Lamar Jackson has a realistic chance to return for Sunday's game against the Cleveland Browns, a league source told ESPN.",
-  "url": "https://www.espn.com/nfl/story/_/id/50181398/source-lamar-jackson-realistic-chance-play-week-6",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50181398",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181610",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-14T14:11:13Z",
-  "text": "What Lamar's potential return means for Ravens' season. What Lamar's potential return means for Ravens' season",
-  "url": "https://www.espn.com/video/clip/_/id/50181610/what-lamar-potential-return-means-ravens-season",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50181610",
-   "team": "BAL",
    "player": null,
    "position": null,
    "status": "other",
