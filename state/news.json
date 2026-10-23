@@ -1,5 +1,727 @@
 [
  {
+  "id": "espnnews-50229578",
+  "source": "ESPN",
+  "author": "Ben Solak, Seth Walder, Matt Bowen and Mike Clay",
+  "time": "2026-10-23T13:08:17Z",
+  "text": "NFL Week 7 betting guide: the value bets to make on lines, props and anytime TDs. Our experts dive into the odds and player props for Week 7 and offer their betting tips and favorite plays.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50229578/week-7-nfl-odds-touchdown-props-best-bets-sunday-games",
+  "teams": [
+   "NYJ",
+   "GB",
+   "DET",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50229578",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50232827",
+  "source": "ESPN",
+  "author": "David Dennis Jr. and Justin Tinsley",
+  "time": "2026-10-23T13:07:07Z",
+  "text": "Jay-Z's greatest sports lyrics, ranked ahead of his SoFi Stadium show. Jay-Z's catalog is packed with sports references -- here are the ones that top our list.",
+  "url": "https://www.espn.com/espn/story/_/id/50232827/jayz-best-sports-references-sofi-stadium",
+  "teams": [
+   "PHI",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50232827",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50253673",
+  "source": "ESPN",
+  "author": "Alex Scarborough",
+  "time": "2026-10-23T12:47:10Z",
+  "text": "Marshall Faulk, Hall of Famer and Southern coach, reveals Parkinson's diagnosis. Marshall Faulk said that in discussing his illness in a podcast appearance Wednesday, \"I want to help as many people as I can.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50253673/marshall-faulk-hall-famer-southern-coach-parkinsons",
+  "teams": [
+   "IND",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50253673",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50257222",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-23T12:46:36Z",
+  "text": "'Good Morning Football' sends best wishes to Faulk after Parkinson's diagnosis. 'Good Morning Football' sends best wishes to Faulk after Parkinson's diagnosis",
+  "url": "https://www.espn.com/video/clip/_/id/50257222/good-morning-football-sends-best-wishes-faulk-parkinson-diagnosis",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50257222",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50250199",
+  "source": "ESPN",
+  "author": "Adam Rank",
+  "time": "2026-10-23T12:28:44Z",
+  "text": "What to know for Week 7: Start Stroud, one WR to trade for and one to trade away. Faced with some tough start/sit decisions ahead of Week 7? Adam Rank has you covered at every position.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50250199/fantasy-football-start-sit-decisions-week-7",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50250199",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50256842",
+  "source": "ESPN",
+  "author": "Michael Dirocco",
+  "time": "2026-10-23T12:03:52Z",
+  "text": "Sources: Jaguars LT Harrison out for season after surgery reveals torn ACL. Jaguars left tackle Anton Harrison will miss the rest of the season because of a torn ACL in his right knee, league sources told NFL Network's Ian Rapoport.",
+  "url": "https://www.espn.com/nfl/story/_/id/50256842/sources-jaguars-lt-anton-harrison-season-torn-acl",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50256842",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50229521",
+  "source": "ESPN",
+  "author": "NFL Nation, Pamela Maldonado, Eric Moody and Seth Walder",
+  "time": "2026-10-23T11:19:54Z",
+  "text": "NFL Week 7 preview: Picks, predictions, schedule, betting odds, fantasy tips. Cowboys at Eagles? Bengals at Ravens? The Steelers and Saints in Paris? There are 13 more games in Week 7, and we have picks, predictions and more for all of them.",
+  "url": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026",
+  "teams": [
+   "NYG",
+   "DET",
+   "TB",
+   "ATL",
+   "PIT",
+   "NYJ",
+   "BUF",
+   "CIN",
+   "CLE",
+   "MIA",
+   "IND",
+   "LV",
+   "NE",
+   "ARI",
+   "NO",
+   "CAR",
+   "JAX",
+   "TEN",
+   "DEN",
+   "SF",
+   "SEA",
+   "LA",
+   "MIN",
+   "DAL",
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50229521",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50256507",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-23T11:08:49Z",
+  "text": "Steelers' Aaron Rodgers backs NFL on holding Paris game despite recent unrest. Steelers quarterback Aaron Rodgers on Friday expressed confidence in the NFL to make security decisions around staging a game in Paris amid recent civil unrest in the city.",
+  "url": "https://www.espn.com/nfl/story/_/id/50256507/steelers-rodgers-backs-nfl-paris-game-recent-unrest",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50256507",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50233140",
+  "source": "ESPN",
+  "author": "Nate Taylor and Brady Henderson",
+  "time": "2026-10-23T10:58:00Z",
+  "text": "Kenneth Walker III is thriving with Chiefs. Why did the Seahawks let him go?. While the Seahawks' run game is struggling, the Super Bowl MVP is on a historic pace for the Chiefs this season.",
+  "url": "https://www.espn.com/nfl/story/_/id/50233140/seattle-seahawks-kansas-city-chiefs-kenneth-walker",
+  "teams": [
+   "KC",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50233140",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49466506",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-23T10:43:27Z",
+  "text": "Betting buzz: Sportsbooks, bettors join the National Tight Ends Day frenzy. On the fourth Sunday of every October since 2018, bettors and books alike celebrate National Tight Ends Day.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/49466506/nfl-betting-buzz-odds-updates-line-moves-spreads",
+  "teams": [
+   "LA",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-49466506",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50249469",
+  "source": "ESPN",
+  "author": "Matt Bowen",
+  "time": "2026-10-23T10:40:14Z",
+  "text": "Fantasy football last-minute pickups: Cooper Jr., Rodgers among top options. If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50249469/fantasy-football-streamers-last-minute-pickups-week-7",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50249469",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50249570",
+  "source": "ESPN",
+  "author": "Eric Karabell",
+  "time": "2026-10-23T10:39:11Z",
+  "text": "Don't be surprised if ... Rodgers is a top-12 QB, Skattebo rebounds. Don't be surprised if Aaron Rodgers' strong play continues and Cam Skattebo bounces back in Week 7.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50249570/fantasy-football-start-sit-sleepers-breakouts-week-7",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50249570",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50251843",
+  "source": "ESPN",
+  "author": "Turron Davenport",
+  "time": "2026-10-23T10:00:10Z",
+  "text": "What's led to Titans' recent success? Under center. Titans run the ball better from under center, so why not put it into practice more?",
+  "url": "https://www.espn.com/nfl/story/_/id/50251843/tennessee-titans-center-success",
+  "teams": [
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50251843",
+   "team": "TEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50249407",
+  "source": "ESPN",
+  "author": "Josh Weinfuss",
+  "time": "2026-10-23T10:00:00Z",
+  "text": "Inside Marvin Harrison Jr.s' exit from the Cardinals. Harrison never reached his potential in Arizona, but all sides are hoping for a fresh start moving forward.",
+  "url": "https://www.espn.com/nfl/story/_/id/50249407/marvin-harrison-jr-cardinals-texans",
+  "teams": [
+   "ARI",
+   "HOU"
+  ],
+  "facts": {
+   "id": "espnnews-50249407",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50250196",
+  "source": "ESPN",
+  "author": "Jeff Legwold",
+  "time": "2026-10-23T10:00:00Z",
+  "text": "What's wrong with Bo Nix? Exploring the Broncos QB's struggles, long-term status. The Broncos are winning, but Nix is dealing with the roughest stretch of his career. Why is he struggling -- and is he still Denver's long-term QB?",
+  "url": "https://www.espn.com/nfl/story/_/id/50250196/quarterback-bo-nix-struggles-broncos-long-term-questions",
+  "teams": [
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50250196",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50255748",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-10-23T07:22:53Z",
+  "text": "Bears' Santos gets redemption with game-sealing FG after 'annoying' miss vs. Pats. Bears kicker Cairo Santos walked away from Thursday's win over the Patriots a savior despite being haunted by a fourth-quarter miss.",
+  "url": "https://www.espn.com/nfl/story/_/id/50255748/chicago-bears-cairo-santos-58-yard-field-goal-patriots",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50255748",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50254858",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-10-23T07:01:47Z",
+  "text": "TE Cole Kmet exits Bears' win vs. Patriots with knee injury. Bears tight end Cole Kmet exited Thursday night's game against the Patriots on a cart after injuring his right knee in the fourth quarter.",
+  "url": "https://www.espn.com/nfl/story/_/id/50254858/bears-te-cole-kmet-exits-late-vs-patriots-knee-injury",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50254858",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50254932",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-23T05:40:08Z",
+  "text": "Caleb Williams throws 2 TD passes as the Bears beat Drake Maye and the Patriots 30-24. \u2014 Round 2 went to Caleb Williams and the Chicago Bears.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873010",
+  "teams": [
+   "CHI",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50254932",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50253179",
+  "source": "ESPN",
+  "author": "Mike Reiss and Courtney Cronin",
+  "time": "2026-10-23T04:24:54Z",
+  "text": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more. Here's a look at the best plays from the Bears' win over the Patriots on TNF.",
+  "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns",
+  "teams": [
+   "CHI",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50253179",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50254157",
+  "source": "ESPN",
+  "author": "Courtney Cronin and Mike Reiss",
+  "time": "2026-10-23T04:19:49Z",
+  "text": "Caleb Williams, Bears find just enough to hold off Pats. The Bears never trailed, but they never seemed comfortable with the lead.",
+  "url": "https://www.espn.com/nfl/story/_/id/50254157/bears-patriots-thursday-night-football-luther-burden",
+  "teams": [
+   "CHI",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50254157",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-40994229",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-23T03:27:16Z",
+  "text": "What are the longest field goals in NFL history?. Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+  "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
+  "teams": [
+   "BAL",
+   "DAL",
+   "NE",
+   "CAR",
+   "SF",
+   "NO",
+   "ARI",
+   "KC",
+   "TB",
+   "BUF",
+   "PHI",
+   "WAS",
+   "MIN",
+   "HOU",
+   "SEA",
+   "LA",
+   "MIA",
+   "TEN",
+   "CLE",
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-40994229",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50254893",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-23T03:26:15Z",
+  "text": "Bears take down Patriots in TNF thriller. Bears take down Patriots in TNF thriller ",
+  "url": "https://www.espn.com/video/clip/_/id/50254893/bears-take-patriots-tnf-thriller",
+  "teams": [
+   "NE",
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50254893",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50253588",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-10-23T02:50:52Z",
+  "text": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF. The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+  "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50253588",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49309401",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-23T02:00:27Z",
+  "text": "Fantasy football 12-team Knockout league rankings: The 154 players to draft. Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49309401",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50253430",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-23T00:25:09Z",
+  "text": "A battered Rams team faces a near must-win at Las Vegas. \u2014 The tone for the Rams' season was set from the beginning when they ",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873021",
+  "teams": [
+   "LV",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50253430",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50253313",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-23T00:03:25Z",
+  "text": "Eagles still trying to salvage NFC East crown without Hurts as they host Cowboys on Monday night. \u2014 Tanner McKee spent most of his two seasons widely considered one of the top young backup quarterbacks in the NFL.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873009",
+  "teams": [
+   "PHI",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50253313",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50253264",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-22T23:47:08Z",
+  "text": "Trey Hendrickson is set to face the Bengals for the first time since signing with Baltimore. \u2014 Trey Hendrickson is finally looking healthier \u2014 just in time for a matchup with his former team.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873012",
+  "teams": [
+   "BAL",
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50253264",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50252934",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-10-22T23:37:34Z",
+  "text": "Rams WR Puka Nacua leaves practice with calf injury. Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
+  "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50252934",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50253140",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-22T23:24:09Z",
+  "text": "Baker Mayfield set to make return vs. Panthers, looks to turn around struggling Buccaneers. \u2014 The last-place Tampa Bay Buccaneers are in need of a spark.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873018",
+  "teams": [
+   "CAR",
+   "TB"
+  ],
+  "facts": {
+   "id": "espnnews-50253140",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50253068",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-22T23:12:09Z",
+  "text": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home. \u2014 The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873020",
+  "teams": [
+   "DET",
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50253068",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50252633",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-22T23:10:03Z",
+  "text": "Tony Kornheiser and Michael Wilbon kick off PTI 25 with their top headlines. Tony Kornheiser and Michael Wilbon kick off PTI 25 with their top headlines",
+  "url": "https://www.espn.com/video/clip/_/id/50252633/tony-kornheiser-michael-wilbon-kick-pti-25-their-top-headlines",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50252633",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-342997f3ec8cf",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-22T22:14:37.413Z",
+  "text": "Rams WR Puka Nacua left practice early today due to a calf injury.",
+  "url": "https://www.espn.com/contributor/adam-schefter/342997f3ec8cf",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espn-342997f3ec8cf",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50252261",
   "source": "ESPN",
   "author": "ESPN Staff",
@@ -7266,545 +7988,6 @@
   "facts": {
    "id": "espnnews-50191952",
    "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50188997",
-  "source": "ESPN",
-  "author": "NFL Nation, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
-  "time": "2026-10-16T13:06:28Z",
-  "text": "NFL Week 6 preview: Picks, predictions, schedule, betting odds, fantasy tips. Patrick Mahomes vs. Justin Herbert? C.J. Stroud vs. Trevor Lawrence? There are 13 more games in Week 6, and we have picks, predictions and more for all of them.",
-  "url": "https://www.espn.com/nfl/story/_/id/50188997/week-6-picks-predictions-schedule-fantasy-odds-2026",
-  "teams": [
-   "NYG",
-   "DET",
-   "TB",
-   "ATL",
-   "PIT",
-   "NYJ",
-   "BUF",
-   "CIN",
-   "CLE",
-   "MIA",
-   "IND",
-   "LV",
-   "NE",
-   "ARI",
-   "NO",
-   "CAR",
-   "JAX",
-   "TEN",
-   "DEN",
-   "SF",
-   "SEA",
-   "LA",
-   "MIN",
-   "DAL",
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50188997",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50190576",
-  "source": "ESPN",
-  "author": "Adam Rank",
-  "time": "2026-10-16T13:03:42Z",
-  "text": "The Week 6 QB shuffle: Six quarterbacks to pick up if yours is underperforming. Is it finally time to drop that one quarterback? Adam Rank says yes and offers his favorite options.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50190576/fantasy-football-start-sit-week-6-quarterbacks",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50190576",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50194537",
-  "source": "ESPN",
-  "author": "Jeff Legwold",
-  "time": "2026-10-16T12:54:58Z",
-  "text": "Defense bails out Broncos in overtime win as Bo Nix, offense struggle. The Broncos defense came up with five sacks, 17 QB hits and two interceptions, enabling Denver to win even though the offense finished with only 168 yards.",
-  "url": "https://www.espn.com/nfl/story/_/id/50194537/broncos-seahawks-defense-bo-nix",
-  "teams": [
-   "DEN"
-  ],
-  "facts": {
-   "id": "espnnews-50194537",
-   "team": "DEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50195748",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-16T12:53:57Z",
-  "text": "Why Fortenbaugh is picking Cowboys to beat Packers. Why Fortenbaugh is picking Cowboys to beat Packers",
-  "url": "https://www.espn.com/video/clip/_/id/50195748/why-fortenbaugh-picking-cowboys-beat-packers",
-  "teams": [
-   "DAL",
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50195748",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182356",
-  "source": "ESPN",
-  "author": "Matt Bowen",
-  "time": "2026-10-16T12:53:49Z",
-  "text": "Fantasy football last-minute pickups: Winston, Tucker among top options. If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50182356/fantasy-football-streamers-last-minute-pickups-week-6",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50182356",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50195718",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-16T12:48:17Z",
-  "text": "Peter Schrager: Bo Nix looks like a shell of himself. Peter Schrager: Bo Nix looks like a shell of himself",
-  "url": "https://www.espn.com/video/clip/_/id/50195718/bo-nix-looks-shell-himself",
-  "teams": [
-   "DEN"
-  ],
-  "facts": {
-   "id": "espnnews-50195718",
-   "team": "DEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50195650",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-16T12:39:55Z",
-  "text": "Orlovsky: Jalen Hurts' ailment could be 'franchise altering' for Eagles. Orlovsky: Jalen Hurts' ailment could be 'franchise altering' for Eagles",
-  "url": "https://www.espn.com/video/clip/_/id/50195650/jalen-hurts-ailment-franchise-altering-eagles",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50195650",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50194585",
-  "source": "ESPN",
-  "author": "Brady Henderson",
-  "time": "2026-10-16T12:32:43Z",
-  "text": "Seahawks' Sam Darnold owns up to late interceptions in overtime loss to Broncos. Seahawks quarterback Sam Darnold called his two late interceptions against the Broncos \"unacceptable\" and vowed to be better after a 17-14 loss.",
-  "url": "https://www.espn.com/nfl/story/_/id/50194585/seahawks-darnold-owns-turnovers-loss-broncos",
-  "teams": [
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50194585",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50195310",
-  "source": "ESPN",
-  "author": "Associated Press",
-  "time": "2026-10-16T11:58:04Z",
-  "text": "Harry Kane has talent for NFL - Jags kicker Cam Little. Cam Little is confident Harry Kane has the skill to become an NFL kicker.",
-  "url": "https://www.espn.com/nfl/story/_/id/50195310/harry-kane-talent-nfl-jacksonville-jaguars-kicker-cam-little",
-  "teams": [
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50195310",
-   "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49965396",
-  "source": "ESPN",
-  "author": "Eric Moody",
-  "time": "2026-10-16T11:34:00Z",
-  "text": "Fantasy football: Live Week 6 Q&A with our expert, noon ET. ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/49965396/fantasy-football-start-sit-lineup-advice-week",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49965396",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50192170",
-  "source": "ESPN",
-  "author": "Mike Clay",
-  "time": "2026-10-16T10:43:43Z",
-  "text": "DraftKings DFS cheat sheet: Best values for Sunday's main slate. Build a winning DFS lineup with our DraftKings NFL Week 6 cheat sheet identifying the best stacks and values",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50192170/draftkings-nfl-dfs-values-week-6",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50192170",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50181965",
-  "source": "ESPN",
-  "author": "Dan Graziano",
-  "time": "2026-10-16T10:38:23Z",
-  "text": "Ranking all eight NFL divisions this season by strength: NFC North at No. 1?. Why do we have the NFC North at No. 1 in our annual division power ranking -- even ahead of the mighty NFC West? And is the NFC South at the bottom of our list ... again?",
-  "url": "https://www.espn.com/nfl/story/_/id/50181965/2026-nfl-season-ranking-eight-nfl-divisions-best-worst",
-  "teams": [
-   "BAL",
-   "CIN",
-   "CLE",
-   "PIT",
-   "SF",
-   "LA",
-   "SEA",
-   "ARI",
-   "DET",
-   "GB",
-   "CHI",
-   "MIN",
-   "BUF",
-   "MIA",
-   "NYJ",
-   "NE",
-   "ATL",
-   "CAR",
-   "DAL",
-   "DEN",
-   "HOU",
-   "IND",
-   "JAX",
-   "KC",
-   "LV",
-   "LAC",
-   "NO",
-   "NYG",
-   "PHI",
-   "TB",
-   "TEN",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50181965",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50193213",
-  "source": "ESPN",
-  "author": "Brooke Pryor",
-  "time": "2026-10-16T10:00:02Z",
-  "text": "Pop quizzes from Aaron Rodgers?! How Steelers QB preps his pass catchers. The 42-year-old veteran acts more like Simon Cowell than Ken Jennings as he builds trust with his teammates.",
-  "url": "https://www.espn.com/nfl/story/_/id/50193213/pop-quizzes-aaron-rodgers-steelers-qb-prepares",
-  "teams": [
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50193213",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50189868",
-  "source": "ESPN",
-  "author": "Ryan McFadden",
-  "time": "2026-10-16T10:00:00Z",
-  "text": "Five takeaways from five weeks of the Raiders' season. What should be taken away from the first five weeks of the Raiders' 2026 season?",
-  "url": "https://www.espn.com/nfl/story/_/id/50189868/las-vegas-raiders-2026-season-five-takeaways-kirk-cousins",
-  "teams": [
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50189868",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50192352",
-  "source": "ESPN",
-  "author": "Brady Henderson and Jeff Legwold",
-  "time": "2026-10-16T05:00:03Z",
-  "text": "Run game, defense power Broncos in OT win against Seahawks. Behind two rushing touchdowns and a five-sack night, Denver holds off Seattle on \"Thursday Night Football.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50192352/broncos-seahawks-week-6-tnf-run-game-defense-ot",
-  "teams": [
-   "DEN",
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50192352",
-   "team": "DEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50194076",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-16T04:53:27Z",
-  "text": "Broncos beat the Seahawks 17-14 in OT on Ja'Quan McMillian's pick, Wil Lutz's 53-yarder. \u2014 The Denver Broncos are atrocious on offense, depleted on defense and shaky on special teams. All they do is find ways to win.",
-  "url": "http://www.espn.com/nfl/recap?gameId=401872995",
-  "teams": [
-   "DEN",
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50194076",
-   "team": "DEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50194124",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-16T03:59:12Z",
-  "text": "Seattle Seahawks vs. Denver Broncos: Game Highlights. Seattle Seahawks vs. Denver Broncos: Game Highlights",
-  "url": "https://www.espn.com/video/clip/_/id/50194124/game-highlights",
-  "teams": [
-   "DEN",
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50194124",
-   "team": "DEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50192833",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-16T00:52:35Z",
-  "text": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB. Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401872997",
-  "teams": [
-   "CLE",
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50192833",
-   "team": "CLE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50192401",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-15T23:39:29Z",
-  "text": "Jon Morris, former AFL and NFL center with Patriots, dies at 84. Jon Morris, who played 11 of his 15-year AFL and NFL career with the Boston and New England Patriots, has died at age 84.",
-  "url": "https://www.espn.com/nfl/story/_/id/50192401/jon-morris-former-afl-nfl-center-patriots-dies-84",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50192401",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50192475",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-15T23:23:28Z",
-  "text": "Panthers to visit an Eagles team that was already reeling before losing Hurts to a blood clot. \u2014 The Carolina Panthers had already been installed as road betting favorites as they prepare to visit Philadelphia and face a banged-up Eagles team riding a three-game losing streak.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401872998",
-  "teams": [
-   "PHI",
-   "CAR"
-  ],
-  "facts": {
-   "id": "espnnews-50192475",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50192302",
-  "source": "ESPN",
-  "author": "DJ Bien-Aime",
-  "time": "2026-10-15T23:03:48Z",
-  "text": "Texans RB Montgomery, S Pitre out for London affair vs. Jaguars. Texans starting RB David Montgomery (groin) and safety Jalen Pitre (shoulder) have been ruled out for Sunday's matchup against the Jaguars in London.",
-  "url": "https://www.espn.com/nfl/story/_/id/50192302/texans-rb-montgomery-s-pitre-london-affair-vs-jaguars",
-  "teams": [
-   "HOU",
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50192302",
-   "team": "HOU",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50192404",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-15T22:56:28Z",
-  "text": "Sean McVay faces former offensive coordinator Mike LaFleur for first time when Rams host Cardinals. \u2014 The game between the Rams and Cardinals on Sunday is about more than the latest matchup pitting Sean McVay against one of his former offensive assistants \u2014 in this instance, ",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873004",
-  "teams": [
-   "LA",
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50192404",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50192345",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-15T22:49:28Z",
-  "text": "Patriots on upset alert as Geno Smith brings a no-INT streak into Jets matchup with Patriots. \u2014 The New England Patriots are coming off their best performance of the season, doing almost everything they wanted during a 28-point win over the...",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873001",
-  "teams": [
-   "NE",
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50192345",
-   "team": "NE",
    "player": null,
    "position": null,
    "status": "other",
