@@ -1,5 +1,66 @@
 [
  {
+  "id": "espnnews-29098001",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-25T16:21:45Z",
+  "text": "NFL depth charts for all 32 teams for 2026 season. Here are the latest NFL depth charts for all 32 teams.",
+  "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-29098001",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50274245",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-25T16:20:13Z",
+  "text": "Mahomes and Kelce the Chiefs dynamic duo. Mahomes and Kelce the Chiefs dynamic duo",
+  "url": "https://www.espn.com/video/clip/_/id/50274245/mahomes-kelce-chiefs-dynamic-duo",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50274245",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50274377",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-25T16:04:47Z",
+  "text": "How Bengals star QB Joe Burrow brings a chess mindset to football. How Bengals star QB Joe Burrow brings a chess mindset to football ",
+  "url": "https://www.espn.com/video/clip/_/id/50274377/how-bengals-star-qb-joe-burrow-brings-chess-mindset-football",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50274377",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50276432",
   "source": "ESPN",
   "author": "ESPN",
@@ -7759,121 +7820,6 @@
   "facts": {
    "id": "espnnews-49881131",
    "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50209509",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-18T16:21:54Z",
-  "text": "'Sunny Strong': How one young Ravens fan with cancer inspires the team. During pregame warm-ups, the Ravens wear a hand-crafted hoodie, designed by pediatric cancer patients. As Kimberley tells us, Baltimore's number one receiver, Zay Flowers, has made a connection with his number one fan",
-  "url": "https://www.espn.com/video/clip/_/id/50209509/how-one-young-ravens-fan-cancer-inspires-team",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50209509",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50210891",
-  "source": "ESPN",
-  "author": "Turron Davenport",
-  "time": "2026-10-18T16:12:11Z",
-  "text": "Titans CB Taylor inactive against Colts as team seeks first victory. Titans cornerback Alontae Taylor is inactive for Sunday's game against the Colts. A team source tells ESPN  it's a coach's decision and not injury-related.",
-  "url": "https://www.espn.com/nfl/story/_/id/50210891/titans-cornerback-taylor-inactive-colts",
-  "teams": [
-   "TEN"
-  ],
-  "facts": {
-   "id": "espnnews-50210891",
-   "team": "TEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50210735",
-  "source": "ESPN",
-  "author": "DJ Bien-Aime",
-  "time": "2026-10-18T16:10:26Z",
-  "text": "Texans safety Reed Blankenship suffers concussion vs. Jaguars in London. The Houston Texans lost starting safety Reed Blankenship to a concussion in the second quarter of Sunday's game against the Jacksonville Jaguars in London.",
-  "url": "https://www.espn.com/nfl/story/_/id/50210735/texans-safety-reed-blankenship-suffers-concussion-london",
-  "teams": [
-   "HOU"
-  ],
-  "facts": {
-   "id": "espnnews-50210735",
-   "team": "HOU",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50193542",
-  "source": "ESPN",
-  "author": "ESPN Staff",
-  "time": "2026-10-18T16:08:01Z",
-  "text": "Eagles WR DeVonta Smith leads NFL Week 6's best arrivals. NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-  "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals",
-  "teams": [
-   "GB",
-   "ATL",
-   "KC",
-   "NYG",
-   "CLE",
-   "LAC",
-   "IND",
-   "CAR",
-   "TEN",
-   "PIT",
-   "HOU",
-   "WAS",
-   "BAL",
-   "MIN",
-   "TB",
-   "LV",
-   "NO",
-   "ARI",
-   "DAL",
-   "PHI",
-   "CHI",
-   "SEA",
-   "BUF",
-   "MIA",
-   "NYJ",
-   "CIN",
-   "DET",
-   "JAX",
-   "DEN",
-   "SF",
-   "LA",
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50193542",
-   "team": "GB",
    "player": null,
    "position": null,
    "status": "other",
