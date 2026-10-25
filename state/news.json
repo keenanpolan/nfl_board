@@ -43,6 +43,25 @@
   }
  },
  {
+  "id": "espnnews-49881131",
+  "source": "ESPN",
+  "author": "Mel Kiper Jr. and Jordan Reid",
+  "time": "2026-10-25T17:06:37Z",
+  "text": "2027 NFL draft questions, latest intel, risers, CFB standouts. What are the odds Trey'Dez Green -- who scored in his return -- ends up as TE1? What's a good comp for Dylan Stewart? Here's draft spin off CFB Week 8.",
+  "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49881131",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50239544",
   "source": "ESPN",
   "author": "NFL Nation",
