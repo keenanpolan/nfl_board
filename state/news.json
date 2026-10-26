@@ -1,5 +1,931 @@
 [
  {
+  "id": "espnnews-50287522",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T15:06:54Z",
+  "text": "Aaron Rodgers suggests full week of international games, jabs at NFL owners. Aaron Rodgers advocated for the NFL to schedule a full week of international games and also jabbed at owners, hinting that they pay lip service to player safety.",
+  "url": "https://www.espn.com/nfl/story/_/id/50287522/aaron-rodgers-suggests-full-week-nfl-international-games",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50287522",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50286135",
+  "source": "ESPN",
+  "author": "Eric Karabell",
+  "time": "2026-10-26T14:58:07Z",
+  "text": "Fantasy football free agent pickups: Malik Willis, Jonah Coleman lead top options. Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50286135/fantasy-football-waivers-free-agent-pickups-nfl-week-8",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50286135",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50287123",
+  "source": "ESPN",
+  "author": "Rob Demovsky",
+  "time": "2026-10-26T14:56:26Z",
+  "text": "Sources: Packers LB Zaire Franklin has hairline fracture in leg. Packers linebacker Zaire Franklin has a hairline fracture in his leg and center Sean Rhyan is believed to have a high ankle sprain, sources told NFL Network's Ian Rapoport.",
+  "url": "https://www.espn.com/nfl/story/_/id/50287123/sources-packers-zaire-franklin-hairline-fracture-leg",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50287123",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50278093",
+  "source": "ESPN",
+  "author": "Bill Barnwell",
+  "time": "2026-10-26T14:43:38Z",
+  "text": "Sizing up NFL Week 7: Time to trust the Giants? Start Mendoza? Worry about Henry?. Let's make sense of six takeaways from Sunday and spin them forward. Just how good is the Vikings' defense? What's wrong with the Ravens' run game? Are the Giants legit?",
+  "url": "https://www.espn.com/nfl/story/_/id/50278093/week-7-barnwell-vikings-texans-giants-jets-raiders-ravens",
+  "teams": [
+   "BAL",
+   "MIN",
+   "NYG",
+   "HOU",
+   "LV",
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50278093",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50250750",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T14:35:24Z",
+  "text": "NFL Week 8 betting odds: Lines and totals for every game. A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals",
+  "teams": [
+   "ARI",
+   "ATL",
+   "BAL",
+   "BUF",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "GB",
+   "HOU",
+   "IND",
+   "JAX",
+   "KC",
+   "LV",
+   "LAC",
+   "LA",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SF",
+   "SEA",
+   "TB",
+   "TEN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50250750",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50257820",
+  "source": "ESPN",
+  "author": "Tim McManus and Todd Archer and Dan Graziano",
+  "time": "2026-10-26T14:33:51Z",
+  "text": "Breaking down Cowboys-Eagles MNF matchup in wide-open NFC East. Both teams enter the game 2-4, looking far from formidable and staring up at the 4-2-1 division-leading Giants.",
+  "url": "https://www.espn.com/nfl/story/_/id/50257820/cowboys-eagles-matchup-wide-open-nfc-east-mnf-week-7",
+  "teams": [
+   "PHI",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50257820",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50287413",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T14:32:45Z",
+  "text": "Stephen A. stunned by Chiefs' offensive woes. Stephen A. stunned by Chiefs' offensive woes ",
+  "url": "https://www.espn.com/video/clip/_/id/50287413/stephen-stunned-chiefs-offensive-woes",
+  "teams": [
+   "KC",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50287413",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-47879613",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-10-26T14:20:05Z",
+  "text": "Fantasy football 2026 offensive depth charts. Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-47879613",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50284388",
+  "source": "ESPN",
+  "author": "Eric Moody",
+  "time": "2026-10-26T13:56:31Z",
+  "text": "How to bet Cowboys-Eagles: Analysis, tips and top prop plays. Odds and analysis to help you bet the Dallas Cowboys-Philadelphia Eagles game on Monday night.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50284388/nfl-week-7-odds-betting-tips-cowboys-eagles-preview",
+  "teams": [
+   "DAL",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50284388",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50287037",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T13:31:26Z",
+  "text": "Aaron Rodgers takes shot at NFL, outlines potential international week for league. Aaron Rodgers takes shot at NFL, outlines potential international week for league",
+  "url": "https://www.espn.com/video/clip/_/id/50287037/aaron-rodgers-takes-shot-nfl-outlines-potential-international-week-league",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50287037",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50286665",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T13:01:51Z",
+  "text": "Do the Chiefs need to trade for a WR to fix their offense?. Do the Chiefs need to trade for a WR to fix their offense?",
+  "url": "https://www.espn.com/video/clip/_/id/50286665/do-chiefs-need-trade-wr-fix-their-offense",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50286665",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50286669",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T12:48:08Z",
+  "text": "Does Jared Goff belong in the MVP conversation?. Does Jared Goff belong in the MVP conversation? ",
+  "url": "https://www.espn.com/video/clip/_/id/50286669/does-jared-goff-belong-mvp-conversation",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50286669",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50281768",
+  "source": "ESPN",
+  "author": "Kalan Hooks",
+  "time": "2026-10-26T12:11:59Z",
+  "text": "National Tight Ends Day 2026: Davis Allen, Mason Taylor put on a show during holiday. The fourth weekend in October means National Tight Ends Day, and the NFL's tight ends made sure to bring their best.",
+  "url": "https://www.espn.com/nfl/story/_/id/50281768/national-tight-end-day-highlights",
+  "teams": [
+   "PIT",
+   "LA",
+   "ATL",
+   "NYJ",
+   "GB",
+   "CAR",
+   "ARI",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50281768",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50285364",
+  "source": "ESPN",
+  "author": "Nate Taylor",
+  "time": "2026-10-26T12:09:36Z",
+  "text": "Seahawks contain Chiefs' Kenneth Walker III in RB's return to Seattle. Chiefs running back Kenneth Walker III had his worst game of the season in his return to Seattle on Sunday night.",
+  "url": "https://www.espn.com/nfl/story/_/id/50285364/seahawks-limit-chiefs-rb-kenneth-walker-iii-seattle-return",
+  "teams": [
+   "KC",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50285364",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50285418",
+  "source": "ESPN",
+  "author": "Brady Henderson",
+  "time": "2026-10-26T12:07:09Z",
+  "text": "Jaxon Smith-Njigba has 150 receiving yards, TD in Seahawks' win vs. Chiefs. Jaxon Smith-Njigba wasn't the main story heading into Sunday night's Chiefs-Seahawks matchup -- but he emerged as the game's biggest star, continuing his own historic start by catching nine passes for 150 yards and a touchdown in Seattle's 20-3 win.",
+  "url": "https://www.espn.com/nfl/story/_/id/50285418/jaxon-smith-njigba-stars-seahawks-deal-chiefs-first-loss",
+  "teams": [
+   "SEA",
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50285418",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50278065",
+  "source": "ESPN",
+  "author": "Dan Graziano",
+  "time": "2026-10-26T11:01:42Z",
+  "text": "Judging overreactions to NFL Week 7: McCarthy-led Giants are NFC East favorites?. Will J.J. McCarthy bring the Giants to the postseason? Are the Vikings headed for a bye? How bad do the 49ers need Mike Evans back? Let's overreact to Sunday's games.",
+  "url": "https://www.espn.com/nfl/story/_/id/50278065/week-7-overreactions-2026-graziano-mccarthy-giants-bengals",
+  "teams": [
+   "NYG",
+   "CIN",
+   "SF",
+   "MIN",
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50278065",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50284399",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T05:20:58Z",
+  "text": "Seahawks knock off Chiefs 20-3, giving K.C. its first loss. Seahawks knock off Chiefs 20-3, giving K.C. its first loss",
+  "url": "https://www.espn.com/video/clip/_/id/50284399/seahawks-knock-chiefs-20-3-giving-kc-first-loss",
+  "teams": [
+   "KC",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50284399",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50280888",
+  "source": "ESPN",
+  "author": "Matt Bowen and Michael F. Florio",
+  "time": "2026-10-26T05:18:09Z",
+  "text": "Week 7 winners and losers: Pollard, Burrow lead the way; Walker III, Purdy struggle. Tony Pollard, Joe Burrow and Zay Flowers came up big in Week 7, while Brock Purdy, Derrick Henry and Kenneth Walker III all had quiet days.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50280888/nfl-week-7-fantasy-football-winners-losers-injuries-rankings-more",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50280888",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50280779",
+  "source": "ESPN",
+  "author": "Anthony Gharib",
+  "time": "2026-10-26T04:35:25Z",
+  "text": "Seahawks troll Taylor Swift, Travis Kelce to top NFL Week 7's petty posts. The Seattle Seahawks' petty post at Taylor Swift and Kansas City Chiefs' Travis Kelce leads the way for NFL's Week 7 trolls.",
+  "url": "https://www.espn.com/nfl/story/_/id/50280779/nfl-week-7-trolls",
+  "teams": [
+   "ATL",
+   "SF",
+   "NYG",
+   "HOU",
+   "CLE",
+   "TEN",
+   "LA",
+   "LV",
+   "GB",
+   "DET",
+   "SEA",
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50280779",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50252989",
+  "source": "ESPN",
+  "author": "Brady Henderson and Nate Taylor",
+  "time": "2026-10-26T04:27:47Z",
+  "text": "Jaxon Smith-Njigba, stifling defense help Seahawks hand Chiefs first loss. Seattle's bread and butter from its Super Bowl championship season -- Jaxon Smith-Njigba and defense -- was too much for the Chiefs.",
+  "url": "https://www.espn.com/nfl/story/_/id/50252989/seahawks-beat-chiefs-sunday-night-football-smith-njigba",
+  "teams": [
+   "KC",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50252989",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50284090",
+  "source": "ESPN",
+  "author": "Ryan McFadden",
+  "time": "2026-10-26T04:22:57Z",
+  "text": "Raiders' Kubiak on switching to QB Mendoza: 'We're thinking about everything'. Raiders coach Klint Kubiak said the team is thinking about everything, including turning to QB Fernando Mendoza, amid a four-game losing streak.",
+  "url": "https://www.espn.com/nfl/story/_/id/50284090/thinking-everything",
+  "teams": [
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50284090",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50284430",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T04:13:47Z",
+  "text": "Jaxon Smith-Njigba has 150 receiving yards and a score in the Seahawks' 20-3 win over the Chiefs. \u2014 Frustrated by a two-game skid, the Seattle Seahawks went into playoff mode.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873022",
+  "teams": [
+   "SEA",
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50284430",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50282971",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T04:10:54Z",
+  "text": "Green Bay Packers vs. Detroit Lions: Game Highlight. Green Bay Packers vs. Detroit Lions: Game Highlight",
+  "url": "https://www.espn.com/video/clip/_/id/50282971/game-highlight",
+  "teams": [
+   "GB",
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50282971",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50284205",
+  "source": "ESPN",
+  "author": "Rob Demovsky",
+  "time": "2026-10-26T04:00:14Z",
+  "text": "Packers rip officiating after roughing penalties prove costly in loss. Several Packers players lit up the crew that officiated Sunday's game in Detroit, arguing against roughing penalties that have plagued the team all season.",
+  "url": "https://www.espn.com/nfl/story/_/id/50284205/packers-rip-officiating-roughing-penalties-prove-costly-loss",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50284205",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50284110",
+  "source": "ESPN",
+  "author": "Jeff Legwold",
+  "time": "2026-10-26T03:12:59Z",
+  "text": "Bo Nix wows with 62-yard run as Broncos stand by 'our guy' at QB after win. Sean Payton issued a firm vote of confidence for his embattled quarterback Bo Nix after Sunday's win over the Cardinals.",
+  "url": "https://www.espn.com/nfl/story/_/id/50284110/bo-nix-breaks-slump-carries-broncos-cardinals",
+  "teams": [
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50284110",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50283596",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-10-26T01:42:26Z",
+  "text": "Matthew Stafford makes history after 3-TD showing for Rams. Matthew Stafford on Sunday became the first player to hold the franchise record for passing scores for multiple active teams (Rams, Lions).",
+  "url": "https://www.espn.com/nfl/story/_/id/50283596/matthew-stafford-makes-history-3-td-showing-rams",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50283596",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50282610",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T01:37:46Z",
+  "text": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21. \u2014 This was, especially in the first half, the kind of Rams team many expected to see all along.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873021",
+  "teams": [
+   "LV",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50282610",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50283411",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T01:07:28Z",
+  "text": "Las Vegas Raiders vs Los Angeles Rams: Game Highlights. Las Vegas Raiders vs Los Angeles Rams: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50283411/game-highlights",
+  "teams": [
+   "LV",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50283411",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50282634",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T01:05:46Z",
+  "text": "Lions beat Packers 20-17 on last-play field goal to bail out Dan Campbell's failed 4th-down gamble. \u2014 Dan Campbell's latest gamble did not pan out and the Detroit Lions made plays in all three phases \u2014 with some yellow flags that went their way \u2014 to bail out the aggressive coach.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873020",
+  "teams": [
+   "DET",
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50282634",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50282547",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-26T00:55:47Z",
+  "text": "Bo Nix runs for a 62-yard TD, leads Broncos past the Cardinals for a 30-16 win. \u2014 Bo Nix has insisted throughout the past few months that the right ankle he injured during last season's playoffs is now healthy, even...",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873019",
+  "teams": [
+   "ARI",
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50282547",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50282050",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-10-26T00:24:18Z",
+  "text": "Jets' Garrett Wilson says sideline screaming wasn't directed at Geno Smith. Garrett Wilson said he was just expressing frustration after cameras caught the Jets star WR screaming on the sideline during a disappointing loss to Miami.",
+  "url": "https://www.espn.com/nfl/story/_/id/50282050/jets-garrett-wilson-says-sideline-screaming-directed-geno-smith",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50282050",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50282376",
+  "source": "ESPN",
+  "author": "Jordan Raanan",
+  "time": "2026-10-26T00:21:27Z",
+  "text": "Cam Skattebo & Co. answer John Harbaugh's call, lead Giants to OT win. The Giants' running back group was called out this past week by coach John Harbaugh. They all stepped up Sunday in Houston.",
+  "url": "https://www.espn.com/nfl/story/_/id/50282376/cam-skattebo-co-answer-john-harbaugh-call-pace-giants",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50282376",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50281882",
+  "source": "ESPN",
+  "author": "Stephen Holder",
+  "time": "2026-10-26T00:00:52Z",
+  "text": "Colts' Shane Steichen says he's not considering benching QB Daniel Jones. Colts coach Shane Steichen said Sunday he hasn't thought about a quarterback change following Daniel Jones' struggles.",
+  "url": "https://www.espn.com/nfl/story/_/id/50281882/colts-shane-steichen-says-not-considering-qb-change",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50281882",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50282626",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-25T23:58:15Z",
+  "text": "Why fantasy managers should be excited about Greg Dulcich. Why fantasy managers should be excited about Greg Dulcich",
+  "url": "https://www.espn.com/video/clip/_/id/50282626/why-fantasy-managers-excited-greg-dulcich",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50282626",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50282250",
+  "source": "ESPN",
+  "author": "Jenna Laine",
+  "time": "2026-10-25T23:56:06Z",
+  "text": "Baker Mayfield needs to attempt only 11 passes in Buccaneers' blowout win. Baker Mayfield needed to attempt only 11 passes in the Buccaneers' 43-13 victory against the Carolina Panthers on Sunday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50282250/buccaneers-mayfield-only-attempts-11-passes-winning-return",
+  "teams": [
+   "TB"
+  ],
+  "facts": {
+   "id": "espnnews-50282250",
+   "team": "TB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50282505",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-25T23:51:49Z",
+  "text": "Should fantasy managers trust C.J. Stroud after performance vs. Giants?. Should fantasy managers trust C.J. Stroud after performance vs. Giants? ",
+  "url": "https://www.espn.com/video/clip/_/id/50282505/should-fantasy-managers-trust-cj-stroud-performance-vs-giants",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50282505",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50281161",
+  "source": "ESPN",
+  "author": "Katherine Terrell",
+  "time": "2026-10-25T23:48:14Z",
+  "text": "Even Tyler Shough can't save Saints as run game falls to new lows. The Saints' run game wasn't just bad in the loss to Pittsburgh -- it struggled on levels unseen in several decades.",
+  "url": "https://www.espn.com/nfl/story/_/id/50281161/tyler-shough-cant-save-new-orleans-saints-run-game-lows",
+  "teams": [
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50281161",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50282508",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-25T23:44:20Z",
+  "text": "Denver Broncos vs. Arizona Cardinals: Game Highlights. Denver Broncos vs. Arizona Cardinals: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50282508/game-highlights",
+  "teams": [
+   "DEN",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50282508",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50282231",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-25T23:18:29Z",
+  "text": "Harrison Smith reaches milestone interception. Kevin Seifert recaps Harrison Smith's performance against the Colts.",
+  "url": "https://www.espn.com/video/clip/_/id/50282231/harrison-smith-reaches-milestone-interception",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50282231",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50281972",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-10-25T23:14:32Z",
+  "text": "After collapsing vs. Bengals, Jesse Minter says Ravens need identity check. After the Ravens' 35-13 loss to the Bengals on Sunday -- which included the worst half in team history -- coach Jesse Minter said his team is at a crossroads.",
+  "url": "https://www.espn.com/nfl/story/_/id/50281972/after-loss-jesse-minter-says-ravens-need-identity-check",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50281972",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-c995d4be1c184",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-25T19:58:51.19Z",
+  "text": "Miami has its first win of the season, beating the Jets 28-25.",
+  "url": "https://www.espn.com/contributor/adam-schefter/c995d4be1c184",
+  "teams": [
+   "NYJ",
+   "MIA"
+  ],
+  "facts": {
+   "id": "espn-c995d4be1c184",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50279064",
   "source": "ESPN",
   "author": "Mike Kaye",
@@ -6590,1174 +7516,6 @@
   "facts": {
    "id": "espnnews-50218540",
    "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50218473",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T14:47:02Z",
-  "text": "Stephen A.: Jalen Hurts blood clot diagnosis 'devastating'. Stephen A.: Jalen Hurts blood clot diagnosis 'devastating'",
-  "url": "https://www.espn.com/video/clip/_/id/50218473/jalen-hurts-blood-clot-diagnosis-devastating",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50218473",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50179319",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T14:40:08Z",
-  "text": "Early bets for NFL Week 7: Three games we're jumping on right now. Which Week 7 lines offered immediate value once odds came out? Here are three early bets we like.",
-  "url": "https://www.espn.com/espn/betting/story/_/id/50179319/nfl-week-7-betting-odds-props-early-picks-predictions",
-  "teams": [
-   "MIN",
-   "PIT",
-   "MIA",
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50179319",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50218377",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T14:36:31Z",
-  "text": "Who is Stephen A. blaming the most for Cowboys' woes on offense?. Who is Stephen A. blaming the most for Cowboys' woes on offense?",
-  "url": "https://www.espn.com/video/clip/_/id/50218377/who-stephen-blaming-most-cowboys-woes-offense",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50218377",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-c6818665961ca",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-19T14:18:14.567Z",
-  "text": "Jalen Hurts will be out for the season after doctors discovered multiple blood clots in his lungs.",
-  "url": "https://www.espn.com/contributor/adam-schefter/c6818665961ca",
-  "teams": [],
-  "facts": {
-   "id": "espn-c6818665961ca",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50217832",
-  "source": "ESPN",
-  "author": "Rob Demovsky",
-  "time": "2026-10-19T14:10:48Z",
-  "text": "Packers' D shines vs. Cowboys as Micah Parsons nears return. Even without Parsons, who is recovering from a torn ACL, Green Bay's defense has shut down its past three opponents.",
-  "url": "https://www.espn.com/nfl/story/_/id/50217832/packers-defeat-cowboys-micah-parsons-josh-jacobs",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50217832",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50218035",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T13:46:39Z",
-  "text": "Colts fire GM Chris Ballard after Week 6 loss. Colts fire GM Chris Ballard after Week 6 loss",
-  "url": "https://www.espn.com/video/clip/_/id/50218035/colts-fire-gm-chris-ballard-week-6-loss",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50218035",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-b8e09905b30b7",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-19T13:41:43.614Z",
-  "text": "Veteran free-agent QB Andy Dalton is signing with the Atlanta Falcons, per sources.",
-  "url": "https://www.espn.com/contributor/adam-schefter/b8e09905b30b7",
-  "teams": [
-   "ATL"
-  ],
-  "facts": {
-   "id": "espn-b8e09905b30b7",
-   "team": "ATL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-2918c9968797a",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-19T13:37:20.174Z",
-  "text": "Chris Ballard is out as the Colts general manager.",
-  "url": "https://www.espn.com/contributor/adam-schefter/2918c9968797a",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espn-2918c9968797a",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50211303",
-  "source": "ESPN",
-  "author": "Bill Barnwell",
-  "time": "2026-10-19T13:32:40Z",
-  "text": "What has gone wrong for the 2-4 Rams after 'superteam' hype? Can they fix it?. The Rams lost again Sunday and sank to last in the NFC West. They have fallen way short of high expectations. Where were we all so wrong, and will they improve?",
-  "url": "https://www.espn.com/nfl/story/_/id/50211303/week-6-los-angeles-rams-disappointment-superteam-barnwell",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50211303",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50179455",
-  "source": "ESPN",
-  "author": "Seth Walder",
-  "time": "2026-10-19T13:31:40Z",
-  "text": "How to bet Commanders-49ers: Analysis, tips and top prop plays. Odds, bets and analysis to help you bet Washington Commanders-San Francisco 49ers on \"Monday Night Football.\"",
-  "url": "https://www.espn.com/espn/betting/story/_/id/50179455/nfl-week-6-odds-betting-tips-preview-commanders-49ers",
-  "teams": [
-   "WAS",
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50179455",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50216042",
-  "source": "ESPN",
-  "author": "Nick Suss",
-  "time": "2026-10-19T13:02:00Z",
-  "text": "Bills Mafia road fans surprised, confused Josh Allen on Keon Coleman TD. Josh Allen's theatrical touchdown pass to Keon Coleman left him wondering who had the dominant fanbase at Allegiant Stadium.",
-  "url": "https://www.espn.com/nfl/story/_/id/50216042/josh-allen-bills-fan-alligient-stadium",
-  "teams": [
-   "BUF"
-  ],
-  "facts": {
-   "id": "espnnews-50216042",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50217750",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T12:57:10Z",
-  "text": "Stafford? McVay? What's the biggest reason for the Rams' struggles?. Stafford? McVay? What's the biggest reason for the Rams' struggles?",
-  "url": "https://www.espn.com/video/clip/_/id/50217750/stafford-mcvay-biggest-reason-rams-struggles",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50217750",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50212900",
-  "source": "ESPN",
-  "author": "Courtney Cronin and Jeremy Fowler",
-  "time": "2026-10-19T12:55:36Z",
-  "text": "Bears' Kyler Gordon returns with vengeance, answers critics. In his season debut, Gordon was a huge factor in Chicago's win Sunday after battling through various injuries.",
-  "url": "https://www.espn.com/nfl/story/_/id/50212900/chicago-bears-kyler-gordon-future-injuries-critics",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50212900",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50217683",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T12:35:55Z",
-  "text": "Rex Ryan: Dak looked 'rattled' in Cowboys' loss to Packers. Rex Ryan: Dak looked 'rattled' in Cowboys' loss to Packers",
-  "url": "https://www.espn.com/video/clip/_/id/50217683/dak-looked-rattled-cowboys-loss-packers",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50217683",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50215436",
-  "source": "ESPN",
-  "author": "John Keim",
-  "time": "2026-10-19T10:00:01Z",
-  "text": "Is Commanders coach Dan Quinn's job in jeopardy after tie with Giants?. Questions swirl Washington following last Sunday's embarrassing tie with the Giants. Where will they go from here?",
-  "url": "https://www.espn.com/nfl/story/_/id/50215436/commanders-tie-dan-quinn-job-status-jayden-daniels",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50215436",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50189530",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-10-19T10:00:01Z",
-  "text": "How 49ers QB Brock Purdy mastered the art of layering passes over defenders. Purdy is terrific at layering the football -- fitting it perfectly between the second and third levels of the defense. And it's a big reason why he's playing at an MVP level this season.",
-  "url": "https://www.espn.com/nfl/story/_/id/50189530/san-francisco-49ers-brock-purdy-layering-football",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50189530",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49794361",
-  "source": "ESPN",
-  "author": "ESPN staff",
-  "time": "2026-10-19T10:00:01Z",
-  "text": "2027 NFL draft order projections for Round 1, chances for top pick, more. ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-  "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-  "teams": [
-   "ARI",
-   "ATL",
-   "BAL",
-   "BUF",
-   "CAR",
-   "CHI",
-   "CIN",
-   "CLE",
-   "DAL",
-   "DEN",
-   "DET",
-   "HOU",
-   "JAX",
-   "KC",
-   "LV",
-   "LAC",
-   "MIA",
-   "MIN",
-   "NE",
-   "NO",
-   "NYG",
-   "NYJ",
-   "PHI",
-   "PIT",
-   "SF",
-   "SEA",
-   "TB",
-   "TEN",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-49794361",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49745176",
-  "source": "ESPN",
-  "author": "ESPN staff",
-  "time": "2026-10-19T10:00:00Z",
-  "text": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason. We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-  "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49745176",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50216409",
-  "source": "ESPN",
-  "author": "Todd Archer",
-  "time": "2026-10-19T07:35:12Z",
-  "text": "Brian Schottenheimer: Cowboys offense 'a little bit one-sided,' needs balance. A talent-rich offense that is completely healthy has scored only 29 points in the past two games, leaving the Cowboys searching for answers everywhere.",
-  "url": "https://www.espn.com/nfl/story/_/id/50216409/cowboys-left-searching-answers-offense-woeful-showing-vs-packers",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50216409",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50215480",
-  "source": "ESPN",
-  "author": "Todd Archer",
-  "time": "2026-10-19T06:21:02Z",
-  "text": "Cowboys returner KaVontae Turpin injures rib on opening kickoff; X-rays clean. Cowboys Pro Bowl returner Turpin sustained a rib injury on his opening kickoff return after he was tackled awkwardly. X-rays were clean, according to coach Brian Schottenheimer.",
-  "url": "https://www.espn.com/nfl/story/_/id/50215480/cowboys-returner-kavontae-turpin-injures-rib-opening-kickoff-vs-packers",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50215480",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50216195",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T05:28:28Z",
-  "text": "Jordan Love, Green Bay's defense lead the way in Packers' 23-13 victory over Cowboys. \u2014 Green Bay Packers quarterback Jordan Love didn\u2019t bother wondering what might have been.",
-  "url": "http://www.espn.com/nfl/recap?gameId=401873007",
-  "teams": [
-   "GB",
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50216195",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50190741",
-  "source": "ESPN",
-  "author": "Rob Demovsky and Todd Archer",
-  "time": "2026-10-19T04:22:04Z",
-  "text": "Packers use timely turnovers, third-down conversions to beat struggling Cowboys. The Packers used timely third-down conversions and a few big defensive plays to topple a scuffling Cowboys squad.",
-  "url": "https://www.espn.com/nfl/story/_/id/50190741/packers-beat-cowboys-sunday-night-football-jordan-love",
-  "teams": [
-   "DAL",
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50190741",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50215829",
-  "source": "ESPN",
-  "author": "Anthony Gharib",
-  "time": "2026-10-19T03:47:51Z",
-  "text": "Harbaugh mum on McDaniel, says Chargers need 'to address everything'. Jim Harbaugh said his Chargers will \"have to address everything, and especially offensively\" after another dismal performance in a 22-6 loss to the Chiefs.",
-  "url": "https://www.espn.com/nfl/story/_/id/50215829/harbaugh-mum-mcdaniel-chargers-need-address-everything",
-  "teams": [
-   "LAC"
-  ],
-  "facts": {
-   "id": "espnnews-50215829",
-   "team": "LAC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50216129",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T03:47:01Z",
-  "text": "Packers dismantle Cowboys on SNF. Packers dismantle Cowboys on SNF ",
-  "url": "https://www.espn.com/video/clip/_/id/50216129/packers-dismantle-cowboys-snf",
-  "teams": [
-   "DAL",
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50216129",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49907062",
-  "source": "ESPN",
-  "author": "Brooke Pryor",
-  "time": "2026-10-19T03:43:06Z",
-  "text": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones. The Steelers QB is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
-  "teams": [
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-49907062",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50215969",
-  "source": "ESPN",
-  "author": "Nate Taylor",
-  "time": "2026-10-19T03:38:02Z",
-  "text": "Chiefs' Patrick Mahomes earns 100th win in 131st start, tying Tom Brady. Quarterback Patrick Mahomes earned his 100th win with the Chiefs in his 131st regular-season start Sunday, tying Tom Brady for the fewest games needed to reach 100 career wins.",
-  "url": "https://www.espn.com/nfl/story/_/id/50215969/chiefs-patrick-mahomes-ties-tom-brady-fastest-100-career-wins",
-  "teams": [
-   "KC",
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50215969",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50214763",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T03:34:28Z",
-  "text": "Josh Allen ties Jim Kelly's Bills TD pass record as Buffalo holds off Raiders 33-30. \u2014 Jim Kelly set the standard for every Bills quarterback, but even the Hall of Famer likely wouldn't have made the type of play Josh Allen pulled off Sunday.",
-  "url": "http://www.espn.com/nfl/recap?gameId=401873005",
-  "teams": [
-   "LV",
-   "BUF"
-  ],
-  "facts": {
-   "id": "espnnews-50214763",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50215919",
-  "source": "ESPN",
-  "author": "Josh Weinfuss",
-  "time": "2026-10-19T03:24:40Z",
-  "text": "Kicker Chad Ryland accounts for all of Cardinals' points in upset of Rams. Chad Ryland kicked six field goals, including a game-winning 43-yarder as time expired, to lift Arizona to an 18-16 win over the Rams.",
-  "url": "https://www.espn.com/nfl/story/_/id/50215919/cardinals-chad-ryland-kicks-6-fgs-18-points-vs-rams",
-  "teams": [
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50215919",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50216041",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T03:18:48Z",
-  "text": "Sunday's top plays from around the NFL. Sunday's top plays from around the NFL",
-  "url": "https://www.espn.com/video/clip/_/id/50216041/sunday-top-plays-nfl",
-  "teams": [
-   "TEN",
-   "HOU",
-   "BAL",
-   "LA",
-   "ARI",
-   "JAX",
-   "LV",
-   "BUF",
-   "IND",
-   "CLE"
-  ],
-  "facts": {
-   "id": "espnnews-50216041",
-   "team": "TEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50216006",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T03:11:17Z",
-  "text": "Harbaugh: Chargers 'not scoring enough points'. Harbaugh: Chargers 'not scoring enough points'",
-  "url": "https://www.espn.com/video/clip/_/id/50216006/chargers-not-scoring-enough-points",
-  "teams": [
-   "LAC"
-  ],
-  "facts": {
-   "id": "espnnews-50216006",
-   "team": "LAC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50211304",
-  "source": "ESPN",
-  "author": "Dan Graziano",
-  "time": "2026-10-19T03:00:12Z",
-  "text": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?. Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-  "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams",
-  "teams": [
-   "IND",
-   "NE",
-   "JAX",
-   "LA",
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50211304",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50215576",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-10-19T02:35:06Z",
-  "text": "Kyren Williams says Rams' inconsistencies on offense 'probably' due to role. Asked why he thought the Rams' energy level was inconsistent from drive-to-drive Sunday, RB Kyren Williams said: \"Probably because I'm not out there.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50215576/kyren-williams-rams-inconsistencies-due-role",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50215576",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50213864",
-  "source": "ESPN",
-  "author": "Mike Reiss",
-  "time": "2026-10-19T02:15:23Z",
-  "text": "Patriots' A.J. Brown has career-high 3 dropped passes in return from injury. Patriots receiver A.J. Brown, coming off a right high ankle sprain that sidelined him four weeks, had a shaky return to action Sunday, dropping a career-high three passes in the team's win over the Jets",
-  "url": "https://www.espn.com/nfl/story/_/id/50213864/patriots-aj-brown-career-high-3-drops-return-injury",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50213864",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50214248",
-  "source": "ESPN",
-  "author": "Jordan Raanan",
-  "time": "2026-10-19T02:14:56Z",
-  "text": "McCarthy nearly rallies Giants after Winston benched; Skattebo logs no carries. Giants coach John Harbaugh said Sunday he's not ready to name a starting quarterback for Week 7 after J.J. McCarthy replaced Jameis Winston against the Saints.",
-  "url": "https://www.espn.com/nfl/story/_/id/50214248/giants-john-harbaugh-not-ready-name-week-7-starter-qb",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50214248",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50213831",
-  "source": "ESPN",
-  "author": "Turron Davenport",
-  "time": "2026-10-19T02:02:53Z",
-  "text": "Jeffery Simmons' halftime message, play help Titans stun Colts, get 1st win. Robert Saleh said it was Jeffery Simmons' play and halftime actions that inspired the Titans to their first win of the season.",
-  "url": "https://www.espn.com/nfl/story/_/id/50213831/jeffery-simmons-half-speech-play-buoy-titans-1st-win",
-  "teams": [
-   "TEN"
-  ],
-  "facts": {
-   "id": "espnnews-50213831",
-   "team": "TEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50213862",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-10-19T02:02:04Z",
-  "text": "Ethan Evans' heroics for Rams, after Blake Grupe was hurt, short-lived in loss. In his first game since replacing Harrison Mevis, Blake Grupe left because of a knee injury and didn't return. Punter Ethan Evans hit a go-ahead PAT late.",
-  "url": "https://www.espn.com/nfl/story/_/id/50213862/blake-grupe-exits-rams-debut-early-due-knee-injury",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50213862",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50214430",
-  "source": "ESPN",
-  "author": "Stephen Holder",
-  "time": "2026-10-19T02:01:19Z",
-  "text": "Fans boo Colts in loss to Titans; 'I don't blame them,' says Shane Steichen. Boos and calls to \"Fire Ballard\" rained down from the Colts' home fans Sunday as Indianapolis lost to previously winless Tennessee. Said coach Shane Steichen: \"I don't blame them for booing one freaking bit.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50214430/colts-shane-steichen-does-not-blame-fans-booing-loss-titans",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50214430",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50214221",
-  "source": "ESPN",
-  "author": "Kalan Hooks",
-  "time": "2026-10-19T01:51:47Z",
-  "text": "Panthers take shot at Eagles, lead top trolls from Week 6. The Panthers picked at Philadelphia's roots after their road win, but more teams turned petty following their respective Week 6 wins.",
-  "url": "https://www.espn.com/nfl/story/_/id/50214221/nfl-week-6-top-trolls",
-  "teams": [
-   "CAR",
-   "PHI",
-   "PIT",
-   "TB",
-   "CLE",
-   "BAL",
-   "HOU",
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50214221",
-   "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50215639",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T01:45:17Z",
-  "text": "Can fantasy managers finally trust Kyle Pitts?. Can fantasy managers finally trust Kyle Pitts?",
-  "url": "https://www.espn.com/video/clip/_/id/50215639/can-fantasy-managers-trust-kyle-pitts",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50215639",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50215619",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T01:44:43Z",
-  "text": "Why Trevor Lawrence is worth targeting in fantasy leagues. Why Trevor Lawrence is worth targeting in fantasy leagues",
-  "url": "https://www.espn.com/video/clip/_/id/50215619/why-trevor-lawrence-worth-targeting-fantasy-leagues",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50215619",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50215632",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T01:42:32Z",
-  "text": "Why Colston Loveland should be a fantasy starter. Why Colston Loveland should be a fantasy starter",
-  "url": "https://www.espn.com/video/clip/_/id/50215632/why-colston-loveland-fantasy-starter",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50215632",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50215633",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T01:42:04Z",
-  "text": "Why you can fully trust Drake Maye as your fantasy QB. Why you can fully trust Drake Maye as your fantasy QB",
-  "url": "https://www.espn.com/video/clip/_/id/50215633/why-fully-trust-drake-maye-your-fantasy-qb",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50215633",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50213950",
-  "source": "ESPN",
-  "author": "Mike Kaye",
-  "time": "2026-10-19T01:38:56Z",
-  "text": "Panthers' Tremble admits TD taunt was payback for 'suplex' by Eagles' DeJean. Panthers tight end Tommy Tremble apologized for costing his team a penalty after he taunted defensive back Cooper DeJean, saying it was retaliation for an earlier personal foul.",
-  "url": "https://www.espn.com/nfl/story/_/id/50213950/panthers-te-tremble-admits-td-taunt-dejean-was-payback",
-  "teams": [
-   "CAR"
-  ],
-  "facts": {
-   "id": "espnnews-50213950",
-   "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50214256",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T01:14:36Z",
-  "text": "Cardinals upset Rams 18-16 on Chad Ryland's 6th field goal as time expires. \u2014 The Arizona Cardinals had been through a month of drama and disappointment since they opened their season with a surprising victory at SoFi Stadium.",
-  "url": "http://www.espn.com/nfl/recap?gameId=401873004",
-  "teams": [
-   "LA",
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50214256",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50213735",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-10-19T01:09:31Z",
-  "text": "Jets WR Garrett Wilson holds tongue after 'frustrating' loss to Patriots. New York's star pass catcher only had four catches in the 26-19 loss to New England.",
-  "url": "https://www.espn.com/nfl/story/_/id/50213735/jets-garrett-wilson-holds-tongue-patriots-loss",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50213735",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50214480",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-19T01:05:28Z",
-  "text": "Chiefs move to 5-0 as Kenneth Walker runs for two TDs in a 22-6 win over Chargers. \u2014 Patrick Mahomes hadn't watched the tape of the Chiefs' game against the Los Angeles Chargers from last December \u2014 that game in which he tore ligaments in his left knee and Kansas City was eliminated from postseason contention \u2014 until just this week.",
-  "url": "http://www.espn.com/nfl/recap?gameId=401873006",
-  "teams": [
-   "KC",
-   "LAC"
-  ],
-  "facts": {
-   "id": "espnnews-50214480",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50214605",
-  "source": "ESPN",
-  "author": "Courtney Cronin",
-  "time": "2026-10-19T01:01:17Z",
-  "text": "Caleb Williams leads Bears by Falcons in return from injury. Caleb Williams completed 30 of 36 passes for 305 yards and a TD and showed no physical limitations from the injury he suffered Sept. 20.",
-  "url": "https://www.espn.com/nfl/story/_/id/50214605/caleb-williams-leads-bears-falcons-return-injury",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50214605",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50213364",
-  "source": "ESPN",
-  "author": "Matt Bowen and Tristan H. Cockcroft",
-  "time": "2026-10-19T00:38:41Z",
-  "text": "Week 6 winners and losers: Lawrence, Walker III impress; Robinson, Henry disappoint. Malik Nabers, Kenneth Walker III and Trevor Lawrence came up big in Week 6, while Bijan Robinson, Derrick Henry and Kyren Williams underwhelmed.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50213364/nfl-week-6-fantasy-football-winners-losers-injuries-rankings-more",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50213364",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-39286200",
-  "source": "ESPN",
-  "author": "Alex Kennedy and Keith Jenkins",
-  "time": "2026-10-19T00:06:25Z",
-  "text": "Who are the winningest NFL coaches of all time?. From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-  "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-  "teams": [
-   "NE",
-   "KC",
-   "NYG",
-   "MIA",
-   "CHI",
-   "PHI",
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-39286200",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50214776",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-18T23:56:50Z",
-  "text": "Buffalo Bills vs. Las Vegas Raiders: Game Highlights. Buffalo Bills vs. Las Vegas Raiders: Game Highlights",
-  "url": "https://www.espn.com/video/clip/_/id/50214776/game-highlights",
-  "teams": [
-   "LV",
-   "BUF"
-  ],
-  "facts": {
-   "id": "espnnews-50214776",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50214665",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-18T23:52:28Z",
-  "text": "Arizona Cardinals vs. Los Angeles Rams: Game Highlights. Arizona Cardinals vs. Los Angeles Rams: Game Highlights",
-  "url": "https://www.espn.com/video/clip/_/id/50214665/game-highlights",
-  "teams": [
-   "LA",
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50214665",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50214407",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-18T23:34:18Z",
-  "text": "Los Angeles Chargers vs. Kansas City Chiefs: Game Highlights. Los Angeles Chargers vs. Kansas City Chiefs: Game Highlights",
-  "url": "https://www.espn.com/video/clip/_/id/50214407/game-highlights",
-  "teams": [
-   "KC",
-   "LAC"
-  ],
-  "facts": {
-   "id": "espnnews-50214407",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50179851",
-  "source": "ESPN",
-  "author": "Ben Solak",
-  "time": "2026-10-18T23:29:13Z",
-  "text": "How to bet Cowboys-Packers: Analysis, tips and top prop plays. Odds, bets and analysis to help you bet Dallas Cowboys-Green Bay Packers on \"Sunday Night Football.\"",
-  "url": "https://www.espn.com/espn/betting/story/_/id/50179851/nfl-week-6-odds-betting-tips-picks-cowboys-packers",
-  "teams": [
-   "DAL",
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50179851",
-   "team": "DAL",
    "player": null,
    "position": null,
    "status": "other",
