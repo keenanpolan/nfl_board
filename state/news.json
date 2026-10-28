@@ -1,5 +1,180 @@
 [
  {
+  "id": "espnnews-50311100",
+  "source": "ESPN",
+  "author": "Michael DiRocco",
+  "time": "2026-10-28T21:26:18Z",
+  "text": "Brian Thomas Jr. trying to ignore trade talk, 'keep working hard' for Jaguars. Jaguars receiver Brian Thomas Jr. said Wednesday he isn't concerned about being the subject of recent trade rumors.",
+  "url": "https://www.espn.com/nfl/story/_/id/50311100/jaguars-brian-thomas-jr-trying-ignore-trade-talk",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50311100",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50308919",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-10-28T21:24:48Z",
+  "text": "Jets WR Garrett Wilson says he doesn't want to be traded but does want to win. Jets receiver Garrett Wilson says he doesn't want to be traded but he expressed that he's frustrated by his target share and, most of all, losing.",
+  "url": "https://www.espn.com/nfl/story/_/id/50308919/jets-wr-garrett-wilson-says-want-traded",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50308919",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50310259",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-28T20:41:11Z",
+  "text": "Winless Chargers sticking with Mike McDaniel as offensive playcaller. Embattled offensive coordinator Mike McDaniel will continue as the Chargers' playcaller, coach Jim Harbaugh announced Wednesday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50310259/chargers-sticking-mike-mcdaniel-offensive-playcaller",
+  "teams": [
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50310259",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50310774",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-28T20:35:00Z",
+  "text": "Packers and Panthers trying to bounce back as they face off at Lambeau Field. \u2014 A pair of ticked-off teams will square off when the Green Bay Packers face the Carolina Panthers on Thursday night.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873023",
+  "teams": [
+   "GB",
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50310774",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50309777",
+  "source": "ESPN",
+  "author": "Tim McManus",
+  "time": "2026-10-28T20:28:42Z",
+  "text": "Eagles star Saquon Barkley says he was forced to divest Polymarket equity stake. Eagles star Saquon Barkley said he was forced to divest his equity stake in Polymarket to comply with NFL rules.",
+  "url": "https://www.espn.com/nfl/story/_/id/50309777/saquon-barkley-says-was-forced-divest-polymarket-stake",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50309777",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50310012",
+  "source": "ESPN",
+  "author": "Mackenzie Kraemer",
+  "time": "2026-10-28T20:14:39Z",
+  "text": "NFL survivor power rankings: Why this is the week to use Bengals, Patriots. ESPN NFL survivor pool strategy, predictions and ranking the top six options for Week 8.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50310012/nfl-survivor-week-8-survivor-pool-strategy-advice-picks",
+  "teams": [
+   "WAS",
+   "JAX",
+   "LA",
+   "DAL",
+   "NE",
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50310012",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50309816",
+  "source": "ESPN",
+  "author": "Mike Kaye",
+  "time": "2026-10-28T20:00:29Z",
+  "text": "Pass rusher Jaelan Phillips among four Panthers ruled out for TNF vs. Packers. The Panthers ruled out four players, including starting OLB Jaelan Phillips (hamstring) and left guard Damien Lewis (knee) for \"Thursday Night Football.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50309816/pass-rusher-jaelan-phillips-4-panthers-ruled-tnf",
+  "teams": [
+   "CAR",
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50309816",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50308923",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-10-28T19:32:05Z",
+  "text": "After bringing back DeForest Buckner, will the 49ers make more trades?. The 49ers addressed their defensive line by adding Buckner, but will they make more big moves to help the WR room before the Nov. 10 deadline?",
+  "url": "https://www.espn.com/nfl/story/_/id/50308923/san-francisco-49ers-deforest-buckner-trade-deadline-plans",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50308923",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50309159",
   "source": "ESPN",
   "author": "Stephen Holder",
@@ -6982,280 +7157,6 @@
   "facts": {
    "id": "espnnews-50242240",
    "team": "HOU",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50241322",
-  "source": "ESPN",
-  "author": "Mike Kaye",
-  "time": "2026-10-21T20:57:34Z",
-  "text": "Panthers LB Jaelan Phillips (hamstring) set to miss Week 7 game vs. Bucs. Panthers coach Dave Canales said the team is preparing to host the Buccaneers on Sunday without top outside linebacker Jaelan Phillips.",
-  "url": "https://www.espn.com/nfl/story/_/id/50241322/panthers-jaelan-phillips-set-miss-week-7-game-vs-buccaneers-hamstring-injury",
-  "teams": [
-   "CAR"
-  ],
-  "facts": {
-   "id": "espnnews-50241322",
-   "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50241195",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-10-21T20:54:38Z",
-  "text": "Ravens' Lamar Jackson returns to practice but status remains unclear vs. Bengals. After practice, Jackson was favoring his injured left ankle, walking into the team facility with a noticeable limp.",
-  "url": "https://www.espn.com/nfl/story/_/id/50241195/lamar-jackson-practice-unclear-vs-bengals-week-7",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50241195",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50240756",
-  "source": "ESPN",
-  "author": "Courtney Cronin",
-  "time": "2026-10-21T20:07:47Z",
-  "text": "Bears RB Kyle Monangai (toe, thumb) out Thursday vs. Patriots. The Bears have ruled RB Kyle Monangai out for Thursday night's matchup against the Patriots with lingering toe and thumb injuries.",
-  "url": "https://www.espn.com/nfl/story/_/id/50240756/bears-rb-kyle-monangai-toe-thumb-thursday-vs-patriots",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50240756",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50240235",
-  "source": "ESPN",
-  "author": "Mike Reiss",
-  "time": "2026-10-21T19:56:08Z",
-  "text": "Patriots' Alijah Vera-Tucker, Ben Brown ruled out vs. Bears. The Patriots will be without starting guards Alijah Vera-Tucker and Ben Brown for Thursday's game against the Bears due to injuries, coach Mike Vrabel said.",
-  "url": "https://www.espn.com/nfl/story/_/id/50240235/patriots-alijah-vera-tucker-ben-brown-ruled-vs-bears",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50240235",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50238315",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-21T19:33:48Z",
-  "text": "Titans' Robert Saleh defends Jordan Elliott: Gun incident was not 'criminal act'. Titans coach Robert Saleh defended Jordan Elliott's character and said that last week's gun-related incident was \"a call for help more than a criminal act.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50238315/source-jordan-elliott-attempted-retrieve-gun-car",
-  "teams": [
-   "TEN"
-  ],
-  "facts": {
-   "id": "espnnews-50238315",
-   "team": "TEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50240482",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-21T19:31:22Z",
-  "text": "Garrett Wilson's Week 7 fantasy preview. Garrett Wilson's Week 7 fantasy preview",
-  "url": "https://www.espn.com/video/clip/_/id/50240482/garrett-wilson-week-7-fantasy-preview",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50240482",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50240100",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-21T19:22:14Z",
-  "text": "Sam LaPorta not feeling contract 'love' from Lions ahead of 2027 free agency. Tight end Sam LaPorta, who will be a free agent after the season, expressed some frustration that the Lions are \"not showing the love\" and indicated he would be OK with playing elsewhere in 2027.",
-  "url": "https://www.espn.com/nfl/story/_/id/50240100/sam-laporta-extension-not-feeling-love-lions",
-  "teams": [
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50240100",
-   "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50240343",
-  "source": "ESPN",
-  "author": "Nate Taylor",
-  "time": "2026-10-21T19:19:34Z",
-  "text": "Chiefs mourn Allen Bailey after former NFL player found dead at age 37. Allen Bailey, a former NFL player who spent the majority of his 10-year career with the Chiefs, has died at age 37.",
-  "url": "https://www.espn.com/nfl/story/_/id/50240343/allen-bailey-former-nfl-player-found-dead-age-37",
-  "teams": [
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50240343",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50238746",
-  "source": "ESPN",
-  "author": "Jordan Raanan",
-  "time": "2026-10-21T19:14:03Z",
-  "text": "Giants turning to J.J. McCarthy as QB1 this week against Texans. The Giants plan to start J.J. McCarthy at quarterback this week against the Texans.",
-  "url": "https://www.espn.com/nfl/story/_/id/50238746/giants-start-jj-mccarthy-qb-week",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50238746",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50240355",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-21T19:13:55Z",
-  "text": "AJ Barner's Week 7 fantasy preview. AJ Barner's Week 7 fantasy preview",
-  "url": "https://www.espn.com/video/clip/_/id/50240355/aj-barner-week-7-fantasy-preview",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50240355",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50240051",
-  "source": "ESPN",
-  "author": "Mackenzie Kraemer",
-  "time": "2026-10-21T19:09:19Z",
-  "text": "NFL survivor power rankings: Why this is the week to use Texans, Jets. ESPN NFL survivor pool strategy, predictions and ranking the top five options for Week 7.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50240051/nfl-survivor-week-7-survivor-pool-strategy-advice-picks",
-  "teams": [
-   "DAL",
-   "MIN",
-   "PIT",
-   "NYJ",
-   "HOU"
-  ],
-  "facts": {
-   "id": "espnnews-50240051",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50238009",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-10-21T19:03:26Z",
-  "text": "Raheem Morris is back in Atlanta -- and he's bringing his surging 49ers defense. Raheem Morris is returning to Atlanta for the first time since being fired as head coach. And his tenure as the 49ers' defensive coordinator is off to an amazing start.",
-  "url": "https://www.espn.com/nfl/story/_/id/50238009/san-francisco-49ers-raheem-morris-atlanta-falcons-return",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50238009",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50240151",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-21T18:37:11Z",
-  "text": "It's Drake Maye versus Caleb Williams as the New England Patriots visit the Chicago Bears. \u2014 Caleb Williams and Drake Maye have known each other for years. They were part of the same draft class, and they grew up going to the same football camps.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873010",
-  "teams": [
-   "CHI",
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50240151",
-   "team": "CHI",
    "player": null,
    "position": null,
    "status": "other",
