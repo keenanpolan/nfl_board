@@ -1,5 +1,425 @@
 [
  {
+  "id": "espnnews-50323203",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-10-30T00:34:59Z",
+  "text": "Source: Bears quarterback Caleb Williams fined again for cleats. The NFL has fined Caleb Williams $23,882 for sporting Caddix cleats in Week 7, a source confirmed to ESPN on Thursday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50323203/bears-quarterback-caleb-williams-fined-again-cleats",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50323203",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50321154",
+  "source": "ESPN",
+  "author": "Nate Taylor",
+  "time": "2026-10-30T00:13:14Z",
+  "text": "Toub: Butker still Chiefs' kicker despite struggles, Tucker signing. Chiefs special teams coordinator Dave Toub expressed rather emphatically that Harrison Butker is the team's kicker despite the team signing Justin Tucker, who hasn't played in the NFL since 2024, to their practice squad.",
+  "url": "https://www.espn.com/nfl/story/_/id/50321154/toub-butker-chiefs-kicker-tucker-signing",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50321154",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50319184",
+  "source": "ESPN",
+  "author": "Bill Barnwell",
+  "time": "2026-10-30T00:01:28Z",
+  "text": "Jeffery Simmons traded to Bears: Does dealing multiple first-round picks work?. The Bears' aggressive move for Simmons marks the 10th time in the past decade that a team has traded multiple first-round picks for a star player. But the hit rate isn't great.",
+  "url": "https://www.espn.com/nfl/story/_/id/50319184/jeffery-simmons-trade-two-first-round-picks-bears-titans",
+  "teams": [
+   "CHI",
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50319184",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50323084",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-10-30T00:01:06Z",
+  "text": "NFL Week 8's best arrivals, led by Panthers' Bryce Young. Here's a look at the best-dressed players around the NFL in Week 8.",
+  "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
+  "teams": [
+   "ARI",
+   "ATL",
+   "BAL",
+   "BUF",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "GB",
+   "HOU",
+   "IND",
+   "JAX",
+   "KC",
+   "LV",
+   "LAC",
+   "LA",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SF",
+   "SEA",
+   "TB",
+   "TEN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50323084",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50322754",
+  "source": "ESPN",
+  "author": "Brady Henderson",
+  "time": "2026-10-29T23:40:19Z",
+  "text": "Quenton Nelson: Cherished time with Colts but excited to play for Seahawks. Eight-time Pro Bowl guard Quenton Nelson expressed excitement over what he called \"a new opportunity\" with the Seahawks following eight-plus seasons with the Colts.",
+  "url": "https://www.espn.com/nfl/story/_/id/50322754/quenton-nelson-awesome-play-seahawks-colts-trade",
+  "teams": [
+   "SEA",
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50322754",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50321084",
+  "source": "ESPN",
+  "author": "Adam Rittenberg",
+  "time": "2026-10-29T22:35:24Z",
+  "text": "Longtime football coach June Jones, pioneer of run-and-shoot offense, dies at 73. Longtime college and pro football coach June Jones, who helped popularize the run-and-shoot offense, has died at 73.",
+  "url": "https://www.espn.com/college-football/story/_/id/50321084/long-football-coach-june-jones-dies-age-73",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50321084",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50322617",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-29T22:32:53Z",
+  "text": "Commanders and Eagles head into 'Sunday Night Football' with season-defining matchup on deck. \u2014 The Washington Commanders and Philadelphia Eagles are each facing a...",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873035",
+  "teams": [
+   "WAS",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50322617",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50322549",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-29T22:23:00Z",
+  "text": "Vikings and Lions match up NFL's stingiest defense vs. high-scoring offense in NFC North showdown. \u2014 The Minnesota Vikings are the NFL's only unbeaten team thanks to their stingy defense and stellar special teams.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873030",
+  "teams": [
+   "DET",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50322549",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50322400",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-29T22:02:47Z",
+  "text": "Rams and Chargers share a city, not a rivalry as they head into their first meeting in 4 seasons. \u2014 Although the Los Angeles Rams and the Los Angeles Chargers share a stadium, they don't share a rivalry.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873032",
+  "teams": [
+   "LA",
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50322400",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50322007",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-10-29T21:46:44Z",
+  "text": "Jets' Brownlee says he was benched for missing meetings, but 'good' for Sunday. Jets nickelback Jarvis Brownlee Jr. was benched last Sunday and fined by the team because he missed multiple mandatory meetings.",
+  "url": "https://www.espn.com/nfl/story/_/id/50322007/jets-jarvis-brownlee-says-was-benched-missing-meetings",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50322007",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50322217",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-29T21:44:47Z",
+  "text": "AFC West lead at stake as Patrick Mahomes and Bo Nix grind through injury comebacks. \u2014 The AFC West lead is at stake Sunday as Patrick Mahomes and ",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873033",
+  "teams": [
+   "DEN",
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50322217",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50322138",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-29T21:39:47Z",
+  "text": "Josh Allen looks to renew rivalry with Lamar Jackson as Bills host Ravens. \u2014 Josh Allen can appreciate how heated discussions can get over bar stools, on talk radio and social media over whether he or Lamar Jackson are the better quarterback.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873026",
+  "teams": [
+   "BUF",
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50322138",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50322075",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-29T21:31:47Z",
+  "text": "Jags' home winning streak against Indy is 'weird, quirky' and a long shot to end Sunday. \u2014 Jaguars left tackle Walker Little perfectly summed up Jacksonville's 11-game home winning streak against Indianapolis.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873028",
+  "teams": [
+   "JAX",
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50322075",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50322011",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-29T21:25:47Z",
+  "text": "Falcons' Penix and Buccaneers' Mayfield aiming to help rebounding teams take control of NFC South. \u2014 Welcome to the NFC South, where inconsistency and seemingly disastrous starts to this season have not undermined the aspirations of the Atlanta Falcons and Tampa Bay Buccaneers.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873025",
+  "teams": [
+   "TB",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50322011",
+   "team": "TB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50322006",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-29T21:24:47Z",
+  "text": "Cowboys look for rare winning streak under Brian Schottenheimer in visit from Cardinals. \u2014 Sustainability is the next challenge for the Dallas Cowboys, who have just one winning streak in nearly a season and a half under coach Brian Schottenheimer.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873024",
+  "teams": [
+   "DAL",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50322006",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50321006",
+  "source": "ESPN",
+  "author": "Mike Reiss",
+  "time": "2026-10-29T20:47:25Z",
+  "text": "Patriots' A.J. Brown misses practice Thursday due to new knee ailment. The Patriots' A.J. Brown missed his first practice since returning from IR, with a new knee ailment in addition to his previously injured ankle.",
+  "url": "https://www.espn.com/nfl/story/_/id/50321006/patriots-aj-brown-misses-practice-due-new-knee-ailment",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50321006",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50321581",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-29T20:46:47Z",
+  "text": "Seahawks' dominant defense faces challenge in Bears QB Caleb Williams and NFL's top rushing offense. Now it's Chicago's turn to face Seattle's \u201cDark Side.\u201d",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873036",
+  "teams": [
+   "SEA",
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50321581",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-7e329f3d3310f",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-29T20:45:13.257Z",
+  "text": "For the second straight day, the Ravens listed QB Lamar Jackson as a full participant at today\u2019s practice.",
+  "url": "https://www.espn.com/contributor/adam-schefter/7e329f3d3310f",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espn-7e329f3d3310f",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50318351",
   "source": "ESPN",
   "author": "Courtney Cronin",
@@ -196,6 +616,25 @@
   }
  },
  {
+  "id": "espnnews-49797082",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-29T16:09:25Z",
+  "text": "Fantasy football rankings Week 8: PPR and superflex. Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49797082",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50308256",
   "source": "ESPN",
   "author": "DJ Bien-Aime",
@@ -290,6 +729,120 @@
   "facts": {
    "id": "espnnews-50318514",
    "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804149",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-29T14:42:10Z",
+  "text": "Fantasy football rankings for Week 8: Wide receiver. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804149",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804068",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-29T14:41:46Z",
+  "text": "Fantasy football rankings for Week 8: Running back. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804068",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804164",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-29T14:41:30Z",
+  "text": "Fantasy football rankings for Week 8: Tight end. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804164",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804022",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-29T14:41:13Z",
+  "text": "Fantasy football rankings for Week 8: Quarterback. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804022",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804332",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-29T14:37:46Z",
+  "text": "Fantasy football rankings for Week 8: IDP. Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804332",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804273",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-10-29T14:36:21Z",
+  "text": "Fantasy football rankings for Week 8: D/ST. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804273",
+   "team": null,
    "player": null,
    "position": null,
    "status": "other",
@@ -6517,562 +7070,6 @@
   "facts": {
    "id": "espnnews-49309401",
    "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50253430",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-23T00:25:09Z",
-  "text": "A battered Rams team faces a near must-win at Las Vegas. \u2014 The tone for the Rams' season was set from the beginning when they ",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873021",
-  "teams": [
-   "LV",
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50253430",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50253313",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-23T00:03:25Z",
-  "text": "Eagles still trying to salvage NFC East crown without Hurts as they host Cowboys on Monday night. \u2014 Tanner McKee spent most of his two seasons widely considered one of the top young backup quarterbacks in the NFL.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873009",
-  "teams": [
-   "PHI",
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50253313",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50253264",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-22T23:47:08Z",
-  "text": "Trey Hendrickson is set to face the Bengals for the first time since signing with Baltimore. \u2014 Trey Hendrickson is finally looking healthier \u2014 just in time for a matchup with his former team.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873012",
-  "teams": [
-   "BAL",
-   "CIN"
-  ],
-  "facts": {
-   "id": "espnnews-50253264",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50252934",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-10-22T23:37:34Z",
-  "text": "Rams WR Puka Nacua leaves practice with calf injury. Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-  "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50252934",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50253140",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-22T23:24:09Z",
-  "text": "Baker Mayfield set to make return vs. Panthers, looks to turn around struggling Buccaneers. \u2014 The last-place Tampa Bay Buccaneers are in need of a spark.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873018",
-  "teams": [
-   "CAR",
-   "TB"
-  ],
-  "facts": {
-   "id": "espnnews-50253140",
-   "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50253068",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-22T23:12:09Z",
-  "text": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home. \u2014 The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873020",
-  "teams": [
-   "DET",
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50253068",
-   "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50252633",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-22T23:10:03Z",
-  "text": "Tony Kornheiser and Michael Wilbon kick off PTI 25 with their top headlines. Tony Kornheiser and Michael Wilbon kick off PTI 25 with their top headlines",
-  "url": "https://www.espn.com/video/clip/_/id/50252633/tony-kornheiser-michael-wilbon-kick-pti-25-their-top-headlines",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50252633",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-342997f3ec8cf",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-22T22:14:37.413Z",
-  "text": "Rams WR Puka Nacua left practice early today due to a calf injury.",
-  "url": "https://www.espn.com/contributor/adam-schefter/342997f3ec8cf",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espn-342997f3ec8cf",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50252261",
-  "source": "ESPN",
-  "author": "ESPN Staff",
-  "time": "2026-10-22T22:13:38Z",
-  "text": "Bears QB Caleb Williams leads NFL Week 7's best arrivals. NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-  "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
-  "teams": [
-   "GB",
-   "ATL",
-   "KC",
-   "NYG",
-   "CLE",
-   "LAC",
-   "IND",
-   "CAR",
-   "TEN",
-   "PIT",
-   "HOU",
-   "WAS",
-   "BAL",
-   "MIN",
-   "TB",
-   "LV",
-   "NO",
-   "ARI",
-   "DAL",
-   "PHI",
-   "CHI",
-   "SEA",
-   "BUF",
-   "MIA",
-   "NYJ",
-   "CIN",
-   "DET",
-   "JAX",
-   "DEN",
-   "SF",
-   "LA",
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50252261",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50252635",
-  "source": "ESPN",
-  "author": "Stephen Holder",
-  "time": "2026-10-22T22:06:50Z",
-  "text": "Source: Several teams interested in Colts RB Taylor as trade deadline approaches. As the Colts plot their next moves after firing GM Chris Ballard, a source told ESPN that several teams would be open to a potential trade for Jonathan Taylor.",
-  "url": "https://www.espn.com/nfl/story/_/id/50252635/several-teams-interested-trade-colts-jonathan-taylor",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50252635",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50252432",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-22T21:31:21Z",
-  "text": "The Broncos' defense has carried the team. Now QB Bo Nix wants to shoulder the load vs. Cardinals. \u2014 Denver's ball-hawking defense has made it one of the better NFL teams so far this season.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873019",
-  "teams": [
-   "ARI",
-   "DEN"
-  ],
-  "facts": {
-   "id": "espnnews-50252432",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50252035",
-  "source": "ESPN",
-  "author": "Jenna Laine",
-  "time": "2026-10-22T21:23:02Z",
-  "text": "Barring setbacks, Bucs QB Baker Mayfield expected to start vs. Panthers. Baker Mayfield expects to return from a thumb injury, barring any setbacks, and play when the Buccaneers face the Panthers on Sunday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50252035/barring-setbacks-mayfield-expects-start-buccaneers",
-  "teams": [
-   "TB"
-  ],
-  "facts": {
-   "id": "espnnews-50252035",
-   "team": "TB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50250887",
-  "source": "ESPN",
-  "author": "Brady Henderson",
-  "time": "2026-10-22T21:22:04Z",
-  "text": "Seahawks RB Zach Charbonnet activated off PUP list. Seahawks RB Zach Charbonnet, who has yet to play this season after scoring 12 TDs in 2025, has been activated off the PUP list and added to the 53-man roster.",
-  "url": "https://www.espn.com/nfl/story/_/id/50250887/seahawks-rb-zach-charbonnet-activated-pup-list",
-  "teams": [
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50250887",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50252129",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-10-22T21:13:58Z",
-  "text": "Ravens' Humphrey expresses displeasure over 'slander' against QB Jackson. Ravens cornerback Marlon Humphrey voiced his displeasure over what he called \"slander\" against quarterback Lamar Jackson.",
-  "url": "https://www.espn.com/nfl/story/_/id/50252129/ravens-humphrey-calls-slander-qb-lamar-jackson",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50252129",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-40699880",
-  "source": "ESPN",
-  "author": "ESPN Fantasy",
-  "time": "2026-10-22T20:55:03Z",
-  "text": "Fantasy football buzz: Notable names you can bench in tough matchups this week. With important sit-or-start decisions ahead, Michael lists key starters you should think about benching.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-  "teams": [
-   "WAS",
-   "SF",
-   "LAC"
-  ],
-  "facts": {
-   "id": "espnnews-40699880",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50252041",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-22T20:48:21Z",
-  "text": "The Seahawks prepare to face former teammate Kenneth Walker III while Zack Charbonnet could return. As the Seahawks prepare to face former teammate Kenneth Walker III, they may be getting some help with their own running game.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873022",
-  "teams": [
-   "SEA",
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50252041",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50251985",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-22T20:40:24Z",
-  "text": "Morris returns to Atlanta and is expected to have 49ers defense try to pressure Falcons QB Penix. \u2014 Raheem Morris, part of the Atlanta Falcons' leadership team that made Michael Penix Jr. the No. 8 overall pick in the 2024 draft, will return to Atlanta on Sunday as the defensive coordinator of an undefeated San Francisco 49ers team that will try...",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873017",
-  "teams": [
-   "ATL",
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50251985",
-   "team": "ATL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50250747",
-  "source": "ESPN",
-  "author": "Nate Taylor",
-  "time": "2026-10-22T20:32:37Z",
-  "text": "Chiefs place LT Josh Simmons on IR as rehab process stalls. The Chiefs have placed left tackle Josh Simmons on injured reserve, further delaying his return from a bulging disk in his lower back.",
-  "url": "https://www.espn.com/nfl/story/_/id/50250747/chiefs-placing-lt-josh-simmons-ir-rehab-process-stalls",
-  "teams": [
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50250747",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50251708",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-22T20:12:10Z",
-  "text": "Titans chase a rare 2nd straight win as the Browns arrive atop the AFC North. \u2014 Tennessee safety Amani Hooker couldn't remember the most recent time the Titans strung together back-to-back wins, and his guess off.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873013",
-  "teams": [
-   "TEN",
-   "CLE"
-  ],
-  "facts": {
-   "id": "espnnews-50251708",
-   "team": "TEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50251617",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-22T19:53:12Z",
-  "text": "C.J. Stroud powers Houston Texans vs New York Giants as J.J. McCarthy starts. \u2014 The New York Giants know better than to underestimate the Houston Texans entering Sunday\u2019s matchup even though they\u2019ve won just two games this season.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873016",
-  "teams": [
-   "HOU",
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50251617",
-   "team": "HOU",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50251544",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-22T19:40:20Z",
-  "text": "Unbeaten Vikings' dominant defense presents an untimely test for Daniel Jones and the reeling Colts. \u2014 Daniel Jones made a pit stop with the Minnesota Vikings two years ago, when the eighth-year quarterback got an up-close look at the ",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873014",
-  "teams": [
-   "MIN",
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50251544",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50240486",
-  "source": "ESPN",
-  "author": "Anthony Gharib",
-  "time": "2026-10-22T19:03:36Z",
-  "text": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black. Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-  "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms",
-  "teams": [
-   "ARI",
-   "ATL",
-   "BAL",
-   "BUF",
-   "CAR",
-   "CHI",
-   "CIN",
-   "CLE",
-   "DAL",
-   "DEN",
-   "DET",
-   "GB",
-   "HOU",
-   "IND",
-   "JAX",
-   "KC",
-   "LV",
-   "LAC",
-   "LA",
-   "MIA",
-   "MIN",
-   "NE",
-   "NO",
-   "NYG",
-   "NYJ",
-   "PHI",
-   "PIT",
-   "SF",
-   "SEA",
-   "TB",
-   "TEN",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50240486",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50251078",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-10-22T18:57:34Z",
-  "text": "Jets' Reich likes when star playmakers 'make noise' about targets. When Garrett Wilson isn't getting his share of targets, Jets OC Frank Reich hears about it from coach Aaron Glenn and indirectly from the star wide receiver.",
-  "url": "https://www.espn.com/nfl/story/_/id/50251078/jets-frank-reich-hears-garrett-wilson-frustration",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50251078",
-   "team": "NYJ",
    "player": null,
    "position": null,
    "status": "other",
