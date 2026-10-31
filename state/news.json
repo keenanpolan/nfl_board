@@ -1,5 +1,279 @@
 [
  {
+  "id": "espnnews-50289130",
+  "source": "ESPN",
+  "author": "Michael F. Florio",
+  "time": "2026-10-31T00:19:50Z",
+  "text": "Fantasy football Week 8 inactives: Chase to play; Hall questionable; Egbuka out. Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50289130/fantasy-football-injuries-nfl-week-8-inactive-active",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50289130",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "questionable",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50331710",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-10-31T00:05:38Z",
+  "text": "Sources: Commanders' Daron Payne likely IR-bound after practice injury. Commanders DT Daron Payne suffered a significant foot injury in practice Friday that likely will land him on injured reserve, sources told NFL Network.",
+  "url": "https://www.espn.com/nfl/story/_/id/50331710/sources-commanders-daron-payne-injures-foot-practice",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50331710",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50331045",
+  "source": "ESPN",
+  "author": "Stephen Holder",
+  "time": "2026-10-30T22:19:00Z",
+  "text": "Colts' Shane Steichen: WR Josh Downs 'ready to go' despite trade request. Colts coach Shane Steichen says receiver Josh Downs practiced all week and is \"ready to go\" despite the trade request he made earlier this week.",
+  "url": "https://www.espn.com/nfl/story/_/id/50331045/colts-steichen-wr-downs-ready-go-trade-demand",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50331045",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50329508",
+  "source": "ESPN",
+  "author": "Josh Weinfuss",
+  "time": "2026-10-30T21:46:45Z",
+  "text": "Cardinals rookie RB Jeremiyah Love (ankle) set to return. Jeremiyah Love is expected to return to the field for the Cardinals on Sunday after missing the past two weeks with an ankle injury.",
+  "url": "https://www.espn.com/nfl/story/_/id/50329508/cardinals-rookie-rb-jeremiyah-love-ankle-set-return",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50329508",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50330890",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-30T21:40:29Z",
+  "text": "Defensive tweaks on deck for the Cowboys. Todd Archer details Dallas Cowboys DC Christian Parker's adjustments following a league-high number of opening-possession touchdowns allowed.",
+  "url": "https://www.espn.com/video/clip/_/id/50330890/defensive-tweaks-deck-cowboys",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50330890",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50330421",
+  "source": "ESPN",
+  "author": "Tim McManus",
+  "time": "2026-10-30T21:13:22Z",
+  "text": "Eagles' Saquon Barkley carries no injury designation for Commanders matchup. Saquon Barkley, who did not practice Wednesday or Thursday and was a limited participant Friday, carries no designation into Sunday's game.",
+  "url": "https://www.espn.com/nfl/story/_/id/50330421/eagles-saquon-barkley-carries-no-injury-designation-commanders-matchup",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50330421",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50330916",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-30T21:08:26Z",
+  "text": "Budda Baker fields trade rumor questions in costume. Budda Baker fields trade rumor questions in costume",
+  "url": "https://www.espn.com/video/clip/_/id/50330916/budda-baker-fields-trade-rumor-questions-costume",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50330916",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50329806",
+  "source": "ESPN",
+  "author": "Mike Kaye",
+  "time": "2026-10-30T20:56:49Z",
+  "text": "With 10 games left and Ejiro Evero out, what's next for Panthers' defense?. Here are three reasons for optimism as Carolina makes a defensive coordinator change to Todd Wash.",
+  "url": "https://www.espn.com/nfl/story/_/id/50329806/carolina-panthers-defense-ejiro-evero-next-todd-wash",
+  "teams": [
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50329806",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-12d505695448e",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-30T19:53:47.86Z",
+  "text": "Eagles ruled out WR DeVonta Smith but RB Saquon Barkley has no injury designation for Sunday night\u2019s game vs. Washington.",
+  "url": "https://www.espn.com/contributor/adam-schefter/12d505695448e",
+  "teams": [
+   "PHI",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espn-12d505695448e",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50329594",
+  "source": "ESPN",
+  "author": "Nate Taylor",
+  "time": "2026-10-30T19:53:39Z",
+  "text": "Chiefs get Rashee Rice back from injury for Broncos game. Chiefs receiver Rashee Rice is expected back from a hamstring injury against the Broncos on Sunday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50329594/chiefs-get-rashee-rice-back-injury-broncos-game",
+  "teams": [
+   "KC",
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50329594",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50329615",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-10-30T19:30:57Z",
+  "text": "Bills making contingencies if hurt starters aren't available. The Bills have listed starters DJ Moore (shoulder), right tackle Spencer Brown (back) and nickel Dee Alford (ankle) as questionable vs. the Ravens.",
+  "url": "https://www.espn.com/nfl/story/_/id/50329615/bills-making-contingencies-hurt-starters-available",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50329615",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "questionable",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50329759",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-30T19:25:06Z",
+  "text": "Bears vs. Seahawks: Where to watch 'Monday Night Football'. Here's what to know about the Week 8 matchup.",
+  "url": "https://www.espn.com/nfl/story/_/id/50329759/bears-vs-seahawks-watch-monday-night-football-week-8",
+  "teams": [
+   "CHI",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50329759",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50329589",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-30T18:59:12Z",
+  "text": "Ravens coach Jesse Minter expects Lamar Jackson back this week. Ravens coach Jesse Minter expects Lamar Jackson back this week",
+  "url": "https://www.espn.com/video/clip/_/id/50329589/ravens-coach-jesse-minter-expects-lamar-jackson-back-week",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50329589",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50329330",
   "source": "ESPN",
   "author": "Jamison Hensley",
@@ -217,6 +491,25 @@
   "teams": [],
   "facts": {
    "id": "espnnews-50328325",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49965396",
+  "source": "ESPN",
+  "author": "Eric Moody",
+  "time": "2026-10-30T15:03:28Z",
+  "text": "Fantasy football: Live Week 8 Q&A with our expert, noon ET. ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49965396/fantasy-football-start-sit-lineup-advice-week",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49965396",
    "team": null,
    "player": null,
    "position": null,
@@ -6548,424 +6841,6 @@
    "status": "out",
    "starting_qb": null,
    "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50260899",
-  "source": "ESPN",
-  "author": "Jordan Raanan",
-  "time": "2026-10-23T23:55:25Z",
-  "text": "Giants LB Tremaine Edmunds (chest) out for year, source says. Giants linebacker Tremaine Edmunds will miss the rest of the season with a torn chest muscle, a source told ESPN's Jordan Raanan. Edmunds leads the team with 50 tackles and wears the green dot to make the calls on defense.",
-  "url": "https://www.espn.com/nfl/story/_/id/50260899/giants-lb-tremaine-edmunds-chest-year-source-says",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50260899",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50261478",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-23T23:33:53Z",
-  "text": "Boye Mafe's proud of his culture. Ben Baby details how Boye Mafe honors his culture when he's on the field.",
-  "url": "https://www.espn.com/video/clip/_/id/50261478/boye-mafe-proud-culture",
-  "teams": [
-   "CIN"
-  ],
-  "facts": {
-   "id": "espnnews-50261478",
-   "team": "CIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50261029",
-  "source": "ESPN",
-  "author": "Brady Henderson",
-  "time": "2026-10-23T22:41:56Z",
-  "text": "Seahawks rule out RB Zach Charbonnet vs. Chiefs. RB Zach Charbonnet's season debut will have to wait at least one more week as the Seahawks have ruled him out for Sunday's game against the Chiefs.",
-  "url": "https://www.espn.com/nfl/story/_/id/50261029/seahawks-rule-rb-zach-charbonnet-vs-chiefs",
-  "teams": [
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50261029",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50221073",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-23T21:20:18Z",
-  "text": "Bets for National Tight Ends Day: Props and picks for Sunday's games. In recognition of National Tight Ends Day, we thought we'd share our favorite bets for the versatile playmakers.",
-  "url": "https://www.espn.com/espn/betting/story/_/id/50221073/nfl-week-7-odds-tight-ends-betting-props-preview",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50221073",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50259857",
-  "source": "ESPN",
-  "author": "Marc Raimondi",
-  "time": "2026-10-23T21:18:40Z",
-  "text": "Falcons' viral stripes will appear down center of helmets. A vertical stripe pattern that the Falcons used in a social media post will appear down the middle of the team's throwback helmets. The stripes drew significant online backlash as some saw similarity to Nazi Germany imagery.",
-  "url": "https://www.espn.com/nfl/story/_/id/50259857/falcons-throwback-logo-include-viral-stripe-pattern",
-  "teams": [
-   "ATL"
-  ],
-  "facts": {
-   "id": "espnnews-50259857",
-   "team": "ATL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50260535",
-  "source": "ESPN",
-  "author": "Todd Archer",
-  "time": "2026-10-23T21:15:56Z",
-  "text": "Cowboys say still time to turn things around after 2-4 start. Cowboys stars Dak Prescott and CeeDee Lamb express belief that there's still time for the team to turn things around despite a 2-4 start.",
-  "url": "https://www.espn.com/nfl/story/_/id/50260535/cowboys-say-turn-things-2-4-start",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50260535",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50259856",
-  "source": "ESPN",
-  "author": "Jordan Raanan",
-  "time": "2026-10-23T21:13:54Z",
-  "text": "Cam Skattebo set to return to Giants RB mix after being 'taught a lesson'. After zero carries in Week 6, Cam Skattebo says he took a step back to evaluate and correct, and Giants' coach says he should return to the running back mix vs. the Texans.",
-  "url": "https://www.espn.com/nfl/story/_/id/50259856/cam-skattebo-set-return-giants-rb-mix",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50259856",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50260001",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-10-23T20:55:19Z",
-  "text": "Ravens' Lamar Jackson (high ankle sprain) unsure if he'll play. Ravens quarterback Lamar Jackson said he's dealing with a high ankle sprain and is unsure if he'll play this week against the Bengals, but is \"heading in the right direction\" after missing the past two games.",
-  "url": "https://www.espn.com/nfl/story/_/id/50260001/ravens-lamar-jackson-high-ankle-sprain-unsure-play",
-  "teams": [
-   "BAL",
-   "CIN"
-  ],
-  "facts": {
-   "id": "espnnews-50260001",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50260393",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-23T20:54:53Z",
-  "text": "Lamar Jackson 'heading in the right direction' but unsure of return. Lamar Jackson 'heading in the right direction' but unsure of return",
-  "url": "https://www.espn.com/video/clip/_/id/50260393/lamar-jackson-heading-right-direction-unsure-return",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50260393",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50259989",
-  "source": "ESPN",
-  "author": "Courtney Cronin",
-  "time": "2026-10-23T20:33:18Z",
-  "text": "Bears TE Cole Kmet out for season after knee injury vs. Patriots. Bears tight end Cole Kmet will miss the remainder of the 2026 season after he suffered a serious right knee injury during Chicago's 30-24 win over New England.",
-  "url": "https://www.espn.com/nfl/story/_/id/50259989/bears-te-cole-kmet-season-knee-injury-vs-pats",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50259989",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-a2f3d12ce4d25",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-23T20:29:06.092Z",
-  "text": "49ers ruled out Mike Evans and Deebo Samuel for Sunday\u2019s game in Atlanta.",
-  "url": "https://www.espn.com/contributor/adam-schefter/a2f3d12ce4d25",
-  "teams": [
-   "SF",
-   "ATL"
-  ],
-  "facts": {
-   "id": "espn-a2f3d12ce4d25",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50259999",
-  "source": "ESPN",
-  "author": "Daniel Oyefusi",
-  "time": "2026-10-23T20:19:54Z",
-  "text": "Browns RBs Quinshon Judkins, Dylan Sampson expected to play. The Browns' top two running backs, Quinshon Judkins and Dylan Sampson, are expected to play against the Titans after being sidelined with injuries.",
-  "url": "https://www.espn.com/nfl/story/_/id/50259999/browns-rbs-quinshon-judkins-dylan-sampson-expected-play",
-  "teams": [
-   "CLE"
-  ],
-  "facts": {
-   "id": "espnnews-50259999",
-   "team": "CLE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50258482",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-10-23T19:32:22Z",
-  "text": "Jets WR Adonai Mitchell to play, RB Breece Hall questionable vs. Dolphins. Jets WR Adonai Mitchell, sidelined four games with a finger injury that required a surgical procedure, practiced all week and will play against the Dolphins.",
-  "url": "https://www.espn.com/nfl/story/_/id/50258482/jets-wr-mitchell-play-rb-hall-questionable-vs-dolphins",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50258482",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "questionable",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50259748",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-10-23T19:17:30Z",
-  "text": "Rams WR Puka Nacua misses practice, questionable vs. Raiders with calf injury. Rams wide receiver Puka Nacua (calf) will not practice Friday and is questionable to play Sunday against the Raiders, coach Sean McVay said.",
-  "url": "https://www.espn.com/nfl/story/_/id/50259748/rams-wr-puka-nacua-questionable-vs-raiders-calf-injury",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50259748",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "questionable",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50258967",
-  "source": "ESPN",
-  "author": "Eric Woodyard",
-  "time": "2026-10-23T19:09:26Z",
-  "text": "Lions' Dan Campbell downplays Sam LaPorta's contract comments. Lions coach Dan Campbell is downplaying comments made by Sam LaPorta about the tight end's displeasure with where contract talks stand with the organization. LaPorta later softened the tone on his comments.",
-  "url": "https://www.espn.com/nfl/story/_/id/50258967/lions-dan-campbell-downplays-sam-laporta-contract-comments",
-  "teams": [
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50258967",
-   "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50259196",
-  "source": "ESPN",
-  "author": "Jenna Laine",
-  "time": "2026-10-23T18:56:07Z",
-  "text": "Baker Mayfield returns for Bucs, but WR Emeka Egbuka, RT Luke Goedeke out. Buccaneers quarterback Baker Mayfield will make his return following a three-game absence, but he will be without his top target in wide receiver Emeka Egbuka.",
-  "url": "https://www.espn.com/nfl/story/_/id/50259196/baker-mayfield-returns-emeka-egbuka-luke-goedeke-out",
-  "teams": [
-   "TB"
-  ],
-  "facts": {
-   "id": "espnnews-50259196",
-   "team": "TB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50259624",
-  "source": "ESPN",
-  "author": "Josh Weinfuss",
-  "time": "2026-10-23T18:46:10Z",
-  "text": "Cards rookie RB Jeremiyah Love to miss second straight game with ankle injury. Cardinals rookie RB Jeremiyah Love will miss his second straight game Sunday as he continues to recover from an ankle injury.",
-  "url": "https://www.espn.com/nfl/story/_/id/50259624/cardinals-rookie-rb-jeremiyah-love-miss-second-straight-game",
-  "teams": [
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50259624",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50259638",
-  "source": "ESPN",
-  "author": "Mike Clay",
-  "time": "2026-10-23T18:38:07Z",
-  "text": "DraftKings DFS cheat sheet: Best values for Sunday's main slate. Build a winning DFS lineup with our DraftKings NFL Week 7 cheat sheet identifying the best stacks and values",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50259638/draftkings-nfl-dfs-values-week-7",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50259638",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50259536",
-  "source": "ESPN",
-  "author": "Stephen Holder",
-  "time": "2026-10-23T18:37:51Z",
-  "text": "Colts' Tyler Warren to miss second game with groin injury. Tight end Tyler Warren will miss his second consecutive game with a groin injury when the Colts travel to face the Vikings on Sunday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50259536/colts-tyler-warren-miss-second-game-groin-injury",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50259536",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50257962",
-  "source": "ESPN",
-  "author": "Stephen Holder",
-  "time": "2026-10-23T18:22:52Z",
-  "text": "Colts QB Anthony Richardson Sr. charged with possession of marijuana. Colts quarterback Anthony Richardson Sr. is facing a misdemeanor charge for marijuana possession following a traffic stop earlier this month, court records show.",
-  "url": "https://www.espn.com/nfl/story/_/id/50257962/colts-qb-anthony-richardson-sr-charged-marijuana-possession",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50257962",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
    "summary": null
   }
  }
