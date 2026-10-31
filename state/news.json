@@ -1,5 +1,390 @@
 [
  {
+  "id": "espnnews-50337296",
+  "source": "ESPN",
+  "author": "Mike Reiss",
+  "time": "2026-10-31T17:27:09Z",
+  "text": "Patriots rule out A.J. Brown, TreVeyon Henderson vs. Dolphins. Patriots wide receiver A.J. Brown has been ruled out for Sunday's game against the Dolphins. In addition, No. 2 running back TreVeyon Henderson has been ruled out due to an illness.",
+  "url": "https://www.espn.com/nfl/story/_/id/50337296/patriots-rule-aj-brown-treveyon-henderson-vs-dolphins",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50337296",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50333636",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-31T17:03:07Z",
+  "text": "Records show 3 other women accused Packers' Josh Jacobs of abuse after arrest. Three other women contacted police to detail allegations of abuse against Packers RB Josh Jacobs following his May arrest for an altercation with his then-girlfriend.",
+  "url": "https://www.espn.com/nfl/story/_/id/50333636/records-show-3-other-women-accused-packers-josh-jacobs-abuse",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50333636",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-ebd095ac9881b",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-31T17:01:48.446Z",
+  "text": "Patriots downgraded A.J. Brown and TreVeyon Henderson to out for Sunday\u2019s game versus the Dolphins.",
+  "url": "https://www.espn.com/contributor/adam-schefter/ebd095ac9881b",
+  "teams": [
+   "NE",
+   "MIA"
+  ],
+  "facts": {
+   "id": "espn-ebd095ac9881b",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50335830",
+  "source": "ESPN",
+  "author": "Pete Thamel",
+  "time": "2026-10-31T16:18:43Z",
+  "text": "NFL scouts favor Drew Mestemaker as first QB taken in draft. In a midseason poll of 25 NFL scouts, Oklahoma State's Drew Mestemaker was the overwhelming choice to be the first quarterback selected in the 2027 NFL draft.",
+  "url": "https://www.espn.com/college-football/story/_/id/50335830/nfl-scouts-favor-drew-mestemaker-first-qb-taken-draft",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50335830",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50336399",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-10-31T15:46:37Z",
+  "text": "Source: Commanders DT Daron Payne suffered season-ending foot injury. Commanders defensive tackle Daron Payne suffered a season-ending Jones fracture in practice Friday, a source told ESPN's Adam Schefter.",
+  "url": "https://www.espn.com/nfl/story/_/id/50336399/source-commanders-dt-payne-suffered-season-ending-foot-injury",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50336399",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50323095",
+  "source": "ESPN",
+  "author": "Adam Schefter and Ian Rapoport",
+  "time": "2026-10-31T15:08:29Z",
+  "text": "Sources: Colts willing to trade RB Jonathan Taylor, active in talks with teams. The Colts now are open to trading Jonathan Taylor, sources told ESPN and NFL Network, and multiple teams have reached out to Indianapolis.",
+  "url": "https://www.espn.com/nfl/story/_/id/50323095/sources-colts-willing-trade-star-rb-jonathan-taylor",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50323095",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50336119",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-31T14:44:08Z",
+  "text": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'. Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
+  "url": "https://www.espn.com/video/clip/_/id/50336119/interest-jonathan-taylor-heavy-real",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50336119",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50335296",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-31T13:49:42Z",
+  "text": "Appellate court revives 'Sunday Ticket' antitrust verdict against NFL. A verdict in a class action lawsuit filed by \"Sunday Ticket\" subscribers claiming the NFL broke antitrust laws has been revived by a federal appeals court, more than two years after a $4.7 billion ruling against the league was reversed.",
+  "url": "https://www.espn.com/nfl/story/_/id/50335296/appeals-court-revives-sunday-ticket-verdict-nfl",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50335296",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50335391",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-10-31T13:28:28Z",
+  "text": "Sources: Packers, Micah Parsons target return for Thanksgiving Eve game vs. Rams. The Packers and Micah Parsons are targeting the Thanksgiving Eve game against the Rams for his return to the field, sources told NFL Network.",
+  "url": "https://www.espn.com/nfl/story/_/id/50335391/sources-packers-micah-parsons-eye-thanksgiving-eve-return",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50335391",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50331651",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-31T12:33:18Z",
+  "text": "'No way' that Jets trade star WR Garrett Wilson before deadline, source says. The Jets are not expected to trade Garrett Wilson, sources told ESPN, despite increased speculation about the star wide receiver's future.",
+  "url": "https://www.espn.com/nfl/story/_/id/50331651/no-way-jets-trade-garrett-wilson-deadline-source-says",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50331651",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-144c4d444d56f",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-31T11:24:17.805Z",
+  "text": "The Indianapolis Colts now are open to trading star running back Jonathan Taylor, sources told @RapSheet and me. Multiple teams have reached out to Indianapolis, and those talks are said to be active and ongoing.",
+  "url": "https://www.espn.com/contributor/adam-schefter/144c4d444d56f",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espn-144c4d444d56f",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50329579",
+  "source": "ESPN",
+  "author": "Aaron Schatz",
+  "time": "2026-10-31T10:58:10Z",
+  "text": "Where the 2026 Vikings rank among worst 6-0 NFL teams ever. Aaron Schatz ranked the worst 6-0 teams ever by DVOA and point differential. Where do the 2026 Vikings land, and what's next for them?",
+  "url": "https://www.espn.com/nfl/story/_/id/50329579/2026-minnesota-vikings-worst-undefeated-team-ever",
+  "teams": [
+   "MIN",
+   "ATL",
+   "DEN",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50329579",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50319868",
+  "source": "ESPN",
+  "author": "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
+  "time": "2026-10-31T10:57:35Z",
+  "text": "NFL Week 8 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more. Tough day coming for Derrick Henry? Browns pulling an upset over the Steelers? Fantasy potential for Geno Smith? Let's predict 15 things for Week 8.\ufeff",
+  "url": "https://www.espn.com/nfl/story/_/id/50319868/week-8-predictions-upsets-fantasy-sleepers-stats-2026",
+  "teams": [
+   "CLE",
+   "PIT",
+   "BAL",
+   "BUF",
+   "IND",
+   "JAX",
+   "NYJ",
+   "DAL",
+   "DET",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50319868",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50312381",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-10-31T10:24:11Z",
+  "text": "Will the Bills' defense stop them from winning a Super Bowl?. Buffalo's defense ranks among the worst in several key statistical areas, including the third-most points allowed.",
+  "url": "https://www.espn.com/nfl/story/_/id/50312381/bill-defense-super-bowl-gardner-johnson-rousseau",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50312381",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50321280",
+  "source": "ESPN",
+  "author": "Marc Raimondi",
+  "time": "2026-10-31T10:00:02Z",
+  "text": "Michael Penix Jr. shows he could be Atlanta's QB1. Penix has been mostly above average after 17 games as an NFL starter, and that's really all Atlanta needs him to be.",
+  "url": "https://www.espn.com/nfl/story/_/id/50321280/atlanta-falcons-michael-penix-future",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50321280",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50331179",
+  "source": "ESPN",
+  "author": "Ben Baby",
+  "time": "2026-10-31T10:00:00Z",
+  "text": "Joe Burrow's trust makes Tee Higgins level up for Bengals. No receiver in the NFL has been better on tight window throws this season than the Bengals' Tee Higgins.",
+  "url": "https://www.espn.com/nfl/story/_/id/50331179/cincinnati-bengals-tee-higgins-joe-burrow",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50331179",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50321862",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-10-31T00:38:27Z",
+  "text": "Halloween 2026: Breaking down top athlete costumes from across the sports world. Athletes far and wide across the sports world showed off special costumes for Halloween.",
+  "url": "https://www.espn.com/nba/story/_/id/50321862/halloween-athlete-costumes-2026",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50321862",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50332073",
+  "source": "ESPN",
+  "author": "Marc Raimondi",
+  "time": "2026-10-31T00:31:29Z",
+  "text": "Falcons' Anterio Thompson says he can't play football due to spinal cord issue. Falcons rookie DT Anterio Thompson revealed on Instagram this week that he was told he would never play football again due to a genetic mutation of his spinal cord.",
+  "url": "https://www.espn.com/nfl/story/_/id/50332073/falcons-thompson-play-football-due-spinal-cord-issue",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50332073",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50289130",
   "source": "ESPN",
   "author": "Michael F. Florio",
@@ -6639,208 +7024,6 @@
    "status": "other",
    "starting_qb": null,
    "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50262387",
-  "source": "ESPN",
-  "author": "Mike Reiss",
-  "time": "2026-10-24T15:32:24Z",
-  "text": "Patriots must improve turnover differential if they want to win, other notes. It's one of Mike Vrabel's four pillars of the team identity -- and New England is struggling with it after losing to the Bears on Thursday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50262387/new-england-patriots-week-7-loss-notebook",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50262387",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50264705",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-24T12:21:04Z",
-  "text": "NFL House in Paris closes ahead of street protests in French capital. The NFL closed its \"NFL House\" in Paris as the city braced for street protests with a heavy police presence and storefronts boarded up.",
-  "url": "https://www.espn.com/nfl/story/_/id/50264705/nfl-house-paris-closes-ahead-street-protests",
-  "teams": [
-   "PIT",
-   "NO"
-  ],
-  "facts": {
-   "id": "espnnews-50264705",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50253343",
-  "source": "ESPN",
-  "author": "Marc Raimondi",
-  "time": "2026-10-24T10:00:21Z",
-  "text": "Will Niners have edge with ex-Falcons coach facing Penix?. With all of the familiarity between Morris and the Falcons, Sunday's game should come down to execution.",
-  "url": "https://www.espn.com/nfl/story/_/id/50253343/atlanta-falcons-san-francisco-49er-raheem-morris",
-  "teams": [
-   "ATL"
-  ],
-  "facts": {
-   "id": "espnnews-50253343",
-   "team": "ATL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50253768",
-  "source": "ESPN",
-  "author": "Ryan McFadden",
-  "time": "2026-10-24T10:00:13Z",
-  "text": "Fernando Mendoza is embracing being Raiders' latest Hispanic QB. The rookie's next chapter is inspired by the legacies of a Hispanic coach, QB and a Raiders' fan base embracing the culture.",
-  "url": "https://www.espn.com/nfl/story/_/id/50253768/raiders-qb-fernando-mendoza-hispanic-plunkett-flores",
-  "teams": [
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50253768",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50258881",
-  "source": "ESPN",
-  "author": "Ben Baby",
-  "time": "2026-10-24T10:00:12Z",
-  "text": "Inside the silent messages Boye Mafe sends every game day. The Bengals defensive end uses sign language to say \"I love you\" to his mother, Bola, who died of pancreatic cancer in 2018.",
-  "url": "https://www.espn.com/nfl/story/_/id/50258881/cincinnati-bengals-boye-mafe-sign-language",
-  "teams": [
-   "CIN"
-  ],
-  "facts": {
-   "id": "espnnews-50258881",
-   "team": "CIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50249972",
-  "source": "ESPN",
-  "author": "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
-  "time": "2026-10-24T10:00:03Z",
-  "text": "NFL Week 7 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more. Touchdowns for Tucker Kraft and Germie Bernard? Cardinals pull another upset? Revenge game for Trey Hendrickson? Let's predict 15 things for Week 7.",
-  "url": "https://www.espn.com/nfl/story/_/id/50249972/week-7-predictions-upsets-fantasy-sleepers-stats-2026",
-  "teams": [
-   "ARI",
-   "KC",
-   "DET",
-   "PIT",
-   "MIN",
-   "IND",
-   "PHI",
-   "MIA",
-   "GB",
-   "TB",
-   "DEN",
-   "CIN",
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50249972",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50261735",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-24T02:03:23Z",
-  "text": "Lawrence McCutcheon, 5-time Pro Bowl RB for Rams, dies at 76. Lawrence McCutcheon, a five-time Pro Bowl running back for the Los Angeles Rams who went on to a long career in the team's front office, died Friday. He was 76.",
-  "url": "https://www.espn.com/nfl/story/_/id/50261735/lawrence-mccutcheon-dies-76",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50261735",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50261267",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-24T01:24:21Z",
-  "text": "Dallas Cowboys cheerleaders unionize, will begin collective bargaining. The Dallas Cowboys have agreed to recognize the Dallas Cowboys Cheerleaders Association as the collective bargaining representative for the team's cheer squad.",
-  "url": "https://www.espn.com/nfl/story/_/id/50261267/dallas-cowboys-cheerleaders-announce-unionizing",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50261267",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50260609",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-10-24T01:07:00Z",
-  "text": "49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return. 49ers receivers Mike Evans and Deebo Samuel Sr., and defensive end Nick Bosa are among a half dozen players who have been ruled out for Sunday's game against the Falcons.",
-  "url": "https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50260609",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
    "summary": null
   }
  }
