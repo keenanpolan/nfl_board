@@ -1,5 +1,106 @@
 [
  {
+  "id": "espnnews-50347464",
+  "source": "ESPN",
+  "author": "NFL Nation",
+  "time": "2026-11-01T18:00:41Z",
+  "text": "Week 8 NFL highlights: Best plays, moments, touchdowns, more. Check here for Sunday's top moments and TDs as Josh Allen, Lamar Jackson and Jonathan Taylor take the field.",
+  "url": "https://www.espn.com/nfl/story/_/id/50347464/week-8-sunday-highlights-best-plays-touchdowns-2026",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50347464",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50347638",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-01T17:37:35Z",
+  "text": "Mike McCarthy's journey home to Pittsburgh. Mike McCarthy's journey home to Pittsburgh",
+  "url": "https://www.espn.com/video/clip/_/id/50347638/mike-mccarthy-journey-home-pittsburgh",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50347638",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50347611",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-01T17:33:49Z",
+  "text": "Fan therapy: A Bills fan should never leave early. Fan therapy: A Bills fan should never leave early ",
+  "url": "https://www.espn.com/video/clip/_/id/50347611/bills-fan-never-leave-early",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50347611",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50348012",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-11-01T15:42:18Z",
+  "text": "Sources: Ray Lewis delivered intense Friday speech to struggling Ravens team. Ravens legend Ray Lewis spent his Friday talking to his former team, issuing a message emphasizing togetherness and cohesiveness, sources told NFL Network.",
+  "url": "https://www.espn.com/nfl/story/_/id/50348012/sources-ray-lewis-delivered-intense-speech-ravens",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50348012",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49803708",
+  "source": "ESPN",
+  "author": "Eric Karabell",
+  "time": "2026-11-01T15:19:21Z",
+  "text": "Fantasy football flex and superflex rankings for Week 8. Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49803708",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50343312",
   "source": "ESPN",
   "author": "Ian Rapoport",
@@ -6669,173 +6770,6 @@
   "facts": {
    "id": "espn-d5715092ac27a",
    "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50277960",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-25T17:12:47Z",
-  "text": "Aaron Rodgers breaks tie with Peyton Manning for third-most TD passes. Aaron Rodgers threw one touchdown pass to move alone to third all-time on the NFL's career list in Pittsburgh's 16-10 win over the Saints on Sunday in the NFL's first regular-season game in France.",
-  "url": "https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game",
-  "teams": [
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50277960",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50277973",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-25T17:09:45Z",
-  "text": "Pittsburgh Steelers vs. New Orleans Saints: Full Game Highlight. Pittsburgh Steelers vs. New Orleans Saints: Full Game Highlight ",
-  "url": "https://www.espn.com/video/clip/_/id/50277973/full-game-highlight",
-  "teams": [
-   "NO",
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50277973",
-   "team": "NO",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49881131",
-  "source": "ESPN",
-  "author": "Mel Kiper Jr. and Jordan Reid",
-  "time": "2026-10-25T17:06:37Z",
-  "text": "2027 NFL draft questions, latest intel, risers, CFB standouts. What are the odds Trey'Dez Green -- who scored in his return -- ends up as TE1? What's a good comp for Dylan Stewart? Here's draft spin off CFB Week 8.",
-  "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49881131",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50239544",
-  "source": "ESPN",
-  "author": "NFL Nation",
-  "time": "2026-10-25T17:00:43Z",
-  "text": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games. Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
-  "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
-  "teams": [
-   "NO",
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50239544",
-   "team": "NO",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50277952",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-25T16:54:46Z",
-  "text": "Rodgers throws TD pass in Paris as Steelers beat Saints 16-10 in NFL's regular-season France debut. \u2014 Aaron Rodgers threw one touchdown pass and Chris Boswell kicked three field goals in Pittsburgh\u2019s 16-10 win over the New Orleans Saints on Sunday in the NFL\u2019s first regular-season game in France.",
-  "url": "http://www.espn.com/nfl/recap?gameId=401873011",
-  "teams": [
-   "NO",
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50277952",
-   "team": "NO",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-29098001",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-25T16:21:45Z",
-  "text": "NFL depth charts for all 32 teams for 2026 season. Here are the latest NFL depth charts for all 32 teams.",
-  "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-29098001",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50274245",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-25T16:20:13Z",
-  "text": "Mahomes and Kelce the Chiefs dynamic duo. Mahomes and Kelce the Chiefs dynamic duo",
-  "url": "https://www.espn.com/video/clip/_/id/50274245/mahomes-kelce-chiefs-dynamic-duo",
-  "teams": [
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50274245",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50274377",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-25T16:04:47Z",
-  "text": "How Bengals star QB Joe Burrow brings a chess mindset to football. How Bengals star QB Joe Burrow brings a chess mindset to football ",
-  "url": "https://www.espn.com/video/clip/_/id/50274377/how-bengals-star-qb-joe-burrow-brings-chess-mindset-football",
-  "teams": [
-   "CIN"
-  ],
-  "facts": {
-   "id": "espnnews-50274377",
-   "team": "CIN",
    "player": null,
    "position": null,
    "status": "other",
