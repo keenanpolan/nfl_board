@@ -1,5 +1,314 @@
 [
  {
+  "id": "espnnews-50343312",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-11-01T14:21:28Z",
+  "text": "Bears QB Caleb Williams won't 'spat' custom cleats out of principle, source says. Caleb Williams believes in his custom Caddix cleats, a source told NFL Network, and won't cover the logo in accordance with NFL rules out of principle.",
+  "url": "https://www.espn.com/nfl/story/_/id/50343312/source-caleb-williams-spat-cleats-principle",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50343312",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50343678",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-01T13:51:06Z",
+  "text": "Sources: Bears, Titans used Myles Garrett deal as framework for Simmons trade. The Bears and Titans came up with a Jeffery Simmons proposal that was based off this year's Myles Garrett trade, sources told ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50343678/bears-trade-jeffery-simmons-based-myles-garrett-deal",
+  "teams": [
+   "CHI",
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50343678",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50336880",
+  "source": "ESPN",
+  "author": "Mike Garafolo and Ian Rapoport",
+  "time": "2026-11-01T13:36:48Z",
+  "text": "Sources: Saquon Barkley won't be traded by deadline despite Eagles' struggles. Saquon Barkley will not be traded before the trade deadline, sources told NFL Network, putting an end to speculation that the Eagles RB could be on the move.",
+  "url": "https://www.espn.com/nfl/story/_/id/50336880/sources-eagles-trade-star-rb-saquon-barkley",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50336880",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50335308",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-01T13:21:48Z",
+  "text": "Sources: Raiders not planning on trading Maxx Crosby, who wants to stay. The Raiders do not plan on trading Maxx Crosby, who wants to stay in Las Vegas, sources told ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50335308/raiders-not-planning-trading-maxx-crosby-sources-say",
+  "teams": [
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50335308",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50298479",
+  "source": "ESPN",
+  "author": "Pamela Maldonado",
+  "time": "2026-11-01T11:30:29Z",
+  "text": "How to bet Eagles-Commanders: Analysis, tips and top prop plays. Odds, bets and analysis to help you bet the Philadelphia Eagles-Washington Commanders game Sunday night.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50298479/nfl-week-8-odds-betting-tips-eagles-commanders-preview",
+  "teams": [
+   "PHI",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50298479",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50336122",
+  "source": "ESPN",
+  "author": "Mike Reiss",
+  "time": "2026-11-01T11:00:10Z",
+  "text": "The Patriots are 18-43 all time in Miami. Here are keys to a Week 8 victory. Former Patriots player and current TV analyst Logan Ryan details what he thinks New England needs to improve on vs. Miami.",
+  "url": "https://www.espn.com/nfl/story/_/id/50336122/new-england-patriots-miami-dolphins-week-8-key-win",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50336122",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50342146",
+  "source": "ESPN",
+  "author": "Marcel Louis-Jacques",
+  "time": "2026-11-01T11:00:00Z",
+  "text": "Miami Dolphins WR Caleb Douglas rounding into form ahead of Pats matchup. The rookie wide receiver has impressed Dolphins coaches with his production on and off the ball.",
+  "url": "https://www.espn.com/nfl/story/_/id/50342146/dolphins-wr-caleb-douglas-vs-pats-christian-gonzalez",
+  "teams": [
+   "MIA"
+  ],
+  "facts": {
+   "id": "espnnews-50342146",
+   "team": "MIA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50329135",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-11-01T11:00:00Z",
+  "text": "Will usually active Jets play or pass before trade deadline?. New York could look to add to its pile of assets ahead of the Nov. 10 trade deadline.",
+  "url": "https://www.espn.com/nfl/story/_/id/50329135/jets-trade-deadline-rumors-allen-mcdonald-brownlee",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50329135",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50300237",
+  "source": "ESPN",
+  "author": "Turron Davenport and Nate Taylor",
+  "time": "2026-11-01T11:00:00Z",
+  "text": "Ranking the top 10 trick plays in Super Bowl history. Which trick plays cemented their legacies in the Super Bowl? We listed 10 that changed momentum or flat-out won championships.",
+  "url": "https://www.espn.com/nfl/story/_/id/50300237/top-10-super-bowl-trick-plays-history",
+  "teams": [
+   "PHI",
+   "NO",
+   "PIT",
+   "DEN",
+   "CHI",
+   "NYG",
+   "DAL",
+   "IND",
+   "SEA",
+   "CAR",
+   "SF",
+   "KC",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50300237",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50340504",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-10-31T23:17:53Z",
+  "text": "Derwin James placed on injured reserve after hamstring rehab setback. The Chargers have placed safety Derwin James Jr. on injured reserve because of a hamstring injury.",
+  "url": "https://www.espn.com/nfl/story/_/id/50340504/chargers-safety-james-hamstring-placed-injured-reserve",
+  "teams": [
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50340504",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50340383",
+  "source": "ESPN",
+  "author": "Brady Henderson",
+  "time": "2026-10-31T23:05:04Z",
+  "text": "Zach Charbonnet, Jadarian Price have no game designations for Monday. Seahawks running backs Zach Charbonnet and Jadarian Price have no game designations, meaning both are healthy enough to play Monday night against the Bears.",
+  "url": "https://www.espn.com/nfl/story/_/id/50340383/seahawks-rbs-charbonnet-price-healthy-play-monday-night",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50340383",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-c43ae0b3d3870",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-10-31T20:45:05.573Z",
+  "text": "Seahawks running backs Jadarian Price and Zach Charbonnet have no injury designations for Monday night and both are now expected to play against the Bears. This will be Charbonnet\u2019s season debut.",
+  "url": "https://www.espn.com/contributor/adam-schefter/c43ae0b3d3870",
+  "teams": [
+   "SEA",
+   "CHI"
+  ],
+  "facts": {
+   "id": "espn-c43ae0b3d3870",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50339066",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-10-31T20:20:30Z",
+  "text": "T'Vondre Sweat placed on injured reserve with knee injury. The Jets will be without T'Vondre Sweat for at least the next four games, as the starting nose tackle was placed on injured reserve Saturday with a knee sprain.",
+  "url": "https://www.espn.com/nfl/story/_/id/50339066/tvondre-sweat-placed-injured-reserve-knee-injury",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50339066",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50338005",
+  "source": "ESPN",
+  "author": "Michael Rothstein",
+  "time": "2026-10-31T19:31:38Z",
+  "text": "NFL to review additional allegations against Packers RB Josh Jacobs. The NFL said it will look into additional allegations of physical and verbal abuse by Packers RB Josh Jacobs that were revealed as part of a public records release from the Hobart/Lawrence Police Department.",
+  "url": "https://www.espn.com/nfl/story/_/id/50338005/nfl-review-additional-allegations-packers-jacobs",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50338005",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50337296",
   "source": "ESPN",
   "author": "Mike Reiss",
@@ -6527,498 +6836,6 @@
   "facts": {
    "id": "espnnews-50274377",
    "team": "CIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50276432",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-25T14:14:37Z",
-  "text": "NFL, NFLPA handling joint review of Jalen Hurts' blood clot diagnosis. The NFL and NFL Players Association are working together to review the handling of Jalen Hurts' blood clot diagnosis.",
-  "url": "https://www.espn.com/nfl/story/_/id/50276432/nfl-nflpa-handling-joint-review-jalen-hurts-diagnosis",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50276432",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50267058",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-25T13:20:50Z",
-  "text": "Sources: Peyton Manning not expected to be candidate for Colts' vacant GM job. The Colts have not approached Peyton Manning about their vacant GM job nor would the ex-QB be expected to be interested in the position, according to sources.",
-  "url": "https://www.espn.com/nfl/story/_/id/50267058/sources-peyton-manning-not-candidate-colts-gm-job",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50267058",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50275344",
-  "source": "ESPN",
-  "author": "NFL Nation",
-  "time": "2026-10-25T13:19:14Z",
-  "text": "Week 7 NFL highlights: Best plays, moments, touchdowns, more. Check here for Sunday's top moments, starting with Aaron Rodgers, Jaylen Warren, Tyler Shough and Alvin Kamara in France.",
-  "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026",
-  "teams": [
-   "PIT",
-   "NO",
-   "CLE",
-   "TEN",
-   "TB",
-   "CAR",
-   "SF",
-   "ATL",
-   "IND",
-   "MIN",
-   "MIA",
-   "NYJ",
-   "CIN",
-   "BAL",
-   "NYG",
-   "HOU",
-   "DEN",
-   "ARI",
-   "GB",
-   "DET",
-   "LA",
-   "LV",
-   "KC",
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50275344",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-51ebaa02bb640",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-25T13:18:56.427Z",
-  "text": "Rams are optimistic that WR Puka Nacua, who is questionable for Sunday\u2019s game due to a calf injury, will play vs. the Raiders. Nacua was feeling better Saturday and, as one source said, \u201cas long as there aren\u2019t any setbacks, we feel good about him being available to play.\u201d",
-  "url": "https://www.espn.com/contributor/adam-schefter/51ebaa02bb640",
-  "teams": [
-   "LA",
-   "LV"
-  ],
-  "facts": {
-   "id": "espn-51ebaa02bb640",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "questionable",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50229729",
-  "source": "ESPN",
-  "author": "Michael F. Florio",
-  "time": "2026-10-25T13:15:05Z",
-  "text": "Fantasy football Week 7 inactives: Mayfield to play, Nacua uncertain, Jackson out. Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50229729/fantasy-football-injuries-nfl-week-7-inactive-active",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50229729",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50275489",
-  "source": "ESPN",
-  "author": "Daniel Oyefusi",
-  "time": "2026-10-25T13:02:13Z",
-  "text": "Browns DT Maliek Collins lands 2-year extension worth $30 million, agent says. The Browns and DT Maliek Collins have agreed to terms on a two-year, $30M extension that includes $23M guaranteed, his agent told ESPN and NFL Network.",
-  "url": "https://www.espn.com/nfl/story/_/id/50275489/browns-maliek-collins-lands-2-year-extension-agent-says",
-  "teams": [
-   "CLE"
-  ],
-  "facts": {
-   "id": "espnnews-50275489",
-   "team": "CLE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50275162",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-25T12:56:06Z",
-  "text": "Rams optimistic that star WR Puka Nacua will play vs. Raiders, source says. The Rams are optimistic that star wide receiver Puka Nacua will play Sunday against the Raiders, a source told ESPN.",
-  "url": "https://www.espn.com/nfl/story/_/id/50275162/source-rams-optimistic-puka-nacua-play-vs-raiders",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50275162",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50272352",
-  "source": "ESPN",
-  "author": "Ian Rapoport and Adam Schefter",
-  "time": "2026-10-25T12:51:57Z",
-  "text": "Sources: Colts face big decisions on star players as NFL trade deadline looms. The Colts are expected to field trade inquiries on some of their star players, including Jonathan Taylor, DeForest Buckner and Quenton Nelson.",
-  "url": "https://www.espn.com/nfl/story/_/id/50272352/sources-decisions-loom-colts-nfl-trade-deadline",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50272352",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49803708",
-  "source": "ESPN",
-  "author": "Eric Karabell",
-  "time": "2026-10-25T12:44:52Z",
-  "text": "Fantasy football flex and superflex rankings for Week 7. Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49803708",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50268018",
-  "source": "ESPN",
-  "author": "Ian Rapoport",
-  "time": "2026-10-25T12:36:34Z",
-  "text": "Sources: Cam Skattebo expected to resume role as Giants' lead RB vs. Texans. Cam Skattebo is expected to return to his role as the Giants' lead running back Sunday against the Texans, sources told NFL Network.",
-  "url": "https://www.espn.com/nfl/story/_/id/50268018/sources-cam-skattebo-expected-giants-lead-rb",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50268018",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50268181",
-  "source": "ESPN",
-  "author": "Mike Garafolo and Ian Rapoport",
-  "time": "2026-10-25T12:29:01Z",
-  "text": "Sources: Josh Simmons told to leave Chiefs meeting by Andy Reid, Patrick Mahomes. Josh Simmons was kicked out of a team meeting by Chiefs coach Andy Reid and QB Patrick Mahomes, but the OT later apologized, sources told NFL Network.",
-  "url": "https://www.espn.com/nfl/story/_/id/50268181/sources-josh-simmons-told-leave-chiefs-team-meeting",
-  "teams": [
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50268181",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50260368",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-10-25T10:35:57Z",
-  "text": "Why Derrick Henry has taken Jets RB Braelon Allen under his wing. After Henry saw Allen wearing his shirt in college, he reached out to him, and the two running backs have kept in touch since.",
-  "url": "https://www.espn.com/nfl/story/_/id/50260368/jets-braelon-allen-encouraged-derrick-henry",
-  "teams": [
-   "NYJ",
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50260368",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50234491",
-  "source": "ESPN",
-  "author": "Pamela Maldonado",
-  "time": "2026-10-25T10:21:27Z",
-  "text": "How to bet Chiefs-Seahawks: Analysis, tips and top prop plays. Odds, bets and analysis to help you bet Kansas City Chiefs at Seattle Seahawks on Sunday night.",
-  "url": "https://www.espn.com/espn/betting/story/_/id/50234491/nfl-week-7-odds-betting-tips-chiefs-seahawks-preview",
-  "teams": [
-   "SEA",
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50234491",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50239053",
-  "source": "ESPN",
-  "author": "Cameron Wolfe",
-  "time": "2026-10-25T10:00:01Z",
-  "text": "NFL execs, coaches rank the league's top five MVP candidates entering Week 7. Brock Purdy? Josh Allen? Or maybe even a non-QB? Sixteen execs and coaches voted on the top five contenders for the MVP award through six weeks.",
-  "url": "https://www.espn.com/nfl/story/_/id/50239053/2026-nfl-season-mvp-early-ranking-watch-list-execs-coaches",
-  "teams": [
-   "SF",
-   "BUF",
-   "KC",
-   "ATL",
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50239053",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50271544",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-25T00:13:05Z",
-  "text": "Larry Fitzgerald set to enter Cardinals Ring of Honor. Joshua Weinfuss details what Larry Fitzgerald discussed before his Ring of Honor induction with the Cardinals this weekend.",
-  "url": "https://www.espn.com/video/clip/_/id/50271544/larry-fitzgerald-set-enter-cardinals-ring-honor",
-  "teams": [
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50271544",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50269656",
-  "source": "ESPN",
-  "author": "Kevin Seifert",
-  "time": "2026-10-24T22:15:19Z",
-  "text": "Vikings activate RB Jordan Mason off injured reserve. The Vikings activated running back Jordan Mason from injured reserve Saturday, completing his recovery from a fractured thumb that required surgery last month.",
-  "url": "https://www.espn.com/nfl/story/_/id/50269656/vikings-activate-rb-jordan-mason-injured-reserve",
-  "teams": [
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50269656",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50269752",
-  "source": "ESPN",
-  "author": "Tim McManus",
-  "time": "2026-10-24T21:17:02Z",
-  "text": "Eagles' DeVonta Smith, Dontayvion Wicks out vs. Cowboys. The Eagles' top two receivers -- DeVonta Smith and Dontayvion Wicks -- have been ruled out of Monday night's game against the Cowboys.",
-  "url": "https://www.espn.com/nfl/story/_/id/50269752/eagles-devonta-smith-dontayvion-wicks-vs-cowboys",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50269752",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50269266",
-  "source": "ESPN",
-  "author": "Rob Demovsky",
-  "time": "2026-10-24T21:01:12Z",
-  "text": "Packers activate RB Josh Jacobs for 2026 debut. Packers running back Josh Jacobs will make his 2026 season debut against the Lions after spending the first six weeks on the NFL's commissioner exempt list.",
-  "url": "https://www.espn.com/nfl/story/_/id/50269266/packers-activate-rb-josh-jacobs-2026-debut",
-  "teams": [
-   "GB",
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50269266",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50268816",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-10-24T20:41:27Z",
-  "text": "Ravens rule out Lamar Jackson (ankle) vs. Bengals; Tyler 'Snoop' Huntley to start. The Baltimore Ravens have ruled QB Lamar Jackson out of Sundays game vs. the Cincinnati Bengals as he continues to deal with a high ankle sprain. Tyler \"Snoop\" Huntley will get the start.",
-  "url": "https://www.espn.com/nfl/story/_/id/50268816/ravens-rule-lamar-jackson-high-ankle-sprain-vs-bengals",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50268816",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-688a7bbfc801f",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-24T20:09:41.63Z",
-  "text": "Lions activated Pro Bowl safety Brian Branch, who hasn\u2019t played since tearing his Achilles Dec. 4. Branch is set to make his 2026 season debut Sunday vs. the Packers.",
-  "url": "https://www.espn.com/contributor/adam-schefter/688a7bbfc801f",
-  "teams": [
-   "GB",
-   "DET"
-  ],
-  "facts": {
-   "id": "espn-688a7bbfc801f",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-946ef6bad0385",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-24T20:00:46.534Z",
-  "text": "Packers activated RB Josh Jacobs and he is expected to play Sunday at Detroit.",
-  "url": "https://www.espn.com/contributor/adam-schefter/946ef6bad0385",
-  "teams": [
-   "GB",
-   "DET"
-  ],
-  "facts": {
-   "id": "espn-946ef6bad0385",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-2fbc5d70e46ff",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-24T19:30:43.099Z",
-  "text": "Lamar Jackson has been downgraded to out for Sunday\u2019s game against the Bengals.",
-  "url": "https://www.espn.com/contributor/adam-schefter/2fbc5d70e46ff",
-  "teams": [
-   "BAL",
-   "CIN"
-  ],
-  "facts": {
-   "id": "espn-2fbc5d70e46ff",
-   "team": "BAL",
    "player": null,
    "position": null,
    "status": "other",
