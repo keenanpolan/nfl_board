@@ -1,5 +1,131 @@
 [
  {
+  "id": "espnnews-50362530",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-11-03T01:22:16Z",
+  "text": "Ravens QB Joe Fagnano (ankle) has chance to play Thursday, per Jesse Minter. Ravens quarterback Joe Fagnano is dealing with an ankle injury but has \"a chance\" to play Thursday night, coach Jesse Minter said.",
+  "url": "https://www.espn.com/nfl/story/_/id/50362530/ravens-qb-joe-fagnano-ankle-chance-play-thursday",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50362530",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50362402",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-03T00:36:29Z",
+  "text": "The evolution of Seahawks All-Pro CB Devon Witherspoon. The evolution of Seahawks All-Pro CB Devon Witherspoon",
+  "url": "https://www.espn.com/video/clip/_/id/50362402/the-evolution-seahawks-all-pro-cb-devon-witherspoon",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50362402",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50361915",
+  "source": "ESPN",
+  "author": "Jordan Raanan",
+  "time": "2026-11-03T00:20:19Z",
+  "text": "Harbaugh reached out on Simmons trade, says Giants 'open for any call'. John Harbaugh acknowledged calling Titans owner Amy Adams Strunk about the since-traded Jeffery Simmons with New York open for business ahead of the deadline.",
+  "url": "https://www.espn.com/nfl/story/_/id/50361915/harbaugh-reached-simmons-giants-open-call",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50361915",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50362043",
+  "source": "ESPN",
+  "author": "Marc Raimondi",
+  "time": "2026-11-03T00:14:23Z",
+  "text": "Falcons' James Pearce back from suspension, expected to play. Pearce served an eight-game league suspension stemming from a February domestic violence arrest.",
+  "url": "https://www.espn.com/nfl/story/_/id/50362043/falcons-james-pearce-back-suspension-expected-play",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50362043",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50361646",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-11-03T00:11:29Z",
+  "text": "Myles Garrett will return to practice this week for Los Angeles Rams. Los Angeles Rams star pass rusher Myles Garrett, who has been on injured reserve since having arthroscopic knee surgery in mid-September, will return to practice this week, coach Sean McVay told reporters Monday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50361646/garrett-return-practice-week-rams-mcvay-says",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50361646",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50361618",
+  "source": "ESPN",
+  "author": "Josh Weinfuss",
+  "time": "2026-11-02T23:28:44Z",
+  "text": "Cardinals' Mike LaFleur: Jeremiyah Love's injury to 'new portion' of his ankle. Cardinals rookie running back Jeremiyah Love suffered a new ankle injury in Sunday's win over the Cowboys, coach Mike LaFleur said.",
+  "url": "https://www.espn.com/nfl/story/_/id/50361618/cardinals-lafleur-love-injury-new-portion-ankle",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50361618",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50361174",
   "source": "ESPN",
   "author": "ESPN",
@@ -890,6 +1016,73 @@
   "facts": {
    "id": "espnnews-50352650",
    "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49794361",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-11-02T11:00:02Z",
+  "text": "2027 NFL draft order projections for Round 1, chances for top pick, more. ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+  "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+  "teams": [
+   "ARI",
+   "ATL",
+   "BAL",
+   "BUF",
+   "CAR",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "HOU",
+   "JAX",
+   "KC",
+   "LV",
+   "LAC",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SF",
+   "SEA",
+   "TB",
+   "TEN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-49794361",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49745176",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-11-02T11:00:00Z",
+  "text": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason. We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+  "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49745176",
+   "team": null,
    "player": null,
    "position": null,
    "status": "other",
@@ -6823,87 +7016,6 @@
   "facts": {
    "id": "espnnews-50294359",
    "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-41193697",
-  "source": "ESPN",
-  "author": "Keith Jenkins",
-  "time": "2026-10-27T02:27:39Z",
-  "text": "Who has performed at the Super Bowl halftime show? Jay-Z to join the list. Bad Bunny owned the Super Bowl LX halftime show. Check out every artist that graced NFL's biggest stage.",
-  "url": "https://www.espn.com/nfl/story/_/id/41193697/who-performed-super-bowl-half-show-all-list",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-41193697",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-82efeb2011728",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-27T01:51:50.315Z",
-  "text": "Jay-Z will be the headline performer for the Super Bowl halftime show at SoFi Stadium in Los Angeles on Valentines Day 2027.",
-  "url": "https://www.espn.com/contributor/adam-schefter/82efeb2011728",
-  "teams": [],
-  "facts": {
-   "id": "espn-82efeb2011728",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-170eb26e1b3a2",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-26T22:45:58.426Z",
-  "text": "Eagles RB Saquon Barkley is active tonight vs. the Cowboys.",
-  "url": "https://www.espn.com/contributor/adam-schefter/170eb26e1b3a2",
-  "teams": [
-   "PHI",
-   "DAL"
-  ],
-  "facts": {
-   "id": "espn-170eb26e1b3a2",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50290470",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-26T22:18:00Z",
-  "text": "Ex-Cowboy Dez Bryant calls out police investigation after he's cited for assault. Dez Bryant is calling for a thorough investigation by Texas' Southlake Police Department of an incident that resulted in him receiving a citation for assault.",
-  "url": "https://www.espn.com/nfl/story/_/id/50290470/dez-bryant-calls-police-cited-assault",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50290470",
-   "team": "DAL",
    "player": null,
    "position": null,
    "status": "other",
