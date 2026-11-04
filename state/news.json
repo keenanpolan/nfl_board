@@ -1,5 +1,1239 @@
 [
  {
+  "id": "espnnews-50378943",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T20:09:53Z",
+  "text": "Jason McCourty: This is Shedeur Sanders' opportunity to show what he can do. Jason McCourty: This is Shedeur Sanders' opportunity to show what he can do",
+  "url": "https://www.espn.com/video/clip/_/id/50378943/shedeur-sanders-opportunity-show-do",
+  "teams": [
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50378943",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50381233",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T20:09:13Z",
+  "text": "Rich Eisen marvels at Giants-Eagles QB matchup in Week 9. Rich Eisen marvels at Giants-Eagles QB matchup in Week 9",
+  "url": "https://www.espn.com/video/clip/_/id/50381233/rich-eisen-marvels-giants-eagles-qb-matchup-week-9",
+  "teams": [
+   "NYG",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50381233",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50381318",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T20:04:53Z",
+  "text": "Sources: Ravens finalizing trade with Cardinals for QB Jacoby Brissett. The Cardinals are finalizing a trade to send quarterback Jacoby Brissett to the Ravens, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
+  "url": "https://www.espn.com/nfl/story/_/id/50381318/sources-ravens-finalizing-trade-cardinals-qb-brissett",
+  "teams": [
+   "BAL",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50381318",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50043471",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-11-04T20:03:33Z",
+  "text": "2026 NFL trade deadline updates: Jacoby Brissett, Jeffery Simmons on the move. The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including a deal to send quarterback Jacoby Brissett to Baltimore.",
+  "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50043471",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50380724",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T20:02:44Z",
+  "text": "Sources: Slumping Eagles turn to Joe Milton as starting QB vs. Giants. The Eagles will turn to Joe Milton as their starting QB against the Giants, sources told NFL Network and ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50380724/sources-eagles-turn-joe-milton-starting-qb-vs-giants",
+  "teams": [
+   "PHI",
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50380724",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50370030",
+  "source": "ESPN",
+  "author": "NFL Nation, Jeremy Fowler, Dan Graziano, Aaron Schatz and Seth Walder",
+  "time": "2026-11-04T20:00:47Z",
+  "text": "2026 NFL trade deadline: Players to watch, buzz and goals for all 32 teams. We outlined deadline plans for all 32 teams, including who could be dealt before 4 p.m. ET on Tuesday. Here's what you need to know.",
+  "url": "https://www.espn.com/nfl/story/_/id/50370030/trade-deadline-team-preview-goals-buzz-players-deals-2026",
+  "teams": [
+   "BUF",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "GB",
+   "HOU",
+   "IND",
+   "JAX",
+   "KC",
+   "LV",
+   "LAC",
+   "LA",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SF",
+   "SEA",
+   "TB",
+   "TEN",
+   "WAS",
+   "ARI",
+   "ATL",
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50370030",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50369642",
+  "source": "ESPN",
+  "author": "Jeremy Fowler and Dan Graziano",
+  "time": "2026-11-04T19:56:36Z",
+  "text": "NFL Week 9 latest intel, buzz questions, fantasy tips and trade deadline news. What now for the Ravens without Lamar Jackson? What are people around the NFL saying about Justin Herbert's struggles? And what's the latest on the looming trade deadline?",
+  "url": "https://www.espn.com/nfl/story/_/id/50369642/week-9-buzz-fantasy-predictions-graziano-fowler-2026-trades",
+  "teams": [
+   "BAL",
+   "LAC",
+   "IND",
+   "DAL",
+   "CHI",
+   "NYJ",
+   "NO",
+   "JAX",
+   "PIT",
+   "PHI",
+   "ARI",
+   "MIN",
+   "GB",
+   "DET",
+   "NYG",
+   "LV",
+   "TEN",
+   "TB",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50369642",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-8db199578eb4e",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-04T19:45:13.69Z",
+  "text": "Trade: the Arizona Cardinals are finalizing a trade to send QB Jacoby Brissett to the Baltimore Ravens, per @RapSheet and me. Deal is expected to be completed this weekend.\n\nThe Ravens lost QB Lamar Jackson to a thumb injury, and his backup Tyler \u201cSnoop\u201d Huntley to turf toe.",
+  "url": "https://www.espn.com/contributor/adam-schefter/8db199578eb4e",
+  "teams": [
+   "BAL",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espn-8db199578eb4e",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-af239ebf574c8",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-11-04T19:44:12.713Z",
+  "text": "Trade: The Ravens are finalizing a trade for former Cardinals QB Jacoby Brissett, per me and Adam Schefter, filling the void left by the injuries to Lamar Jackson and Tyler \u201cSnoop\u201d Huntley.\n\nThe deal is expected to be completed this weekend.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/af239ebf574c8",
+  "teams": [
+   "BAL",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espn-af239ebf574c8",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50380574",
+  "source": "ESPN",
+  "author": "Dan Wetzel",
+  "time": "2026-11-04T19:31:04Z",
+  "text": "Wetzel: $17 billion Cowboys have a penny-pinching owner in Jerry Jones. The owner of the most valuable sports franchise insists there's no correlation between coaching salaries and winning. Let's pause for the skepticism.",
+  "url": "https://www.espn.com/nfl/story/_/id/50380574/dan-wetzel-dallas-cowboys-jerry-jones-owner-17-billion",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50380574",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50380713",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T19:29:13Z",
+  "text": "Coach: Seahawks QB Sam Darnold ruled out with quad injury, is week-to-week. Seahawks quarterback Sam Darnold will miss Sunday's game against the Arizona Cardinals because of a quad injury, coach Mike Macdonald announced Wednesday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50380713/seahawks-qb-sam-darnold-ruled-quad-injury",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50380713",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50380614",
+  "source": "ESPN",
+  "author": "Tim McManus",
+  "time": "2026-11-04T19:23:57Z",
+  "text": "Coach Nick Sirianni feels 'complete support' from Eagles owner Jeffrey Lurie. Eagles coach Nick Sirianni says he feels \"complete support\" from team owner Jeffrey Lurie despite Philadelphia's current six-game losing streak.",
+  "url": "https://www.espn.com/nfl/story/_/id/50380614/coach-sirianni-feels-complete-support-eagles-owner-lurie",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50380614",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50380783",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T19:15:57Z",
+  "text": "'The Pat McAfee Show' reacts to Darnold being ruled out vs. Arizona. 'The Pat McAfee Show' reacts to Darnold being ruled out vs. Arizona",
+  "url": "https://www.espn.com/video/clip/_/id/50380783/the-pat-mcafee-show-reacts-darnold-being-ruled-vs-arizona",
+  "teams": [
+   "ARI",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50380783",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50380067",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T19:11:45Z",
+  "text": "Lions' Jack Campbell has full movement in lower body after neck injury. Lions All-Pro linebacker Jack Campbell released a statement Wednesday saying he has full movement in his lower body and is making progress with movement in his upper body as he recovers from a neck injury, suffered in Sunday's game.",
+  "url": "https://www.espn.com/nfl/story/_/id/50380067/lions-lb-campbell-full-movement-lower-body-neck-injury",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50380067",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "released",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50380217",
+  "source": "ESPN",
+  "author": "Mackenzie Kraemer",
+  "time": "2026-11-04T19:10:16Z",
+  "text": "NFL survivor power rankings: Why this is the week to use Seahawks, Chiefs. ESPN NFL survivor pool strategy, predictions and ranking the top seven options for Week 9.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50380217/nfl-survivor-week-9-survivor-pool-strategy-advice-picks",
+  "teams": [
+   "DET",
+   "DAL",
+   "CHI",
+   "JAX",
+   "SF",
+   "KC",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50380217",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50380711",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T19:03:51Z",
+  "text": "Nick Sirianni has always felt support from Eagles owner Jeffrey Lurie. Nick Sirianni has always felt support from Eagles owner Jeffrey Lurie",
+  "url": "https://www.espn.com/video/clip/_/id/50380711/nick-sirianni-always-felt-support-eagles-owner-jeffrey-lurie",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50380711",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-b87fa085c8976",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-04T19:00:27.517Z",
+  "text": "A QB change in Philadelphia: the Eagles are naming Joe Milton their starting QB and benching Tanner McKee for Sunday\u2019s game vs. the Giants, per @mikegarafolo and me.",
+  "url": "https://www.espn.com/contributor/adam-schefter/b87fa085c8976",
+  "teams": [
+   "PHI",
+   "NYG"
+  ],
+  "facts": {
+   "id": "espn-b87fa085c8976",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50380591",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T18:55:23Z",
+  "text": "Why Bowen has Luther Burden III as a mid-tier WR2 in Week 9. Why Bowen has Luther Burden III as a mid-tier WR2 in Week 9",
+  "url": "https://www.espn.com/video/clip/_/id/50380591/why-bowen-luther-burden-iii-mid-tier-wr2-week-9",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50380591",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50371759",
+  "source": "ESPN",
+  "author": "Brady Henderson",
+  "time": "2026-11-04T18:52:38Z",
+  "text": "Sam Darnold is struggling under pressure, but Seahawks patient with O-line. Seattle's trade for Quenton Nelson last week shuffled the offensive line ahead of its decisive loss to the Bears. Will the pass protection get better?",
+  "url": "https://www.espn.com/nfl/story/_/id/50371759/nfl-seahawks-bears-sam-darnold-pressure",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50371759",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-31794c5d90ff1",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-04T18:49:36.663Z",
+  "text": "Seahawks QB Sam Darnold will be out Sunday vs. Arizona due to quad injury, per HC  Mike Macdonald.",
+  "url": "https://www.espn.com/contributor/adam-schefter/31794c5d90ff1",
+  "teams": [
+   "SEA",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espn-31794c5d90ff1",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50380113",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-11-04T18:42:51Z",
+  "text": "Jets' Garrett Wilson in concussion protocol, Breece Hall trending toward return. Jets wide receiver Garrett Wilson is in the concussion protocol, but running back Breece Hall is \"trending in the right direction\" toward returning.",
+  "url": "https://www.espn.com/nfl/story/_/id/50380113/jets-wr-wilson-protocol-rb-hall-trending-return",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50380113",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379976",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T18:21:40Z",
+  "text": "Hall of Fame names Doug Williams, Robert Kraft among 5 contributor candidates. The Pro Football Hall of Fame on Wednesday announced the list of five contributor candidates, with the final candidate to be decided in 2027.",
+  "url": "https://www.espn.com/nfl/story/_/id/50379976/doug-williams-kraft-5-hof-contributor-candidates",
+  "teams": [
+   "NE",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50379976",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50380295",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T18:09:35Z",
+  "text": "Ravens are down to their No. 3 quarterback with the AFC South-leading Jaguars in town. \u2014 Joe Fagnano's NFL career is beginning with two games in five days. There's not a lot of time to stop and think.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873037",
+  "teams": [
+   "BAL",
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50380295",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50378819",
+  "source": "ESPN",
+  "author": "Daniel Oyefusi",
+  "time": "2026-11-04T18:01:03Z",
+  "text": "Browns QB Deshaun Watson in concussion protocol; status vs. Saints unclear. The Browns have placed starting QB Deshaun Watson in the concussion protocol, leaving his status for Sunday's matchup against the Saints in question.",
+  "url": "https://www.espn.com/nfl/story/_/id/50378819/browns-qb-watson-concussion-protocol-status-vs-saints-unclear",
+  "teams": [
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50378819",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379937",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T17:14:58Z",
+  "text": "Why Dopp backs Williams, St. Brown as Week 9 starts. Why Dopp backs Williams, St. Brown as Week 9 starts",
+  "url": "https://www.espn.com/video/clip/_/id/50379937/why-dopp-backs-williams-st-brown-week-9-starts",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50379937",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-b61409281419a",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-04T17:11:19.006Z",
+  "text": "Jets WR Garrett Wilson is in the concussion protocol.",
+  "url": "https://www.espn.com/contributor/adam-schefter/b61409281419a",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espn-b61409281419a",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379880",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T17:08:14Z",
+  "text": "Why Greg Dulcich is a streaming TE option in Week 9. Why Greg Dulcich is a streaming TE option in Week 9",
+  "url": "https://www.espn.com/video/clip/_/id/50379880/why-greg-dulcich-streaming-te-option-week-9",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50379880",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379879",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T17:02:44Z",
+  "text": "Why Dopp is going against Caleb Williams in Week 9. Why Dopp is going against Caleb Williams in Week 9",
+  "url": "https://www.espn.com/video/clip/_/id/50379879/why-dopp-going-caleb-williams-week-9",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50379879",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379797",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T16:57:32Z",
+  "text": "Can fantasy managers trust Kenny Gainwell in Week 9?. Can fantasy managers trust Kenny Gainwell in Week 9?",
+  "url": "https://www.espn.com/video/clip/_/id/50379797/can-fantasy-managers-trust-kenny-gainwell-week-9",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50379797",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379625",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T16:38:36Z",
+  "text": "Chig Okonkwo's Week 9 fantasy preview. Chig Okonkwo's Week 9 fantasy preview",
+  "url": "https://www.espn.com/video/clip/_/id/50379625/chig-okonkwo-week-9-fantasy-preview",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50379625",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379504",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T16:27:45Z",
+  "text": "Justin Herbert's fantasy outlook. Justin Herbert's fantasy outlook",
+  "url": "https://www.espn.com/video/clip/_/id/50379504/justin-herbert-fantasy-outlook",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50379504",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379427",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T16:25:32Z",
+  "text": "DJ Moore vs. George Pickens: Who should fantasy managers back in Week 9?. DJ Moore vs. George Pickens: Who should fantasy managers back in Week 9?",
+  "url": "https://www.espn.com/video/clip/_/id/50379427/fantasy-managers-back-week-9",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50379427",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379468",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T16:20:48Z",
+  "text": "Stephen A. sounds off on Cowboys, Colts ahead of Week 9 matchup. Stephen A. sounds off on Cowboys, Colts ahead of Week 9 matchup",
+  "url": "https://www.espn.com/video/clip/_/id/50379468/stephen-sounds-cowboys-colts-ahead-week-9-matchup",
+  "teams": [
+   "IND",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50379468",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50378691",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-11-04T16:11:35Z",
+  "text": "Brandon Aiyuk files to be reinstated, plans to report to 49ers on Friday. Brandon Aiyuk has turned in paperwork to be reinstated, agent Drew Rosenhaus told ESPN's Adam Schefter on Wednesday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50378691/brandon-aiyuk-applies-reinstated-plans-report-49ers",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50378691",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379367",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T16:09:24Z",
+  "text": "Is Tyler Shough or Sam Darnold a better fantasy option in Week 9?. Is Tyler Shough or Sam Darnold a better fantasy option in Week 9?",
+  "url": "https://www.espn.com/video/clip/_/id/50379367/is-tyler-shough-sam-darnold-better-fantasy-option-week-9",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50379367",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379398",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T16:07:36Z",
+  "text": "Quinshon Judkins vs. Rhamondre Stevenson: Clay and Yates debate the RBs. Quinshon Judkins vs. Rhamondre Stevenson: Clay and Yates debate the RBs",
+  "url": "https://www.espn.com/video/clip/_/id/50379398/clay-yates-debate-rbs",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50379398",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50378429",
+  "source": "ESPN",
+  "author": "Liz Loza",
+  "time": "2026-11-04T15:49:51Z",
+  "text": "Facts vs. Feelings: Dissecting eight potential lineup conundrums for Week 9. Breaking down the matchup upside and downside for Dak Prescott, Ashton Jeanty, Jonah Coleman, Nico Collins, Ladd McConkey, Omar Cooper Jr., Chig Okonkwo and Greg Dulcich.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50378429/facts-feelings-fantasy-advice-week-9",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50378429",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379252",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T15:37:24Z",
+  "text": "Greg Dulcich's Week 9 fantasy preview. Greg Dulcich's Week 9 fantasy preview",
+  "url": "https://www.espn.com/video/clip/_/id/50379252/greg-dulcich-week-9-fantasy-preview",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50379252",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50379089",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T15:23:27Z",
+  "text": "Ladd McConkey's Week 9 fantasy outlook. Ladd McConkey's Week 9 fantasy outlook",
+  "url": "https://www.espn.com/video/clip/_/id/50379089/ladd-mcconkey-week-9-fantasy-outlook",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50379089",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50378944",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T15:21:04Z",
+  "text": "What does Brandon Aiyuk's application for reinstatement mean for 49ers?. What does Brandon Aiyuk's application for reinstatement mean for 49ers?",
+  "url": "https://www.espn.com/video/clip/_/id/50378944/what-does-brandon-aiyuk-application-reinstatement-mean-49ers",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50378944",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-727e59e5f938c",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-04T14:37:09.737Z",
+  "text": "Deshaun Watson is now in concussion protocol, and Browns QB Sheduer Sanders is next in line to start on Sunday\u2019s game vs. the Saints.",
+  "url": "https://www.espn.com/contributor/adam-schefter/727e59e5f938c",
+  "teams": [
+   "CLE",
+   "NO"
+  ],
+  "facts": {
+   "id": "espn-727e59e5f938c",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50378717",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T14:35:12Z",
+  "text": "Jordan Love and his wife dress as blind refs for Halloween. Jordan Love and his wife dress as blind refs for Halloween",
+  "url": "https://www.espn.com/video/clip/_/id/50378717/jordan-love-wife-dress-blind-refs-halloween",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50378717",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-849f1e155a388",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-04T14:10:34.957Z",
+  "text": "Wide receiver Brandon Aiyuk has turned in paperwork to be reinstated, per his agent Drew Rosenhaus. Aiyuk, who currently is on San Francisco\u2019s Reserve/Left Squad list, will be reporting to the 49ers\u2019 training facility Friday afternoon, per Drew Rosenhaus. \u201cBrandon is healthy and ready to get back on the field,\u201d Rosenhaus said.",
+  "url": "https://www.espn.com/contributor/adam-schefter/849f1e155a388",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espn-849f1e155a388",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50378427",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-11-04T14:03:22Z",
+  "text": "Source: Commanders lose another DL with Kinlaw out for season after knee surgery. The Commanders lost a second defensive line starter for the season in less than a week as Javon Kinlaw underwent season-ending knee surgery, a source told ESPN's Adam Schefter.",
+  "url": "https://www.espn.com/nfl/story/_/id/50378427/source-commanders-javon-kinlaw-knee-surgery-season",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50378427",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50378573",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T13:53:44Z",
+  "text": "Nico Collins' Week 9 fantasy preview. Nico Collins' Week 9 fantasy preview",
+  "url": "https://www.espn.com/video/clip/_/id/50378573/nico-collins-week-9-fantasy-preview",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50378573",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50360481",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-11-04T13:51:27Z",
+  "text": "Aaron Glenn says Breece Hall is Jets' starter despite Braelon Allen's emergence. Braelon Allen has rushed for the second-most yards behind Bucky Irving in Breece Hall's five-game absence.",
+  "url": "https://www.espn.com/nfl/story/_/id/50360481/jets-breece-hall-starter-braelon-allen",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50360481",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50378134",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-11-04T13:45:06Z",
+  "text": "Sources: Ravens QB Huntley (turf toe) to miss rest of 2026 season. Tests revealed that Ravens quarterback Tyler \"Snoop\" Huntley suffered a season-ending turf toe injury, sources told ESPN and NFL Network.",
+  "url": "https://www.espn.com/nfl/story/_/id/50378134/sources-ravens-qb-tyler-snoop-huntley-season",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50378134",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50373951",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-04T13:14:40Z",
+  "text": "Ex-NFL QB Russell Wilson interviews with NC State for head coaching job. Russell Wilson interviewed for the head coaching job at NC State on Tuesday, joining Philip Rivers as prominent candidates, sources told ESPN.",
+  "url": "https://www.espn.com/college-football/story/_/id/50373951/russell-wilson-interviews-nc-state-head-coaching-job",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50373951",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-8b1b28f36efe5",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-11-04T12:31:07.195Z",
+  "text": "Ravens QB Tyler \u201cSnoop\u201d Huntley suffered a season-ending turf toe injury, per Adam Schefter. He\u2019ll now require surgery \u2014 similar to Joe Burrow last year. He faces a long road ahead.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/8b1b28f36efe5",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espn-8b1b28f36efe5",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-fa3f0c67ae620",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-04T12:24:13.813Z",
+  "text": "Sources: tests revealed that Ravens\u2019 QB Tyler \u201cSnoop\u201d Huntley suffered a season-ending turf toe injury. \n\nRavens QB Lamar Jackson is out indefinitely with a thumb injury, Huntley\u2019s season is over due to turf toe, and QB Joe Fagnano will start Thursday night vs. Jacksonville.",
+  "url": "https://www.espn.com/contributor/adam-schefter/fa3f0c67ae620",
+  "teams": [
+   "BAL",
+   "JAX"
+  ],
+  "facts": {
+   "id": "espn-fa3f0c67ae620",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "will start",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50373566",
+  "source": "ESPN",
+  "author": "Ryan McFadden",
+  "time": "2026-11-04T11:00:10Z",
+  "text": "How Gary Kubiak paved the way for his sons, Klint, Klay and Klein, in the NFL. Klint, Klay and Klein Kubiak are all on their respective NFL journeys. But their father, Gary, helped each along the way.",
+  "url": "https://www.espn.com/nfl/story/_/id/50373566/gary-klint-klay-klein-kubiak-family-legacy-raiders-49ers",
+  "teams": [
+   "LV",
+   "DEN",
+   "SF",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50373566",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50370194",
+  "source": "ESPN",
+  "author": "Jeff Legwold",
+  "time": "2026-11-04T11:00:10Z",
+  "text": "Why Broncos rookie Jonah Coleman is primed to be Denver's primary running back. Coleman was Denver's primary running back during Sunday's comeback against the Chiefs and could thrive against the Panthers on Sunday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50370194/jonah-coleman-broncos-rookie-top-running-back",
+  "teams": [
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50370194",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50374068",
+  "source": "ESPN",
+  "author": "Mike Kaye",
+  "time": "2026-11-04T02:41:11Z",
+  "text": "Panthers defenders: We're in 'great hands' after DC switch-up. Promoted from defensive line coach to coordinator, Todd Wash already has the support of the unit's leaders.",
+  "url": "https://www.espn.com/nfl/story/_/id/50374068/carolina-panthers-defense-good-hands-coordinator-switch",
+  "teams": [
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50374068",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-2c1419c685ce8",
+  "source": "ESPN",
+  "author": "Pete Thamel",
+  "time": "2026-11-04T00:42:11.9Z",
+  "text": "Former Super Bowl champion QB Russell Wilson interviewed today for the head coaching job at North Carolina State, where he played three seasons, per ESPN's Adam Schefter. \n\nNC State now has two former NFL greats who starred there, Wilson and Philip Rivers, as prominent head-coaching candidates.",
+  "url": "https://www.espn.com/contributor/pete-thamel/2c1419c685ce8",
+  "teams": [],
+  "facts": {
+   "id": "espn-2c1419c685ce8",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-ff088b42f7ba7",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-04T00:39:11.388Z",
+  "text": "Sources: former Super Bowl champion QB Russell Wilson interviewed today for the head coaching job at North Carolina State, where he played three seasons.\n\nNC State now has two former NFL greats who starred there, Wilson and Philip Rivers, as prominent head-coaching candidates.",
+  "url": "https://www.espn.com/contributor/adam-schefter/ff088b42f7ba7",
+  "teams": [],
+  "facts": {
+   "id": "espn-ff088b42f7ba7",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50370431",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-11-03T22:13:50Z",
+  "text": "Josh Allen-produced short doc on Buffalo storm gets release date, trailer. The short documentary on the once-in-a-generation Buffalo blizzard will be released on Nov. 24.",
+  "url": "https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50370431",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "released",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-8df906fbf5190",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-03T21:40:51.737Z",
+  "text": "Bills released S C.J. Gardner-Johnson.",
+  "url": "https://www.espn.com/contributor/adam-schefter/8df906fbf5190",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espn-8df906fbf5190",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "released",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-49869566",
   "source": "ESPN",
   "author": "Mike Clay",
@@ -6067,998 +7301,6 @@
   "facts": {
    "id": "espnnews-50310012",
    "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50309816",
-  "source": "ESPN",
-  "author": "Mike Kaye",
-  "time": "2026-10-28T20:00:29Z",
-  "text": "Pass rusher Jaelan Phillips among four Panthers ruled out for TNF vs. Packers. The Panthers ruled out four players, including starting OLB Jaelan Phillips (hamstring) and left guard Damien Lewis (knee) for \"Thursday Night Football.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50309816/pass-rusher-jaelan-phillips-4-panthers-ruled-tnf",
-  "teams": [
-   "CAR",
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50309816",
-   "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50308923",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-10-28T19:32:05Z",
-  "text": "After bringing back DeForest Buckner, will the 49ers make more trades?. The 49ers addressed their defensive line by adding Buckner, but will they make more big moves to help the WR room before the Nov. 10 deadline?",
-  "url": "https://www.espn.com/nfl/story/_/id/50308923/san-francisco-49ers-deforest-buckner-trade-deadline-plans",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50308923",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50309159",
-  "source": "ESPN",
-  "author": "Stephen Holder",
-  "time": "2026-10-28T18:29:23Z",
-  "text": "Sources: Colts' Josh Downs requests trade; Jonathan Taylor hasn't, per coach. Colts wide receiver Josh Downs is requesting a trade amid the team's rebuilding efforts, sources told ESPN's Jeremy Fowler on Wednesday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50309159/source-wr-downs-requests-trade-rb-taylor-per-coach",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50309159",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50307506",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T18:21:02Z",
-  "text": "Justin Tucker, out of NFL since sexual misconduct allegations, signs with Chiefs. The Chiefs have signed five-time All-Pro kicker Justin Tucker to their practice squad.",
-  "url": "https://www.espn.com/nfl/story/_/id/50307506/sources-chiefs-sign-justin-tucker-practice-squad",
-  "teams": [
-   "BAL",
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50307506",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50309469",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T18:05:13Z",
-  "text": "Jahmyr Gibbs shares his mindset after fully taking over Lions' backfield. Jahmyr Gibbs shares his mindset after fully taking over Lions' backfield",
-  "url": "https://www.espn.com/video/clip/_/id/50309469/jahmyr-gibbs-shares-mindset-fully-taking-lions-backfield",
-  "teams": [
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50309469",
-   "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50302003",
-  "source": "ESPN",
-  "author": "John Keim",
-  "time": "2026-10-28T18:05:03Z",
-  "text": "Why Commanders believe they aren't done yet in the NFC East. Washington returns from its bye with renewed belief despite a 1-4-1 start. And its QB is a big reason why.",
-  "url": "https://www.espn.com/nfl/story/_/id/50302003/washington-commanders-jayden-daniels-nfc-east-chase",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50302003",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50309196",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T17:37:30Z",
-  "text": "Ian Rapoport shares latest on Josh Downs trade talks. Ian Rapoport shares latest on Josh Downs trade talks",
-  "url": "https://www.espn.com/video/clip/_/id/50309196/ian-rapoport-shares-latest-josh-downs-trade-talks",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50309196",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-77c1e3d668a95",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-28T17:06:37.885Z",
-  "text": "More help: Lions All-Pro S Kerby Joseph will return to practice today.",
-  "url": "https://www.espn.com/contributor/adam-schefter/77c1e3d668a95",
-  "teams": [
-   "DET"
-  ],
-  "facts": {
-   "id": "espn-77c1e3d668a95",
-   "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50309264",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T16:59:02Z",
-  "text": "Amon-Ra St. Brown's Week 8 fantasy outlook. Amon-Ra St. Brown's Week 8 fantasy outlook",
-  "url": "https://www.espn.com/video/clip/_/id/50309264/amon-ra-st-brown-week-8-fantasy-outlook",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50309264",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50309182",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T16:40:55Z",
-  "text": "Braelon Allen's Week 8 fantasy outlook. Braelon Allen's Week 8 fantasy outlook",
-  "url": "https://www.espn.com/video/clip/_/id/50309182/braelon-allen-week-8-fantasy-outlook",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50309182",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50278445",
-  "source": "ESPN",
-  "author": "Matt Bowen and Jeremy Fowler",
-  "time": "2026-10-28T16:40:51Z",
-  "text": "2026 NFL trade deadline: Ranking the top 25 candidates to move, plus team fits. Could the Colts listen on Jonathan Taylor? Would Josh Sweat help a contender's defense? We stacked the top players who might move before the Nov. 10 deadline.",
-  "url": "https://www.espn.com/nfl/story/_/id/50278445/2026-nfl-trade-deadline-ranking-top-25-candidates-available",
-  "teams": [
-   "IND",
-   "JAX",
-   "ARI",
-   "TB",
-   "CLE",
-   "WAS",
-   "LAC",
-   "PHI",
-   "PIT",
-   "BAL",
-   "TEN",
-   "CIN",
-   "MIN",
-   "LV",
-   "NO"
-  ],
-  "facts": {
-   "id": "espnnews-50278445",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50297734",
-  "source": "ESPN",
-  "author": "Jeremy Fowler and Dan Graziano",
-  "time": "2026-10-28T16:40:39Z",
-  "text": "NFL Week 8 latest intel, buzz questions, news, fantasy tips: What we're hearing. Are changes coming for the Jets? Could the Chiefs add at the trade deadline? Will the Colts keep unloading? And what's going on in the AFC North standings?",
-  "url": "https://www.espn.com/nfl/story/_/id/50297734/week-8-buzz-fantasy-predictions-graziano-fowler-2026",
-  "teams": [
-   "NYJ",
-   "SF",
-   "KC",
-   "IND",
-   "JAX",
-   "CLE",
-   "BAL",
-   "PIT",
-   "CIN",
-   "SEA",
-   "LA",
-   "LV",
-   "PHI",
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50297734",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50309030",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T16:18:10Z",
-  "text": "Why Dopp loves Hunter Henry for fantasy managers in Week 8. Why Dopp loves Hunter Henry for fantasy managers in Week 8",
-  "url": "https://www.espn.com/video/clip/_/id/50309030/why-dopp-loves-hunter-henry-fantasy-managers-week-8",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50309030",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50309008",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T16:12:48Z",
-  "text": "Dopp: It's time we put some respect on Bucky Irving's name. Dopp: It's time we put some respect on Bucky Irving's name",
-  "url": "https://www.espn.com/video/clip/_/id/50309008/put-some-respect-bucky-irving-name",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50309008",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50308983",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T16:08:41Z",
-  "text": "Why Daniel Dopp is benching Jared Goff in Week 8. Why Daniel Dopp is benching Jared Goff in Week 8",
-  "url": "https://www.espn.com/video/clip/_/id/50308983/why-daniel-dopp-benching-jared-goff-week-8",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50308983",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50299981",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-10-28T16:00:01Z",
-  "text": "With Davante Adams out, Rams leaning on the run game. In Sunday's victory over the Raiders, the Rams looked to be leaning on the running game, something Los Angeles has struggled to find consistently in this season.",
-  "url": "https://www.espn.com/nfl/story/_/id/50299981/davante-adams-rams-lean-run-game-blake-corum-kyren-williams",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50299981",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50308371",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T15:57:35Z",
-  "text": "Is Jared Goff or Jacoby Brissett a better option in Week 8?. Is Jared Goff or Jacoby Brissett a better option in Week 8?",
-  "url": "https://www.espn.com/video/clip/_/id/50308371/is-jared-goff-jacoby-brissett-better-option-week-8",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50308371",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50308704",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T15:57:29Z",
-  "text": "What Jordan Rodgers wants to see from Kyler Murray. What Jordan Rodgers wants to see from Kyler Murray",
-  "url": "https://www.espn.com/video/clip/_/id/50308704/what-jordan-rodgers-wants-see-kyler-murray",
-  "teams": [
-   "MIN",
-   "GB",
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50308704",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50308594",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T15:37:01Z",
-  "text": "Jeff Saturday comes after Stephen A. for his Jordan Love take. Jeff Saturday comes after Stephen A. for his Jordan Love take",
-  "url": "https://www.espn.com/video/clip/_/id/50308594/jeff-saturday-comes-stephen-jordan-love-take",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50308594",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50308640",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T15:27:15Z",
-  "text": "Xavier Worthy's Week 8 fantasy outlook. Xavier Worthy's Week 8 fantasy outlook",
-  "url": "https://www.espn.com/video/clip/_/id/50308640/xavier-worthy-week-8-fantasy-outlook",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50308640",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50308401",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T15:09:15Z",
-  "text": "Is Josh Jacobs or Chase Brown a better fantasy option in Week 8?. Is Josh Jacobs or Chase Brown a better fantasy option in Week 8?",
-  "url": "https://www.espn.com/video/clip/_/id/50308401/is-josh-jacobs-chase-brown-better-fantasy-option-week-8",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50308401",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50289452",
-  "source": "ESPN",
-  "author": "Tristan H. Cockcroft",
-  "time": "2026-10-28T15:05:23Z",
-  "text": "Fantasy football matchup rankings: Upgrade Irving, downgrade Williams. The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50289452/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50289452",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50308420",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T15:01:09Z",
-  "text": "Is A.J. Brown or George Pickens a better fantasy option in Week 8?. Is A.J. Brown or George Pickens a better fantasy option in Week 8?",
-  "url": "https://www.espn.com/video/clip/_/id/50308420/is-aj-brown-george-pickens-better-fantasy-option-week-8",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50308420",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50308294",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T14:59:37Z",
-  "text": "Why Malik Willis is Daniel Dopp's QB15 for Week 8. Why Malik Willis is Daniel Dopp's QB15 for Week 8 ",
-  "url": "https://www.espn.com/video/clip/_/id/50308294/why-malik-willis-daniel-dopp-qb15-week-8",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50308294",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50308285",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T14:58:21Z",
-  "text": "Why Daniel Dopp is 'lowering expectations' for Jameson Williams in Week 8. Why Daniel Dopp is 'lowering expectations' for Jameson Williams in Week 8",
-  "url": "https://www.espn.com/video/clip/_/id/50308285/why-daniel-dopp-lowering-expectations-jameson-williams-week-8",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50308285",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50301493",
-  "source": "ESPN",
-  "author": "Courtney Cronin",
-  "time": "2026-10-28T14:58:07Z",
-  "text": "Montez Sweat returns to Bears following 'devastating' 2-game suspension. Bears DE Montez Sweat is back with the team following his \"devastating\" two-game suspension violating the NFL's performance enhancing substances policy.",
-  "url": "https://www.espn.com/nfl/story/_/id/50301493/montez-sweat-back-bears-devastating-2-game-suspension",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50301493",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50308255",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T14:48:51Z",
-  "text": "Stephen A.: Kevin O'Connell is lucky he's got a job. Stephen A.: Kevin O'Connell is lucky he's got a job",
-  "url": "https://www.espn.com/video/clip/_/id/50308255/kevin-oconnell-lucky-got-job",
-  "teams": [
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50308255",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50307098",
-  "source": "ESPN",
-  "author": "Liz Loza",
-  "time": "2026-10-28T14:38:10Z",
-  "text": "Facts vs. Feelings: How to maxx your lineup in Week 8 (if you insist). Liz Loza analyzes the facts that inform her feelings on Jared Goff, Braelon Allen, Chase Brown, Luther Burden III, Ja'Kobi Lane and Hunter Henry this week.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50307098/facts-vs-feelings-fantasy-advice-week-8",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50307098",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50308015",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T14:16:55Z",
-  "text": "Kyle Brandt shares his Halloween treat for Chiefs before trade deadline. Kyle Brandt shares his Halloween treat for Chiefs before trade deadline",
-  "url": "https://www.espn.com/video/clip/_/id/50308015/kyle-brandt-shares-halloween-treat-chiefs-trade-deadline",
-  "teams": [
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50308015",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50307797",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T14:04:15Z",
-  "text": "How far can Kyler Murray take the Vikings this season?. How far can Kyler Murray take the Vikings this season?",
-  "url": "https://www.espn.com/video/clip/_/id/50307797/how-far-kyler-murray-take-vikings-season",
-  "teams": [
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50307797",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50307863",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T13:54:39Z",
-  "text": "Jordan Mason's Week 8 fantasy outlook. Jordan Mason's Week 8 fantasy outlook",
-  "url": "https://www.espn.com/video/clip/_/id/50307863/jordan-mason-week-8-fantasy-outlook",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50307863",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50307324",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T13:44:48Z",
-  "text": "Trevor Lawrence's Week 8 fantasy outlook. Trevor Lawrence's Week 8 fantasy outlook",
-  "url": "https://www.espn.com/video/clip/_/id/50307324/trevor-lawrence-week-8-fantasy-outlook",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50307324",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50300322",
-  "source": "ESPN",
-  "author": "ESPN Fantasy",
-  "time": "2026-10-28T13:28:54Z",
-  "text": "Fantasy football confessional: Seven draft-day lessons to file away for 2027. With the fantasy regular season halfway over, ESPN Fantasy analysts explain their biggest takeaways thus far.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50300322/fantasy-football-strategy-draft-lineup",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50300322",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50307645",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T13:27:27Z",
-  "text": "Chiefs to sign Justin Tucker to practice squad. Chiefs to sign Justin Tucker to practice squad",
-  "url": "https://www.espn.com/video/clip/_/id/50307645/chiefs-sign-justin-tucker-practice-squad",
-  "teams": [
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50307645",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50299565",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-10-28T12:40:45Z",
-  "text": "Inside the complicated injury history of Ravens' Lamar Jackson. If the QB's health record has taught the football world anything, his timeline to return can be challenging.",
-  "url": "https://www.espn.com/nfl/story/_/id/50299565/inside-complicated-injury-history-ravens-lamar-jackson",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50299565",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50307029",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-28T12:33:00Z",
-  "text": "Why Jeff Saturday is not surprised about Colts trading Nelson and Buckner. Why Jeff Saturday is not surprised about Colts trading Nelson and Buckner",
-  "url": "https://www.espn.com/video/clip/_/id/50307029/why-jeff-saturday-not-surprised-colts-trading-nelson-buckner",
-  "teams": [
-   "IND",
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50307029",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50300226",
-  "source": "ESPN",
-  "author": "Jordan Raanan",
-  "time": "2026-10-28T10:36:41Z",
-  "text": "Giants place RB Tyrone Tracy Jr. on IR with hamstring injury. The Giants are placing RB Tyrone Tracy Jr. on injured reserve with a hamstring injury, with Devin Singletary expected to play a bigger role on offense.",
-  "url": "https://www.espn.com/nfl/story/_/id/50300226/giants-place-rb-tyrone-tracy-ir-hamstring-injury",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50300226",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50302347",
-  "source": "ESPN",
-  "author": "Rob Demovsky",
-  "time": "2026-10-28T10:36:20Z",
-  "text": "Matt LaFleur isn't ruling out imminent practice return for Micah Parsons. Green Bay Packers edge rusher Micah Parsons might finally be back on the practice field next week, more than 10 months after he underwent surgery on his left knee.",
-  "url": "https://www.espn.com/nfl/story/_/id/50302347/matt-lafleur-hints-possible-practice-return-micah-parsons",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50302347",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50302002",
-  "source": "ESPN",
-  "author": "Stephen Holder",
-  "time": "2026-10-28T00:38:48Z",
-  "text": "Buckner, Nelson trades signal Colts' rebuild underway. DeForest Buckner and Quenton Nelson are headed to contending teams. Could Jonathan Taylor be next?",
-  "url": "https://www.espn.com/nfl/story/_/id/50302002/colts-deforest-buckner-quenton-nelson-jonathan-taylor",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50302002",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50301125",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-10-28T00:06:09Z",
-  "text": "Colts trade DT DeForest Buckner to 49ers in another major move. The Colts have traded DeForest Buckner to the Colts for a 2027 fourth-round pick.",
-  "url": "https://www.espn.com/nfl/story/_/id/50301125/colts-trade-de-deforest-buckner-49ers",
-  "teams": [
-   "SF",
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50301125",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "traded",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50301173",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-27T21:47:58Z",
-  "text": "Marcus Spears: DeForest Buckner trade a win-win for 49ers, Colts. Marcus Spears: DeForest Buckner trade a win-win for 49ers, Colts",
-  "url": "https://www.espn.com/video/clip/_/id/50301173/deforest-buckner-trade-win-win-49ers-colts",
-  "teams": [
-   "SF",
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50301173",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50299293",
-  "source": "ESPN",
-  "author": "Brady Henderson, Stephen Holder and Jordan Reid",
-  "time": "2026-10-27T21:29:32Z",
-  "text": "Why did Seahawks trade for Quenton Nelson? Are the Colts just getting started?. The Seahawks acquired an All-Pro guard two weeks before the deadline. What does this mean for them and the Colts?",
-  "url": "https://www.espn.com/nfl/story/_/id/50299293/nfl-trade-seahawks-quenton-nelson-colts-deadline",
-  "teams": [
-   "SEA",
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50299293",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-8845aa0588c6b",
-  "source": "ESPN",
-  "author": "Ian Rapoport",
-  "time": "2026-10-27T21:01:59.123Z",
-  "text": "Trade: The #Colts are trading 3-time Pro-Bowl DT DeForest Buckner back to the #49ers, the team that made him a 2016 first-round pick before dealing him to Indianapolis in 2020, per me and Adam Schefter. A reunion!!\n\nNow Buckner returns to SF, fortifying their defensive line.",
-  "url": "https://www.espn.com/contributor/ian-rapoport/8845aa0588c6b",
-  "teams": [
-   "SF",
-   "IND"
-  ],
-  "facts": {
-   "id": "espn-8845aa0588c6b",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "traded",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50300509",
-  "source": "ESPN",
-  "author": "Tristan H. Cockcroft",
-  "time": "2026-10-27T20:57:34Z",
-  "text": "Knockout league pickups: Prioritize running backs while they're available. A confluence of bye weeks and surprisingly poor performances make this the week to bid on a star running back",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50300509/knockout-waiver-wire-free-agent-pickups",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50300509",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-940be3d7ab8c3",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-27T20:44:22.003Z",
-  "text": "Trade: Colts are sending three-time Pro-Bowl DT DeForest Buckner back to the 49ers, the team that made him a 2016 first-round pick before dealing him to Indianapolis in 2020, per me and @rapsheet. Now Buckner returns to San Francisco, fortifying the 49ers defensive line.",
-  "url": "https://www.espn.com/contributor/adam-schefter/940be3d7ab8c3",
-  "teams": [
-   "SF",
-   "IND"
-  ],
-  "facts": {
-   "id": "espn-940be3d7ab8c3",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "traded",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50300699",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-27T20:27:06Z",
-  "text": "Ian Rapoport: Seahawks getting one of the NFL's best guards in Quenton Nelson. Ian Rapoport: Seahawks getting one of the NFL's best guards in Quenton Nelson",
-  "url": "https://www.espn.com/video/clip/_/id/50300699/seahawks-getting-one-nfl-best-guards-quenton-nelson",
-  "teams": [
-   "IND",
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50300699",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50300809",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-27T20:24:51Z",
-  "text": "Get ready for Bears vs. Seahawks on Monday Night Football. Get ready for Bears vs. Seahawks on Monday Night Football",
-  "url": "https://www.espn.com/video/clip/_/id/50300809/get-ready-bears-vs-seahawks-monday-night-football",
-  "teams": [
-   "CHI",
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50300809",
-   "team": "CHI",
    "player": null,
    "position": null,
    "status": "other",
