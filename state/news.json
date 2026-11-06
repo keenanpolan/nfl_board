@@ -737,6 +737,27 @@
   }
  },
  {
+  "id": "espnnews-40699880",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-11-05T18:32:29Z",
+  "text": "Fantasy buzz: Vikings to start Wentz, but fantasy managers probably shouldn't. With the Vikings turning to Carson Wentz on Monday, how does that change the outlook for the team's WRs?",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-40699880",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50360077",
   "source": "ESPN",
   "author": "Bill Barnwell",
