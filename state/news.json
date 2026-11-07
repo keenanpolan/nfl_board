@@ -1,5 +1,89 @@
 [
  {
+  "id": "espnnews-50402162",
+  "source": "ESPN",
+  "author": "Jordan Raanan",
+  "time": "2026-11-07T00:36:48Z",
+  "text": "Giants' Cam Skattebo doubtful vs. Eagles; Malik Nabers 'full go'. Giants running back Cam Skattebo is unlikely to play against the Eagles on Sunday, but receiver Malik Nabers is expected to be a \"full go\" without limitations.",
+  "url": "https://www.espn.com/nfl/story/_/id/50402162/giants-cam-skattebo-doubtful-vs-eagles-nabers-full-go",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50402162",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "doubtful",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50402899",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-11-07T00:25:27Z",
+  "text": "Brandon Aiyuk meets with 49ers, says he's healthy, 'looking to get reinstated'. Brandon Aiyuk met with the Niners on Friday to begin hammering out a path toward a divorce that has been more than two years in the making.",
+  "url": "https://www.espn.com/nfl/story/_/id/50402899/brandon-aiyuk-meets-49ers-looking-get-reinstated",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50402899",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50402740",
+  "source": "ESPN",
+  "author": "Brady Henderson",
+  "time": "2026-11-07T00:24:17Z",
+  "text": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out. New Seahawks trade acquisition Quenton Nelson will have a \"minor procedure\" and is one of six starters, including QB Sam Darnold, who won't play vs. the Cardinals.",
+  "url": "https://www.espn.com/nfl/story/_/id/50402740/seahawks-quenton-nelson-sam-darnold-starters-ruled-out",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50402740",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50402463",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-11-06T23:03:00Z",
+  "text": "Nick Bosa back, Christian McCaffrey good to go for Niners. The 49ers will have a healthy Nick Bosa for the first time since Week 2, and running back Christian McCaffrey is good to go this week against the Raiders.",
+  "url": "https://www.espn.com/nfl/story/_/id/50402463/nick-bosa-back-christian-mccaffrey-good-go-niners",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50402463",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50400738",
   "source": "ESPN",
   "author": "Sarah Barshop",
@@ -756,6 +840,25 @@
   "teams": [],
   "facts": {
    "id": "espnnews-49804022",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804233",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-11-06T14:22:29Z",
+  "text": "Fantasy football rankings for Week 9: Kicker. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804233",
    "team": null,
    "player": null,
    "position": null,
@@ -7095,256 +7198,6 @@
   "facts": {
    "id": "espnnews-50331179",
    "team": "CIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50321862",
-  "source": "ESPN",
-  "author": "ESPN staff",
-  "time": "2026-10-31T00:38:27Z",
-  "text": "Halloween 2026: Breaking down top athlete costumes from across the sports world. Athletes far and wide across the sports world showed off special costumes for Halloween.",
-  "url": "https://www.espn.com/nba/story/_/id/50321862/halloween-athlete-costumes-2026",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50321862",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50332073",
-  "source": "ESPN",
-  "author": "Marc Raimondi",
-  "time": "2026-10-31T00:31:29Z",
-  "text": "Falcons' Anterio Thompson says he can't play football due to spinal cord issue. Falcons rookie DT Anterio Thompson revealed on Instagram this week that he was told he would never play football again due to a genetic mutation of his spinal cord.",
-  "url": "https://www.espn.com/nfl/story/_/id/50332073/falcons-thompson-play-football-due-spinal-cord-issue",
-  "teams": [
-   "ATL"
-  ],
-  "facts": {
-   "id": "espnnews-50332073",
-   "team": "ATL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50289130",
-  "source": "ESPN",
-  "author": "Michael F. Florio",
-  "time": "2026-10-31T00:19:50Z",
-  "text": "Fantasy football Week 8 inactives: Chase to play; Hall questionable; Egbuka out. Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50289130/fantasy-football-injuries-nfl-week-8-inactive-active",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50289130",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "questionable",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50331710",
-  "source": "ESPN",
-  "author": "John Keim",
-  "time": "2026-10-31T00:05:38Z",
-  "text": "Sources: Commanders' Daron Payne likely IR-bound after practice injury. Commanders DT Daron Payne suffered a significant foot injury in practice Friday that likely will land him on injured reserve, sources told NFL Network.",
-  "url": "https://www.espn.com/nfl/story/_/id/50331710/sources-commanders-daron-payne-injures-foot-practice",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50331710",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50331045",
-  "source": "ESPN",
-  "author": "Stephen Holder",
-  "time": "2026-10-30T22:19:00Z",
-  "text": "Colts' Shane Steichen: WR Josh Downs 'ready to go' despite trade request. Colts coach Shane Steichen says receiver Josh Downs practiced all week and is \"ready to go\" despite the trade request he made earlier this week.",
-  "url": "https://www.espn.com/nfl/story/_/id/50331045/colts-steichen-wr-downs-ready-go-trade-demand",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50331045",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50329508",
-  "source": "ESPN",
-  "author": "Josh Weinfuss",
-  "time": "2026-10-30T21:46:45Z",
-  "text": "Cardinals rookie RB Jeremiyah Love (ankle) set to return. Jeremiyah Love is expected to return to the field for the Cardinals on Sunday after missing the past two weeks with an ankle injury.",
-  "url": "https://www.espn.com/nfl/story/_/id/50329508/cardinals-rookie-rb-jeremiyah-love-ankle-set-return",
-  "teams": [
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50329508",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50330890",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-30T21:40:29Z",
-  "text": "Defensive tweaks on deck for the Cowboys. Todd Archer details Dallas Cowboys DC Christian Parker's adjustments following a league-high number of opening-possession touchdowns allowed.",
-  "url": "https://www.espn.com/video/clip/_/id/50330890/defensive-tweaks-deck-cowboys",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50330890",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50330421",
-  "source": "ESPN",
-  "author": "Tim McManus",
-  "time": "2026-10-30T21:13:22Z",
-  "text": "Eagles' Saquon Barkley carries no injury designation for Commanders matchup. Saquon Barkley, who did not practice Wednesday or Thursday and was a limited participant Friday, carries no designation into Sunday's game.",
-  "url": "https://www.espn.com/nfl/story/_/id/50330421/eagles-saquon-barkley-carries-no-injury-designation-commanders-matchup",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50330421",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50330916",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-10-30T21:08:26Z",
-  "text": "Budda Baker fields trade rumor questions in costume. Budda Baker fields trade rumor questions in costume",
-  "url": "https://www.espn.com/video/clip/_/id/50330916/budda-baker-fields-trade-rumor-questions-costume",
-  "teams": [
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50330916",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50329806",
-  "source": "ESPN",
-  "author": "Mike Kaye",
-  "time": "2026-10-30T20:56:49Z",
-  "text": "With 10 games left and Ejiro Evero out, what's next for Panthers' defense?. Here are three reasons for optimism as Carolina makes a defensive coordinator change to Todd Wash.",
-  "url": "https://www.espn.com/nfl/story/_/id/50329806/carolina-panthers-defense-ejiro-evero-next-todd-wash",
-  "teams": [
-   "CAR"
-  ],
-  "facts": {
-   "id": "espnnews-50329806",
-   "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-12d505695448e",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-10-30T19:53:47.86Z",
-  "text": "Eagles ruled out WR DeVonta Smith but RB Saquon Barkley has no injury designation for Sunday night\u2019s game vs. Washington.",
-  "url": "https://www.espn.com/contributor/adam-schefter/12d505695448e",
-  "teams": [
-   "PHI",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espn-12d505695448e",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50329594",
-  "source": "ESPN",
-  "author": "Nate Taylor",
-  "time": "2026-10-30T19:53:39Z",
-  "text": "Chiefs get Rashee Rice back from injury for Broncos game. Chiefs receiver Rashee Rice is expected back from a hamstring injury against the Broncos on Sunday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50329594/chiefs-get-rashee-rice-back-injury-broncos-game",
-  "teams": [
-   "KC",
-   "DEN"
-  ],
-  "facts": {
-   "id": "espnnews-50329594",
-   "team": "KC",
    "player": null,
    "position": null,
    "status": "other",
