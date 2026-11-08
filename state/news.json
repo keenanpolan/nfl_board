@@ -1,5 +1,483 @@
 [
  {
+  "id": "espnnews-50380155",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-11-08T22:38:11Z",
+  "text": "As the 'Peanut Punch' takes over NFL, how do teams counter it?. After Charles Tillman popularized the punch 14 years ago, it has really taken off this season.",
+  "url": "https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo",
+  "teams": [
+   "BUF",
+   "ARI",
+   "ATL",
+   "BAL",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "GB",
+   "HOU",
+   "IND",
+   "JAX",
+   "KC",
+   "LV",
+   "LAC",
+   "LA",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SF",
+   "SEA",
+   "TB",
+   "TEN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50380155",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50425874",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T22:35:36Z",
+  "text": "What kind of fantasy QB is Patrick Mahomes right now?. What kind of fantasy QB is Patrick Mahomes right now?",
+  "url": "https://www.espn.com/video/clip/_/id/50425874/what-kind-fantasy-qb-patrick-mahomes-right-now",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50425874",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50424423",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T22:29:36Z",
+  "text": "Lions grind past Dolphins 19-9 as Jahmyr Gibbs scores and Jake Bates makes 4 field goals. \u2014 The Detroit Lions have repeated a mantra all week in the aftermath of a scary neck injury to All-Pro linebacker Jack Campbell.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873042",
+  "teams": [
+   "MIA",
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50424423",
+   "team": "MIA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50425663",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T22:21:36Z",
+  "text": "Javonte Williams' late TD run helps Cowboys avoid another 4th-quarter collapse and beat Colts 27-23. \u2014 Javonte Williams scored the go-ahead touchdown on a 1-yard run with 1:08 remaining to cap a 101-yard rushing day, and the Dallas Cowboys rallied to beat the Indianapolis Colts 27-23 on Sunday.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873040",
+  "teams": [
+   "IND",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50425663",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50425557",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T22:17:53Z",
+  "text": "Cleveland Browns vs. New Orleans Saints Game Highlights. Cleveland Browns vs. New Orleans Saints Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50425557/cleveland-browns-vs-new-orleans-saints-game-highlights",
+  "teams": [
+   "NO",
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50425557",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50425537",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T22:10:35Z",
+  "text": "Saints hold on for a 23-22 overtime victory over the Browns by stopping a 2-point conversion. \u2014 Tyler Shough floated a 15-yard timing pass to Juwan Johnson toward the right corner of the end zone for a touchdown and the desperate New Orleans Saints stopped a do-or-die, 2-point conversion to outlast the Cleveland Browns 23-22 in overtime on...",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873039",
+  "teams": [
+   "NO",
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50425537",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50425319",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T21:53:41Z",
+  "text": "Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory. \u2014 Bo Nix threw for 237 yards and two touchdowns and the Denver Broncos benefitted from a momentum-turning coach\u2019s challenge to beat the Carolina Panthers 26-21 on Sunday for their fifth straight win.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873041",
+  "teams": [
+   "CAR",
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50425319",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50425145",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T21:42:39Z",
+  "text": "Dallas Cowboys vs. Indianapolis Colts: Game Highlights. Dallas Cowboys vs. Indianapolis Colts: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50425145/game-highlights",
+  "teams": [
+   "DAL",
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50425145",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50425116",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T21:38:35Z",
+  "text": "Winston, McCarthy combine to lead Giants to 19-11 win and hand Eagles 7th straight loss. \u2014 Jameis Winston replaced the injured J.J. McCarthy long enough to throw a go-ahead touchdown pass and help the New York Giants keep their grip on the NFC East and beat Philadelphia 19-11 on Sunday to hand the Eagles their seventh straight loss.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873044",
+  "teams": [
+   "PHI",
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50425116",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50425108",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T21:37:35Z",
+  "text": "Puka Nacua, Myles Garrett lead Rams to 20-13 win over Commanders. \u2014 Matt Stafford found star receiver Puka Nacua early and often, Myles Garrett had three sacks and a forced fumble in his return and the Los Angeles Rams held on for their third straight victory, 20-13 over the Washington Commanders on Sunday.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873043",
+  "teams": [
+   "WAS",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50425108",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50424796",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T21:27:40Z",
+  "text": "Rams outlast Commanders with defensive showcase. Rams outlast Commanders with defensive showcase",
+  "url": "https://www.espn.com/video/clip/_/id/50424796/rams-outlast-commanders-defensive-showcase",
+  "teams": [
+   "WAS",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50424796",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50424762",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T21:27:33Z",
+  "text": "Detroit Lions vs. Miami Dolphins Game Highlights. Detroit Lions vs. Miami Dolphins Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50424762/detroit-lions-vs-miami-dolphins-game-highlights",
+  "teams": [
+   "MIA",
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50424762",
+   "team": "MIA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50424771",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T21:25:37Z",
+  "text": "New York Giants vs. Philadelphia Eagles: Game Highlights. New York Giants vs. Philadelphia Eagles: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50424771/game-highlights",
+  "teams": [
+   "NYG",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50424771",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50424764",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T21:21:50Z",
+  "text": "Chiefs take care of business at home. Chiefs take care of business at home",
+  "url": "https://www.espn.com/video/clip/_/id/50424764/chiefs-take-care-business-home",
+  "teams": [
+   "KC",
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50424764",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50424751",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T21:21:15Z",
+  "text": "Denver Broncos vs. Carolina Panthers: Game Highlights. Denver Broncos vs. Carolina Panthers: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50424751/game-highlights",
+  "teams": [
+   "DEN",
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50424751",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50423176",
+  "source": "ESPN",
+  "author": "Jeff Legwold",
+  "time": "2026-11-08T21:15:48Z",
+  "text": "Broncos WR Jaylen Waddle, CB Riley Moss suffer concussions against Panthers. Broncos wide receiver Jaylen Waddle and cornerback Riley Moss both suffered concussions against the Panthers.",
+  "url": "https://www.espn.com/nfl/story/_/id/50423176/broncos-wr-jaylen-waddle-cb-riley-moss-suffer-concussions",
+  "teams": [
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50423176",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50424653",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T21:14:37Z",
+  "text": "Kenneth Walker scores 3 TDs as the Chiefs roll past the woeful Jets 35-12 to end their 2-game skid. \u2014 Patrick Mahomes threw for 242 yards with a pair of touchdown passes to Kenneth Walker, who added 102 yards and a score on the ground, and the Kansas City...",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873045",
+  "teams": [
+   "KC",
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50424653",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50422850",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T19:16:17Z",
+  "text": "Why Adam Rank can't drop Kyle Pitts just yet in fantasy. Why Adam Rank can't drop Kyle Pitts just yet in fantasy",
+  "url": "https://www.espn.com/video/clip/_/id/50422850/why-adam-rank-drop-kyle-pitts-just-yet-fantasy",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50422850",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50422832",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T19:11:57Z",
+  "text": "What Adam Rank loves from Bijan Robinson's fantasy performance vs. Bengals. What Adam Rank loves from Bijan Robinson's fantasy performance vs. Bengals",
+  "url": "https://www.espn.com/video/clip/_/id/50422832/what-adam-rank-loves-bijan-robinson-fantasy-performance-vs-bengals",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50422832",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50422793",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T19:05:58Z",
+  "text": "Can fantasy managers trust Chase Brown?. Can fantasy managers trust Chase Brown?",
+  "url": "https://www.espn.com/video/clip/_/id/50422793/can-fantasy-managers-trust-chase-brown",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50422793",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50422661",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-08T18:50:01Z",
+  "text": "Eric Moody: Joe Burrow, Ja'Marr Chase are matchup-proof in fantasy. Eric Moody: Joe Burrow, Ja'Marr Chase are matchup-proof in fantasy",
+  "url": "https://www.espn.com/video/clip/_/id/50422661/joe-burrow-jamarr-chase-matchup-proof-fantasy",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50422661",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50422166",
   "source": "ESPN",
   "author": "ESPN",
@@ -6660,510 +7138,6 @@
   "facts": {
    "id": "espnnews-50351122",
    "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50350048",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T22:38:59Z",
-  "text": "Source: Jauan Jennings wanted to stay with Vikings amid 49ers trade talks. Jauan Jennings expressed his desire to stay in Minnesota after the 49ers tried to reacquire the wide receiver in trade talks with the Vikings.",
-  "url": "https://www.espn.com/nfl/story/_/id/50350048/source-jennings-wanted-stay-vikings-amid-49ers-talks",
-  "teams": [
-   "MIN",
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50350048",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50350934",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T22:37:45Z",
-  "text": "Lions linebacker Jack Campbell placed on backboard, carted off vs. Vikings. Lions All-Pro linebacker Jack Campbell was placed on a backboard and carted off the field early in the fourth quarter Sunday against the Vikings.",
-  "url": "https://www.espn.com/nfl/story/_/id/50350934/lions-linebacker-jack-campbell-placed-backboard-carted-off",
-  "teams": [
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50350934",
-   "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50351818",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T22:29:06Z",
-  "text": "Tennessee Titans vs. Cincinnati Bengals: Game Highlights. Tennessee Titans vs. Cincinnati Bengals: Game Highlights",
-  "url": "https://www.espn.com/video/clip/_/id/50351818/game-highlights",
-  "teams": [
-   "TEN",
-   "CIN"
-  ],
-  "facts": {
-   "id": "espnnews-50351818",
-   "team": "TEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50350986",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T22:17:47Z",
-  "text": "Buccaneers beat Falcons 16-0 despite failing to complete a single pass in wet, sloppy conditions. \u2014 Baker Mayfield threw more downfield blocks than he had completions.",
-  "url": "http://www.espn.com/nfl/recap?gameId=401873025",
-  "teams": [
-   "TB",
-   "ATL"
-  ],
-  "facts": {
-   "id": "espnnews-50350986",
-   "team": "TB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50351522",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T22:11:47Z",
-  "text": "Chad Ryland kicks winning FG after PAT miss that forced OT as Cards get wild 33-30 win over Cowboys. \u2014 Chad Ryland kicked a winning 42-yard field goal in overtime after missing a PAT that would have won the game with 6 seconds left in regulation, and the Arizona Cardinals rallied for a wild 33-30 victory over the Dallas Cowboys on Sunday.",
-  "url": "http://www.espn.com/nfl/recap?gameId=401873024",
-  "teams": [
-   "DAL",
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50351522",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50351680",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T22:07:47Z",
-  "text": "Joe Burrow throws 5 TD passes, runs for score in OT as Bengals rally for 43-36 win over Titans. \u2014 Joe Burrow threw five touchdown passes in regulation and then scrambled untouched for a 9-yard score in overtime as the Cincinnati Bengals rallied for a 43-36 victory over the Tennessee...",
-  "url": "http://www.espn.com/nfl/recap?gameId=401873031",
-  "teams": [
-   "CIN",
-   "TEN"
-  ],
-  "facts": {
-   "id": "espnnews-50351680",
-   "team": "CIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50351482",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T22:01:47Z",
-  "text": "Bills surge in 2nd half in 36-10 win over Baltimore in outing Ravens lose Jackson, Huntley to injury. \u2014 Josh Allen threw two touchdown passes and scored another rushing, and the Buffalo Bills overcame a sloppy first half in a 36-10 win over Baltimore on Sunday in an outing the Ravens lost starting quarterback Lamar Jackson and his backup Tyler Huntley...",
-  "url": "http://www.espn.com/nfl/recap?gameId=401873026",
-  "teams": [
-   "BUF",
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50351482",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50351513",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T22:01:09Z",
-  "text": "Las Vegas Raiders vs. New York Jets: Game Highlights. Las Vegas Raiders vs. New York Jets: Game Highlights",
-  "url": "https://www.espn.com/video/clip/_/id/50351513/game-highlights",
-  "teams": [
-   "LV",
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50351513",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50351556",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T22:00:44Z",
-  "text": "Pittsburgh Steelers vs. Cleveland Browns Game Highlights. Pittsburgh Steelers vs. Cleveland Browns Game Highlights",
-  "url": "https://www.espn.com/video/clip/_/id/50351556/pittsburgh-steelers-vs-cleveland-browns-game-highlights",
-  "teams": [
-   "PIT",
-   "CLE"
-  ],
-  "facts": {
-   "id": "espnnews-50351556",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50351592",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T21:59:57Z",
-  "text": "Arizona Cardinals vs. Dallas Cowboys: Game Highlights. Arizona Cardinals vs. Dallas Cowboys: Game Highlights",
-  "url": "https://www.espn.com/video/clip/_/id/50351592/game-highlights",
-  "teams": [
-   "DAL",
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50351592",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50351505",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T21:54:42Z",
-  "text": "Baltimore Ravens vs Buffalo Bills: Game Highlights. Baltimore Ravens vs Buffalo Bills: Game Highlights",
-  "url": "https://www.espn.com/video/clip/_/id/50351505/game-highlights",
-  "teams": [
-   "BUF",
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50351505",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50351478",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T21:40:47Z",
-  "text": "Raiders rally past the Jets 38-33 as Kirk Cousins leads a comeback to snap a 4-game skid. \u2014 Kirk Cousins threw three touchdown passes, including a go-ahead 2-yard toss to Jalen Nailor in the fourth quarter, and ran for another score and the Las Vegas Raiders snapped a four-game skid with a 38-33 comeback victory over the New York Jets on...",
-  "url": "http://www.espn.com/nfl/recap?gameId=401873029",
-  "teams": [
-   "NYJ",
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50351478",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50350119",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T21:37:58Z",
-  "text": "Michael Florio: Lamar Jackson fantasy managers need to have a backup plan. Michael Florio: Lamar Jackson fantasy managers need to have a backup plan",
-  "url": "https://www.espn.com/video/clip/_/id/50350119/lamar-jackson-fantasy-managers-need-backup-plan",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50350119",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-ee345dd881ded",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-11-01T21:34:53.202Z",
-  "text": "Ravens QB Lamar Jackson needs thumb surgery and will be placed on injured reserve.",
-  "url": "https://www.espn.com/contributor/adam-schefter/ee345dd881ded",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espn-ee345dd881ded",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50351187",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T21:20:27Z",
-  "text": "Jags make easy work of Colts with dominating win. Jags make easy work of Colts with dominating win",
-  "url": "https://www.espn.com/video/clip/_/id/50351187/jags-make-easy-work-colts-dominating-win",
-  "teams": [
-   "JAX",
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50351187",
-   "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50351184",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T21:17:47Z",
-  "text": "Steelers bulldoze Browns 27-6 to take AFC North lead, extend home streak over rivals to 23 straight. \u2014 Jaylen Warren tied a career high with 143 yards rushing and a touchdown on his 28th birthday, and the Pittsburgh Steelers moved into first place in the AFC North by drilling Cleveland 27-6 on...",
-  "url": "http://www.espn.com/nfl/recap?gameId=401873027",
-  "teams": [
-   "PIT",
-   "CLE"
-  ],
-  "facts": {
-   "id": "espnnews-50351184",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50351058",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T21:13:05Z",
-  "text": "Minnesota Vikings vs. Detroit Lions: Game Highlights. Minnesota Vikings vs. Detroit Lions: Game Highlights",
-  "url": "https://www.espn.com/video/clip/_/id/50351058/game-highlights",
-  "teams": [
-   "MIN",
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50351058",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50350958",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T21:07:10Z",
-  "text": "Atlanta Falcons vs. Tampa Bay Buccaneers: Game Highlights. Atlanta Falcons vs. Tampa Bay Buccaneers: Game Highlights",
-  "url": "https://www.espn.com/video/clip/_/id/50350958/game-highlights",
-  "teams": [
-   "TB",
-   "ATL"
-  ],
-  "facts": {
-   "id": "espnnews-50350958",
-   "team": "TB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-e547ac0da8317",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-11-01T19:09:54.565Z",
-  "text": "Now Tyler \u201cSnoop\u201d Huntley is hurt and has been replaced by undrafted rookie free agent QB Joe Fagnano.",
-  "url": "https://www.espn.com/contributor/adam-schefter/e547ac0da8317",
-  "teams": [],
-  "facts": {
-   "id": "espn-e547ac0da8317",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50349558",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-11-01T18:51:59Z",
-  "text": "Ravens' Lamar Jackson out for game with thumb injury suffered on 1st play. Ravens quarterback Lamar Jackson has been ruled out for the rest of Sunday's game against the Bills with a right thumb injury.",
-  "url": "https://www.espn.com/nfl/story/_/id/50349558/ravens-lamar-jackson-rest-game-thumb-injury",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50349558",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50119009",
-  "source": "ESPN",
-  "author": "ESPN staff",
-  "time": "2026-11-01T18:46:44Z",
-  "text": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage. The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-  "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-  "teams": [
-   "ARI",
-   "ATL",
-   "BAL",
-   "BUF",
-   "CAR",
-   "CHI",
-   "CIN",
-   "CLE",
-   "DAL",
-   "DEN",
-   "DET",
-   "GB",
-   "HOU",
-   "IND",
-   "JAX",
-   "KC",
-   "LV",
-   "LAC",
-   "LA",
-   "MIA",
-   "MIN",
-   "NE",
-   "NO",
-   "NYG",
-   "NYJ",
-   "PHI",
-   "PIT",
-   "SF",
-   "SEA",
-   "TB",
-   "TEN",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50119009",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50349515",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-01T18:46:40Z",
-  "text": "Rex Ryan: Ashton Jeanty about the worst RB draft pick in the last 20 years. Rex Ryan: Ashton Jeanty about the worst RB draft pick in the last 20 years",
-  "url": "https://www.espn.com/video/clip/_/id/50349515/ashton-jeanty-worst-rb-draft-pick-last-20-years",
-  "teams": [
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50349515",
-   "team": "LV",
    "player": null,
    "position": null,
    "status": "other",
