@@ -1,5 +1,902 @@
 [
  {
+  "id": "espnnews-50444360",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-11-10T20:07:43Z",
+  "text": "Sources: Vikings reunite with QB Kirk Cousins, send 3rd-round pick to Raiders. Vikings are trading for quarterback Kirk Cousins, sending a 2027 third-round pick to the Raiders, league sources told ESPN and NFL Network.",
+  "url": "https://www.espn.com/nfl/story/_/id/50444360/sources-vikings-id-qb-kirk-cousins-prime-trade-target",
+  "teams": [
+   "MIN",
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50444360",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50445098",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T20:04:06Z",
+  "text": "Eisen fired up over Kirk Cousins' return to the Vikings. Eisen fired up over Kirk Cousins' return to the Vikings",
+  "url": "https://www.espn.com/video/clip/_/id/50445098/eisen-fired-kirk-cousins-return-vikings",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50445098",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50444457",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-11-10T19:53:16Z",
+  "text": "Sources: 49ers trade for Colts' Keenan Allen to bolster injury-plagued WR room. The 49ers are completing a trade with the Colts for Keenan Allen in a move that will bolster their injury-plagued WR corps, sources told NFL Network and ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50444457/sources-49ers-acquire-keenan-allen-trade-colts",
+  "teams": [
+   "IND",
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50444457",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50444959",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T19:53:14Z",
+  "text": "McAfee & Co. react to Bills' trade for Amani Hooker. McAfee & Co. react to Bills' trade for Amani Hooker",
+  "url": "https://www.espn.com/video/clip/_/id/50444959/mcafee-co-react-bills-trade-amani-hooker",
+  "teams": [
+   "TEN",
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50444959",
+   "team": "TEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50444954",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T19:53:06Z",
+  "text": "Jeff Saturday: Kirk Cousins trade a 'great fit' for Vikings and Raiders. Jeff Saturday: Kirk Cousins trade a 'great fit' for Vikings and Raiders",
+  "url": "https://www.espn.com/video/clip/_/id/50444954/kirk-cousins-trade-great-fit-vikings-raiders",
+  "teams": [
+   "MIN",
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50444954",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50444810",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-11-10T19:48:15Z",
+  "text": "Sources: Bills fill major need at safety, trade for Titans' Amani Hooker. The Bills traded for Titans safety Amani Hooker, giving up a second-round pick in exchange for Hooker and a fifth-round pick, sources told ESPN's Adam Schefter.",
+  "url": "https://www.espn.com/nfl/story/_/id/50444810/bills-trade-titans-safety-amani-hooker",
+  "teams": [
+   "BUF",
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50444810",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-8851f57d92352",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-11-10T19:46:52.657Z",
+  "text": "\ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \n\nThe Raiders are trading QB Kirk Cousins to the #Vikings, reuniting him with coach Kevin O\u2019Connell, per me, Mike Garafolo and Adam Schefter.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/8851f57d92352",
+  "teams": [
+   "LV",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espn-8851f57d92352",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-0a5eda9d8ee8a",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-10T19:39:40.289Z",
+  "text": "Term update: the Vikings are trading a 2027 third-round pick for Kirk Cousins.",
+  "url": "https://www.espn.com/contributor/adam-schefter/0a5eda9d8ee8a",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espn-0a5eda9d8ee8a",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-9f3faa123477c",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-10T19:37:18.325Z",
+  "text": "Trade: The Raiders are trading QB Kirk Cousins to the Vikings, per @rapsheet and me.",
+  "url": "https://www.espn.com/contributor/adam-schefter/9f3faa123477c",
+  "teams": [
+   "LV",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espn-9f3faa123477c",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-d8ab63344e08d",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-10T19:20:04.759Z",
+  "text": "Trade: Titans are sending safety Amani Hooker and a 5th-round pick to the Bills for a 2nd-round pick.",
+  "url": "https://www.espn.com/contributor/adam-schefter/d8ab63344e08d",
+  "teams": [
+   "TEN",
+   "BUF"
+  ],
+  "facts": {
+   "id": "espn-d8ab63344e08d",
+   "team": "TEN",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50444620",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T19:14:13Z",
+  "text": "'Great move': Rich Eisen reacts to 49ers' trade for Keenan Allen. 'Great move': Rich Eisen reacts to 49ers' trade for Keenan Allen",
+  "url": "https://www.espn.com/video/clip/_/id/50444620/rich-eisen-reacts-49ers-trade-keenan-allen",
+  "teams": [
+   "KC",
+   "SF",
+   "TB",
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50444620",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-b03e9237b5d72",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-10T18:40:40.426Z",
+  "text": "Trade: Colts are sending WR Keenan Allen to the 49ers for a 6th-round pick, per @RapSheet and me.",
+  "url": "https://www.espn.com/contributor/adam-schefter/b03e9237b5d72",
+  "teams": [
+   "IND",
+   "SF"
+  ],
+  "facts": {
+   "id": "espn-b03e9237b5d72",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49869463",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-11-10T18:39:59Z",
+  "text": "2026 expected fantasy points against (xFPA) by position. Measuring the best defenses against specific positions by using expected points vs. actual fantasy production.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49869463/2026-fantasy-football-expected-points-xfpa-position-qb-rb-wr-te",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49869463",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49869668",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-11-10T18:35:31Z",
+  "text": "Expected fantasy points (xFP): 2026 leaderboard for TEs. xFP focuses solely on opportunity. Here are the leaders for 2026.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49869668/2026-fantasy-football-expected-fantasy-points-xfp-te",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49869668",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49869659",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-11-10T18:33:56Z",
+  "text": "Expected fantasy points (xFP): 2026 leaderboard for WRs. xFP focuses solely on opportunity. Here are the leaders for 2026.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49869659/fantasy-football-2026-expected-fantasy-points-xfp-wr",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49869659",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49869631",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-11-10T18:31:20Z",
+  "text": "Expected fantasy points (xFP): 2026 leaderboard for RBs. xFP focuses solely on opportunity. Here are the leaders for 2026.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49869631/2026-fantasy-football-expected-fantasy-points-xfp-rb",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49869631",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50443891",
+  "source": "ESPN",
+  "author": "Ben Baby",
+  "time": "2026-11-10T18:26:09Z",
+  "text": "Bengals nix agreed-upon trade with Eagles, sources say. A trade that would've sent Eagles edge rusher Arnold Ebiketie to Cincinnati has been called off, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
+  "url": "https://www.espn.com/nfl/story/_/id/50443891/bengals-nix-agreed-trade-eagles-sources-say",
+  "teams": [
+   "CIN",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50443891",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49869194",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-11-10T18:25:14Z",
+  "text": "NFL expected touchdown (xTD) leaderboard for 2026. Opportunity-adjusted TD leaders tell you not only who's scoring but who's getting the opportunities to score.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49869194/2026-fantasy-football-rankings-nfl-expected-td-opportunity-xtd",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49869194",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-ce8b9618bcd93",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-10T18:24:06.83Z",
+  "text": "Vikings have identified Raiders QB Kirk Cousins as a prime trade candidate ahead of today\u2019s 4 pm ET deadline, per league sources. The clock is ticking to get a deal done.",
+  "url": "https://www.espn.com/contributor/adam-schefter/ce8b9618bcd93",
+  "teams": [
+   "LV",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espn-ce8b9618bcd93",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-47879765",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-11-10T18:23:05Z",
+  "text": "Fantasy football 2026 defensive depth charts. Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/47879765/fantasy-football-2026-defensive-depth-charts",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-47879765",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50444069",
+  "source": "ESPN",
+  "author": "Marc Raimondi and Jamison Hensley",
+  "time": "2026-11-10T18:21:07Z",
+  "text": "Source: Falcons cutting kicker Nick Folk, signing Jake Moody. ESPN has confirmed that the Falcons are releasing kicker Nick Folk and signing Jake Moody.",
+  "url": "https://www.espn.com/nfl/story/_/id/50444069/sources-falcons-cutting-kicker-nick-folk-signing-jake-moody",
+  "teams": [
+   "ATL",
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50444069",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-47879613",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-11-10T18:19:22Z",
+  "text": "Fantasy football 2026 offensive depth charts. Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-47879613",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50443983",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T17:49:06Z",
+  "text": "Bills' Spencer Brown breaks down the new philosophy under coach Joe Brady. Bills' Spencer Brown breaks down the new philosophy under coach Joe Brady",
+  "url": "https://www.espn.com/video/clip/_/id/50443983/bills-spencer-brown-breaks-new-philosophy-coach-joe-brady",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50443983",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50443653",
+  "source": "ESPN",
+  "author": "Marcel Louis-Jacques",
+  "time": "2026-11-10T17:30:27Z",
+  "text": "Source: Dolphins captain Zach Sieler out for rest of season with ruptured biceps. Dolphins DT Zach Sieler will miss the rest of the season with a ruptured biceps, a source told ESPN, leaving Miami without a critical team leader and captain.",
+  "url": "https://www.espn.com/nfl/story/_/id/50443653/source-dolphins-captain-zach-sieler-rest-season",
+  "teams": [
+   "MIA"
+  ],
+  "facts": {
+   "id": "espnnews-50443653",
+   "team": "MIA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49745176",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-11-10T17:12:04Z",
+  "text": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason. We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+  "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49745176",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50443081",
+  "source": "ESPN",
+  "author": "Doug Greenberg",
+  "time": "2026-11-10T17:03:43Z",
+  "text": "Sportsbook liability Joe Burrow overtakes Josh Allen as NFL MVP favorite. Bengals QB Joe Burrow has overtaken Bills star Josh Allen as the betting favorite for NFL MVP honors, a development that could prove costly for sportsbooks.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50443081/sportsbook-liability-burrow-overtakes-allen-mvp-favorite",
+  "teams": [
+   "CIN",
+   "BUF",
+   "CHI",
+   "SF",
+   "GB",
+   "JAX",
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50443081",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50443323",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T17:03:24Z",
+  "text": "Why DeMario Douglas has fantasy upside in Week 10 vs. Lions. Why DeMario Douglas has fantasy upside in Week 10 vs. Lions",
+  "url": "https://www.espn.com/video/clip/_/id/50443323/why-demario-douglas-fantasy-upside-week-10-vs-lions",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50443323",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50442966",
+  "source": "ESPN",
+  "author": "Tristan H. Cockcroft",
+  "time": "2026-11-10T17:02:15Z",
+  "text": "Gibbs, Allen, JSN and more Knockout league pickups for Week 10. As the number of teams shrink, the number of stars available in Knockout leagues grows. Here are the ones to get.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50442966/2026-fantasy-football-knockout-leagues-pickups-week-10",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50442966",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50443286",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T16:48:13Z",
+  "text": "Dopp: Caleb Douglas is not someone you will be starting in fantasy. Dopp: Caleb Douglas is not someone you will be starting in fantasy",
+  "url": "https://www.espn.com/video/clip/_/id/50443286/caleb-douglas-not-starting-fantasy",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50443286",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50443229",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T16:41:22Z",
+  "text": "Bengals trade for Eagles LB Arnold Ebiketie, sources say. The Bengals have added edge rusher Arnold Ebiketie in a trade with the Eagles, sources told NFL Network's Ian Rapoport.",
+  "url": "https://www.espn.com/nfl/story/_/id/50443229/bengals-trade-eagles-lb-arnold-ebiketie-sources-say",
+  "teams": [
+   "PHI",
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50443229",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50117108",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-11-10T16:41:21Z",
+  "text": "Strength of schedule (SOS) cheat sheet: Every team's year-to-date and rest-of-season ratings. Ranking each team's remaining schedule and how it might impact every position's fantasy performance.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50117108/fantasy-football-2026-strength-schedule-rest-season",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50117108",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50443204",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T16:39:01Z",
+  "text": "Sources: Vikings inquiring about QBs ahead of trade deadline. The Vikings have started making calls around the league about trading for a quarterback ahead of Tuesday's deadline, sources told ESPN and NFL Network.",
+  "url": "https://www.espn.com/nfl/story/_/id/50443204/sources-vikings-asking-qbs-ahead-trade-deadline",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50443204",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50442965",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T16:38:53Z",
+  "text": "Mike Clay: Blake Corum has been one of the luckiest RBs in the NFL. Mike Clay: Blake Corum has been one of the luckiest RBs in the NFL",
+  "url": "https://www.espn.com/video/clip/_/id/50442965/blake-corum-one-luckiest-rbs-nfl",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50442965",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50442960",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T16:36:54Z",
+  "text": "Why Dopp doesn\u2019t like the Lions matchup for Corey Kiner. Why Dopp doesn\u2019t like the Lions matchup for Corey Kiner",
+  "url": "https://www.espn.com/video/clip/_/id/50442960/why-dopp-doesnt-lions-matchup-corey-kiner",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50442960",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50442951",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T16:34:05Z",
+  "text": "Dopp, Clay differ on DJ Moore's rest of season outlook. Dopp, Clay differ on DJ Moore's rest of season outlook",
+  "url": "https://www.espn.com/video/clip/_/id/50442951/dopp-clay-differ-dj-moore-rest-season-outlook",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50442951",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-1eab292e0537e",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-10T16:07:45.138Z",
+  "text": "Dolphins standout DT Zach Sieler ruptured his biceps and will undergo season-ending surgery, with a 5-6 month recovery expected, per sources. The injury happened on first play Sunday and he played the whole game with it.",
+  "url": "https://www.espn.com/contributor/adam-schefter/1eab292e0537e",
+  "teams": [
+   "MIA"
+  ],
+  "facts": {
+   "id": "espn-1eab292e0537e",
+   "team": "MIA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-2eaa143a8ca76",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-11-10T16:06:25.842Z",
+  "text": "Developing: The Vikings have begun making calls around the league about trading for a quarterback ahead of today\u2019s 4 pm ET deadline, per Adam Schefter and me.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/2eaa143a8ca76",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espn-2eaa143a8ca76",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50442903",
+  "source": "ESPN",
+  "author": "Michael Dirocco",
+  "time": "2026-11-10T16:03:28Z",
+  "text": "Sources: Jaguars telling teams they aren't trading WR Brian Thomas Jr.. The Jaguars plan to keep wide receiver Brian Thomas Jr. through the trade deadline, sources told ESPN's Jeremy Fowler.",
+  "url": "https://www.espn.com/nfl/story/_/id/50442903/jaguars-not-planning-trade-wr-brian-thomas-jr",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50442903",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-0f347f3070a39",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-10T15:59:57.374Z",
+  "text": "Developing: The Vikings have begun making calls around the league about trading for a quarterback ahead of today\u2019s 4 pm ET deadline, per @rapsheet and me.",
+  "url": "https://www.espn.com/contributor/adam-schefter/0f347f3070a39",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espn-0f347f3070a39",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49742016",
+  "source": "ESPN",
+  "author": "ESPN Analytics",
+  "time": "2026-11-10T15:42:22Z",
+  "text": "2026 NFL pass rush, run stop, blocking win rate rankings. Our win rate metrics stack the NFL's top teams and players in run blocking, run stopping, pass protection and pass rushing.",
+  "url": "https://www.espn.com/nfl/story/_/id/49742016/2026-win-rates-team-player-rankings-pass-rush-run-stop-blocking",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49742016",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50442817",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T15:37:36Z",
+  "text": "Stephen A. holds Kevin O'Connell responsible for Justin Jefferson's frustrations. Stephen A. holds Kevin O'Connell responsible for Justin Jefferson's frustrations",
+  "url": "https://www.espn.com/video/clip/_/id/50442817/stephen-holds-kevin-oconnell-responsible-justin-jefferson-frustrations",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50442817",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50442777",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-10T15:33:04Z",
+  "text": "Are the Jaguars now the AFC favorites?. Are the Jaguars now the AFC favorites?",
+  "url": "https://www.espn.com/video/clip/_/id/50442777/are-jaguars-now-afc-favorites",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50442777",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50442321",
+  "source": "ESPN",
+  "author": "David Purdum",
+  "time": "2026-11-10T14:51:08Z",
+  "text": "NFL betting favorites win 14 of 15 games, fuel best week for bettors. NFL favorites won 14 of 15 games in Week 9, a historic run of chalk that cost sportsbooks and left the betting public smiling.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50442321/nfl-betting-favorites-win-14-15-games-fuel-best-week-bettors",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50442321",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50438482",
   "source": "ESPN",
   "author": "Mike Reiss",
@@ -6341,821 +7238,6 @@
    "status": "released",
    "starting_qb": null,
    "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49869566",
-  "source": "ESPN",
-  "author": "Mike Clay",
-  "time": "2026-11-03T19:51:56Z",
-  "text": "Expected fantasy points (xFP): 2026 leaderboard for QBs. xFP focuses solely on opportunity. Here are the leaders for 2026.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/49869566/2026-fantasy-football-expected-fantasy-points-xfp-qb",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49869566",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50370763",
-  "source": "ESPN",
-  "author": "Josh Weinfuss",
-  "time": "2026-11-03T19:16:03Z",
-  "text": "Sources: Cardinals' Jeremiyah Love to IR, out 4-5 weeks with high ankle sprain. Cardinals RB Jeremiyah Love is headed to IR because of a high ankle sprain that will sideline the rookie for 4-5 weeks, sources told NFL Network.",
-  "url": "https://www.espn.com/nfl/story/_/id/50370763/sources-cards-jeremiyah-love-headed-ir-4-5-weeks",
-  "teams": [
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50370763",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50366346",
-  "source": "ESPN",
-  "author": "Michael DiRocco",
-  "time": "2026-11-03T19:06:35Z",
-  "text": "Why trade deadline rumors are swirling around Jaguars receiver Brian Thomas Jr.. The 2024 first-round pick is sliding down the depth chart. What happened, and could the Jaguars trade him before the Nov. 10 deadline?",
-  "url": "https://www.espn.com/nfl/story/_/id/50366346/jaguars-wr-brian-thomas-jr-trade-deadline-rumors",
-  "teams": [
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50366346",
-   "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50368642",
-  "source": "ESPN",
-  "author": "Tristan H. Cockcroft",
-  "time": "2026-11-03T18:46:35Z",
-  "text": "What you need to know to start a 10-team knockout league this week. Draft a 10-team knockout league and be the last one left standing with these strategies to guide you.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50368642/knockout-leagues-10-team-strategy",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50368642",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50360444",
-  "source": "ESPN",
-  "author": "DJ Bien-Aime and Jeremy Fowler",
-  "time": "2026-11-03T18:36:56Z",
-  "text": "C.J. Stroud turned down a big contract. A bigger one awaits. Sources say C.J. Stroud turned down a deal similar to Trevor Lawrence's. He's in line for a bigger one.",
-  "url": "https://www.espn.com/nfl/story/_/id/50360444/cj-stroud-texans-contract",
-  "teams": [
-   "HOU"
-  ],
-  "facts": {
-   "id": "espnnews-50360444",
-   "team": "HOU",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50370026",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-03T18:24:20Z",
-  "text": "Bengals vs. Falcons in Spain. Bills vs. Vikings on Monday Night. Don't miss it on ESPN. Bengals vs. Falcons in Spain. Bills vs. Vikings on Monday Night. Don't miss it on ESPN",
-  "url": "https://www.espn.com/video/clip/_/id/50370026/bengals-vs-falcons-spain-bills-vs-vikings-monday-night-miss-espn",
-  "teams": [
-   "ATL",
-   "BUF",
-   "CIN",
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50370026",
-   "team": "ATL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50370154",
-  "source": "ESPN",
-  "author": "Tristan H. Cockcroft",
-  "time": "2026-11-03T18:13:34Z",
-  "text": "Knockout league pickups: Bijan Robinson, Parker Washington lead players to add. Listing the most common players on eliminated teams and advising on which free agents to pursue ... and for how much.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50370154/knockout-waiver-wire-free-agent-pickups-week-9",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50370154",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-47809892",
-  "source": "ESPN",
-  "author": "Doug Greenberg",
-  "time": "2026-11-03T18:04:44Z",
-  "text": "Super Bowl LXI odds: All 32 teams' odds to win the championship. Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-  "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-  "teams": [
-   "SEA",
-   "BUF",
-   "SF",
-   "KC",
-   "CIN",
-   "CHI",
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-47809892",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49954186",
-  "source": "ESPN",
-  "author": "Tristan H. Cockcroft",
-  "time": "2026-11-03T17:35:03Z",
-  "text": "Fantasy football consistency ratings: 2024 to 2026. The consistency ratings weigh both how consistent and how start-worthy players have been from 2024 to 2026.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/49954186/fantasy-football-rankings-consistency-ratings-start-sit-value",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49954186",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50119375",
-  "source": "ESPN",
-  "author": "Tristan H. Cockcroft",
-  "time": "2026-11-03T17:33:56Z",
-  "text": "Fantasy football consistency ratings for 2026. The consistency ratings weigh how consistent, as well as how start-worthy, players have been in ESPN fantasy football leagues in 2026.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50119375/2026-fantasy-football-rankings-start-sit",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50119375",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50369981",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-03T17:28:02Z",
-  "text": "Don't miss Bills vs. Vikings on MNF. Don't miss Bills vs. Vikings on MNF",
-  "url": "https://www.espn.com/video/clip/_/id/50369981/miss-bills-vs-vikings-mnf",
-  "teams": [
-   "BUF",
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50369981",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-48476156",
-  "source": "ESPN",
-  "author": "Doug Greenberg",
-  "time": "2026-11-03T17:14:21Z",
-  "text": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more. Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
-  "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-48476156",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50369005",
-  "source": "ESPN",
-  "author": "Tristan H. Cockcroft",
-  "time": "2026-11-03T17:03:26Z",
-  "text": "Fantasy football D/ST outlook for Weeks 9-12: Fire up Texans, and how 'bout them Cowboys?. Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50369005/fantasy-football-defense-special-teams-streaming-week-9",
-  "teams": [
-   "JAX",
-   "LA",
-   "WAS",
-   "KC",
-   "HOU",
-   "SEA",
-   "DAL",
-   "PIT",
-   "TB",
-   "BAL",
-   "CAR",
-   "CIN",
-   "NYJ",
-   "NYG",
-   "NE",
-   "IND",
-   "PHI",
-   "DET",
-   "MIN",
-   "CLE",
-   "TEN",
-   "CHI",
-   "LAC",
-   "BUF",
-   "MIA",
-   "ATL",
-   "LV",
-   "SF",
-   "DEN",
-   "GB",
-   "NO",
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50369005",
-   "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50355612",
-  "source": "ESPN",
-  "author": "Ben Solak",
-  "time": "2026-11-03T17:03:18Z",
-  "text": "Seven things Solak thinks for NFL Week 9: Bucs atop NFC South? RB trades coming?. Get ready for Week 9 with takes on the Bucs' division chances, why RBs could dominate the trade deadline and which teams should at least ask about Justin Herbert.",
-  "url": "https://www.espn.com/nfl/story/_/id/50355612/week-9-seven-things-solak-thinks-trades-standings",
-  "teams": [
-   "PIT",
-   "CIN",
-   "DAL",
-   "CLE",
-   "TB",
-   "JAX",
-   "NYJ",
-   "MIN",
-   "SEA",
-   "CHI",
-   "TEN",
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50355612",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49998196",
-  "source": "ESPN",
-  "author": "ESPN Fantasy",
-  "time": "2026-11-03T16:51:22Z",
-  "text": "Fantasy football: Live Week 9 free agent pickups advice with ESPN expert. ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/49998196/fantasy-football-waiver-wire-pickups-week",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49998196",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50359434",
-  "source": "ESPN",
-  "author": "NFL Nation",
-  "time": "2026-11-03T16:44:34Z",
-  "text": "NFL Power Rankings: Stacking all 32 teams for Week 9, plus best in-season trades. How does every NFL team stack up heading into Week 9? We made our 1-32 list and picked the best trade deadline acquisitions of all time.",
-  "url": "https://www.espn.com/nfl/story/_/id/50359434/nfl-power-rankings-week-9-teams-best-season-trades-deadline",
-  "teams": [
-   "KC",
-   "LAC",
-   "LV",
-   "DEN",
-   "NE",
-   "NYJ",
-   "MIA",
-   "BUF",
-   "BAL",
-   "PIT",
-   "CLE",
-   "CIN",
-   "HOU",
-   "IND",
-   "TEN",
-   "JAX",
-   "SEA",
-   "SF",
-   "LA",
-   "ARI",
-   "PHI",
-   "WAS",
-   "NYG",
-   "DAL",
-   "DET",
-   "CHI",
-   "GB",
-   "MIN",
-   "TB",
-   "ATL",
-   "CAR",
-   "NO"
-  ],
-  "facts": {
-   "id": "espnnews-50359434",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50369696",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-03T16:39:35Z",
-  "text": "It's time for a Week 8 fantasy football recap. It's time for a Week 8 fantasy football recap",
-  "url": "https://www.espn.com/video/clip/_/id/50369696/week-8-fantasy-football-recap",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50369696",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49949224",
-  "source": "ESPN",
-  "author": "Eric Karabell",
-  "time": "2026-11-03T16:36:40Z",
-  "text": "Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status. Need a quick free agent pickup -- or roster overhaul -- after Week 8? These rankings are designed to help.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49949224",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50369234",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-03T16:19:00Z",
-  "text": "Are any of the Seahawks' RBs startable in fantasy football?. Are any of the Seahawks' RBs startable in fantasy football?",
-  "url": "https://www.espn.com/video/clip/_/id/50369234/are-seahawks-rbs-startable-fantasy-football",
-  "teams": [
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50369234",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50369290",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-03T16:04:20Z",
-  "text": "Why Dopp is encouraging fantasy managers to pick up Jonah Coleman. Why Dopp is encouraging fantasy managers to pick up Jonah Coleman",
-  "url": "https://www.espn.com/video/clip/_/id/50369290/why-dopp-encouraging-fantasy-managers-pick-jonah-coleman",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50369290",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50369342",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-03T16:02:31Z",
-  "text": "Is Adonai Mitchell a good fantasy option vs. Chiefs?. Is Adonai Mitchell a good fantasy option vs. Chiefs?",
-  "url": "https://www.espn.com/video/clip/_/id/50369342/is-adonai-mitchell-good-fantasy-option-vs-chiefs",
-  "teams": [
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50369342",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50369282",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-03T15:56:04Z",
-  "text": "Clay: Malik Willis is the best streaming QB in Week 9. Clay: Malik Willis is the best streaming QB in Week 9",
-  "url": "https://www.espn.com/video/clip/_/id/50369282/malik-willis-best-streaming-qb-week-9",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50369282",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50369192",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-03T15:52:59Z",
-  "text": "Is Caleb Williams a lineup lock for fantasy managers?. Is Caleb Williams a lineup lock for fantasy managers?",
-  "url": "https://www.espn.com/video/clip/_/id/50369192/is-caleb-williams-lineup-lock-fantasy-managers",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50369192",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50369297",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-03T15:50:13Z",
-  "text": "Stephen A.: Right now, the Bears look like the NFL's best team. Stephen A.: Right now, the Bears look like the NFL's best team",
-  "url": "https://www.espn.com/video/clip/_/id/50369297/right-now-bears-look-nfl-best-team",
-  "teams": [
-   "GB",
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50369297",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50361464",
-  "source": "ESPN",
-  "author": "Ben Baby",
-  "time": "2026-11-03T15:33:42Z",
-  "text": "Trio brought in to replace All-Pro DE has shined for Bengals. Hendrickson has two sacks in Baltimore; Lawrence, Allen and Mafe have produced 13.5 in Cincinnati.",
-  "url": "https://www.espn.com/nfl/story/_/id/50361464/cincinnati-bengals-hendrickson",
-  "teams": [
-   "CIN"
-  ],
-  "facts": {
-   "id": "espnnews-50361464",
-   "team": "CIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50367539",
-  "source": "ESPN",
-  "author": "Courtney Cronin",
-  "time": "2026-11-03T14:07:17Z",
-  "text": "Jeffery Simmons stymies QB Sam Darnold, Seahawks in Bears debut. New Bears DT Jeffery Simmons had a sack, six tackles and deflected a pass as Chicago won its third straight Monday, and he also earned a game ball.",
-  "url": "https://www.espn.com/nfl/story/_/id/50367539/dt-jeffery-simons-immediate-boon-chicago-bears-defense-win-seattle-seahawks",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50367539",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50367609",
-  "source": "ESPN",
-  "author": "Courtney Cronin",
-  "time": "2026-11-03T14:06:14Z",
-  "text": "Bears' Caleb Williams dims cleat controversy with all-black custom pair. Caleb Williams wore all-black Caddix cleats after being fined by the NFL for wearing cleats with an \"unauthorized logo\" in weeks 6 and 7.",
-  "url": "https://www.espn.com/nfl/story/_/id/50367609/chicago-bears-williams-dims-controversy-surrounding-cleats-all-black-custom-pair",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50367609",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50368456",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-03T13:41:44Z",
-  "text": "The team Domonique Foxworth says needs Jonathan Taylor the most. The team Domonique Foxworth says needs Jonathan Taylor the most",
-  "url": "https://www.espn.com/video/clip/_/id/50368456/the-team-domonique-foxworth-says-needs-jonathan-taylor-most",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50368456",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50368412",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-03T13:24:53Z",
-  "text": "Are the Bears the best team in the NFL?. Are the Bears the best team in the NFL?",
-  "url": "https://www.espn.com/video/clip/_/id/50368412/are-bears-best-team-nfl",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50368412",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50320658",
-  "source": "ESPN",
-  "author": "Josh Weinfuss",
-  "time": "2026-11-03T12:19:30Z",
-  "text": "Cleats, controversy and the choice of Bears QB Caleb Williams. Williams wore Caddix cleats Monday night in Seattle, but the logo was not visible as he tries to 'calm things down.'",
-  "url": "https://www.espn.com/nfl/story/_/id/50320658/caddix-shoes-bears-caleb-williams-fines",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50320658",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50349677",
-  "source": "ESPN",
-  "author": "Cameron Wolfe",
-  "time": "2026-11-03T11:28:43Z",
-  "text": "How the NFL trade deadline went from quiet to exciting over the past decade. There were eight trades on deadline day in 2025, a long way from the zero we saw in 2015. We asked execs and agents what set off this big NFL trade deadline boom.",
-  "url": "https://www.espn.com/nfl/story/_/id/50349677/trade-deadline-rise-quiet-chaotic-more-deals-2026",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50349677",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50309394",
-  "source": "ESPN",
-  "author": "Jordan Raanan",
-  "time": "2026-11-03T11:00:10Z",
-  "text": "John Harbaugh pushing all the right buttons for Giants. The coach's culture of accountability and expectations has New York (4-2-1) in first place in the NFC East.",
-  "url": "https://www.espn.com/nfl/story/_/id/50309394/john-harbaugh-new-york-giants-pushing-right-buttons",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50309394",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50358866",
-  "source": "ESPN",
-  "author": "Mike Reiss",
-  "time": "2026-11-03T11:00:10Z",
-  "text": "Drake Maye digs the long ball: Patriots QB's success on deep passes keying surge. After struggling on deep passes early, Maye has been one of the best in the league at producing chunk plays in the pass game over the past few weeks.",
-  "url": "https://www.espn.com/nfl/story/_/id/50358866/patriots-drake-maye-deep-passes-20-plus-yards-turnaround",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50358866",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50360528",
-  "source": "ESPN",
-  "author": "Stephen Holder",
-  "time": "2026-11-03T11:00:03Z",
-  "text": "Why Colts are right to consider trading Jonathan Taylor. As the Colts begin their rebuild, they need draft picks, and Taylor is their most valuable asset.",
-  "url": "https://www.espn.com/nfl/story/_/id/50360528/colts-jonathan-taylor-trade-deadline",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50360528",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50362526",
-  "source": "ESPN",
-  "author": "Katherine Terrell",
-  "time": "2026-11-03T11:00:03Z",
-  "text": "Five things Saints must fix entering Week 9 vs. Browns. Protecting QB Tyler Shough, getting the run game going and igniting slow starts are among areas coach Kellen Moore is fixated on repairing.",
-  "url": "https://www.espn.com/nfl/story/_/id/50362526/5-things-new-orleans-saints-fix-entering-week-9-browns",
-  "teams": [
-   "NO"
-  ],
-  "facts": {
-   "id": "espnnews-50362526",
-   "team": "NO",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50367528",
-  "source": "ESPN",
-  "author": "Leonard Solms",
-  "time": "2026-11-03T10:40:25Z",
-  "text": "Foyesade Oluokun continues to quietly excel as Jaguars return to winning ways. Foyesade Oluokun may not be one of the most talked about defensive players in the NFL, but his performances this season have been up there with the most consistent.",
-  "url": "https://www.espn.com/espn/story/_/id/50367528/foyesade-oluokun-continues-quietly-excel-jaguars-return-winning-ways",
-  "teams": [
-   "KC",
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50367528",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
    "summary": null
   }
  }
