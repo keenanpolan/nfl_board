@@ -1,5 +1,324 @@
 [
  {
+  "id": "espnnews-50456405",
+  "source": "ESPN",
+  "author": "Ryan McFadden",
+  "time": "2026-11-12T01:31:39Z",
+  "text": "Fernando Mendoza relishes 'once-in-a-lifetime' opportunity as Raiders' QB1. No. 1 pick Fernando Mendoza said Wednesday it's a \"once-in-a-lifetime\" opportunity to be the Raiders' starting quarterback, while his teammates and coach expressed their confidence in his ability to lead the offense.",
+  "url": "https://www.espn.com/nfl/story/_/id/50456405/fernando-mendoza-relishes-once-life-opportunity-raiders-starting-qb",
+  "teams": [
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50456405",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50456881",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-11-12T01:28:27Z",
+  "text": "Veteran WR Keenan Allen feeling energized by trade to 49ers. Keenan Allen said while he didn't expect to get traded, landing with a contending team in the 49ers has him feeling energized.",
+  "url": "https://www.espn.com/nfl/story/_/id/50456881/veteran-wr-keenan-allen-feels-energized-trade-49ers",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50456881",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50068479",
+  "source": "ESPN",
+  "author": "Jordan Reid",
+  "time": "2026-11-12T01:20:37Z",
+  "text": "2027 NFL draft rankings: Jordan Reid's top 50 prospects, scouting reports. Jordan Reid updated his rankings for the 2027 NFL draft class with 50 players -- including seven quarterbacks and an elite wide receiver prospect.",
+  "url": "https://www.espn.com/nfl/draft2027/story/_/id/50068479/2027-nfl-draft-rankings-jordan-reid-top-prospects-players-positions",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50068479",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50456831",
+  "source": "ESPN",
+  "author": "Mark Schlabach and Pete Thamel",
+  "time": "2026-11-12T01:18:18Z",
+  "text": "Sources: Philip Rivers set to return to NC State, deal to be finalized Friday. Philip Rivers is set to return to NC State, this time as head football coach, once its trustees finalizes his contract after a meeting Friday, sources said.",
+  "url": "https://www.espn.com/college-football/story/_/id/50456831/sources-philip-rivers-nc-state-deal-set-finalized",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50456831",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50456677",
+  "source": "ESPN",
+  "author": "Marcel Louis-Jacques",
+  "time": "2026-11-12T01:12:02Z",
+  "text": "Dolphins hopeful QB Malik Willis will be back this season. Coach Jeff Hafley said Miami sees Malik Willis as its starter regardless of when he returns from his groin injury.",
+  "url": "https://www.espn.com/nfl/story/_/id/50456677/dolphins-quarterback-malik-willis-return-starter",
+  "teams": [
+   "MIA"
+  ],
+  "facts": {
+   "id": "espnnews-50456677",
+   "team": "MIA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50455074",
+  "source": "ESPN",
+  "author": "Josh Weinfuss",
+  "time": "2026-11-12T01:02:22Z",
+  "text": "Cardinals to start rookie QB Carson Beck against Rams. The Cardinals will start their third quarterback in three weeks, with rookie Carson Beck getting the nod for Sunday's home game against the Rams.",
+  "url": "https://www.espn.com/nfl/story/_/id/50455074/cardinals-start-rookie-qb-carson-beck-rams",
+  "teams": [
+   "ARI",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50455074",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "will start",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50456455",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-11-12T00:48:45Z",
+  "text": "Source: Ravens, now on third kicker, sign journeyman Riley Patterson. The Raven signed journeyman kicker Riley Patterson after his workout for the team on Wednesday, according to NFL Network.",
+  "url": "https://www.espn.com/nfl/story/_/id/50456455/source-ravens-now-third-kicker-sign-riley-patterson",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50456455",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50455775",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-11-12T00:07:39Z",
+  "text": "Kirk Cousins makes first comments on Minnesota trade at Great Clips. Kirk Cousins offered some thoughts on his trade to Minnesota after the news broke in the most on-brand location imaginable.",
+  "url": "https://www.espn.com/nfl/story/_/id/50455775/kirk-cousins-minnesota-trade-great-clips",
+  "teams": [
+   "MIN",
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50455775",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50455771",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-11-12T00:04:23Z",
+  "text": "Kirk Cousins says call with Kevin O'Connell convinced him to OK Vikings trade. Kirk Cousins has rejoined the Vikings after not quite three years away, relishing his familiarity with the Twin Cities area, the people in the organization.",
+  "url": "https://www.espn.com/nfl/story/_/id/50455771/kirk-cousins-reintroduced-vikings-starting-qb",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50455771",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50455318",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-11-11T23:36:14Z",
+  "text": "Sean McVay: Rams optimistic WR Davante Adams will return 'sooner than later'. The Rams are optimistic that injured wide receiver Davante Adams will return from his hamstring injury \"sooner than later,\" coach Sean McVay said.",
+  "url": "https://www.espn.com/nfl/story/_/id/50455318/mcvay-rams-optimistic-wr-adams-return-sooner-later",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50455318",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50455698",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-11-11T23:35:57Z",
+  "text": "New Bills safety Amani Hooker will be 'ready to go' vs. Jets. Amani Cooper said he's confident he'll be able to pick up defensive coordinator Jim Leonhard's scheme by kickoff vs. the Jets.",
+  "url": "https://www.espn.com/nfl/story/_/id/50455698/new-bills-safety-amani-hooker-ready-go-vs-jets",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50455698",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50455241",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-11T21:52:44Z",
+  "text": "Cardinals coach: Carson Beck's been a pro since he's been here. Cardinals coach: Carson Beck's been a pro since he's been here",
+  "url": "https://www.espn.com/video/clip/_/id/50455241/carson-beck-pro-here",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50455241",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50454187",
+  "source": "ESPN",
+  "author": "Mackenzie Kraemer",
+  "time": "2026-11-11T21:19:32Z",
+  "text": "NFL survivor power rankings: Why this is the week to use the Rams or the Bills. ESPN NFL survivor pool strategy, predictions and ranking the top seven options for Week 10.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50454187/nfl-survivor-week-10-survivor-pool-strategy-advice-picks",
+  "teams": [
+   "LA",
+   "BUF",
+   "SEA",
+   "JAX",
+   "BAL",
+   "HOU",
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50454187",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50454952",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-11-11T21:13:37Z",
+  "text": "Jets' Will McDonald has 'earned' bigger role, coach says. Jets coach Aaron Glenn said Will McDonald IV has \"earned\" a bigger role after meeting with the pass rusher following his trade request.",
+  "url": "https://www.espn.com/nfl/story/_/id/50454952/jets-mcdonald-earned-bigger-role-coach-says",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50454952",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50454635",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-11T20:01:45Z",
+  "text": "Zac Taylor says Bengals take responsibility for failed trade with Eagles. Zac Taylor says Bengals take responsibility for failed trade with Eagles",
+  "url": "https://www.espn.com/video/clip/_/id/50454635/zac-taylor-says-bengals-take-responsibility-failed-trade-eagles",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50454635",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50454081",
   "source": "ESPN",
   "author": "Nate Taylor",
@@ -334,6 +653,25 @@
   "teams": [],
   "facts": {
    "id": "espnnews-50453200",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50446940",
+  "source": "ESPN",
+  "author": "Tristan H. Cockcroft",
+  "time": "2026-11-11T15:27:24Z",
+  "text": "Fantasy football matchup ranks: Upgrade Ollie Gordon II, downgrade Jordan Love. The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50446940/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50446940",
    "team": null,
    "player": null,
    "position": null,
@@ -6716,438 +7054,6 @@
   "facts": {
    "id": "espnnews-50379105",
    "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50383054",
-  "source": "ESPN",
-  "author": "Ryan McFadden",
-  "time": "2026-11-05T01:30:37Z",
-  "text": "Return of 'Kirko Chainz' and In-N-Out runs: Kirk Cousins brings joy to Raiders. From reviving 'Kirko Chainz' to treating teammates to In-N-Out, Cousins is encouraging the Raiders to find joy.",
-  "url": "https://www.espn.com/nfl/story/_/id/50383054/kirk-cousins-raiders-kirko-chainz-celebration-teammates",
-  "teams": [
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50383054",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50383288",
-  "source": "ESPN",
-  "author": "Rob Demovsky",
-  "time": "2026-11-05T01:10:46Z",
-  "text": "RB Josh Jacobs not anticipating missing more time despite additional allegations. Packers running back Josh Jacobs said he's operating under the assumption that he won't have to sit out any more games than the six he already missed while on the NFL commissioner's exempt list despite the release of additional allegations against him.",
-  "url": "https://www.espn.com/nfl/story/_/id/50383288/packers-josh-jacobs-not-worried-missing-more-games-additional-allegations",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50383288",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50381369",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-11-05T00:57:25Z",
-  "text": "Ravens look to stabilize crumbling season with QB Jacoby Brissett. Given the veteran QB's recent track record, it remains to be seen whether Baltimore can truly salvage its season.",
-  "url": "https://www.espn.com/nfl/story/_/id/50381369/baltimore-ravens-crumbling-season-qb-jacoby-brissett",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50381369",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50383380",
-  "source": "ESPN",
-  "author": "Katherine Terrell",
-  "time": "2026-11-05T00:54:48Z",
-  "text": "Saints' Jordyn Tyson returns to practice, listed as limited participant. New Orleans Saints rookie wide receiver Jordyn Tyson took a major step toward making his season debut Wednesday, returning to practice for the first time since injuring his right hamstring in a joint practice against the Jacksonville Jaguars on Aug. 13.",
-  "url": "https://www.espn.com/nfl/story/_/id/50383380/saints-jordyn-tyson-first-practice-august-injury",
-  "teams": [
-   "NO"
-  ],
-  "facts": {
-   "id": "espnnews-50383380",
-   "team": "NO",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50383350",
-  "source": "ESPN",
-  "author": "Tim McManus",
-  "time": "2026-11-05T00:26:13Z",
-  "text": "Sources: Jalen Hurts makes appearance at Eagles facility. Sources said Wednesday was the first time some players had seen Jalen Hurts since he was put on injured reserve because of blood clots in his lungs.",
-  "url": "https://www.espn.com/nfl/story/_/id/50383350/jalen-hurts-makes-appearance-eagles-facility",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50383350",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50382895",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-11-05T00:01:04Z",
-  "text": "Niners' Kyle Shanahan says Jauan Jennings told him he's 'happy' with Vikings. Niners coach Kyle Shanahan said Jauan Jennings' decision not to return to San Francisco came after the two had a \"good talk\" via FaceTime.",
-  "url": "https://www.espn.com/nfl/story/_/id/50382895/niners-shanahan-says-jennings-told-happy-vikings",
-  "teams": [
-   "SF",
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50382895",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50382457",
-  "source": "ESPN",
-  "author": "Rob Demovsky",
-  "time": "2026-11-04T23:30:02Z",
-  "text": "Packers open Micah Parsons' practice window; still mum on return. The Packers opened Micha Parsons' 21-day window to practice while still on the PUP list, but the All-Pro edge avoided giving a firm return date.",
-  "url": "https://www.espn.com/nfl/story/_/id/50382457/packers-open-parsons-practice-window-mum-return",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50382457",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50382837",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-11-04T23:15:26Z",
-  "text": "Rams CB Jaylen Watson needs season-ending shoulder surgery, Sean Mcvay says. Rams cornerback Jaylen Watson will need shoulder surgery and be out for the rest of the season.",
-  "url": "https://www.espn.com/nfl/story/_/id/50382837/rams-cb-jaylen-watson-needs-season-ending-shoulder-surgery",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50382837",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50382806",
-  "source": "ESPN",
-  "author": "Todd Archer",
-  "time": "2026-11-04T22:42:10Z",
-  "text": "Quinnen Williams says Cowboys must 'execute,' over and over. When asked about issues on defense, the Cowboys' Quinnen Williams said the team needed to \"execute\" -- using a form of the word 32 times during an interview.",
-  "url": "https://www.espn.com/nfl/story/_/id/50382806/quinnen-williams-says-cowboys-execute-over",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50382806",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50381900",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-04T21:31:10Z",
-  "text": "Dan Campbell: Lions owe it to Jack Campbell to stay locked in. Dan Campbell: Lions owe it to Jack Campbell to stay locked in",
-  "url": "https://www.espn.com/video/clip/_/id/50381900/lions-owe-jack-campbell-stay-locked-in",
-  "teams": [
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50381900",
-   "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50381715",
-  "source": "ESPN",
-  "author": "Nate Taylor",
-  "time": "2026-11-04T21:27:32Z",
-  "text": "Chiefs' Patrick Mahomes hasn't run QB sneak since '19 season. The Chiefs continue to struggle in short-yardage rushing situations, with the team having not attempted a sneak of any kind since the 2023 season.",
-  "url": "https://www.espn.com/nfl/story/_/id/50381715/chiefs-patrick-mahomes-run-qb-sneak-19-season",
-  "teams": [
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50381715",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50381853",
-  "source": "ESPN",
-  "author": "Stephen Holder",
-  "time": "2026-11-04T21:16:35Z",
-  "text": "Colts' Shane Steichen defends Jonathan Taylor usage, says RB will keep role. Jonathan Taylor will continue to play his usual role with the Colts despite being at the center of trade talks with multiple teams, Shane Steichen said.",
-  "url": "https://www.espn.com/nfl/story/_/id/50381853/shane-steichen-defends-colts-jonathan-taylor-usage-trade",
-  "teams": [
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50381853",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50381398",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-04T20:25:09Z",
-  "text": "Why McAfee likes Jacoby Brissett trade to Ravens. Why McAfee likes Jacoby Brissett trade to Ravens",
-  "url": "https://www.espn.com/video/clip/_/id/50381398/why-mcafee-likes-jacoby-brissett-trade-ravens",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50381398",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50378943",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-04T20:09:53Z",
-  "text": "Jason McCourty: This is Shedeur Sanders' opportunity to show what he can do. Jason McCourty: This is Shedeur Sanders' opportunity to show what he can do",
-  "url": "https://www.espn.com/video/clip/_/id/50378943/shedeur-sanders-opportunity-show-do",
-  "teams": [
-   "CLE"
-  ],
-  "facts": {
-   "id": "espnnews-50378943",
-   "team": "CLE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50381233",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-04T20:09:13Z",
-  "text": "Rich Eisen marvels at Giants-Eagles QB matchup in Week 9. Rich Eisen marvels at Giants-Eagles QB matchup in Week 9",
-  "url": "https://www.espn.com/video/clip/_/id/50381233/rich-eisen-marvels-giants-eagles-qb-matchup-week-9",
-  "teams": [
-   "NYG",
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50381233",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50381318",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-04T20:04:53Z",
-  "text": "Sources: Ravens finalizing trade with Cardinals for QB Jacoby Brissett. The Cardinals are finalizing a trade to send quarterback Jacoby Brissett to the Ravens, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
-  "url": "https://www.espn.com/nfl/story/_/id/50381318/sources-ravens-finalizing-trade-cardinals-qb-brissett",
-  "teams": [
-   "BAL",
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50381318",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50043471",
-  "source": "ESPN",
-  "author": "ESPN staff",
-  "time": "2026-11-04T20:03:33Z",
-  "text": "2026 NFL trade deadline updates: Jacoby Brissett, Jeffery Simmons on the move. The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including a deal to send quarterback Jacoby Brissett to Baltimore.",
-  "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50043471",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50380724",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-04T20:02:44Z",
-  "text": "Sources: Slumping Eagles turn to Joe Milton as starting QB vs. Giants. The Eagles will turn to Joe Milton as their starting QB against the Giants, sources told NFL Network and ESPN.",
-  "url": "https://www.espn.com/nfl/story/_/id/50380724/sources-eagles-turn-joe-milton-starting-qb-vs-giants",
-  "teams": [
-   "PHI",
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50380724",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50370030",
-  "source": "ESPN",
-  "author": "NFL Nation, Jeremy Fowler, Dan Graziano, Aaron Schatz and Seth Walder",
-  "time": "2026-11-04T20:00:47Z",
-  "text": "2026 NFL trade deadline: Players to watch, buzz and goals for all 32 teams. We outlined deadline plans for all 32 teams, including who could be dealt before 4 p.m. ET on Tuesday. Here's what you need to know.",
-  "url": "https://www.espn.com/nfl/story/_/id/50370030/trade-deadline-team-preview-goals-buzz-players-deals-2026",
-  "teams": [
-   "BUF",
-   "CAR",
-   "CHI",
-   "CIN",
-   "CLE",
-   "DAL",
-   "DEN",
-   "DET",
-   "GB",
-   "HOU",
-   "IND",
-   "JAX",
-   "KC",
-   "LV",
-   "LAC",
-   "LA",
-   "MIA",
-   "MIN",
-   "NE",
-   "NO",
-   "NYG",
-   "NYJ",
-   "PHI",
-   "PIT",
-   "SF",
-   "SEA",
-   "TB",
-   "TEN",
-   "WAS",
-   "ARI",
-   "ATL",
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50370030",
-   "team": "BUF",
    "player": null,
    "position": null,
    "status": "other",
