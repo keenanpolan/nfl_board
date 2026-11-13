@@ -1,5 +1,443 @@
 [
  {
+  "id": "espnnews-50466164",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-11-13T01:29:44Z",
+  "text": "Vikings 'hyped' to welcome back 'leader' Cousins on 1st day of practice. The Minnesota Vikings reveled Thursday in quarterback Kirk Cousins' first full day back with the organization.",
+  "url": "https://www.espn.com/nfl/story/_/id/50466164/vikings-hyped-welcome-back-leader-kirk-cousins-1st-day-practice",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50466164",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50466270",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-11-13T01:17:02Z",
+  "text": "Rams put WR Puka Nacua on IR with knee, toe injuries. The Rams, who had said they would not put Puka Nacua on IR, pivoted so they can sign Brennan Presley to the active roster and Tyler Scott to the practice squad.",
+  "url": "https://www.espn.com/nfl/story/_/id/50466270/rams-wide-receiver-puka-nacua-ir-knee-toe-injuries",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50466270",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50465223",
+  "source": "ESPN",
+  "author": "ESPN Staff",
+  "time": "2026-11-13T00:54:58Z",
+  "text": "Cam Skattebo dons custom 'Iron Man' mask for TNF, leads NFL Week 10 arrivals. NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+  "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals",
+  "teams": [
+   "GB",
+   "ATL",
+   "KC",
+   "NYG",
+   "CLE",
+   "LAC",
+   "IND",
+   "CAR",
+   "TEN",
+   "PIT",
+   "HOU",
+   "WAS",
+   "BAL",
+   "MIN",
+   "TB",
+   "LV",
+   "NO",
+   "ARI",
+   "DAL",
+   "PHI",
+   "CHI",
+   "SEA",
+   "BUF",
+   "MIA",
+   "NYJ",
+   "CIN",
+   "DET",
+   "JAX",
+   "DEN",
+   "SF",
+   "LA",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50465223",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-b73ebe20ae5e8",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-13T00:38:16.168Z",
+  "text": "Rams placed WR Puka Nacua on injured reserve due to his MCL injury. HC Sean McVay has said he expects Nacua to miss \u201cextended time.\u201d",
+  "url": "https://www.espn.com/contributor/adam-schefter/b73ebe20ae5e8",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espn-b73ebe20ae5e8",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50465608",
+  "source": "ESPN",
+  "author": "Lindsey Thiry",
+  "time": "2026-11-13T00:02:09Z",
+  "text": "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing. GM Joe Hortiz pushed back against any narrative that the Chargers were unwilling or reluctant to pick up their phone ahead of Tuesday's trade deadline.",
+  "url": "https://www.espn.com/nfl/story/_/id/50465608/joe-hortiz-says-chargers-were-listening-trade-offers",
+  "teams": [
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50465608",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50465791",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-13T00:00:41Z",
+  "text": "Steelers and Bengals meet for AFC North lead on Sunday night, both 6-2. Joe Burrow and the Cincinnati Bengals have been on a record run during their four-game winning streak.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873064",
+  "teams": [
+   "CIN",
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50465791",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50465755",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-12T23:58:44Z",
+  "text": "Reunion for Jim Harbaugh and Jesse Minter comes with both the Chargers and Ravens spiraling. \u2014 Jim Harbaugh and Jesse Minter won a national championship together at the college level, then led the Los Angeles Chargers to back-to-back playoff appearances.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873065",
+  "teams": [
+   "BAL",
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50465755",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50465647",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-12T23:33:35Z",
+  "text": "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense. \u2014 First-year Arizona Cardinals coach Mike LaFleur is earning his paycheck this week as he works to develop an offensive game plan with a rookie...",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873061",
+  "teams": [
+   "ARI",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50465647",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50464601",
+  "source": "ESPN",
+  "author": "Lindsey Thiry",
+  "time": "2026-11-12T23:30:54Z",
+  "text": "Chargers' Jim Harbaugh frustrated with Broncos after nixed Daiyan Henley trade. Chargers coach Jim Harbaugh on Thursday expressed frustration with the Denver Broncos about a nixed trade this week involving linebacker Daiyan Henley.",
+  "url": "https://www.espn.com/nfl/story/_/id/50464601/chargers-jim-harbaugh-irked-broncos-nixed-trade",
+  "teams": [
+   "LAC",
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50464601",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50465631",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-12T23:29:36Z",
+  "text": "Raiders QB Fernando Mendoza\u2019s first start will come against the Seahawks' NFL-best defense. \u2014 The change came quickly Tuesday, but it was not unexpected when the ",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873062",
+  "teams": [
+   "LV",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50465631",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50465394",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-12T23:10:35Z",
+  "text": "QB Kyle McCord eager to make his 1st NFL start as Dolphins and Colts meet in battle of reeling teams. \u2014 Miami Dolphins quarterback Kyle McCord has dreamed about this moment his entire life.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873059",
+  "teams": [
+   "IND",
+   "MIA"
+  ],
+  "facts": {
+   "id": "espnnews-50465394",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50465194",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-12T22:44:35Z",
+  "text": "NFL rushing leaders in spotlight as Kenneth Walker III and Chiefs face Bijan Robinson and Falcons. \u2014 The NFL's rushing leaders will be in the spotlight on Sunday when Bijan Robinson and the Atlanta Falcons face Kenneth Walker III and the Kansas City Chiefs.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873058",
+  "teams": [
+   "ATL",
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50465194",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50464938",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-11-12T22:44:30Z",
+  "text": "Ravens QB Jacoby Brissett immersed in 'crash course' for Chargers tilt. New Ravens quarterback Jacoby Brissett says he's focused on Monday's game against the Chargers, not the team's plans at quarterback for the remainder of the season.",
+  "url": "https://www.espn.com/nfl/story/_/id/50464938/ravens-qb-brissett-immersed-crash-course-chargers",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50464938",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50464810",
+  "source": "ESPN",
+  "author": "Todd Archer",
+  "time": "2026-11-12T22:27:43Z",
+  "text": "Cowboys' Porter: My absence is because of injury, not my contract. Cowboys CB Joey Porter Jr. wants it known his absence the past two weeks has everything to do with an ankle injury and nothing to do with a future contract.",
+  "url": "https://www.espn.com/nfl/story/_/id/50464810/cowboys-joey-porter-absence-due-injury-not-contract",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50464810",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50464631",
+  "source": "ESPN",
+  "author": "Michael DiRocco",
+  "time": "2026-11-12T22:19:47Z",
+  "text": "Travis Hunter makes Jessie Bates' Jaguars trade a hit with his nephews. The safety's young nephews were thrilled to learn their uncle would be Hunter's teammate.",
+  "url": "https://www.espn.com/nfl/story/_/id/50464631/jaguars-jessie-bates-trade-travis-hunter",
+  "teams": [
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50464631",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50182998",
+  "source": "ESPN",
+  "author": "Mel Kiper Jr.",
+  "time": "2026-11-12T22:00:32Z",
+  "text": "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position. Seven quarterbacks ranked in the top 25? This NFL draft class could be fun. Mel Kiper Jr. stacks the best players on the board as of mid-November.",
+  "url": "https://www.espn.com/nfl/draft2027/story/_/id/50182998/2027-nfl-draft-rankings-kiper-big-board-top-prospects",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50182998",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50464665",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-12T21:50:35Z",
+  "text": "Kirk Cousins begins his 2nd stint with Vikings as they face the Packers in an NFC North showdown. \u2014 Kirk Cousins\u2019 career seemed at a crossroads when he tore his Achilles tendon during his last visit to Lambeau Field.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873060",
+  "teams": [
+   "GB",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50464665",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50464587",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-12T21:39:35Z",
+  "text": "Despite slow starts, the Panthers and Saints meet with a chance to become sole leaders of NFC South. \u2014 Never mind the Carolina Panthers' three-game losing streak, or that the New Orleans Saints dropped five of their first seven games this season.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873055",
+  "teams": [
+   "NO",
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50464587",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50464336",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-12T20:59:35Z",
+  "text": "Trevor Lawrence sees a 'shot' as the Jaguars add 3 defenders in trades before visiting Tennessee. \u2014 The Jacksonville Jaguars already felt pretty confident both in themselves and what they want for a franchise still searching for its first Super...",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873057",
+  "teams": [
+   "TEN",
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50464336",
+   "team": "TEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50463938",
   "source": "ESPN",
   "author": "Stephen Holder",
@@ -213,6 +651,28 @@
   "facts": {
    "id": "espnnews-50462343",
    "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-40699880",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-11-12T17:39:56Z",
+  "text": "Fantasy buzz: 12 players to target for the homestretch of the season. The NFL trade deadline might be over, but fantasy managers should still consider trading for these players.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+  "teams": [
+   "MIN",
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-40699880",
+   "team": "MIN",
    "player": null,
    "position": null,
    "status": "other",
@@ -6584,445 +7044,6 @@
   "facts": {
    "id": "espnnews-50393038",
    "team": "MIA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50394179",
-  "source": "ESPN",
-  "author": "ESPN Staff",
-  "time": "2026-11-06T01:13:55Z",
-  "text": "Jaguars-Ravens highlights: Best plays, moments, touchdowns, more. Here are the best plays from Jags-Ravens on Thursday Night Football.",
-  "url": "https://www.espn.com/nfl/story/_/id/50394179/best-plays-moments-touchdowns-more",
-  "teams": [
-   "BAL",
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50394179",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50394147",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-06T00:39:41Z",
-  "text": "Browns and Saints try to stay close to their division leaders as they meet in New Orleans. \u2014 The Cleveland Browns are two games above .500 but find themselves in third place in the AFC North and seeking a victory to keep pace with first-place Pittsburgh and second-place Cincinnati.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873039",
-  "teams": [
-   "NO",
-   "CLE"
-  ],
-  "facts": {
-   "id": "espnnews-50394147",
-   "team": "NO",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50393510",
-  "source": "ESPN",
-  "author": "ESPN Staff",
-  "time": "2026-11-06T00:38:13Z",
-  "text": "NFL Week 9 arrivals: Trevor Lawrence doubles up on denim, Ethan Burke reps Ovechkin. NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-  "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
-  "teams": [
-   "GB",
-   "ATL",
-   "KC",
-   "NYG",
-   "CLE",
-   "LAC",
-   "IND",
-   "CAR",
-   "TEN",
-   "PIT",
-   "HOU",
-   "WAS",
-   "BAL",
-   "MIN",
-   "TB",
-   "LV",
-   "NO",
-   "ARI",
-   "DAL",
-   "PHI",
-   "CHI",
-   "SEA",
-   "BUF",
-   "MIA",
-   "NYJ",
-   "CIN",
-   "DET",
-   "JAX",
-   "DEN",
-   "SF",
-   "LA",
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50393510",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50393350",
-  "source": "ESPN",
-  "author": "Brady Henderson",
-  "time": "2026-11-06T00:34:45Z",
-  "text": "Seahawks' Lock says elbow feeling 'better' ahead of start vs. Cardinals. Seattle Seahawks backup quarterback Drew Lock, who's in line to start this week with Sam Darnold sidelined, says the elbow injury that made him inactive for the past two games is \"doing a lot better.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50393350/seahawks-drew-lock-says-elbow-feeling-better-ahead-start-vs-cardinals",
-  "teams": [
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50393350",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50393344",
-  "source": "ESPN",
-  "author": "Todd Archer",
-  "time": "2026-11-06T00:18:14Z",
-  "text": "Cowboys laud mental health program put in place after Marshawn Kneeland's death. With Friday marking one year since the death of Marshawn Kneeland, Cowboys players took time to reflect on the team's effort to deal with mental health issues.",
-  "url": "https://www.espn.com/nfl/story/_/id/50393344/cowboys-laud-program-help-deal-mental-health-issues",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50393344",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50393654",
-  "source": "ESPN",
-  "author": "Michael Dirocco",
-  "time": "2026-11-06T00:16:20Z",
-  "text": "Jaguars' Bhayshul Tuten, Travon Walker will face Ravens on TNF. Jaguars running back Bhayshul Tuten and defensive end Travon Walker are active for Thursday night's game against the Baltimore Ravens.",
-  "url": "https://www.espn.com/nfl/story/_/id/50393654/jaguars-bhayshul-tuten-travon-walker-active-vs-ravens",
-  "teams": [
-   "JAX",
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50393654",
-   "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50393795",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-06T00:15:35Z",
-  "text": "Jordan Love, Drake Maye represent new era in Packers-Patriots matchup. \u2014 The Green Bay Packers and New England Patriots don\u2019t...",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873049",
-  "teams": [
-   "NE",
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50393795",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50393506",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-11-06T00:10:29Z",
-  "text": "Jets' Breece Hall says he's ready to play, cites threats for social media exit. Breece Hall proclaimed himself ready to play Sunday after missing five games with a quad injury -- a period in which he received hostile social media messages.",
-  "url": "https://www.espn.com/nfl/story/_/id/50393506/jets-breece-hall-return-chiefs-social-media-threats",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50393506",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50393433",
-  "source": "ESPN",
-  "author": "Kevin Seifert",
-  "time": "2026-11-05T23:53:26Z",
-  "text": "Justin Jefferson high on Vikings' offensive potential, doesn't want to waste it. Speaking for the first time since his frustrations overflowed in Detroit, Justin Jefferson said of the Vikings' offense: \"We've got to figure out that answer and figure it out fast.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50393433/justin-jefferson-says-vikings-need-figure-offense",
-  "teams": [
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50393433",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50393540",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-05T23:41:35Z",
-  "text": "Commanders offensive line preparing for challenge from Rams defensive front. \u2014 The Los Angeles Rams ' defensive line can be a massive challenge for opposing offensive lines.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873043",
-  "teams": [
-   "WAS",
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50393540",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50393369",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-05T23:23:35Z",
-  "text": "Dolphins host Lions with Hafley's team aiming for grit that Campbell has built in Detroit. \u2014 When Dan Campbell was hired as the Lions' head coach in 2021, he famously declared that Detroit would be a team that would \u201cbite...",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873042",
-  "teams": [
-   "MIA",
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50393369",
-   "team": "MIA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50393297",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-05T23:12:35Z",
-  "text": "Former Cougars QB Minshew returns to Washington with Arizona to face the Seahawks. The Cardinals are looking for quarterback Gardner Minshew to recapture some of his Washington State magic on Sunday when Arizona visits the Seattle Seahawks.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873048",
-  "teams": [
-   "SEA",
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50393297",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50391268",
-  "source": "ESPN",
-  "author": "Michael F. Florio",
-  "time": "2026-11-05T22:23:21Z",
-  "text": "Fantasy football: Ranking the best, worst landing spots for Jonathan Taylor. It may be just a matter of time before Taylor is dealt, so Michael F. Florio ranks his potential destinations.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50391268/fantasy-football-jonathan-taylor-trade",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50391268",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50392891",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-05T22:22:35Z",
-  "text": "Giants try to end 13-game losing streak in Philadelphia, as Eagles turn to 3rd-string QB Milton. \u2014 The New York Giants could practically mark an \u2018L\u2019 on their schedule each season as soon as they saw their date in Philadelphia.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873044",
-  "teams": [
-   "PHI",
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50392891",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50392746",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-05T22:08:36Z",
-  "text": "Stumbling Texans and winless Chargers meet in a matchup of NFL disappointments. \u2014 The Houston Texans and Los Angeles...",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873046",
-  "teams": [
-   "LAC",
-   "HOU"
-  ],
-  "facts": {
-   "id": "espnnews-50392746",
-   "team": "LAC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50392675",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-05T22:04:37Z",
-  "text": "Panthers place focus on stopping the run vs. Broncos following defensive coordinator change. \u2014 Carolina Panthers coach Dave Canales offered one overriding requisition to Todd Wash after promoting him to interim defensive coordinator last week: \"Stop the run.\"",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873041",
-  "teams": [
-   "CAR",
-   "DEN"
-  ],
-  "facts": {
-   "id": "espnnews-50392675",
-   "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50392395",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-05T21:38:35Z",
-  "text": "Jonathan Taylor turns trade talk into 'regular scheduled programming' as Colts and Cowboys meet. \u2014 Jonathan Taylor has grown accustomed to playing football as the rumor mill spins.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873040",
-  "teams": [
-   "IND",
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50392395",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50391911",
-  "source": "ESPN",
-  "author": "Nate Taylor and Michael Rothstein",
-  "time": "2026-11-05T21:20:36Z",
-  "text": "Chiefs WR Rashee Rice files for bankruptcy, claims he owes over $3.45M in debts. Chiefs wide receiver Rashee Rice filed for bankruptcy in federal court, claiming he has more than $3.45 million in debts.",
-  "url": "https://www.espn.com/nfl/story/_/id/50391911/chiefs-rashee-rice-files-bankruptcy-cites-345m-debt",
-  "teams": [
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50391911",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-16cd052056284",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-11-05T21:05:43.509Z",
-  "text": "Ravens officially placed QBs Lamar Jackson and Tyler Huntley on injured reserve.",
-  "url": "https://www.espn.com/contributor/adam-schefter/16cd052056284",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espn-16cd052056284",
-   "team": "BAL",
    "player": null,
    "position": null,
    "status": "other",
