@@ -1,5 +1,214 @@
 [
  {
+  "id": "espnnews-50462045",
+  "source": "ESPN",
+  "author": "Michael F. Florio",
+  "time": "2026-11-14T01:01:08Z",
+  "text": "Fantasy football Week 10 inactives: Who's in and who's out?. Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50462045/fantasy-football-injuries-nfl-week-10-inactive-active",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50462045",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50475505",
+  "source": "ESPN",
+  "author": "Brady Henderson",
+  "time": "2026-11-14T00:33:45Z",
+  "text": "Seahawks are hurting with injuries, but two players will return vs. Raiders. QB Drew Lock will start again for Darnold. LB Uchenna Nwosu and WR Rashid Shaheed will return to the field in Las Vegas.",
+  "url": "https://www.espn.com/nfl/story/_/id/50475505/seahawks-raiders-week-10-darnold-lock-shaheed-returns",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50475505",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "will start",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50475033",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-11-13T23:06:06Z",
+  "text": "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys. The 49ers are listing left tackle Trent Williams and linebacker Dre Greenlaw as questionable for Sunday's game against the Cowboys, while receiver Mike Evans has been ruled out.",
+  "url": "https://www.espn.com/nfl/story/_/id/50475033/49ers-williams-greenlaw-questionable-evans-vs-cowboys",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50475033",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50474994",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-13T22:48:46Z",
+  "text": "When will Lamar Jackson return to the field?. Jamison Hensley provides an update on Jackson's thumb injury post surgery, projecting a potential return as early as Week 16.",
+  "url": "https://www.espn.com/video/clip/_/id/50474994/when-lamar-jackson-return-field",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50474994",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50474656",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-13T22:47:11Z",
+  "text": "Colts look to take advantage of Dolphins without QB Malik Willis. Stephen Holder previews the Colts matchup against he Dolphins with new faces on offense post the NFL trade deadline.",
+  "url": "https://www.espn.com/video/clip/_/id/50474656/colts-look-take-advantage-dolphins-qb-malik-willis",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50474656",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50474753",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-11-13T22:41:55Z",
+  "text": "Vikings to start reacquired QB Kirk Cousins vs. Packers. Coach Kevin O'Connell called Kirk Cousins' ability to get reacquainted with the Vikings' offense \"impressive.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50474753/vikings-start-reacquired-qb-kirk-cousins-vs-packers",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50474753",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50474564",
+  "source": "ESPN",
+  "author": "Tim McManus",
+  "time": "2026-11-13T22:23:25Z",
+  "text": "NFL outlines steps in Jalen Hurts investigation in letter to senator. The NFL provided some additional details about the investigation into how Jalen Hurts' blood clots were handled in response to an inquiry from a U.S. senator.",
+  "url": "https://www.espn.com/nfl/story/_/id/50474564/nfl-outlines-aspects-jalen-hurts-investigation-senator",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50474564",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50474246",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-13T21:15:49Z",
+  "text": "Andy Reid delivers injury update on Kenneth Walker III. Andy Reid delivers injury update on Kenneth Walker III",
+  "url": "https://www.espn.com/video/clip/_/id/50474246/andy-reid-delivers-injury-update-kenneth-walker-iii",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50474246",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-978abd798699b",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-13T21:08:39.821Z",
+  "text": "Vikings QB Kirk Cousins will officially start Sunday\u2019s game at Green Bay.",
+  "url": "https://www.espn.com/contributor/adam-schefter/978abd798699b",
+  "teams": [
+   "MIN",
+   "GB"
+  ],
+  "facts": {
+   "id": "espn-978abd798699b",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50473949",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-13T20:22:32Z",
+  "text": "Panthers looking to build momentum. Mike Kaye previews the Panthers matchup against the Saints as the true second half of the NFL season begins.",
+  "url": "https://www.espn.com/video/clip/_/id/50473949/panthers-looking-build-momentum",
+  "teams": [
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50473949",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50473665",
   "source": "ESPN",
   "author": "ESPN",
@@ -666,6 +875,101 @@
   }
  },
  {
+  "id": "espnnews-49804068",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-11-13T14:42:17Z",
+  "text": "Fantasy football rankings for Week 10: Running back. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804068",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804149",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-11-13T14:40:57Z",
+  "text": "Fantasy football rankings for Week 10: Wide receiver. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804149",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804273",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-11-13T14:39:57Z",
+  "text": "Fantasy football rankings for Week 10: D/ST. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804273",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804164",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-11-13T14:39:34Z",
+  "text": "Fantasy football rankings for Week 10: Tight end. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804164",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804332",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-11-13T14:36:28Z",
+  "text": "Fantasy football rankings for Week 10: IDP. Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804332",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espn-7e6e4d97cdd68",
   "source": "ESPN",
   "author": "Adam Schefter",
@@ -678,6 +982,63 @@
   "facts": {
    "id": "espn-7e6e4d97cdd68",
    "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804233",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-11-13T14:32:07Z",
+  "text": "Fantasy football rankings for Week 10: Kicker. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804233",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49804022",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-11-13T14:31:19Z",
+  "text": "Fantasy football rankings for Week 10: Quarterback. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49804022",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49797082",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-11-13T14:29:43Z",
+  "text": "Fantasy football rankings Week 10: PPR and superflex. Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49797082",
+   "team": null,
    "player": null,
    "position": null,
    "status": "other",
@@ -6833,111 +7194,6 @@
   "facts": {
    "id": "espnnews-50357331",
    "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50401403",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-11-07T01:09:33Z",
-  "text": "Jacoby Brissett brings hope but realistic expectations for spiraling Ravens. The Ravens know what they're getting in acquiring veteran journeyman QB, but does Jacoby Brissett know what he's in for?",
-  "url": "https://www.espn.com/nfl/story/_/id/50401403/what-biggest-problems-facing-brissett-ravens",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50401403",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50402162",
-  "source": "ESPN",
-  "author": "Jordan Raanan",
-  "time": "2026-11-07T00:36:48Z",
-  "text": "Giants' Cam Skattebo doubtful vs. Eagles; Malik Nabers 'full go'. Giants running back Cam Skattebo is unlikely to play against the Eagles on Sunday, but receiver Malik Nabers is expected to be a \"full go\" without limitations.",
-  "url": "https://www.espn.com/nfl/story/_/id/50402162/giants-cam-skattebo-doubtful-vs-eagles-nabers-full-go",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50402162",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "doubtful",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50402899",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-11-07T00:25:27Z",
-  "text": "Brandon Aiyuk meets with 49ers, says he's healthy, 'looking to get reinstated'. Brandon Aiyuk met with the Niners on Friday to begin hammering out a path toward a divorce that has been more than two years in the making.",
-  "url": "https://www.espn.com/nfl/story/_/id/50402899/brandon-aiyuk-meets-49ers-looking-get-reinstated",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50402899",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50402740",
-  "source": "ESPN",
-  "author": "Brady Henderson",
-  "time": "2026-11-07T00:24:17Z",
-  "text": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out. New Seahawks trade acquisition Quenton Nelson will have a \"minor procedure\" and is one of six starters, including QB Sam Darnold, who won't play vs. the Cardinals.",
-  "url": "https://www.espn.com/nfl/story/_/id/50402740/seahawks-quenton-nelson-sam-darnold-starters-ruled-out",
-  "teams": [
-   "SEA"
-  ],
-  "facts": {
-   "id": "espnnews-50402740",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50402463",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-11-06T23:03:00Z",
-  "text": "Nick Bosa back, Christian McCaffrey good to go for Niners. The 49ers will have a healthy Nick Bosa for the first time since Week 2, and running back Christian McCaffrey is good to go this week against the Raiders.",
-  "url": "https://www.espn.com/nfl/story/_/id/50402463/nick-bosa-back-christian-mccaffrey-good-go-niners",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50402463",
-   "team": "SF",
    "player": null,
    "position": null,
    "status": "other",
