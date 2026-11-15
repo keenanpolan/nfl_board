@@ -1,5 +1,26 @@
 [
  {
+  "id": "espnnews-50491838",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-15T19:33:22Z",
+  "text": "Sources: Lions DE Aidan Hutchinson feared to have suffered significant knee injury. Lions star Aidan Hutchinson is feared to have suffered a significant injury to his right knee while celebrating a sack Sunday, sources told NFL Network.",
+  "url": "https://www.espn.com/nfl/story/_/id/50491838/sources-lions-hutchinson-feared-significant-knee-injury",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50491838",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50489998",
   "source": "ESPN",
   "author": "NFL Nation",
@@ -173,6 +194,44 @@
   "teams": [],
   "facts": {
    "id": "espnnews-50490428",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49881131",
+  "source": "ESPN",
+  "author": "Mel Kiper Jr. and Jordan Reid",
+  "time": "2026-11-15T17:34:06Z",
+  "text": "2027 NFL draft questions, latest intel, risers, CFB standouts. Is Jackson Harris the WR3 in the class? And has Boubacar Traore emerged as the No. 3 edge rusher? Here's our weekly draft spin, including top standouts.",
+  "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49881131",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49803708",
+  "source": "ESPN",
+  "author": "Eric Karabell",
+  "time": "2026-11-15T17:15:06Z",
+  "text": "Fantasy football flex and superflex rankings for Week 10. Trying to decide between a couple of closely ranked players this week? Eric Karabell's ranks are here to help.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49803708",
    "team": null,
    "player": null,
    "position": null,
@@ -7186,25 +7245,6 @@
   "facts": {
    "id": "espnnews-50424653",
    "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50422850",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-08T19:16:17Z",
-  "text": "Why Adam Rank can't drop Kyle Pitts just yet in fantasy. Why Adam Rank can't drop Kyle Pitts just yet in fantasy",
-  "url": "https://www.espn.com/video/clip/_/id/50422850/why-adam-rank-drop-kyle-pitts-just-yet-fantasy",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50422850",
-   "team": null,
    "player": null,
    "position": null,
    "status": "other",
