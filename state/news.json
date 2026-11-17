@@ -1,5 +1,151 @@
 [
  {
+  "id": "espnnews-50507501",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-17T03:45:46Z",
+  "text": "Bo Nix and Eli do some quality trolling of Peyton's rushing game. Bo Nix and Eli do some quality trolling of Peyton's rushing game",
+  "url": "https://www.espn.com/video/clip/_/id/50507501/bo-nix-eli-do-some-quality-trolling-peyton-rushing-game",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50507501",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50505946",
+  "source": "ESPN",
+  "author": "Brooke Pryor",
+  "time": "2026-11-17T02:52:26Z",
+  "text": "Mike McCarthy on Steelers' blowout loss: 'Needs to stop there'. After a deflating loss at Cincinnati, Pittsburgh faces a Week 11 gut-check game at the Eagles on Sunday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50505946/mike-mccarthy-pittsburgh-steelers-week-10-blowout-loss",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50505946",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50506869",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-11-17T02:37:21Z",
+  "text": "Rams center Coleman Shelton out 4-6 weeks with hamstring injury. Coleman Shelton strained his hamstring in the second quarter of the Rams' Week 10 victory over the Cardinals.",
+  "url": "https://www.espn.com/nfl/story/_/id/50506869/rams-coleman-shelton-4-6-weeks-hamstring-injury",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50506869",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50506334",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-17T01:21:29Z",
+  "text": "Fan makes a fantastic catch to send himself to Super Bowl LXI. Fan makes a fantastic catch to send himself to Super Bowl LXI",
+  "url": "https://www.espn.com/video/clip/_/id/50506334/fan-makes-fantastic-catch-send-super-bowl-lxi",
+  "teams": [
+   "BAL",
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50506334",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50506147",
+  "source": "ESPN",
+  "author": "Rich Cimini",
+  "time": "2026-11-17T01:08:09Z",
+  "text": "Sources: Jets QB Geno Smith avoided major ankle injury, testing shows. Imaging tests performed on Jets quarterback Geno Smith's injured left ankle did not reveal any major concerns, sources said Monday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50506147/jets-qb-geno-smith-avoided-major-ankle-injury",
+  "teams": [
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50506147",
+   "team": "NYJ",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50505407",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-11-16T23:30:11Z",
+  "text": "Bears RB Kyle Monangai says he's 'on track' to return Sunday against Saints. Bears running back Kyle Monangai said Monday that he's \"on track\" to return Sunday against the Saints after sitting out five games because of a thumb injury and turf toe.",
+  "url": "https://www.espn.com/nfl/story/_/id/50505407/bears-rb-kyle-monangai-says-track-return-sunday",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50505407",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50504017",
+  "source": "ESPN",
+  "author": "Ryan McFadden",
+  "time": "2026-11-16T23:13:41Z",
+  "text": "Behind Raiders fans' tribute to Fernando Mendoza's mother. Tom Joanides' social media campaign became a meaningful tribute when Mendoza scored in his first NFL start.",
+  "url": "https://www.espn.com/nfl/story/_/id/50504017/raiders-fans-seated-fernando-mendoza-touchdown-tribute",
+  "teams": [
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50504017",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50502440",
   "source": "ESPN",
   "author": "Nick Wagoner",
@@ -7283,258 +7429,6 @@
   "facts": {
    "id": "espnnews-50442321",
    "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50438482",
-  "source": "ESPN",
-  "author": "Mike Reiss",
-  "time": "2026-11-10T03:19:17Z",
-  "text": "Source: Pats' Rhamondre Stevenson expected to miss time with knee tendon issue. Patriots top running back Rhamondre Stevenson is dealing with a knee tendon issue that is not expected to require surgery but could sideline him for a short period of time, a source told ESPN's Adam Schefter.",
-  "url": "https://www.espn.com/nfl/story/_/id/50438482/patriots-rhamondre-stevenson-dealing-knee-tendon-issue",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50438482",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50434826",
-  "source": "ESPN",
-  "author": "DJ Bien-Aime",
-  "time": "2026-11-10T02:23:21Z",
-  "text": "A 'confident' C.J. Stroud soaks in five-TD day against Chargers. Stroud matched his career high with five TD passes and added 384 passing yards in the win.",
-  "url": "https://www.espn.com/nfl/story/_/id/50434826/texans-cj-stroud-five-tds-chargers",
-  "teams": [
-   "HOU"
-  ],
-  "facts": {
-   "id": "espnnews-50434826",
-   "team": "HOU",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50437202",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-10T01:59:03Z",
-  "text": "Chargers' Jim Harbaugh says X-rays on QB Justin Herbert's finger negative. X-rays on the injured middle finger of Chargers quarterback Justin Herbert's left hand came back negative for a fracture, coach Jim Harbaugh said Monday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50437202/chargers-harbaugh-says-x-rays-herbert-finger-negative",
-  "teams": [
-   "LAC"
-  ],
-  "facts": {
-   "id": "espnnews-50437202",
-   "team": "LAC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50433036",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-10T00:43:34Z",
-  "text": "How Aaron Jones Sr. helped this military veteran. How Aaron Jones Sr. helped this military veteran",
-  "url": "https://www.espn.com/video/clip/_/id/50433036/how-aaron-jones-sr-helped-military-veteran",
-  "teams": [
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50433036",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50436570",
-  "source": "ESPN",
-  "author": "Todd Archer",
-  "time": "2026-11-10T00:42:04Z",
-  "text": "Schottenheimer: Cowboys will be without Ferguson, Goodson for 'multiple weeks'. The Dallas Cowboys will be without starting tight end Jake Ferguson and No. 2 running back Tyler Goodson for \"multiple weeks,\" coach Brian Schottenheimer told reporters Monday, a day after his team posted a 27-23 victory against the Indianapolis Colts.",
-  "url": "https://www.espn.com/nfl/story/_/id/50436570/cowboys-ferguson-goodson-multiple-weeks",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50436570",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50436869",
-  "source": "ESPN",
-  "author": "Ben Strauss",
-  "time": "2026-11-10T00:24:57Z",
-  "text": "Dianna Russini returning to sports media with show, column for BetUS. Dianna Russini is returning to sports media with a new weekly football show and column for the Costa Rica-based gambling company BetUS.",
-  "url": "https://www.espn.com/nfl/story/_/id/50436869/russini-returning-sports-media-show-column-betus",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50436869",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-1196ec6df2db5",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-11-10T00:06:18.378Z",
-  "text": "With veteran QB Gardner Minshew sidelined due to a UCL injury, the Cardinals are signing QB Josh Johnson off the Bengals\u2019 practice squad, per sources. The Cardinals will be Johnson\u2019s 15th NFL team in 14 NFL seasons.",
-  "url": "https://www.espn.com/contributor/adam-schefter/1196ec6df2db5",
-  "teams": [
-   "CIN",
-   "ARI"
-  ],
-  "facts": {
-   "id": "espn-1196ec6df2db5",
-   "team": "CIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50436652",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-09T23:47:46Z",
-  "text": "Marcus Spears: 'I'm worried about Puka and his longevity'. Marcus Spears: 'I'm worried about Puka and his longevity' ",
-  "url": "https://www.espn.com/video/clip/_/id/50436652/worried-puka-longevity",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50436652",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50436023",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-09T22:48:04Z",
-  "text": "Packers coach: Josh Jacobs needs surgery on finger. Packers coach: Josh Jacobs needs surgery on finger",
-  "url": "https://www.espn.com/video/clip/_/id/50436023/josh-jacobs-needs-surgery-finger",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50436023",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50435349",
-  "source": "ESPN",
-  "author": "Rob Demovsky",
-  "time": "2026-11-09T22:45:31Z",
-  "text": "Matt LaFleur: Packers' Josh Jacobs needs surgery on finger; IR not ruled out. Packers running back Josh Jacobs needs surgery on the fractured ring finger on his right hand, coach Matt LaFleur said.",
-  "url": "https://www.espn.com/nfl/story/_/id/50435349/packers-rb-josh-jacobs-needs-surgery-fractured-finger",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50435349",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50413261",
-  "source": "ESPN",
-  "author": "Pamela Maldonado",
-  "time": "2026-11-09T22:44:18Z",
-  "text": "How to bet Bills-Vikings: Analysis, best bets and top prop plays. Odds, analysis and picks to help you bet Monday night's Buffalo Bills-Minnesota Vikings game.",
-  "url": "https://www.espn.com/espn/betting/story/_/id/50413261/nfl-week-9-odds-betting-preview-bills-vikings-prop-tips",
-  "teams": [
-   "BUF",
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50413261",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50435879",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-11-09T22:43:42Z",
-  "text": "Rams WR Puka Nacua likely to hit IR with MCL and PCL sprain, turf toe. Los Angeles Rams wide receiver Puka Nacua is likely going on injured reserve due to an MCL/PCL sprain as well as turf toe, according to head coach Sean McVay.",
-  "url": "https://www.espn.com/nfl/story/_/id/50435879/rams-nacua-likely-hit-ir-mcl-pcl-sprain-turf-toe",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50435879",
-   "team": "LA",
    "player": null,
    "position": null,
    "status": "other",
