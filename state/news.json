@@ -1,5 +1,153 @@
 [
  {
+  "id": "espnnews-50525580",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-19T02:03:15Z",
+  "text": "Florio, Simms apologize for comments about Vrabel's mustache in Germany. \"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
+  "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50525580",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50526309",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-11-19T01:47:36Z",
+  "text": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'. Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
+  "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50526309",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50524109",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-11-19T00:10:21Z",
+  "text": "Ravens' Humphrey apologizes for quip that Baltimore 'best at making criminals'. Ravens cornerback Marlon Humphrey apologized Wednesday for the derogatory comment he recently made about Baltimore on his podcast.",
+  "url": "https://www.espn.com/nfl/story/_/id/50524109/ravens-humphrey-apologizes-criminals-quip-podcast",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50524109",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50524890",
+  "source": "ESPN",
+  "author": "DJ Bien-Aime and Stephen Holder",
+  "time": "2026-11-18T23:26:51Z",
+  "text": "TNF: Texans rule out DE Hunter, RB Marks; Colts rule out CB Ward, starting OTs. The Texans and Colts ruled out several key contributors for their Thursday night matchup.",
+  "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots",
+  "teams": [
+   "HOU",
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50524890",
+   "team": "HOU",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50524576",
+  "source": "ESPN",
+  "author": "Jordan Raanan",
+  "time": "2026-11-18T23:13:37Z",
+  "text": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury. Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack.",
+  "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50524576",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50524458",
+  "source": "ESPN",
+  "author": "Mike Kaye",
+  "time": "2026-11-18T22:37:57Z",
+  "text": "Panthers secondary set for boost with return of CB Mike Jackson. Panthers starting cornerback Mike Jackson, who has been sidelined since injuring his groin in Week 3, plans to be in the lineup Sunday against the Ravens.",
+  "url": "https://www.espn.com/nfl/story/_/id/50524458/panthers-cb-mike-jackson-set-return-sunday-vs-ravens",
+  "teams": [
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50524458",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-6acf2e786a26a",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-18T21:15:27.983Z",
+  "text": "Lions placed EDGE Aidan Hutchinson on injured reserve and activated S Kerby Joseph from Reserve/PUP.",
+  "url": "https://www.espn.com/contributor/adam-schefter/6acf2e786a26a",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espn-6acf2e786a26a",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50523800",
   "source": "ESPN",
   "author": "Rich Cimini",
@@ -6908,304 +7056,6 @@
   "facts": {
    "id": "espnnews-50454993",
    "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50456405",
-  "source": "ESPN",
-  "author": "Ryan McFadden",
-  "time": "2026-11-12T01:31:39Z",
-  "text": "Fernando Mendoza relishes 'once-in-a-lifetime' opportunity as Raiders' QB1. No. 1 pick Fernando Mendoza said Wednesday it's a \"once-in-a-lifetime\" opportunity to be the Raiders' starting quarterback, while his teammates and coach expressed their confidence in his ability to lead the offense.",
-  "url": "https://www.espn.com/nfl/story/_/id/50456405/fernando-mendoza-relishes-once-life-opportunity-raiders-starting-qb",
-  "teams": [
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50456405",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50456881",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-11-12T01:28:27Z",
-  "text": "Veteran WR Keenan Allen feeling energized by trade to 49ers. Keenan Allen said while he didn't expect to get traded, landing with a contending team in the 49ers has him feeling energized.",
-  "url": "https://www.espn.com/nfl/story/_/id/50456881/veteran-wr-keenan-allen-feels-energized-trade-49ers",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50456881",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "traded",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50068479",
-  "source": "ESPN",
-  "author": "Jordan Reid",
-  "time": "2026-11-12T01:20:37Z",
-  "text": "2027 NFL draft rankings: Jordan Reid's top 50 prospects, scouting reports. Jordan Reid updated his rankings for the 2027 NFL draft class with 50 players -- including seven quarterbacks and an elite wide receiver prospect.",
-  "url": "https://www.espn.com/nfl/draft2027/story/_/id/50068479/2027-nfl-draft-rankings-jordan-reid-top-prospects-players-positions",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50068479",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50456831",
-  "source": "ESPN",
-  "author": "Mark Schlabach and Pete Thamel",
-  "time": "2026-11-12T01:18:18Z",
-  "text": "Sources: Philip Rivers set to return to NC State, deal to be finalized Friday. Philip Rivers is set to return to NC State, this time as head football coach, once its trustees finalizes his contract after a meeting Friday, sources said.",
-  "url": "https://www.espn.com/college-football/story/_/id/50456831/sources-philip-rivers-nc-state-deal-set-finalized",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50456831",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50456677",
-  "source": "ESPN",
-  "author": "Marcel Louis-Jacques",
-  "time": "2026-11-12T01:12:02Z",
-  "text": "Dolphins hopeful QB Malik Willis will be back this season. Coach Jeff Hafley said Miami sees Malik Willis as its starter regardless of when he returns from his groin injury.",
-  "url": "https://www.espn.com/nfl/story/_/id/50456677/dolphins-quarterback-malik-willis-return-starter",
-  "teams": [
-   "MIA"
-  ],
-  "facts": {
-   "id": "espnnews-50456677",
-   "team": "MIA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50455074",
-  "source": "ESPN",
-  "author": "Josh Weinfuss",
-  "time": "2026-11-12T01:02:22Z",
-  "text": "Cardinals to start rookie QB Carson Beck against Rams. The Cardinals will start their third quarterback in three weeks, with rookie Carson Beck getting the nod for Sunday's home game against the Rams.",
-  "url": "https://www.espn.com/nfl/story/_/id/50455074/cardinals-start-rookie-qb-carson-beck-rams",
-  "teams": [
-   "ARI",
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50455074",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "will start",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50456455",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-11-12T00:48:45Z",
-  "text": "Source: Ravens, now on third kicker, sign journeyman Riley Patterson. The Raven signed journeyman kicker Riley Patterson after his workout for the team on Wednesday, according to NFL Network.",
-  "url": "https://www.espn.com/nfl/story/_/id/50456455/source-ravens-now-third-kicker-sign-riley-patterson",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50456455",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50455775",
-  "source": "ESPN",
-  "author": "ESPN staff",
-  "time": "2026-11-12T00:07:39Z",
-  "text": "Kirk Cousins makes first comments on Minnesota trade at Great Clips. Kirk Cousins offered some thoughts on his trade to Minnesota after the news broke in the most on-brand location imaginable.",
-  "url": "https://www.espn.com/nfl/story/_/id/50455775/kirk-cousins-minnesota-trade-great-clips",
-  "teams": [
-   "MIN",
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50455775",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50455771",
-  "source": "ESPN",
-  "author": "Kevin Seifert",
-  "time": "2026-11-12T00:04:23Z",
-  "text": "Kirk Cousins says call with Kevin O'Connell convinced him to OK Vikings trade. Kirk Cousins has rejoined the Vikings after not quite three years away, relishing his familiarity with the Twin Cities area, the people in the organization.",
-  "url": "https://www.espn.com/nfl/story/_/id/50455771/kirk-cousins-reintroduced-vikings-starting-qb",
-  "teams": [
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50455771",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50455318",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-11-11T23:36:14Z",
-  "text": "Sean McVay: Rams optimistic WR Davante Adams will return 'sooner than later'. The Rams are optimistic that injured wide receiver Davante Adams will return from his hamstring injury \"sooner than later,\" coach Sean McVay said.",
-  "url": "https://www.espn.com/nfl/story/_/id/50455318/mcvay-rams-optimistic-wr-adams-return-sooner-later",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50455318",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50455698",
-  "source": "ESPN",
-  "author": "Nick Suss",
-  "time": "2026-11-11T23:35:57Z",
-  "text": "New Bills safety Amani Hooker will be 'ready to go' vs. Jets. Amani Cooper said he's confident he'll be able to pick up defensive coordinator Jim Leonhard's scheme by kickoff vs. the Jets.",
-  "url": "https://www.espn.com/nfl/story/_/id/50455698/new-bills-safety-amani-hooker-ready-go-vs-jets",
-  "teams": [
-   "BUF"
-  ],
-  "facts": {
-   "id": "espnnews-50455698",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50455241",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-11T21:52:44Z",
-  "text": "Cardinals coach: Carson Beck's been a pro since he's been here. Cardinals coach: Carson Beck's been a pro since he's been here",
-  "url": "https://www.espn.com/video/clip/_/id/50455241/carson-beck-pro-here",
-  "teams": [
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50455241",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50454187",
-  "source": "ESPN",
-  "author": "Mackenzie Kraemer",
-  "time": "2026-11-11T21:19:32Z",
-  "text": "NFL survivor power rankings: Why this is the week to use the Rams or the Bills. ESPN NFL survivor pool strategy, predictions and ranking the top seven options for Week 10.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50454187/nfl-survivor-week-10-survivor-pool-strategy-advice-picks",
-  "teams": [
-   "LA",
-   "BUF",
-   "SEA",
-   "JAX",
-   "BAL",
-   "HOU",
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50454187",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50454952",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-11-11T21:13:37Z",
-  "text": "Jets' Will McDonald has 'earned' bigger role, coach says. Jets coach Aaron Glenn said Will McDonald IV has \"earned\" a bigger role after meeting with the pass rusher following his trade request.",
-  "url": "https://www.espn.com/nfl/story/_/id/50454952/jets-mcdonald-earned-bigger-role-coach-says",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50454952",
-   "team": "NYJ",
    "player": null,
    "position": null,
    "status": "other",
