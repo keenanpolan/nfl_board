@@ -1,5 +1,924 @@
 [
  {
+  "id": "espnnews-50543381",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-11-20T20:51:35Z",
+  "text": "Bills TE Dalton Kincaid doubtful to play vs. Dolphins. Bills starting tight end Dalton Kincaid, their leading receiver, is listed as doubtful for Sunday's game against the Dolphins due to thumb and ankle injuries.",
+  "url": "https://www.espn.com/nfl/story/_/id/50543381/bills-te-dalton-kincaid-doubtful-play-vs-dolphins",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50543381",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "doubtful",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-29553205",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T20:47:35Z",
+  "text": "Tom Brady tops list of athletes who became owners. The legendary quarterback is a member of an exclusive list of athletes that includes LeBron James, Serena Williams and Wayne Gretzky.",
+  "url": "https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners",
+  "teams": [
+   "MIA",
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-29553205",
+   "team": "MIA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50543025",
+  "source": "ESPN",
+  "author": "Katherine Terrell",
+  "time": "2026-11-20T20:39:47Z",
+  "text": "Justin Reid posts Saints farewell as team works through release. After safety Justin Reid requested his release earlier this week, Saints coach Kellen Moore said the team was still working through the process but expected a roster move to happen soon.",
+  "url": "https://www.espn.com/nfl/story/_/id/50543025/justin-reid-posts-saints-farewell-team-works-release",
+  "teams": [
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50543025",
+   "team": "NO",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50543014",
+  "source": "ESPN",
+  "author": "Nate Taylor",
+  "time": "2026-11-20T20:29:34Z",
+  "text": "Chiefs' Kenneth Walker III, two linemen out vs. Cardinals. Chiefs RB Kenneth Walker III will not play in Sunday's game against the Cardinals after not participating in practice this week due to a groin injury.",
+  "url": "https://www.espn.com/nfl/story/_/id/50543014/chiefs-expect-kenneth-walker-iii-vs-cardinals",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50543014",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542944",
+  "source": "ESPN",
+  "author": "Todd Archer",
+  "time": "2026-11-20T20:24:06Z",
+  "text": "Cowboys' Mike Pettine feels for DC Christian Parker, but focused on Titans. Mike Pettine, the Cowboys' new defensive playcaller, is focused on preparing for the Titans, not looking in the rearview mirror.",
+  "url": "https://www.espn.com/nfl/story/_/id/50542944/bottom-line-business-cowboys-pettine-focused-titans",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50542944",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542891",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-11-20T20:14:01Z",
+  "text": "Ravens rule out DT Nnamdi Madubuike (hamstring) vs Panthers. Ravens defensive tackle Nnamdi Madubuike has a hamstring injury and has been ruled out for Sunday's game against the Panthers.",
+  "url": "https://www.espn.com/nfl/story/_/id/50542891/ravens-rule-dt-nnamdi-madubuike-hamstring-vs-panthers",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50542891",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-badecc16d9110",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-20T20:06:18.884Z",
+  "text": "Chiefs ruled out RB Kenneth Walker for Sunday\u2019s game vs. the Cardinals due to his groin injury. It will be the second straight game he missed with rookie RB Emmett Johnson starting again.",
+  "url": "https://www.espn.com/contributor/adam-schefter/badecc16d9110",
+  "teams": [
+   "ARI",
+   "KC"
+  ],
+  "facts": {
+   "id": "espn-badecc16d9110",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542720",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-11-20T20:03:03Z",
+  "text": "Bears rule out CB Kyler Gordon; RB Kyle Monangai cleared to return. The Bears will be without nickel corner Kyler Gordon when they host the Saints, while running back Kyle Monangai, wide receiver Luther Burden III and defensive tackle Jeffery Simmons are expected to play.",
+  "url": "https://www.espn.com/nfl/story/_/id/50542720/bears-rule-cb-kyler-gordon-vs-saints",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50542720",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542859",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T20:02:03Z",
+  "text": "Bengals vs. Commanders: Where to watch 'Monday Night Football'. Here's what to know about the Week 11 matchup.",
+  "url": "https://www.espn.com/nfl/story/_/id/50542859/bengals-vs-commanders-watch-monday-night-football-week-11",
+  "teams": [
+   "CIN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50542859",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542293",
+  "source": "ESPN",
+  "author": "Stephen Holder",
+  "time": "2026-11-20T20:00:49Z",
+  "text": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start. The Colts have cut quarterback Daniel Jones after a challenging 11-game stint in 2026 and are turning to Anthony Richardson Sr. to start going forward.",
+  "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50542293",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542595",
+  "source": "ESPN",
+  "author": "Josh Weinfuss",
+  "time": "2026-11-20T19:59:27Z",
+  "text": "Cardinals QB Carson Beck dealing with back spasms; Josh Johnson may start. The Cardinals are preparing veteran quarterback Josh Johnson to start Sunday vs. the Chiefs as rookie Carson Beck deals with back spasms, coach Mike LaFleur said Friday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50542595/cardinals-qb-beck-dealing-back-spasms-johnson-start",
+  "teams": [
+   "ARI",
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50542595",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542830",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T19:59:04Z",
+  "text": "Mike LaFleur: Cardinals proceeding as if Josh Johnson will start. Mike LaFleur: Cardinals proceeding as if Josh Johnson will start",
+  "url": "https://www.espn.com/video/clip/_/id/50542830/cardinals-proceeding-josh-johnson-start",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50542830",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "will start",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542578",
+  "source": "ESPN",
+  "author": "Mike Reiss and Adam Schefter",
+  "time": "2026-11-20T19:36:45Z",
+  "text": "Patriots QB Drake Maye has fractured fibula, sources say. Patriots quarterback Drake Maye has a fractured right fibula, and receiver A.J. Brown has a hamstring injury, sources told ESPN's Mike Reiss and Adam Schefter.",
+  "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50542578",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542714",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T19:36:23Z",
+  "text": "McAfee & Co. speculate who will replace injured Drake Maye. McAfee & Co. speculate who will replace injured Drake Maye",
+  "url": "https://www.espn.com/video/clip/_/id/50542714/mcafee-co-speculate-replace-injured-drake-maye",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50542714",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-2f5408dd9212a",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-20T19:03:53.49Z",
+  "text": "Tests have shown that New England Patriots quarterback Drake Maye fractured his right fibula -- an injury that won't require surgery but is expected to sideline him deep into the regular season if he is able to return this year at all, sources told ESPN.",
+  "url": "https://www.espn.com/contributor/adam-schefter/2f5408dd9212a",
+  "teams": [
+   "NE"
+  ],
+  "facts": {
+   "id": "espn-2f5408dd9212a",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542238",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T18:42:32Z",
+  "text": "Sources: Tom Brady buys shares in Chelsea after Birmingham exit. Seven-time Super Bowl champion quarterback Tom Brady has invested in Chelsea soccer club, sources confirmed to ESPN and NFL Network.",
+  "url": "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50542238",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542310",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T18:28:58Z",
+  "text": "Schefter on Daniel Jones\u2019 release: Colts \u2018could\u2019ve and should\u2019ve traded him\u2019. Schefter on Daniel Jones\u2019 release: Colts \u2018could\u2019ve and should\u2019ve traded him\u2019",
+  "url": "https://www.espn.com/video/clip/_/id/50542310/colts-couldve-shouldve-traded-him",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50542310",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "traded",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542311",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T18:23:47Z",
+  "text": "Shane Steichen announces Daniel Jones' release from Colts. Shane Steichen announces Daniel Jones' release from Colts",
+  "url": "https://www.espn.com/video/clip/_/id/50542311/shane-steichen-announces-daniel-jones-release-colts",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50542311",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542028",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-11-20T18:19:07Z",
+  "text": "Rams' Puka Nacua has MCL surgery, likely done for regular season. Rams WR Puka Nacua, who is serving a three-game suspension while on IR, had surgery on his MCL and likely will miss at least the rest of the regular season.",
+  "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50542028",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-8ce0d99b4a833",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-20T18:05:44.467Z",
+  "text": "Stunner: Colts released QB Daniel Jones.",
+  "url": "https://www.espn.com/contributor/adam-schefter/8ce0d99b4a833",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espn-8ce0d99b4a833",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "released",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50534274",
+  "source": "ESPN",
+  "author": "Ben Solak, Seth Walder, Matt Bowen and Mike Clay",
+  "time": "2026-11-20T17:59:16Z",
+  "text": "Week 11 betting preview: Analysis, best bets, TD predictions for Sunday. Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50534274/week-11-nfl-odds-touchdown-props-best-bets-sunday-games",
+  "teams": [
+   "CHI",
+   "KC",
+   "TB",
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50534274",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-46c42eca7ec0e",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-20T17:44:11.631Z",
+  "text": "Cardinals HC Mike LaFleur said rookie QB Carson Beck is experiencing back spasms, and the team is now preparing to start veteran QB Josh Johnson on Sunday at Kansas City.",
+  "url": "https://www.espn.com/contributor/adam-schefter/46c42eca7ec0e",
+  "teams": [
+   "KC",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espn-46c42eca7ec0e",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542115",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T17:40:42Z",
+  "text": "Rapoport: Rams expect Puka to be out for season after knee surgery. Rapoport: Rams expect Puka to be out for season after knee surgery",
+  "url": "https://www.espn.com/video/clip/_/id/50542115/rams-expect-puka-for-season-knee-surgery",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50542115",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50542049",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T17:39:23Z",
+  "text": "Pat McAfee sees no hope for Colts' future. Pat McAfee sees no hope for Colts' future",
+  "url": "https://www.espn.com/video/clip/_/id/50542049/pat-mcafee-sees-no-hope-colts-future",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50542049",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-f6ce461cdb9eb",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-20T17:24:28.713Z",
+  "text": "The NFL was unaware that Rams WR Puka Nacua had undergone knee surgery Tuesday when it suspended him for three games Wednesday, per source.",
+  "url": "https://www.espn.com/contributor/adam-schefter/f6ce461cdb9eb",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espn-f6ce461cdb9eb",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "suspended",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541939",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T17:16:10Z",
+  "text": "Draft buzz: Interest in Oklahoma State's Drew Mestemaker could spur draft trade. If the Titans or Chargers wind up with the No. 1 selection and stick with their franchise quarterbacks, interest in Oklahoma State's Drew Mestemaker could lead to a team seeking to trade up for the top overall pick.",
+  "url": "https://www.espn.com/nfl/story/_/id/50541939/draft-buzz-mestemaker-spur-auction-no-1-pick",
+  "teams": [
+   "LAC",
+   "TEN",
+   "MIA",
+   "NYJ",
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50541939",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541178",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-11-20T17:12:30Z",
+  "text": "Can Ravens keep the Marlon Humphrey controversy from becoming a distraction?. While there's more to the cornerback's story, one Baltimore teammate says: \"We have enough things to worry about.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50541178/ravens-avoid-marlon-humphrey-controversy-distraction",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50541178",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-9e2673b6fb865",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-20T17:04:27.856Z",
+  "text": "Rams standout WR Puka Nacua is undergoing surgery on his MCL surgery and now could miss the rest of the season.\n\nRams HC Sean McVay confirmed the surgery while saying Nacua will be out \u201ca couple of months.\u201d",
+  "url": "https://www.espn.com/contributor/adam-schefter/9e2673b6fb865",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espn-9e2673b6fb865",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50530738",
+  "source": "ESPN",
+  "author": "Eric Moody",
+  "time": "2026-11-20T17:03:57Z",
+  "text": "Need fantasy football trade deadline advice? Join our live Q&A, noon ET. ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50530738/fantasy-football-start-sit-lineup-advice-week-11",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50530738",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541944",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T17:02:42Z",
+  "text": "DraftKings DFS cheat sheet: Best values for Sunday's main slate. Build a winning DFS lineup with our DraftKings NFL Week 11 cheat sheet identifying the best stacks and values",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50541944/draftkings-nfl-dfs-values-week-11",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50541944",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541756",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T16:51:11Z",
+  "text": "Bayless: I'm closing my eyes and taking Arch Manning at No. 1 in NFL draft.  Bayless: I'm closing my eyes and taking Arch Manning at No. 1 in NFL draft",
+  "url": "https://www.espn.com/video/clip/_/id/50541756/closing-my-eyes-taking-arch-manning-no-1-nfl-draft",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50541756",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541702",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T16:25:22Z",
+  "text": "Stephen A. can't hide his dismay over Skip's Cowboys optimism. Stephen A. can't hide his dismay over Skip's Cowboys optimism ",
+  "url": "https://www.espn.com/video/clip/_/id/50541702/stephen-hide-dismay-skip-cowboys-optimism",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50541702",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541547",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T16:23:24Z",
+  "text": "Yates, Clay disagree over Ollie Gordon II in Week 11. Yates, Clay disagree over Ollie Gordon II in Week 11",
+  "url": "https://www.espn.com/video/clip/_/id/50541547/yates-clay-disagree-ollie-gordon-ii-week-11",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50541547",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541586",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T16:21:59Z",
+  "text": "Mike Clay: Tyler Warren is not startable in fantasy. Mike Clay: Tyler Warren is not startable in fantasy",
+  "url": "https://www.espn.com/video/clip/_/id/50541586/tyler-warren-not-startable-fantasy",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50541586",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541498",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T16:19:10Z",
+  "text": "Field Yates voices his concerns for Saquon Barkley in fantasy. Field Yates voices his concerns for Saquon Barkley in fantasy",
+  "url": "https://www.espn.com/video/clip/_/id/50541498/field-yates-voices-concerns-saquon-barkley-fantasy",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50541498",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541489",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T16:15:42Z",
+  "text": "Why Field Yates is elevating Omarion Hampton in Week 11. Why Field Yates is elevating Omarion Hampton in Week 11",
+  "url": "https://www.espn.com/video/clip/_/id/50541489/why-field-yates-elevating-omarion-hampton-week-11",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50541489",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541578",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T16:14:39Z",
+  "text": "Why Stephen A. thinks 'special' Joe Burrow is the MVP front-runner. Why Stephen A. thinks 'special' Joe Burrow is the MVP front-runner",
+  "url": "https://www.espn.com/video/clip/_/id/50541578/why-stephen-thinks-special-joe-burrow-mvp-front-runner",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50541578",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541172",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T15:56:11Z",
+  "text": "Peyton Manning enshrined in ESPN Fantasy Football Hall of Fame. Peyton Manning, who retired as the top scorer of the ESPN fantasy football era, is the latest inductee in the ESPN Fantasy Football Hall of Fame.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50541172/fantasy-football-hall-fame-peyton-manning",
+  "teams": [
+   "DEN",
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50541172",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541437",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T15:47:43Z",
+  "text": "Why Stephen A. is picking the Vikings to beat the 49ers on SNF. Why Stephen A. is picking the Vikings to beat the 49ers on SNF",
+  "url": "https://www.espn.com/video/clip/_/id/50541437/why-stephen-picking-vikings-beat-49ers-snf",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50541437",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50541129",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T15:35:14Z",
+  "text": "Dan Orlovsky: C.J. Stroud is a top-5 AFC QB. Dan Orlovsky: C.J. Stroud is a top-5 AFC QB",
+  "url": "https://www.espn.com/video/clip/_/id/50541129/cj-stroud-top-5-afc-qb",
+  "teams": [
+   "HOU"
+  ],
+  "facts": {
+   "id": "espnnews-50541129",
+   "team": "HOU",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50540924",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-20T14:18:30Z",
+  "text": "Can the Broncos continue winning run vs. the Raiders?. Can the Broncos continue winning run vs. the Raiders?",
+  "url": "https://www.espn.com/video/clip/_/id/50540924/can-broncos-continue-winning-run-vs-raiders",
+  "teams": [
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50540924",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50532737",
+  "source": "ESPN",
+  "author": "Eric Karabell",
+  "time": "2026-11-20T13:16:44Z",
+  "text": "Fantasy football: Don't be surprised if Likely is TE1, Gainwell finishes strong. Eric Karabell explains why the Giants' TE could top the position and the Bucs' No. 2 RB will finish strong.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50532737/fantasy-football-start-sit-sleepers-breakouts-week-10",
+  "teams": [
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50532737",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50531472",
+  "source": "ESPN",
+  "author": "Adam Rank",
+  "time": "2026-11-20T12:40:11Z",
+  "text": "What to know to set your lineup: Nix, Ward viable options if your QB is on bye. Adam Rank catches you up on the vital information and insights before you make your toughest lineup decisions.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50531472/fantasy-football-start-sit-week-11-need-know",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50531472",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50532835",
+  "source": "ESPN",
+  "author": "Matt Bowen",
+  "time": "2026-11-20T11:51:24Z",
+  "text": "Fantasy football last-minute pickups: Flournoy, Ayomanor among top candidates. There is no busier bye week than this one. Matt Bowen lists potential options if you need a fill-in.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50532835/fantasy-football-streamers-last-minute-pickups-week-11",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50532835",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50536083",
   "source": "ESPN",
   "author": "DJ Bien-Aime",
@@ -6163,1046 +7082,6 @@
   "facts": {
    "id": "espn-978abd798699b",
    "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50473949",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T20:22:32Z",
-  "text": "Panthers looking to build momentum. Mike Kaye previews the Panthers matchup against the Saints as the true second half of the NFL season begins.",
-  "url": "https://www.espn.com/video/clip/_/id/50473949/panthers-looking-build-momentum",
-  "teams": [
-   "CAR"
-  ],
-  "facts": {
-   "id": "espnnews-50473949",
-   "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50473665",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T19:57:28Z",
-  "text": "Jeffery Simmons has high praise for Caleb Williams. Jeffery Simmons has high praise for Caleb Williams",
-  "url": "https://www.espn.com/video/clip/_/id/50473665/jeffery-simmons-high-praise-caleb-williams",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50473665",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50473514",
-  "source": "ESPN",
-  "author": "Tim McManus",
-  "time": "2026-11-13T19:49:22Z",
-  "text": "Sources: Eagles to release WR Hollywood Brown per request. Receiver Hollywood Brown, who has played sparingly over the first half of the season, is being released by the Eagles upon his request, sources told ESPN.",
-  "url": "https://www.espn.com/nfl/story/_/id/50473514/sources-eagles-release-wr-hollywood-brown-per-request",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50473514",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "released",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472215",
-  "source": "ESPN",
-  "author": "Mike Clay",
-  "time": "2026-11-13T19:07:14Z",
-  "text": "DraftKings DFS cheat sheet: Best values for Sunday's main slate. Build a winning DFS lineup with our DraftKings NFL Week 10 cheat sheet identifying the best stacks and values",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50472215/draftkings-nfl-dfs-values-week-10",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50472215",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50473329",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T18:57:36Z",
-  "text": "Brown's defense to face its toughest matchup. Sarah Shaw\u00a0\u00a0[1:33 PM] Daniel Oyefusi previews the Browns-Texans matchup and how C.J. Stroud will fare against Cleveland's defense.",
-  "url": "https://www.espn.com/video/clip/_/id/50473329/brown-defense-face-toughest-matchup",
-  "teams": [
-   "CLE"
-  ],
-  "facts": {
-   "id": "espnnews-50473329",
-   "team": "CLE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50473143",
-  "source": "ESPN",
-  "author": "Turron Davenport",
-  "time": "2026-11-13T18:50:11Z",
-  "text": "Rookie WR Carnell Tate among multiple Titans starters ruled out vs. Jaguars. The Titans will be without multiple starters against the Jaguars on Sunday, including rookie wide receiver Carnell Tate.",
-  "url": "https://www.espn.com/nfl/story/_/id/50473143/rookie-wr-carnell-tate-multiple-titans-ruled-out",
-  "teams": [
-   "TEN"
-  ],
-  "facts": {
-   "id": "espnnews-50473143",
-   "team": "TEN",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50473202",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T18:16:33Z",
-  "text": "Amon-Ra St. Brown eyes a 2028 Olympics flag football run for Germany. - Lions star Amon-Ra St. Brown says he wants to play flag football for Germany at the 2028 Los Angeles Olympics.",
-  "url": "https://www.espn.com/nfl/story/_/id/50473202/amon-ra-st-brown-eyes-2028-olympics-flag-football-run-germany",
-  "teams": [
-   "DET"
-  ],
-  "facts": {
-   "id": "espnnews-50473202",
-   "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472986",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T18:10:36Z",
-  "text": "Stephen A. is not having Marcus Spears' Cowboys optimism. Stephen A. is not having Marcus Spears' Cowboys optimism",
-  "url": "https://www.espn.com/video/clip/_/id/50472986/stephen-not-having-marcus-spears-cowboys-optimism",
-  "teams": [
-   "DAL",
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50472986",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-9091b775ec981",
-  "source": "ESPN",
-  "author": "Ian Rapoport",
-  "time": "2026-11-13T18:02:46.547Z",
-  "text": "The Cardinals and Elijah Higgins have reached an agreement on a three-year extension worth up to $26.8 million, per me and Adam Schefter. The deal ties him to Arizona through 2029 and was negotiated by Sam Mirza, Derek Hawkridge and Chris Cabott.",
-  "url": "https://www.espn.com/contributor/ian-rapoport/9091b775ec981",
-  "teams": [
-   "ARI"
-  ],
-  "facts": {
-   "id": "espn-9091b775ec981",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50473028",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T17:57:12Z",
-  "text": "Daniel Dopp's Week 10 DraftKings tournament lineup. Daniel Dopp's Week 10 DraftKings tournament lineup",
-  "url": "https://www.espn.com/video/clip/_/id/50473028/daniel-dopp-week-10-draftkings-tournament-lineup",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50473028",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-f3c1599a080a7",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-11-13T17:27:31.448Z",
-  "text": "NC State officially named the ACC\u2019s all-time passing leader and former NFL standout Philip Rivers its new head coach.",
-  "url": "https://www.espn.com/contributor/adam-schefter/f3c1599a080a7",
-  "teams": [],
-  "facts": {
-   "id": "espn-f3c1599a080a7",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50464884",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T17:27:20Z",
-  "text": "ESPN Fantasy Football Hall of Fame recognizes Clinton Portis' 5-touchdown game. Clinton Portis scored 5 touchdowns, rushing for over 200 yards in what was for many the first round of the 2003 fantasy football playoffs.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50464884/fantasy-football-hall-fame-clinton-portis",
-  "teams": [
-   "DEN"
-  ],
-  "facts": {
-   "id": "espnnews-50464884",
-   "team": "DEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472819",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T17:24:17Z",
-  "text": "Sonny Styles setting up Washington's game-winning drive. John Keim breaks down how Styles anticipated the Giants' offense before delivering a big hit on J.J. McCarthy.",
-  "url": "https://www.espn.com/video/clip/_/id/50472819/sonny-styles-setting-washington-game-winning-drive",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50472819",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472481",
-  "source": "ESPN",
-  "author": "Michael Dirocco",
-  "time": "2026-11-13T17:21:00Z",
-  "text": "Jaguars holding out new players Jordan Davis, Jessie Bates to give them bye. The Jaguars are holding out newly acquired Jordan Davis and Jessie Bates to give them a bye week.",
-  "url": "https://www.espn.com/nfl/story/_/id/50472481/jaguars-holding-new-players-jordan-davis-jessie-bates-give-bye",
-  "teams": [
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50472481",
-   "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472084",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T16:59:09Z",
-  "text": "Why Mike Clay feels good about Rashee Rice as a WR2. Why Mike Clay feels good about Rashee Rice as a WR2",
-  "url": "https://www.espn.com/video/clip/_/id/50472084/why-mike-clay-feels-good-rashee-rice-wr2",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50472084",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472192",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T16:45:45Z",
-  "text": "Where does Jayden Daniels rank among fantasy QBs?. Where does Jayden Daniels rank among fantasy QBs?",
-  "url": "https://www.espn.com/video/clip/_/id/50472192/where-does-jayden-daniels-rank-fantasy-qbs",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50472192",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472000",
-  "source": "ESPN",
-  "author": "Kalan Hooks",
-  "time": "2026-11-13T16:44:12Z",
-  "text": "Commanders QB Sam Hartman to star as 'The Bachelor' in milestone 30th season. The 30th season of ABC's \"The Bachelor\" that will premiere in March 2027 will star the former Notre Dame standout.",
-  "url": "https://www.espn.com/nfl/story/_/id/50472000/sam-hartman-bachelor-season-30",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50472000",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472265",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T16:42:12Z",
-  "text": "Why Mike Clay is locking Zach Charbonnet into his lineup vs. Las Vegas. Why Mike Clay is locking Zach Charbonnet into his lineup vs. Las Vegas",
-  "url": "https://www.espn.com/video/clip/_/id/50472265/why-mike-clay-locking-zach-charbonnet-lineup-vs-las-vegas",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50472265",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472139",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T16:38:34Z",
-  "text": "Should managers be concerned with Malik Nabers after 2 straight duds?. Should managers be concerned with Malik Nabers after 2 straight duds?",
-  "url": "https://www.espn.com/video/clip/_/id/50472139/should-managers-concerned-malik-nabers-2-straight-duds",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50472139",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472527",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T16:30:30Z",
-  "text": "Chargers vs. Ravens: Where to watch 'Monday Night Football'. Here's what to know about the Week 10 matchup.",
-  "url": "https://www.espn.com/nfl/story/_/id/50472527/chargers-vs-ravens-watch-monday-night-football-week-10",
-  "teams": [
-   "BAL",
-   "LAC"
-  ],
-  "facts": {
-   "id": "espnnews-50472527",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50465559",
-  "source": "ESPN",
-  "author": "Pamela Maldonado",
-  "time": "2026-11-13T16:28:13Z",
-  "text": "Joe Burrow is the MVP favorite, but is there a better betting value?. Joe Burrow is the MVP favorite halfway through the season, but is he worth a bet, or are their better values?",
-  "url": "https://www.espn.com/espn/betting/story/_/id/50465559/2026-nfl-mvp-favorite-odds-betting-quarterbacks",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50465559",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472214",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T16:26:45Z",
-  "text": "Why Cam Ward is a fantasy option to keep an eye on. Why Cam Ward is a fantasy option to keep an eye on",
-  "url": "https://www.espn.com/video/clip/_/id/50472214/why-cam-ward-fantasy-option-keep-eye-on",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50472214",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472222",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-11-13T16:25:06Z",
-  "text": "Minter: Lamar Jackson 'doing everything' to return; QB had surgery, source says. Ravens coach Jesse Minter's update on Lamar Jackson's recovery process calls such timelines \"challenging to predict.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50472222/ravens-lamar-jackson-injury-typical-line-6-10-weeks",
-  "teams": [
-   "BAL",
-   "BUF",
-   "CLE",
-   "LAC"
-  ],
-  "facts": {
-   "id": "espnnews-50472222",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50453355",
-  "source": "ESPN",
-  "author": "NFL Nation, Pamela Maldonado, Eric Moody and Aaron Schatz",
-  "time": "2026-11-13T16:06:32Z",
-  "text": "NFL Week 10 preview: Picks, predictions, schedule, betting odds, fantasy tips. Kirk Cousins' return to Minnesota? Patriots vs. Lions in Germany? There are 13 more games in Week 10, and we have picks, predictions and more for all of them.",
-  "url": "https://www.espn.com/nfl/story/_/id/50453355/week-10-picks-predictions-schedule-fantasy-odds-2026",
-  "teams": [
-   "NYG",
-   "DET",
-   "TB",
-   "ATL",
-   "PIT",
-   "NYJ",
-   "BUF",
-   "CIN",
-   "CLE",
-   "MIA",
-   "IND",
-   "LV",
-   "NE",
-   "ARI",
-   "NO",
-   "CAR",
-   "JAX",
-   "TEN",
-   "DEN",
-   "SF",
-   "SEA",
-   "LA",
-   "MIN",
-   "DAL",
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50453355",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50472074",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T15:29:56Z",
-  "text": "Stephen A.: 'John Harbaugh should be ashamed of himself' after Giants' loss. Stephen A.: 'John Harbaugh should be ashamed of himself' after Giants' loss",
-  "url": "https://www.espn.com/video/clip/_/id/50472074/john-harbaugh-ashamed-giants-loss",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50472074",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50471659",
-  "source": "ESPN",
-  "author": "Marc Raimondi",
-  "time": "2026-11-13T15:24:09Z",
-  "text": "Falcons sign DE Cameron Thomas, CB C.J. Henderson to multiyear extensions. The Atlanta Falcons have signed defensive end Cameron Thomas and cornerback C.J. Henderson to multiyear contract extensions, the team announced Friday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50471659/falcons-sign-de-thomas-cb-henderson-multiyear-extensions",
-  "teams": [
-   "ATL"
-  ],
-  "facts": {
-   "id": "espnnews-50471659",
-   "team": "ATL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50462993",
-  "source": "ESPN",
-  "author": "Courtney Cronin and Rob Demovsky and Kevin Seifert and Eric Woodyard",
-  "time": "2026-11-13T15:19:15Z",
-  "text": "NFC North: Bears win division? Cousins has Vikes in command?. What will Kirk Cousins and Micah Parsons mean for the best division in football, or will the Bears hang on?",
-  "url": "https://www.espn.com/nfl/story/_/id/50462993/lions-packers-bears-vikings-nfc-north",
-  "teams": [
-   "CHI",
-   "MIN",
-   "DET",
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50462993",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50435678",
-  "source": "ESPN",
-  "author": "Matt Bowen",
-  "time": "2026-11-13T15:19:12Z",
-  "text": "Fantasy football last-minute pickups: 12 players who can help in deeper leagues. If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50435678/fantasy-football-streamers-last-minute-pickups-week-10",
-  "teams": [
-   "MIA"
-  ],
-  "facts": {
-   "id": "espnnews-50435678",
-   "team": "MIA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50471662",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T15:16:17Z",
-  "text": "Are the Rams' playoff hopes over after Puka Nacua's injury?. Are the Rams' playoff hopes over after Puka Nacua's injury?",
-  "url": "https://www.espn.com/video/clip/_/id/50471662/are-rams-playoff-hopes-puka-nacua-injury",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50471662",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50463616",
-  "source": "ESPN",
-  "author": "Eric Karabell",
-  "time": "2026-11-13T15:06:11Z",
-  "text": "Don't be surprised if Jordan Love makes history and Mendoza performs like a QB1. Elite WRs compensate for the lack of a running game in Green Bay, while there's unwarranted caution for Vegas' QB.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50463616/fantasy-football-start-sit-sleepers-breakouts-week-10",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50463616",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50463729",
-  "source": "ESPN",
-  "author": "Ben Solak, Seth Walder, Matt Bowen and Mike Clay",
-  "time": "2026-11-13T15:05:31Z",
-  "text": "Week 10 betting preview: Analysis, best bets, TD predictions for Sunday. Our experts dive into the odds and player props for Week 10 and offer their betting tips and favorite plays.",
-  "url": "https://www.espn.com/espn/betting/story/_/id/50463729/week-10-nfl-odds-touchdown-props-best-bets-sunday-games",
-  "teams": [
-   "PIT",
-   "KC",
-   "IND",
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50463729",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50471768",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T15:01:56Z",
-  "text": "Will Lamar Jackson be able to return this season after thumb surgery?. Will Lamar Jackson be able to return this season after thumb surgery?",
-  "url": "https://www.espn.com/video/clip/_/id/50471768/will-lamar-jackson-able-return-season-thumb-surgery",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50471768",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49804068",
-  "source": "ESPN",
-  "author": "ESPN Fantasy",
-  "time": "2026-11-13T14:42:17Z",
-  "text": "Fantasy football rankings for Week 10: Running back. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49804068",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49804149",
-  "source": "ESPN",
-  "author": "ESPN Fantasy",
-  "time": "2026-11-13T14:40:57Z",
-  "text": "Fantasy football rankings for Week 10: Wide receiver. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49804149",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49804273",
-  "source": "ESPN",
-  "author": "ESPN Fantasy",
-  "time": "2026-11-13T14:39:57Z",
-  "text": "Fantasy football rankings for Week 10: D/ST. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49804273",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49804164",
-  "source": "ESPN",
-  "author": "ESPN Fantasy",
-  "time": "2026-11-13T14:39:34Z",
-  "text": "Fantasy football rankings for Week 10: Tight end. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49804164",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49804332",
-  "source": "ESPN",
-  "author": "ESPN Fantasy",
-  "time": "2026-11-13T14:36:28Z",
-  "text": "Fantasy football rankings for Week 10: IDP. Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49804332",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-7e6e4d97cdd68",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-11-13T14:32:23.296Z",
-  "text": "Ravens HC Jesse Minter said Lamar Jackson is expected to miss 6 to 10 weeks.",
-  "url": "https://www.espn.com/contributor/adam-schefter/7e6e4d97cdd68",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espn-7e6e4d97cdd68",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49804233",
-  "source": "ESPN",
-  "author": "ESPN Fantasy",
-  "time": "2026-11-13T14:32:07Z",
-  "text": "Fantasy football rankings for Week 10: Kicker. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49804233",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49804022",
-  "source": "ESPN",
-  "author": "ESPN Fantasy",
-  "time": "2026-11-13T14:31:19Z",
-  "text": "Fantasy football rankings for Week 10: Quarterback. Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49804022",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49797082",
-  "source": "ESPN",
-  "author": "ESPN Fantasy",
-  "time": "2026-11-13T14:29:43Z",
-  "text": "Fantasy football rankings Week 10: PPR and superflex. Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49797082",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50471328",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-13T14:07:41Z",
-  "text": "'I'd cut Jameis Winston this morning': Whitner not amused by hard count. 'I'd cut Jameis Winston this morning': Whitner not amused by hard count",
-  "url": "https://www.espn.com/video/clip/_/id/50471328/whitner-not-amused-hard-count",
-  "teams": [
-   "NYG",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50471328",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50463509",
-  "source": "ESPN",
-  "author": "Mike Kaye",
-  "time": "2026-11-13T14:01:15Z",
-  "text": "Is Chuba Hubbard the biggest X factor to spark a Panthers turnaround?. Meet Carolina's team captain, a locker room leader and a relentless running back who is \"chasing greatness myself.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50463509/chuba-hubbard-x-factor-spark-carolina-panthers",
-  "teams": [
-   "CAR"
-  ],
-  "facts": {
-   "id": "espnnews-50463509",
-   "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-5f0cb3bf78fd4",
-  "source": "ESPN",
-  "author": "Ian Rapoport",
-  "time": "2026-11-13T14:01:07.602Z",
-  "text": "The Falcons and EDGE Cameron Thomas reached agreement on a 3-year extension worth up to $33M, tying him to Atlanta through the 2029 season, per Adam Schefter and me. Equity Sports CEO Chris Cabott and Falcons GM Ian Cunningham and SVP Bryce Johnston wrapped up the agreement Thursday night.",
-  "url": "https://www.espn.com/contributor/ian-rapoport/5f0cb3bf78fd4",
-  "teams": [
-   "ATL"
-  ],
-  "facts": {
-   "id": "espn-5f0cb3bf78fd4",
-   "team": "ATL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50462723",
-  "source": "ESPN",
-  "author": "Jeremy Fowler",
-  "time": "2026-11-13T12:08:03Z",
-  "text": "NFL execs on tight playoff races, MVP, Super Bowl picks, breakouts, more. Who will win the most competitive divisions, and who's in line for awards? We asked sources around the NFL at midseason.",
-  "url": "https://www.espn.com/nfl/story/_/id/50462723/2026-nfl-playoffs-mvp-super-bowl-breakout-players-divisions",
-  "teams": [
-   "SEA",
-   "KC",
-   "LAC",
-   "DEN",
-   "DET",
-   "GB",
-   "HOU",
-   "BAL",
-   "IND",
-   "LA",
-   "SF",
-   "MIN",
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50462723",
-   "team": "SEA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-49965396",
-  "source": "ESPN",
-  "author": "Eric Moody",
-  "time": "2026-11-13T11:54:37Z",
-  "text": "Need fantasy football lineup or trade advice? Join our live Q&A with our expert, noon ET. ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/49965396/fantasy-football-start-sit-lineup-advice-week-10",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-49965396",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50463489",
-  "source": "ESPN",
-  "author": "Adam Rank",
-  "time": "2026-11-13T11:45:02Z",
-  "text": "What to know to set your lineup: Cousins' Vikings return elevates Jefferson. Adam Rank catches you up on the vital information and insight before you make your toughest lineup decisions.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50463489/fantasy-football-start-sit-week-10-need-know",
-  "teams": [
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50463489",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50464709",
-  "source": "ESPN",
-  "author": "Ben Baby and Brooke Pryor",
-  "time": "2026-11-13T11:00:11Z",
-  "text": "It's a battle for the AFC North: Steelers at Bengals Week 10 primer. Aaron Rodgers and Joe Burrow and their 6-2 teams face off Sunday night, and Ben Baby and Brooke Pryor break down the matchup.",
-  "url": "https://www.espn.com/nfl/story/_/id/50464709/afc-north-steelers-bengals-rodgers-burrow-week-10",
-  "teams": [
-   "PIT",
-   "CIN"
-  ],
-  "facts": {
-   "id": "espnnews-50464709",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50462155",
-  "source": "ESPN",
-  "author": "Dan Graziano",
-  "time": "2026-11-13T11:00:10Z",
-  "text": "Fernando Mendoza and the Raiders' sit-and-learn plan: Is he ready to start?. The Raiders had a plan for Fernando Mendoza in Year 1 and stuck to it as long as they could. But he's now QB1 earlier than expected, and they have to trust he's ready.",
-  "url": "https://www.espn.com/nfl/story/_/id/50462155/raiders-starting-fernando-mendoza-plan-decision-graziano",
-  "teams": [
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50462155",
-   "team": "LV",
    "player": null,
    "position": null,
    "status": "other",
