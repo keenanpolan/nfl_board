@@ -1,5 +1,47 @@
 [
  {
+  "id": "espnnews-50564475",
+  "source": "ESPN",
+  "author": "Brooke Pryor",
+  "time": "2026-11-22T20:30:06Z",
+  "text": "Steelers WR DK Metcalf ejected from game against Eagles. Steelers wide receiver DK Metcalf was ejected in the third quarter of Sunday's game against the Eagles for unsportsmanlike conduct.",
+  "url": "https://www.espn.com/nfl/story/_/id/50564475/steelers-wr-dk-metcalf-ejected-game-eagles",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50564475",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-bd6e35ebedb14",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-22T20:10:46.827Z",
+  "text": "Steelers WR DK Metcalf has been ejected for unsportsmanlike conduct.",
+  "url": "https://www.espn.com/contributor/adam-schefter/bd6e35ebedb14",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espn-bd6e35ebedb14",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50562956",
   "source": "ESPN",
   "author": "NFL Nation",
@@ -100,6 +142,25 @@
   "facts": {
    "id": "espnnews-50563922",
    "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49881131",
+  "source": "ESPN",
+  "author": "Mel Kiper Jr. and Jordan Reid",
+  "time": "2026-11-22T18:16:58Z",
+  "text": "2027 NFL draft questions, latest intel, risers, CFB standouts. Leonard Moore, Ashton Hampton and Ellis Robinson IV all in the top 10? And Jeremiah Smith and Charlie Becker both in the top five? Here's our draft spin off CFB Week 12.",
+  "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49881131",
+   "team": null,
    "player": null,
    "position": null,
    "status": "other",
@@ -6797,27 +6858,6 @@
   "facts": {
    "id": "espnnews-50493633",
    "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50492387",
-  "source": "ESPN",
-  "author": "Mike Reiss",
-  "time": "2026-11-15T20:12:30Z",
-  "text": "Patriots QB Drake Maye knocked out of blowout loss to Lions with ankle injury. Patriots quarterback Drake Maye suffered an ankle injury in Sunday's loss to the Lions.",
-  "url": "https://www.espn.com/nfl/story/_/id/50492387/patriots-qb-drake-maye-testing-ankle-injury",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50492387",
-   "team": "NE",
    "player": null,
    "position": null,
    "status": "other",
