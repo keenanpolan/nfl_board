@@ -1,5 +1,166 @@
 [
  {
+  "id": "espnnews-50580069",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-24T05:17:30Z",
+  "text": "Jayden Daniels reacts to Countdown crew picking Bengals over Commanders. Jayden Daniels reacts to Countdown crew picking Bengals over Commanders",
+  "url": "https://www.espn.com/video/clip/_/id/50580069/jayden-daniels-reacts-countdown-crew-picking-bengals-commanders",
+  "teams": [
+   "CIN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50580069",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50567903",
+  "source": "ESPN",
+  "author": "Anthony Gharib",
+  "time": "2026-11-24T04:59:15Z",
+  "text": "Commanders' Jayden Daniels-themed post aimed at Bengals tops NFL Week 11 trolls. NFL teams remained petty in Week 11, led by a post from the Washington Commanders.",
+  "url": "https://www.espn.com/nfl/story/_/id/50567903/nfl-week-11-trolls",
+  "teams": [
+   "BUF",
+   "MIA",
+   "CAR",
+   "BAL",
+   "DAL",
+   "TEN",
+   "PHI",
+   "PIT",
+   "WAS",
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50567903",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50573995",
+  "source": "ESPN",
+  "author": "John Keim and Ben Baby",
+  "time": "2026-11-24T04:58:12Z",
+  "text": "Commanders building momentum, halt Bengals' 5-game win streak. The Commanders' defense held the potent Bengals in check and Washington has won three of four.",
+  "url": "https://www.espn.com/nfl/story/_/id/50573995/2026-nfl-week-11-washington-commanders-cincinnati-bengals",
+  "teams": [
+   "CIN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50573995",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50579705",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-24T04:52:32Z",
+  "text": "Jayden Daniels rallies Commanders in final seconds to set up winning kick in 22-20 win over Bengals. \u2014 Jayden Daniels connected with rookie Antonio Williams on two long pass plays, moving the Commanders 64 yards in 34 seconds to set up Drew Stevens\u2019 ",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873078",
+  "teams": [
+   "WAS",
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50579705",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50579688",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-24T04:47:34Z",
+  "text": "Commanders storm back, stun Bengals 22-20 on MNF. Commanders storm back, stun Bengals 22-20 on MNF",
+  "url": "https://www.espn.com/video/clip/_/id/50579688/commanders-storm-back-stun-bengals-22-20-mnf",
+  "teams": [
+   "WAS",
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50579688",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50578357",
+  "source": "ESPN",
+  "author": "Brady Henderson",
+  "time": "2026-11-24T02:21:45Z",
+  "text": "Seahawks to monitor Sam Darnold status this week before final call vs. 49ers. The Seahawks still plan to start Sam Darnold against the 49ers but will wait to see how the QB looks in practice Wednesday before making a final call.",
+  "url": "https://www.espn.com/nfl/story/_/id/50578357/seahawks-holding-final-sam-darnold-call-vs-49ers",
+  "teams": [
+   "SEA",
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50578357",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50574682",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-24T00:44:06Z",
+  "text": "Nobody roots harder for Zac Taylor than his Special Olympics champion sister. Nobody roots harder for Zac Taylor than his Special Olympics champion sister",
+  "url": "https://www.espn.com/video/clip/_/id/50574682/nobody-roots-harder-zac-taylor-special-olympics-champion-sister",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50574682",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50577618",
   "source": "ESPN",
   "author": "ESPN",
@@ -6171,110 +6332,6 @@
   "facts": {
    "id": "espnnews-50509931",
    "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50507501",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-17T03:45:46Z",
-  "text": "Bo Nix and Eli do some quality trolling of Peyton's rushing game. Bo Nix and Eli do some quality trolling of Peyton's rushing game",
-  "url": "https://www.espn.com/video/clip/_/id/50507501/bo-nix-eli-do-some-quality-trolling-peyton-rushing-game",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50507501",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50505946",
-  "source": "ESPN",
-  "author": "Brooke Pryor",
-  "time": "2026-11-17T02:52:26Z",
-  "text": "Mike McCarthy on Steelers' blowout loss: 'Needs to stop there'. After a deflating loss at Cincinnati, Pittsburgh faces a Week 11 gut-check game at the Eagles on Sunday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50505946/mike-mccarthy-pittsburgh-steelers-week-10-blowout-loss",
-  "teams": [
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50505946",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50506869",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-11-17T02:37:21Z",
-  "text": "Rams center Coleman Shelton out 4-6 weeks with hamstring injury. Coleman Shelton strained his hamstring in the second quarter of the Rams' Week 10 victory over the Cardinals.",
-  "url": "https://www.espn.com/nfl/story/_/id/50506869/rams-coleman-shelton-4-6-weeks-hamstring-injury",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50506869",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50506334",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-17T01:21:29Z",
-  "text": "Fan makes a fantastic catch to send himself to Super Bowl LXI. Fan makes a fantastic catch to send himself to Super Bowl LXI",
-  "url": "https://www.espn.com/video/clip/_/id/50506334/fan-makes-fantastic-catch-send-super-bowl-lxi",
-  "teams": [
-   "BAL",
-   "LAC"
-  ],
-  "facts": {
-   "id": "espnnews-50506334",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50506147",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-11-17T01:08:09Z",
-  "text": "Sources: Jets QB Geno Smith avoided major ankle injury, testing shows. Imaging tests performed on Jets quarterback Geno Smith's injured left ankle did not reveal any major concerns, sources said Monday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50506147/jets-qb-geno-smith-avoided-major-ankle-injury",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50506147",
-   "team": "NYJ",
    "player": null,
    "position": null,
    "status": "other",
