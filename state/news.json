@@ -1,5 +1,1013 @@
 [
  {
+  "id": "espnnews-50595660",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T22:02:51Z",
+  "text": "Steelers cut Rodgers after QB rips McCarthy in scorched-earth interview. The Steelers have waived Aaron Rodgers after the quarterback said Wednesday on \"The Pat McAfee Show\" that coach Mike McCarthy has been sleeping through team meetings.",
+  "url": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50595660",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50597502",
+  "source": "ESPN",
+  "author": "Jamison Hensley",
+  "time": "2026-11-25T21:57:35Z",
+  "text": "RB Derrick Henry in concussion protocol but Ravens expect him to play Sunday. Ravens running back Derrick Henry was placed back into concussion protocol Wednesday, but he is expected to play Sunday at the Texans.",
+  "url": "https://www.espn.com/nfl/story/_/id/50597502/henry-concussion-protocol-ravens-expect-play",
+  "teams": [
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50597502",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50597534",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T21:56:45Z",
+  "text": "Sources: Mike McCarthy has Steelers' full support after Aaron Rodgers interview. Mike McCarthy has the full support of the Steelers organization and will remain their coach after Aaron Rodgers' allegations, sources told NFL Network and ESPN.",
+  "url": "https://www.espn.com/nfl/story/_/id/50597534/sources-mike-mccarthy-steelers-full-support",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50597534",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50577887",
+  "source": "ESPN",
+  "author": "Anthony Gharib",
+  "time": "2026-11-25T21:51:14Z",
+  "text": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks. Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
+  "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
+  "teams": [
+   "ARI",
+   "ATL",
+   "BAL",
+   "BUF",
+   "CAR",
+   "CHI",
+   "CIN",
+   "CLE",
+   "DAL",
+   "DEN",
+   "DET",
+   "GB",
+   "HOU",
+   "IND",
+   "JAX",
+   "KC",
+   "LV",
+   "LAC",
+   "LA",
+   "MIA",
+   "MIN",
+   "NE",
+   "NO",
+   "NYG",
+   "NYJ",
+   "PHI",
+   "PIT",
+   "SF",
+   "SEA",
+   "TB",
+   "TEN",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50577887",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50596948",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T21:49:44Z",
+  "text": "Panthers vs. Buccaneers: Where to watch 'Monday Night Football'. Here's what to know about the Week 12 matchup.",
+  "url": "https://www.espn.com/nfl/story/_/id/50596948/panthers-vs-buccaneers-watch-monday-night-football-week-12",
+  "teams": [
+   "CAR",
+   "TB"
+  ],
+  "facts": {
+   "id": "espnnews-50596948",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50597187",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T21:46:54Z",
+  "text": "Sources corroborate Aaron Rodgers' allegations about Steelers HC Mike McCarthy. NFL sources have corroborated Aaron Rodgers' account of Mike McCarthy to ESPN reporters, confirming the star QB's allegations about the Steelers coach.",
+  "url": "https://www.espn.com/nfl/story/_/id/50597187/sources-confirm-aaron-rodgers-allegations-mike-mccarthy",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50597187",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50597055",
+  "source": "ESPN",
+  "author": "Stephen Holder",
+  "time": "2026-11-25T21:31:27Z",
+  "text": "Colts' Alec Pierce: 'Definitely a chance' to return from heel injury this season. Colts WR Alec Pierce said on Wednesday he's progressing each day from a heel injury he sustained in Week 2 and hopes to return to play this season.",
+  "url": "https://www.espn.com/nfl/story/_/id/50597055/colts-alec-pierce-heel-injury-hopeful-return-season",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50597055",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50597032",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-11-25T21:18:35Z",
+  "text": "Bears rule out Gordon for second straight game due to shoulder injury. Bears cornerback Kyler Gordon's shoulder injury will prevent him from playing against the Lions in a key Thanksgiving Day divisional game in Detroit.",
+  "url": "https://www.espn.com/nfl/story/_/id/50597032/bears-rule-gordon-high-stakes-game-detroit",
+  "teams": [
+   "CHI",
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50597032",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50596866",
+  "source": "ESPN",
+  "author": "Kevin Seifert",
+  "time": "2026-11-25T21:16:38Z",
+  "text": "Vikings' Cousins says fiery demeanor part of leadership. Quarterback Kirk Cousins said there has been a \"fire and intensity to me\" since returning to the Vikings two weeks ago at the trade deadline.",
+  "url": "https://www.espn.com/nfl/story/_/id/50596866/vikings-cousins-says-fiery-demeanor-part-leadership",
+  "teams": [
+   "MIN"
+  ],
+  "facts": {
+   "id": "espnnews-50596866",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50596930",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-11-25T21:04:52Z",
+  "text": "49ers QB Brock Purdy has ankle injury, won't practice Wednesday. 49ers quarterback Brock Purdy will not practice Wednesday as he deals with an ankle injury suffered in Sunday night's game against the Vikings.",
+  "url": "https://www.espn.com/nfl/story/_/id/50596930/49ers-brock-purdy-ankle-injury-practice-wednesday",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50596930",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50595254",
+  "source": "ESPN",
+  "author": "Marc Raimondi",
+  "time": "2026-11-25T21:03:33Z",
+  "text": "Falcons 'aware' of insinuations Pearce still trying to contact ex Jackson. Kevin Stefanski said he and the team are aware of assertions made by Rickea Jackson that insinuated James Pearce Jr. is still trying to contact her.",
+  "url": "https://www.espn.com/nfl/story/_/id/50595254/falcons-aware-insinuations-pearce-trying-call-ex-gf",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50595254",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50587341",
+  "source": "ESPN",
+  "author": "John Keim and Nick Wagoner and Matt Bowen and Michael F Florio",
+  "time": "2026-11-25T21:00:38Z",
+  "text": "Commanders and WR Brandon Aiyuk: What to expect, his fit and fantasy impact. Our experts answer the biggest questions surrounding Aiyuk agreeing to join the Commanders practice squad.",
+  "url": "https://www.espn.com/nfl/story/_/id/50587341/brandon-aiyuk-commanders-questions",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50587341",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49907062",
+  "source": "ESPN",
+  "author": "Brooke Pryor",
+  "time": "2026-11-25T20:28:03Z",
+  "text": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones. The Pittsburgh passer is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-49907062",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-31433043",
+  "source": "ESPN",
+  "author": "Rob Demovsky",
+  "time": "2026-11-25T20:19:02Z",
+  "text": "Aaron Rodgers' timeline with Packers, ending in trade to Jets. Here's a look at how Rodgers -- a 2005 first-round pick, four-time MVP and Super Bowl champion quarterback -- finished out his career with the Packers.",
+  "url": "https://www.espn.com/nfl/story/_/id/31433043/from-holdout-concession-how-aaron-rodgers-green-bay-packers-got-here",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-31433043",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50596159",
+  "source": "ESPN",
+  "author": "Nick Suss",
+  "time": "2026-11-25T20:06:30Z",
+  "text": "Bills TE Kincaid, CB Benford among 5 starters who are questionable vs. Chiefs. The Bills are listing five starters -- including tight end Dalton Kincaid and cornerback Christian Benford -- as questionable for Thursday night's showdown with the Chiefs.",
+  "url": "https://www.espn.com/nfl/story/_/id/50596159/bills-kincaid-benford-5-starters-listed-questionable",
+  "teams": [
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50596159",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "questionable",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50595984",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T20:00:00Z",
+  "text": "Aaron Rodgers: 'Ship has sailed' on returning to the Steelers. Aaron Rodgers: 'Ship has sailed' on returning to the Steelers",
+  "url": "https://www.espn.com/video/clip/_/id/50595984/ship-sailed-returning-steelers",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50595984",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50595733",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T19:59:40Z",
+  "text": "Rodgers accuses McCarthy of 'snoring' during meetings, rips the Steelers coach. Rodgers accuses McCarthy of 'snoring' during meetings, rips the Steelers coach",
+  "url": "https://www.espn.com/video/clip/_/id/50595733/rodgers-accuses-mccarthy-snoring-meetings-rips-steelers-coach",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50595733",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-6a5a8b107ff60",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-25T19:58:12.186Z",
+  "text": "Steelers are releasing Aaron Rodgers, as @gerrydulac reported.",
+  "url": "https://www.espn.com/contributor/adam-schefter/6a5a8b107ff60",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espn-6a5a8b107ff60",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50594342",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T19:58:01Z",
+  "text": "Why Stephen A. is taking Josh Allen over Patrick Mahomes ... right now. Why Stephen A. is taking Josh Allen over Patrick Mahomes ... right now",
+  "url": "https://www.espn.com/video/clip/_/id/50594342/why-stephen-taking-josh-allen-patrick-mahomes-right-now",
+  "teams": [
+   "KC",
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50594342",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50595281",
+  "source": "ESPN",
+  "author": "John Keim",
+  "time": "2026-11-25T19:57:26Z",
+  "text": "Brandon Aiyuk joining Commanders, will reunite with college QB Jayden Daniels. Wide receiver Brandon Aiyuk is signing with the Commanders on their practice squad, agent Drew Rosenhaus told ESPN's Adam Schefter.",
+  "url": "https://www.espn.com/nfl/story/_/id/50595281/brandon-aiyuk-finishes-visit-commanders",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50595281",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50452931",
+  "source": "ESPN",
+  "author": "Matt Bowen",
+  "time": "2026-11-25T19:14:41Z",
+  "text": "Will the Rams be able to slow down the Packers' passing game?. Odds, analysis and recommended plays to help you bet the Thanksgiving eve Packers-Rams game.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50452931/nfl-week-12-odds-packers-rams-betting-preview-props",
+  "teams": [
+   "GB",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50452931",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-8c95840db312a",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-25T19:12:29.767Z",
+  "text": "Aaron Rodgers told the @PatMcAfeeShow that he won\u2019t return to the Steelers. \u201cThat ship has sailed,\u201d he said.",
+  "url": "https://www.espn.com/contributor/adam-schefter/8c95840db312a",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espn-8c95840db312a",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-fe25532f5f65a",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-25T18:56:48.072Z",
+  "text": "Aaron Rodgers said Mike McCarthy broke down the locker room huddle by saying, 1-2-3-Packers.",
+  "url": "https://www.espn.com/contributor/adam-schefter/fe25532f5f65a",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espn-fe25532f5f65a",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50595543",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T18:53:50Z",
+  "text": "Ian Rapoport gives details on Brandon Aiyuk joining Commanders' practice squad. Ian Rapoport gives details on Brandon Aiyuk joining Commanders' practice squad",
+  "url": "https://www.espn.com/video/clip/_/id/50595543/ian-rapoport-gives-details-brandon-aiyuk-joining-commanders-practice-squad",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50595543",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-dea53b0202bf4",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-25T18:48:43.113Z",
+  "text": "Aaron Rodgers said HC Mike McCarthy came into meetings, dozed off and was snoring.",
+  "url": "https://www.espn.com/contributor/adam-schefter/dea53b0202bf4",
+  "teams": [],
+  "facts": {
+   "id": "espn-dea53b0202bf4",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-99882427cd7b8",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-25T18:46:05.16Z",
+  "text": "Aaron Rodgers is now on the @PatMcAfeeShow.",
+  "url": "https://www.espn.com/contributor/adam-schefter/99882427cd7b8",
+  "teams": [],
+  "facts": {
+   "id": "espn-99882427cd7b8",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50573798",
+  "source": "ESPN",
+  "author": "Doug Greenberg",
+  "time": "2026-11-25T18:45:54Z",
+  "text": "How upsets in the 2026 NFL season have upended survivor pools. Why spend up to nearly $80,000 in order to win a survivor contest over halfway through the NFL season?",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50573798/nfl-2026-betting-survivor-pools-upsets-circa-splash",
+  "teams": [
+   "LAC",
+   "ARI",
+   "LA",
+   "PHI",
+   "BAL",
+   "DAL",
+   "IND",
+   "NE",
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50573798",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-b76e8810c789e",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-11-25T18:44:11.642Z",
+  "text": "Brandon Aiyuk has decided to join the #Commanders practice squad, per Adam Schefter, with the signing coming later.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/b76e8810c789e",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espn-b76e8810c789e",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50594339",
+  "source": "ESPN",
+  "author": "Mackenzie Kraemer",
+  "time": "2026-11-25T18:23:21Z",
+  "text": "NFL survivor power rankings: Why this is the week to use the Jaguars or Texans. ESPN NFL survivor pool strategy, predictions and ranking the top seven options for Week 12.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50594339/nfl-survivor-week-12-survivor-pool-strategy-advice-picks",
+  "teams": [
+   "NYG",
+   "MIN",
+   "CIN",
+   "WAS",
+   "DAL",
+   "HOU",
+   "JAX"
+  ],
+  "facts": {
+   "id": "espnnews-50594339",
+   "team": "NYG",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-5dac1947a5589",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-25T18:18:08.811Z",
+  "text": "Free-agent WR Brandon Aiyuk is signing with the Washington Commanders practice squad, per his agent Drew Rosenhaus. Aiyuk once again becomes teammates with Commanders QB Jayden Daniels.",
+  "url": "https://www.espn.com/contributor/adam-schefter/5dac1947a5589",
+  "teams": [
+   "WAS"
+  ],
+  "facts": {
+   "id": "espn-5dac1947a5589",
+   "team": "WAS",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50572372",
+  "source": "ESPN",
+  "author": "Mike Clay",
+  "time": "2026-11-25T17:58:39Z",
+  "text": "Fantasy playbook: Week 12 Shadow Reports, lineup locks and projected scores. An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50572372/fantasy-playbook-projections-lineup-locks-week-12-shadow",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50572372",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50594656",
+  "source": "ESPN",
+  "author": "Nate Taylor",
+  "time": "2026-11-25T17:22:59Z",
+  "text": "Chiefs rule RB Kenneth Walker III (groin) out for showdown vs. Bills. Chiefs running back Kenneth Walker III (groin) has been ruled out for Thursday's showdown against the Bills, the team announced Wednesday",
+  "url": "https://www.espn.com/nfl/story/_/id/50594656/chiefs-rb-kenneth-walker-iii-groin-thursday-vs-bills",
+  "teams": [
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50594656",
+   "team": "KC",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50594624",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T17:18:27Z",
+  "text": "Caleb Douglas' Week 12 fantasy preview. Caleb Douglas' Week 12 fantasy preview",
+  "url": "https://www.espn.com/video/clip/_/id/50594624/caleb-douglas-week-12-fantasy-preview",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50594624",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50594376",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T17:01:37Z",
+  "text": "Why Field Yates is banking on Jordyn Tyson to bounce back. Why Field Yates is banking on Jordyn Tyson to bounce back",
+  "url": "https://www.espn.com/video/clip/_/id/50594376/why-field-yates-banking-jordyn-tyson-bounce-back",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50594376",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50594488",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T16:59:10Z",
+  "text": "Why Mike Clay is high on Deshaun Watson as a streaming option in Week 12. Why Mike Clay is high on Deshaun Watson as a streaming option in Week 12",
+  "url": "https://www.espn.com/video/clip/_/id/50594488/why-mike-clay-high-deshaun-watson-streaming-option-week-12",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50594488",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50594441",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T16:55:47Z",
+  "text": "Why Mike Clay says Carnell Tate may be in store for a tough Week 12 matchup. Why Mike Clay says Carnell Tate may be in store for a tough Week 12 matchup",
+  "url": "https://www.espn.com/video/clip/_/id/50594441/why-mike-clay-says-carnell-tate-store-tough-week-12-matchup",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50594441",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50594519",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T16:49:45Z",
+  "text": "Has Bijan Robinson had a disappointing fantasy season so far?. Has Bijan Robinson had a disappointing fantasy season so far?",
+  "url": "https://www.espn.com/video/clip/_/id/50594519/has-bijan-robinson-had-disappointing-fantasy-season-far",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50594519",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50594466",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T16:46:09Z",
+  "text": "Why Field Yates isn't fully convinced by Zach Charbonnet's fantasy potential. Why Field Yates isn't fully convinced by Zach Charbonnet's fantasy potential",
+  "url": "https://www.espn.com/video/clip/_/id/50594466/why-field-yates-fully-convinced-zach-charbonnet-fantasy-potential",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50594466",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50594009",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T16:09:45Z",
+  "text": "T.J. Hockenson's Week 12 fantasy preview. T.J. Hockenson's Week 12 fantasy preview",
+  "url": "https://www.espn.com/video/clip/_/id/50594009/tj-hockenson-week-12-fantasy-preview",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50594009",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50593588",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T15:51:58Z",
+  "text": "Kyle Pitts Sr.'s Week 12 fantasy preview. Kyle Pitts Sr.'s Week 12 fantasy preview",
+  "url": "https://www.espn.com/video/clip/_/id/50593588/kyle-pitts-sr-week-12-fantasy-preview",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50593588",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50585708",
+  "source": "ESPN",
+  "author": "Tristan H. Cockcroft",
+  "time": "2026-11-25T15:46:44Z",
+  "text": "Fantasy football matchup ranks: Tyler Shough, Ashton Jeanty with prime matchups. The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
+  "url": "https://www.espn.com/fantasy/football/story/_/id/50585708/fantasy-football-rankings-start-sit-matchup-qb-rb-wr-te",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50585708",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50593112",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T15:19:49Z",
+  "text": "DK Metcalf's Week 12 fantasy preview. DK Metcalf's Week 12 fantasy preview",
+  "url": "https://www.espn.com/video/clip/_/id/50593112/dk-metcalf-week-12-fantasy-preview",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50593112",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50593396",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T15:18:49Z",
+  "text": "Stephen A. rips Steelers' decision to bench Aaron Rodgers. Stephen A. rips Steelers' decision to bench Aaron Rodgers",
+  "url": "https://www.espn.com/video/clip/_/id/50593396/stephen-rips-steelers-decision-bench-aaron-rodgers",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50593396",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-75dbf7d4b7aaa",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-25T15:07:53.929Z",
+  "text": "Source: Steelers QB Aaron Rodgers was excused from being at the team facility today while he processes his benching from Tuesday.",
+  "url": "https://www.espn.com/contributor/adam-schefter/75dbf7d4b7aaa",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espn-75dbf7d4b7aaa",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50592810",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T14:30:58Z",
+  "text": "Omarion Hampton's Week 12 fantasy preview. Omarion Hampton's Week 12 fantasy preview",
+  "url": "https://www.espn.com/video/clip/_/id/50592810/omarion-hampton-week-12-fantasy-preview",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50592810",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50592591",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T14:01:36Z",
+  "text": "Brooke Pryor: No indication from Steelers that Rodgers was being benched. Brooke Pryor: No indication from Steelers that Rodgers was being benched",
+  "url": "https://www.espn.com/video/clip/_/id/50592591/no-indication-steelers-rodgers-was-being-benched",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50592591",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50592394",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T13:59:59Z",
+  "text": "Jordan Rodgers: Benching Aaron Rodgers won't fix the Steelers' issues. Jordan Rodgers: Benching Aaron Rodgers won't fix the Steelers' issues ",
+  "url": "https://www.espn.com/video/clip/_/id/50592394/benching-aaron-rodgers-fix-steelers-issues",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50592394",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50586087",
   "source": "ESPN",
   "author": "ESPN",
@@ -5538,945 +6546,6 @@
   "facts": {
    "id": "espnnews-50524458",
    "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-6acf2e786a26a",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-11-18T21:15:27.983Z",
-  "text": "Lions placed EDGE Aidan Hutchinson on injured reserve and activated S Kerby Joseph from Reserve/PUP.",
-  "url": "https://www.espn.com/contributor/adam-schefter/6acf2e786a26a",
-  "teams": [
-   "DET"
-  ],
-  "facts": {
-   "id": "espn-6acf2e786a26a",
-   "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50523800",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-11-18T20:45:47Z",
-  "text": "Jets QB Geno Smith (ankle) intends to play vs. Chargers: 'That's the plan'. Jets quarterback Geno Smith says he intends to play Sunday against the Chargers despite still walking with a noticeable link due to an ankle injury.",
-  "url": "https://www.espn.com/mlb/story/_/id/50523800/jets-qb-geno-smith-ankle-intends-play-vs-chargers",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50523800",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50520940",
-  "source": "ESPN",
-  "author": "Todd Archer and Kimberley A. Martin",
-  "time": "2026-11-18T20:31:16Z",
-  "text": "Pettine to take over defensive playcalling for Cowboys; Parker still DC. Christian Parker will remain as the Cowboys' defensive coordinator, but Mike Pettine will call the defense on game day, coach Brian Schottenhiemer said.",
-  "url": "https://www.espn.com/nfl/story/_/id/50520940/sources-pettine-take-defensive-playcalling-cowboys",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50520940",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50523527",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-11-18T20:29:38Z",
-  "text": "Ravens' Flowers 'super frustrated' by latest late-game fumble. Ravens wide receiver Zay Flowers said he was \"super frustrated\" after having the ball ripped away around midfield in the final two minutes of a loss to the Chargers on Monday night.",
-  "url": "https://www.espn.com/nfl/story/_/id/50523527/ravens-flowers-super-frustrated-latest-late-game-fumble",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50523527",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50523261",
-  "source": "ESPN",
-  "author": "Turron Davenport",
-  "time": "2026-11-18T19:45:54Z",
-  "text": "Titans WR Wan'Dale Robinson out for season with ankle injury. Titans wide receiver Wan'Dale Robinson will miss the rest of the season due to an ankle injury, coach Robert Saleh said Wednesday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50523261/titans-wr-wandale-robinson-season-ankle-injury",
-  "teams": [
-   "TEN"
-  ],
-  "facts": {
-   "id": "espnnews-50523261",
-   "team": "TEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50522711",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T19:44:33Z",
-  "text": "Kurt Warner: Fernando Mendoza played 'too fast' in his NFL debut. Kurt Warner: Fernando Mendoza played 'too fast' in his NFL debut",
-  "url": "https://www.espn.com/video/clip/_/id/50522711/fernando-mendoza-played-too-fast-nfl-debut",
-  "teams": [
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50522711",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50519701",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T19:43:15Z",
-  "text": "Sources: Mason McCormick avoided ankle fracture; Steelers place guard on IR. Steelers guard Mason McCormick, who has been placed on injured reserve, does not need surgery after he was carted off the field with an ankle injury, sources told NFL Network.",
-  "url": "https://www.espn.com/nfl/story/_/id/50519701/sources-steelers-g-mccormick-need-surgery-ankle",
-  "teams": [
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50519701",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50520032",
-  "source": "ESPN",
-  "author": "Mackenzie Kraemer",
-  "time": "2026-11-18T19:26:57Z",
-  "text": "NFL survivor power rankings: Why this is the week to use the Bills or the Texans. ESPN NFL survivor pool strategy, predictions and ranking the top six options for Week 11.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50520032/nfl-survivor-week-11-survivor-pool-strategy-advice-picks",
-  "teams": [
-   "BUF",
-   "HOU",
-   "CHI",
-   "DEN",
-   "KC",
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50520032",
-   "team": "BUF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50523067",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T18:58:35Z",
-  "text": "Stroud: Texans' home skid and 17-point collapse fuel 'scary' urgency vs Colts. \u2014 C.J. Stroud certainly isn\u2019t thrilled with where his Houston Texans are entering Thursday night\u2019s AFC South matchup with Indianapolis.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873066",
-  "teams": [
-   "HOU",
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50523067",
-   "team": "HOU",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50522640",
-  "source": "ESPN",
-  "author": "Tim McManus",
-  "time": "2026-11-18T18:57:48Z",
-  "text": "Eagles' Sirianni sticking with Milton as QB1, Mannion as offensive playcaller. QB Joe Milton will start again for the Eagles on Sunday and Sean Mannion will remain as the offensive playcaller against the Steelers, coach Nick Sirianni said.",
-  "url": "https://www.espn.com/nfl/story/_/id/50522640/eagles-stick-milton-qb1-mannion-offensive-playcaller",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50522640",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "will start",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50523042",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T18:56:35Z",
-  "text": "Nick Sirianni: Joe Milton getting starting QB nod in Week 11. Nick Sirianni: Joe Milton getting starting QB nod in Week 11",
-  "url": "https://www.espn.com/video/clip/_/id/50523042/joe-milton-getting-starting-qb-nod-week-11",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50523042",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50522814",
-  "source": "ESPN",
-  "author": "Jeremy Fowler",
-  "time": "2026-11-18T18:50:43Z",
-  "text": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB. Brandon Aiyuk and Jayden Daniels have patched up their relationship after a falling out earlier this year, sources told ESPN.",
-  "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
-  "teams": [
-   "SF",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50522814",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-29098001",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T18:38:41Z",
-  "text": "NFL depth charts for all 32 teams for 2026 season. Here are the latest NFL depth charts for all 32 teams.",
-  "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-29098001",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50502243",
-  "source": "ESPN",
-  "author": "Jordan Reid",
-  "time": "2026-11-18T17:51:58Z",
-  "text": "2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks. Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson? Jordan Reid projected first-round picks for 2027 -- and a trade.",
-  "url": "https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions",
-  "teams": [
-   "NYJ",
-   "CLE",
-   "MIA",
-   "ARI",
-   "LV",
-   "TEN",
-   "NO",
-   "CAR",
-   "NYG",
-   "WAS",
-   "ATL",
-   "BAL",
-   "BUF",
-   "CIN",
-   "DAL",
-   "DEN",
-   "DET",
-   "HOU",
-   "KC",
-   "LAC",
-   "MIN",
-   "NE",
-   "PHI",
-   "PIT",
-   "SF",
-   "SEA",
-   "TB"
-  ],
-  "facts": {
-   "id": "espnnews-50502243",
-   "team": "NYJ",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50522531",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T17:49:14Z",
-  "text": "Why Jordan Reid has the Titans taking Jeremiah Smith at No. 1. Why Jordan Reid has the Titans taking Jeremiah Smith at No. 1",
-  "url": "https://www.espn.com/video/clip/_/id/50522531/why-jordan-reid-titans-taking-jeremiah-smith-no-1",
-  "teams": [
-   "TEN"
-  ],
-  "facts": {
-   "id": "espnnews-50522531",
-   "team": "TEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50513379",
-  "source": "ESPN",
-  "author": "Jeremy Fowler and Dan Graziano",
-  "time": "2026-11-18T17:48:56Z",
-  "text": "NFL Week 11 latest intel, buzz questions, news, fantasy tips: What we're hearing. What are people around the league saying about Fernando Mendoza? Could changes be coming in Dallas? And what now for New England? Here's the latest intel.",
-  "url": "https://www.espn.com/nfl/story/_/id/50513379/week-11-buzz-fantasy-predictions-graziano-fowler-2026",
-  "teams": [
-   "LV",
-   "NE",
-   "DAL",
-   "JAX",
-   "PHI",
-   "IND",
-   "SF",
-   "SEA",
-   "WAS",
-   "NYJ",
-   "BAL",
-   "CIN",
-   "TB",
-   "ARI",
-   "CAR",
-   "NO",
-   "ATL",
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50513379",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50516834",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-11-18T17:42:12Z",
-  "text": "Minter: Ravens working to jump-start running game, but 'talk is cheap'. Baltimore Ravens coach Jesse Minter had some strong words when addressing the team's identity on Monday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50516834/minter-ravens-working-jump-start-running-game-talk-cheap",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50516834",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50521008",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-11-18T17:40:53Z",
-  "text": "The NFL's current worst team? Lamar-less Ravens making that case. The Ravens have gone 38 days without a win. It has been 24 days since they've had a lead.",
-  "url": "https://www.espn.com/nfl/story/_/id/50521008/nfl-current-worst-team-lamar-jackson-ravens-making-case-week-11",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50521008",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50522085",
-  "source": "ESPN",
-  "author": "Michael Dirocco",
-  "time": "2026-11-18T16:41:39Z",
-  "text": "Jaguars rule starting center Robert Hainsey (knee) out for Giants game. Jaguars center Robert Hainsey will miss Sunday's game against the Giants because of a knee injury, coach Liam Coen said Wednesday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50522085/jaguars-rule-center-robert-hainsey-knee-giants-game",
-  "teams": [
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50522085",
-   "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50521838",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T16:15:40Z",
-  "text": "Garrett Wilson vs. Carnell Tate: Clay and Yates pick a side for Week 11. Garrett Wilson vs. Carnell Tate: Clay and Yates pick a side for Week 11",
-  "url": "https://www.espn.com/video/clip/_/id/50521838/clay-yates-pick-side-week-11",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50521838",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50521850",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T16:08:18Z",
-  "text": "Can fantasy managers bench Vikings D/ST for Broncos? Clay and Yates debate. Can fantasy managers bench Vikings D/ST for Broncos? Clay and Yates debate",
-  "url": "https://www.espn.com/video/clip/_/id/50521850/can-fantasy-managers-bench-vikings-d-st-broncos-clay-yates-debate",
-  "teams": [
-   "DEN",
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50521850",
-   "team": "DEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50521831",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T16:03:08Z",
-  "text": "Yates and Clay debate Ryan Flournoy vs. Courtland Sutton in Week 11. Yates and Clay debate Ryan Flournoy vs. Courtland Sutton in Week 11",
-  "url": "https://www.espn.com/video/clip/_/id/50521831/yates-clay-debate-ryan-flournoy-vs-courtland-sutton-week-11",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50521831",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50521799",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T15:53:56Z",
-  "text": "Why Stephen A. can't defend Cowboys DC Christian Parker. Why Stephen A. can't defend Cowboys DC Christian Parker",
-  "url": "https://www.espn.com/video/clip/_/id/50521799/why-stephen-defend-cowboys-dc-christian-parker",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50521799",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50521722",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T15:50:55Z",
-  "text": "Jaylen Warren's Week 11 fantasy outlook. Jaylen Warren's Week 11 fantasy outlook",
-  "url": "https://www.espn.com/video/clip/_/id/50521722/jaylen-warren-week-11-fantasy-outlook",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50521722",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50521328",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T15:17:21Z",
-  "text": "'Get Up' crew confused by Cowboys DC losing playcalling duties. 'Get Up' crew confused by Cowboys DC losing playcalling duties",
-  "url": "https://www.espn.com/video/clip/_/id/50521328/get-crew-confused-cowboys-dc-losing-playcalling-duties",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espnnews-50521328",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50513739",
-  "source": "ESPN",
-  "author": "Tristan H. Cockcroft",
-  "time": "2026-11-18T15:09:38Z",
-  "text": "Fantasy football matchup ranks: Upgrade Jonah Coleman, downgrade Brock Purdy. The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50513739/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50513739",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50514411",
-  "source": "ESPN",
-  "author": "Liz Loza",
-  "time": "2026-11-18T15:08:24Z",
-  "text": "Facts vs. Feelings: Bye-mageddon means getting comfortable with the uncomfortable. A bye-laden Week 11 might make you cringe at some of your lineup decisions, so let the facts hone your feelings on Bo Nix, Tony Pollard, Jaylen Warren, Chris Olave, Malik Nabers, Stefon Diggs and Colston Loveland.",
-  "url": "https://www.espn.com/fantasy/football/story/_/id/50514411/facts-feelings-fantasy-advice-week-11",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50514411",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espn-2d8479b8ba235",
-  "source": "ESPN",
-  "author": "Adam Schefter",
-  "time": "2026-11-18T14:46:20.31Z",
-  "text": "The Cowboys have taken away  playcalling duties from Christian Parker. He will remain DC \u2014 but Mike Pettine will now call plays, sources tell @KimberleyMartin and @toddarcher.",
-  "url": "https://www.espn.com/contributor/adam-schefter/2d8479b8ba235",
-  "teams": [
-   "DAL"
-  ],
-  "facts": {
-   "id": "espn-2d8479b8ba235",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50520649",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T14:39:57Z",
-  "text": "Kyle Brandt dismisses notion Jags will blow out Giants on Sunday. Kyle Brandt dismisses notion Jags will blow out Giants on Sunday",
-  "url": "https://www.espn.com/video/clip/_/id/50520649/kyle-brandt-dismisses-notion-jags-blow-giants-sunday",
-  "teams": [
-   "JAX",
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50520649",
-   "team": "JAX",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50513014",
-  "source": "ESPN",
-  "author": "Rob Demovsky",
-  "time": "2026-11-18T14:21:52Z",
-  "text": "Why Packers can't protect Jordan Love or rush successfully. The two-year demise of the Packers' offensive line began on March 10, 2025, and has no end in sight.",
-  "url": "https://www.espn.com/nfl/story/_/id/50513014/packers-jordan-love-sack-rushing-offensive-line",
-  "teams": [
-   "GB"
-  ],
-  "facts": {
-   "id": "espnnews-50513014",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50520527",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T14:21:06Z",
-  "text": "Bo Nix's Week 11 fantasy outlook. Bo Nix's Week 11 fantasy outlook",
-  "url": "https://www.espn.com/video/clip/_/id/50520527/bo-nix-week-11-fantasy-outlook",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50520527",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50520478",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T14:15:49Z",
-  "text": "Can the Vikings make a Super Bowl run with Kirk Cousins?. Can the Vikings make a Super Bowl run with Kirk Cousins?",
-  "url": "https://www.espn.com/video/clip/_/id/50520478/can-vikings-make-super-bowl-run-kirk-cousins",
-  "teams": [
-   "MIN"
-  ],
-  "facts": {
-   "id": "espnnews-50520478",
-   "team": "MIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50520477",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T14:09:11Z",
-  "text": "Malik Nabers' Week 11 fantasy outlook. Malik Nabers' Week 11 fantasy outlook",
-  "url": "https://www.espn.com/video/clip/_/id/50520477/malik-nabers-week-11-fantasy-outlook",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50520477",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50520285",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T13:43:11Z",
-  "text": "Tony Pollard's Week 11 fantasy outlook. Tony Pollard's Week 11 fantasy outlook",
-  "url": "https://www.espn.com/video/clip/_/id/50520285/tony-pollard-week-11-fantasy-outlook",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50520285",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50520227",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-18T13:40:56Z",
-  "text": "C.J. Stroud's Week 11 fantasy outlook. C.J. Stroud's Week 11 fantasy outlook",
-  "url": "https://www.espn.com/video/clip/_/id/50520227/cj-stroud-week-11-fantasy-outlook",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50520227",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50514927",
-  "source": "ESPN",
-  "author": "Katherine Terrell",
-  "time": "2026-11-18T13:39:56Z",
-  "text": "Three-win Saints, Kellen Moore face defining stretch of games. Starting with the Bears on Sunday, the head coach's tenure and the team's season sits at a crucial crossroads.",
-  "url": "https://www.espn.com/nfl/story/_/id/50514927/3-win-new-orleans-saints-kellen-moore-defining-games",
-  "teams": [
-   "NO"
-  ],
-  "facts": {
-   "id": "espnnews-50514927",
-   "team": "NO",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50510863",
-  "source": "ESPN",
-  "author": "NFL Nation, Jordan Reid and Seth Walder",
-  "time": "2026-11-18T13:32:42Z",
-  "text": "2027 NFL draft: Dolphins, Titans, Eagles, Jets, Chargers in race for No. 1 pick. Five NFL teams have at least 5% odds to land the No. 1 pick in 2027, per ESPN's Football Power Index: the Dolphins, Titans, Eagles, Jets and Chargers.",
-  "url": "https://www.espn.com/nfl/draft2027/story/_/id/50510863/2027-nfl-draft-top-pick-dolphins-titans-eagles-jets-chargers",
-  "teams": [
-   "MIA",
-   "TEN",
-   "PHI",
-   "NYJ",
-   "LAC"
-  ],
-  "facts": {
-   "id": "espnnews-50510863",
-   "team": "MIA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50513594",
-  "source": "ESPN",
-  "author": "Turron Davenport",
-  "time": "2026-11-18T11:41:21Z",
-  "text": "Titans put WR Wan'Dale Robinson on IR due to ankle injury. The Titans placed wide receiver Wan'Dale Robinson on injured reserve Tuesday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50513594/titans-put-wr-wandale-robinson-ankle-ir",
-  "teams": [
-   "TEN"
-  ],
-  "facts": {
-   "id": "espnnews-50513594",
-   "team": "TEN",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50512215",
-  "source": "ESPN",
-  "author": "Sarah Barshop",
-  "time": "2026-11-18T11:00:14Z",
-  "text": "A Rams bye means time for rest and ramping up. The bye \"represents an opportunity to get recharged,\" but it also allows the team to improve.",
-  "url": "https://www.espn.com/nfl/story/_/id/50512215/rams-bye-rest-ramp-week-11",
-  "teams": [
-   "LA"
-  ],
-  "facts": {
-   "id": "espnnews-50512215",
-   "team": "LA",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50513358",
-  "source": "ESPN",
-  "author": "Nate Taylor",
-  "time": "2026-11-18T11:00:10Z",
-  "text": "Kansas City Chiefs tight end Travis Kelce's top moments at Arrowhead Stadium. Kelce's greatest Arrowhead moments include his first catch, lots of playoff magic, and meeting the love of his life, Taylor Swift.",
-  "url": "https://www.espn.com/nfl/story/_/id/50513358/chiefs-travis-kelce-100-games-arrowhead-taylor-swift",
-  "teams": [
-   "KC"
-  ],
-  "facts": {
-   "id": "espnnews-50513358",
-   "team": "KC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50517561",
-  "source": "ESPN",
-  "author": "Josh Weinfuss",
-  "time": "2026-11-18T05:06:06Z",
-  "text": "Source: Cardinals' Gardner Minshew has surgery to repair right UCL. Cardinals quarterback Gardner Minshew II had surgery on his right ulnar collateral ligament on Monday, a source told ESPN.",
-  "url": "https://www.espn.com/nfl/story/_/id/50517561/source-cardinals-qb-gardner-minshew-surgery-repair-right-ucl",
-  "teams": [
-   "ARI"
-  ],
-  "facts": {
-   "id": "espnnews-50517561",
-   "team": "ARI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50515291",
-  "source": "ESPN",
-  "author": "Courtney Cronin",
-  "time": "2026-11-18T02:45:43Z",
-  "text": "Bears QB Caleb Williams has moved on from 4-INT game, but frustration lingers. Caleb Williams spent his bye week resting his ailing hamstring, supporting his close friend Pete Crow-Armstrong as the Cubs outfielder was named NL MVP, and putting one of the worst games of his career in the rearview mirror.",
-  "url": "https://www.espn.com/nfl/story/_/id/50515291/bears-caleb-williams-moved-4-interception-game-frustration-lingers",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50515291",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50514216",
-  "source": "ESPN",
-  "author": "Brooke Pryor",
-  "time": "2026-11-17T23:22:46Z",
-  "text": "Arrest warrants issued for robbery of Steelers' Max Iheanachor. Arrest warrants have been issued for three individuals in connection with the burglary of the home of Steelers first-round pick Max Iheanachor, police said.",
-  "url": "https://www.espn.com/nfl/story/_/id/50514216/arrest-warrants-issued-robbery-steelers-max-iheanachor",
-  "teams": [
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50514216",
-   "team": "PIT",
    "player": null,
    "position": null,
    "status": "other",
