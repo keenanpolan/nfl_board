@@ -1,5 +1,559 @@
 [
  {
+  "id": "espnnews-50596920",
+  "source": "ESPN",
+  "author": "Brooke Pryor and Jeremy Fowler and Ben Solak and Dan Graziano and Kalyn Kahler",
+  "time": "2026-11-26T03:21:29Z",
+  "text": "What's next for Aaron Rodgers, Mike McCarthy, Steelers?. The news out of Pittsburgh shook the NFL landscape, and ESPN's insiders share insights on the QB, the coach and their futures.",
+  "url": "https://www.espn.com/nfl/story/_/id/50596920/pittsburgh-steelers-aaron-rodgers-mike-mccarthy-next",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50596920",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50600753",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-11-26T03:21:06Z",
+  "text": "Rams' Kam Kinchens ejected as hit leaves Packers' Christian Watson concussed. Rams safety Kam Kinchens was ejected for a hit along the sideline that left Packers wide receiver Christian Watson with a concussion Wednesday night.",
+  "url": "https://www.espn.com/nfl/story/_/id/50600753/rams-kam-kinchens-ejected-hit-christian-watson",
+  "teams": [
+   "GB",
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50600753",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-bb28e37fbc028",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-26T03:06:36.076Z",
+  "text": "Packers now have ruled out Christian Watson.",
+  "url": "https://www.espn.com/contributor/adam-schefter/bb28e37fbc028",
+  "teams": [
+   "GB"
+  ],
+  "facts": {
+   "id": "espn-bb28e37fbc028",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50600128",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-26T02:37:43Z",
+  "text": "Tony Romo takes job with sports gambling company co-founded by Jake Paul. Former CBS NFL analyst Tony Romo has taken a job with Betr, with the company saying he will make predictions and engage with fans across platforms.",
+  "url": "https://www.espn.com/nfl/story/_/id/50600128/tony-romo-job-sports-gambling-company-jake-paul",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50600128",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50600479",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-26T02:24:54Z",
+  "text": "Buccaneers will need more from Baker Mayfield and struggling passing attack to beat the Panthers. \u2014 The Tampa Bay Buccaneers didn't need much from Baker Mayfield to rout the Carolina Panthers last month.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873094",
+  "teams": [
+   "TB",
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50600479",
+   "team": "TB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50597133",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-11-26T02:04:37Z",
+  "text": "Aaron Rodgers' comments on 'The Pat McAfee Show' draw NFL reaction. The now-former Steelers quarterback made a number of noteworthy comments in a bombshell interview on \"The Pat McAfee Show\" Wednesday afternoon.",
+  "url": "https://www.espn.com/nfl/story/_/id/50597133/aaron-rodgers-pat-mcafee-interview-social-reaction",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50597133",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50600100",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-26T01:47:32Z",
+  "text": "Kirk Cousins makes his home debut in his second act with the Vikings, fittingly against the Falcons. \u2014 When the Minnesota Vikings last played at home, a foundering offense heard it from the frustrated fans after each futile possession.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873084",
+  "teams": [
+   "MIN",
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50600100",
+   "team": "MIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50415106",
+  "source": "ESPN",
+  "author": "Eric Moody",
+  "time": "2026-11-26T01:02:11Z",
+  "text": "Best bets and top prop plays for Bears-Lions, Eagles-Cowboys and Chiefs-Bills. Odds, analysis and picks to help you bet Bears-Lions, Eagles-Cowboys and Chiefs-Bills on Thanksgiving.",
+  "url": "https://www.espn.com/espn/betting/story/_/id/50415106/nfl-week-12-odds-thanksgiving-betting-preview-props",
+  "teams": [
+   "CHI",
+   "DET",
+   "PHI",
+   "DAL",
+   "KC",
+   "BUF"
+  ],
+  "facts": {
+   "id": "espnnews-50415106",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50599729",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-26T00:58:33Z",
+  "text": "Commanders try to continue momentum while Cardinals work to end 11-game home losing streak. \u2014 Some people around the NFL might have needed a reminder what Jayden Daniels can do on a football field before the quarterback led the Washington Commanders ",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873092",
+  "teams": [
+   "ARI",
+   "WAS"
+  ],
+  "facts": {
+   "id": "espnnews-50599729",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50599365",
+  "source": "ESPN",
+  "author": "NFL Nation",
+  "time": "2026-11-26T00:49:57Z",
+  "text": "Rams vs. Packers: Week 12 NFL game highlights. Our two team reporters are at SoFi Stadium and they're keeping you updated on all the biggest plays and highlights.",
+  "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
+  "teams": [
+   "LA",
+   "GB"
+  ],
+  "facts": {
+   "id": "espnnews-50599365",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50599486",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-26T00:38:32Z",
+  "text": "Patriots-Chargers shaping up to be battle of backup QBs for 2 of AFC's biggest disappointments. \u2014 When Drake Maye\u2019s New England Patriots eased past Justin Herbert\u2019s Los Angeles Chargers in an AFC wild-card game in January, it seemed as if...",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873093",
+  "teams": [
+   "LAC",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50599486",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50599475",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-26T00:37:33Z",
+  "text": "Bengals look to get back on track when they host the Saints on a short week. Most coaches don't like coming off a Monday night game the week of Thanksgiving because of changes to the practice schedule and a short week of preparation becoming even more condensed.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873087",
+  "teams": [
+   "CIN",
+   "NO"
+  ],
+  "facts": {
+   "id": "espnnews-50599475",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50599333",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-26T00:25:33Z",
+  "text": "Purdy and the 49ers prepare for another tough test against Seahawks' stout defense. \u2014 The San Francisco 49ers passed the first of back-to-back tests against two of the NFL's top defenses with flying colors as Brock Prudy ",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873091",
+  "teams": [
+   "SF",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50599333",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50599249",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-26T00:17:34Z",
+  "text": "Jaguars are simplifying the operation in hopes of bouncing back against the woeful Titans. \u2014 Coming off their worst offensive performance in two months, the Jacksonville Jaguars are simplifying the operation.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873090",
+  "teams": [
+   "JAX",
+   "TEN"
+  ],
+  "facts": {
+   "id": "espnnews-50599249",
+   "team": "JAX",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50588078",
+  "source": "ESPN",
+  "author": "ESPN Staff",
+  "time": "2026-11-25T23:58:11Z",
+  "text": "NFL Week 12 arrivals: Aaron Donald leads arrivals ahead of Rams-Packers. NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+  "url": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
+  "teams": [
+   "GB",
+   "ATL",
+   "KC",
+   "NYG",
+   "CLE",
+   "LAC",
+   "IND",
+   "CAR",
+   "TEN",
+   "PIT",
+   "HOU",
+   "WAS",
+   "BAL",
+   "MIN",
+   "TB",
+   "LV",
+   "NO",
+   "ARI",
+   "DAL",
+   "PHI",
+   "CHI",
+   "SEA",
+   "BUF",
+   "MIA",
+   "NYJ",
+   "CIN",
+   "DET",
+   "JAX",
+   "DEN",
+   "SF",
+   "LA",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50588078",
+   "team": "GB",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50598979",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T23:48:34Z",
+  "text": "Dolphins playing host to Jets, as the NFL's youngest team remains mindful of rookie wall. \u2014 The Miami Dolphins have a visible opponent this week. They're playing host to the rival New York Jets on Sunday.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873089",
+  "teams": [
+   "MIA",
+   "NYJ"
+  ],
+  "facts": {
+   "id": "espnnews-50598979",
+   "team": "MIA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50598973",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T23:47:32Z",
+  "text": "Deshaun Watson and No. 1 pick Fernando Mendoza face primetime pressure in Browns' matchup vs Raiders. \u2014 Deshaun Watson and Fernando Mendoza have plenty to prove when Cleveland hosts Las Vegas on Sunday night.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873086",
+  "teams": [
+   "CLE",
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50598973",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50598716",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T23:34:32Z",
+  "text": "Ryans says Texans are focused on winning each week as Ravens limp in on 6-game skid without Jackson. \u2014 Despite their struggles this season, the Houston Texans still have a good shot to reach the playoffs if they finish strong.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873085",
+  "teams": [
+   "HOU",
+   "BAL"
+  ],
+  "facts": {
+   "id": "espnnews-50598716",
+   "team": "HOU",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50598693",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T23:33:33Z",
+  "text": "QB Anthony Richardson hopes to follow J.J. McCarthy's lead when he starts for Colts against Giants. \u2014 Anthony Richardson has already watched quarterback ",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873088",
+  "teams": [
+   "IND",
+   "NYG"
+  ],
+  "facts": {
+   "id": "espnnews-50598693",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50597989",
+  "source": "ESPN",
+  "author": "Brooke Pryor",
+  "time": "2026-11-25T23:10:11Z",
+  "text": "Steelers players try to keep focus on Broncos amid Aaron Rodgers fallout. Steelers players tried to keep their focus on Friday's game against the Broncos as Aaron Rodgers ripped coach Mike McCarthy on national TV.",
+  "url": "https://www.espn.com/nfl/story/_/id/50597989/steelers-players-try-keep-focus-broncos-amid-rodgers-fallout",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50597989",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50598435",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T23:03:41Z",
+  "text": "Allen and Mahomes renew their thrilling rivalry as the Bills host the Chiefs on Thanksgiving night. \u2014 Sorry, Steve Spagnuolo. Josh Allen has no plans of going anywhere, any time soon.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873082",
+  "teams": [
+   "BUF",
+   "KC"
+  ],
+  "facts": {
+   "id": "espnnews-50598435",
+   "team": "BUF",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50598220",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T22:59:05Z",
+  "text": "Mike McCarthy defends himself amid accusations from Aaron Rodgers. Mike McCarthy defends himself amid accusations from Aaron Rodgers",
+  "url": "https://www.espn.com/video/clip/_/id/50598220/mike-mccarthy-defends-amid-accusations-aaron-rodgers",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50598220",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50598357",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T22:57:33Z",
+  "text": "Lions and Bears kick off NFL's Thanksgiving Day tripleheader, playing for first place in NFC North. \u2014 NFL fans without ties to Detroit used to dread when the Lions kicked off the league's annual tradition of playing on Thanksgiving Day because they were a laughingstock for many years.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873081",
+  "teams": [
+   "DET",
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50598357",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50598228",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-25T22:47:45Z",
+  "text": "Cowboys really need back-to-back wins this time with rival Eagles visiting on Thanksgiving. \u2014 If the Dallas Cowboys don't solve a puzzling inability to win consecutive games when NFC East rival Philadelphia visits on Thanksgiving, they'll have to accept that they're probably going to miss the playoffs for the third year in a row.",
+  "url": "http://www.espn.com/nfl/preview?gameId=401873080",
+  "teams": [
+   "DAL",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50598228",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50595660",
   "source": "ESPN",
   "author": "ESPN",
@@ -6419,133 +6973,6 @@
   "facts": {
    "id": "espnnews-50521994",
    "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50525580",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-19T02:03:15Z",
-  "text": "Florio, Simms apologize for comments about Vrabel's mustache in Germany. \"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-  "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache",
-  "teams": [
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50525580",
-   "team": "NE",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50526309",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-11-19T01:47:36Z",
-  "text": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'. Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
-  "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50526309",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50524109",
-  "source": "ESPN",
-  "author": "Jamison Hensley",
-  "time": "2026-11-19T00:10:21Z",
-  "text": "Ravens' Humphrey apologizes for quip that Baltimore 'best at making criminals'. Ravens cornerback Marlon Humphrey apologized Wednesday for the derogatory comment he recently made about Baltimore on his podcast.",
-  "url": "https://www.espn.com/nfl/story/_/id/50524109/ravens-humphrey-apologizes-criminals-quip-podcast",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50524109",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50524890",
-  "source": "ESPN",
-  "author": "DJ Bien-Aime and Stephen Holder",
-  "time": "2026-11-18T23:26:51Z",
-  "text": "TNF: Texans rule out DE Hunter, RB Marks; Colts rule out CB Ward, starting OTs. The Texans and Colts ruled out several key contributors for their Thursday night matchup.",
-  "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots",
-  "teams": [
-   "HOU",
-   "IND"
-  ],
-  "facts": {
-   "id": "espnnews-50524890",
-   "team": "HOU",
-   "player": null,
-   "position": null,
-   "status": "out",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50524576",
-  "source": "ESPN",
-  "author": "Jordan Raanan",
-  "time": "2026-11-18T23:13:37Z",
-  "text": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury. Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack.",
-  "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50524576",
-   "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50524458",
-  "source": "ESPN",
-  "author": "Mike Kaye",
-  "time": "2026-11-18T22:37:57Z",
-  "text": "Panthers secondary set for boost with return of CB Mike Jackson. Panthers starting cornerback Mike Jackson, who has been sidelined since injuring his groin in Week 3, plans to be in the lineup Sunday against the Ravens.",
-  "url": "https://www.espn.com/nfl/story/_/id/50524458/panthers-cb-mike-jackson-set-return-sunday-vs-ravens",
-  "teams": [
-   "CAR"
-  ],
-  "facts": {
-   "id": "espnnews-50524458",
-   "team": "CAR",
    "player": null,
    "position": null,
    "status": "other",
