@@ -1,5 +1,304 @@
 [
  {
+  "id": "espnnews-50608495",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-11-27T03:25:12Z",
+  "text": "QB Caleb Williams, WR Rome Odunze's chemistry helps Bears stun Lions. QB Caleb Williams and WR Rome Odunze leaned on their chemistry trust to secure Chicago's ninth win of the season.",
+  "url": "https://www.espn.com/nfl/story/_/id/50608495/qb-caleb-williams-wr-rome-odunze-chemistry-helps-bears-stun-lions",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50608495",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50607822",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-27T03:08:42Z",
+  "text": "Schottenheimer defends 4th-down call before Eagles' 59-yard FG in 39-38 stunner over Cowboys. \u2014 Brian Schottenheimer said he second-guesses plenty of his decisions, just not the one that will be dissected more than any other in his two seasons as coach of the Dallas Cowboys.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873080",
+  "teams": [
+   "DAL",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50607822",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50607635",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-27T03:07:47Z",
+  "text": "Brady disappointed in Rodgers' McCarthy comments: 'Nobody wins'. Tom Brady expressed his disappointment in how Aaron Rodgers handled his exit from Pittsburgh, saying there are things in the locker room that shouldn't be made public.",
+  "url": "https://www.espn.com/nfl/story/_/id/50607635/tom-brady-disappointed-aaron-rodgers-mccarthy-comments",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50607635",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50605786",
+  "source": "ESPN",
+  "author": "Todd Archer and Tim McManus",
+  "time": "2026-11-27T02:43:27Z",
+  "text": "Joe Milton has huge game as Eagles shock Cowboys. Dallas blew a 21-point lead as Philly made a spectacular comeback with Milton at the helm.",
+  "url": "https://www.espn.com/nfl/story/_/id/50605786/cowboys-eagles-thanksgiving-dak-prescott-saquon-barkley",
+  "teams": [
+   "PHI",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50605786",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50607960",
+  "source": "ESPN",
+  "author": "ESPN staff",
+  "time": "2026-11-27T02:36:42Z",
+  "text": "Eagles' comeback against Cowboys stuns Jason Kelce, Caitlin Clark and more. The Philadelphia Eagles pulled off the largest Thanksgiving Day comeback in NFL history.",
+  "url": "https://www.espn.com/nfl/story/_/id/50607960/eagles-cowboys-thanksgiving-social-reaction",
+  "teams": [
+   "PHI",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50607960",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50608117",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-27T02:21:34Z",
+  "text": "Stephen A. can't stop laughing at Cowboys after Thanksgiving collapse. Stephen A. can't stop laughing at Cowboys after Thanksgiving collapse",
+  "url": "https://www.espn.com/video/clip/_/id/50608117/stephen-stop-laughing-cowboys-thanksgiving-collapse",
+  "teams": [
+   "DAL",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50608117",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50607884",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-27T01:58:17Z",
+  "text": "Eagles stun Cowboys with largest-ever Thanksgiving game comeback. Eagles stun Cowboys with largest-ever Thanksgiving game comeback",
+  "url": "https://www.espn.com/video/clip/_/id/50607884/eagles-stun-cowboys-largest-ever-thanksgiving-game-comeback",
+  "teams": [
+   "DAL",
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50607884",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50606739",
+  "source": "ESPN",
+  "author": "Tim McManus",
+  "time": "2026-11-27T01:37:41Z",
+  "text": "Eagles' Cooper DeJean leaves win at Cowboys because of concussion. Eagles All-Pro defensive back Cooper DeJean was ruled out of Thursday's game against the Dallas Cowboys with a concussion.",
+  "url": "https://www.espn.com/nfl/story/_/id/50606739/eagles-cooper-dejean-concussion-leaves-game-cowboys",
+  "teams": [
+   "PHI"
+  ],
+  "facts": {
+   "id": "espnnews-50606739",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-ce38e4f3e3222",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-27T01:33:11.292Z",
+  "text": "Eagles erased a 21-point deficit for the largest Thanksgiving Day comeback in NFL history to beat the Cowboys, 39-38.",
+  "url": "https://www.espn.com/contributor/adam-schefter/ce38e4f3e3222",
+  "teams": [
+   "PHI",
+   "DAL"
+  ],
+  "facts": {
+   "id": "espn-ce38e4f3e3222",
+   "team": "PHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50606402",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-27T00:25:00Z",
+  "text": "Chicago Bears vs. Detroit Lions: Game Highlights. Chicago Bears vs. Detroit Lions: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50606402/game-highlights",
+  "teams": [
+   "CHI",
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50606402",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50607165",
+  "source": "ESPN",
+  "author": "Eric Woodyard",
+  "time": "2026-11-27T00:15:14Z",
+  "text": "Lions to 'move forward' after latest Thanksgiving heartbreak. Lions head coach Dan Campbell rued another heartbreaker on Thanksgiving but encouraged his team to still try and enjoy the night with their families.",
+  "url": "https://www.espn.com/nfl/story/_/id/50607165/lions-move-forward-latest-thanksgiving-heartbreak",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50607165",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50607220",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-26T23:57:28Z",
+  "text": "Dan Campbell: Lions' Thanksgiving loss to Bears will 'sting for a while'. Dan Campbell: Lions' Thanksgiving loss to Bears will 'sting for a while'",
+  "url": "https://www.espn.com/video/clip/_/id/50607220/lions-thanksgiving-loss-bears-sting-while",
+  "teams": [
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50607220",
+   "team": "DET",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50607202",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-26T23:55:59Z",
+  "text": "Ben Johnson proud of TEs that stepped up after Colston Loveland injury. Ben Johnson proud of TEs that stepped up after Colston Loveland injury",
+  "url": "https://www.espn.com/video/clip/_/id/50607202/ben-johnson-proud-tes-stepped-colston-loveland-injury",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50607202",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50606625",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-26T23:30:54Z",
+  "text": "Aaron Rodgers officially a free agent after clearing waivers. Aaron Rodgers is officially a free agent and eligible to sign with any team after he cleared waivers Thursday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50606625/aaron-rodgers-officially-free-agent-clearing-waivers",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50606625",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50605070",
   "source": "ESPN",
   "author": "Brooke Pryor",
@@ -6141,380 +6440,6 @@
   "facts": {
    "id": "espnnews-50532835",
    "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50536083",
-  "source": "ESPN",
-  "author": "DJ Bien-Aime",
-  "time": "2026-11-20T01:56:48Z",
-  "text": "Texans lose Chris Braswell to serious-looking knee injury. Texans defensive end Chris Braswell suffered a serious-looking knee injury on the opening kickoff of Thursday night's game against the Colts.",
-  "url": "https://www.espn.com/nfl/story/_/id/50536083/texans-lose-chris-braswell-serious-looking-knee-injury",
-  "teams": [
-   "IND",
-   "HOU"
-  ],
-  "facts": {
-   "id": "espnnews-50536083",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50535018",
-  "source": "ESPN",
-  "author": "ESPN staff",
-  "time": "2026-11-20T01:20:13Z",
-  "text": "Colts-Texans highlights: Best plays, moments, touchdowns, more. The Colts and Texans are squaring off on Thursday Night Football.",
-  "url": "https://www.espn.com/nfl/story/_/id/50535018/colts-texans-highlights-best-plays-moments-touchdowns",
-  "teams": [
-   "IND",
-   "HOU"
-  ],
-  "facts": {
-   "id": "espnnews-50535018",
-   "team": "IND",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50535747",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-20T01:02:33Z",
-  "text": "Raiders rookie Fernando Mendoza to face another elite defense in the sack-hungry Broncos. \u2014 Top draft pick Fernando Mendoza's first career road start comes against Denver's dominant defense, one week after he was sacked half a dozen times by the Seattle Seahawks in his ",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873075",
-  "teams": [
-   "DEN",
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50535747",
-   "team": "DEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50535179",
-  "source": "ESPN",
-  "author": "ESPN Staff",
-  "time": "2026-11-20T01:01:16Z",
-  "text": "NFL Week 11 arrivals: C.J. Stroud leads the way ahead of Colts-Texans. NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-  "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
-  "teams": [
-   "GB",
-   "ATL",
-   "KC",
-   "NYG",
-   "CLE",
-   "LAC",
-   "IND",
-   "CAR",
-   "TEN",
-   "PIT",
-   "HOU",
-   "WAS",
-   "BAL",
-   "MIN",
-   "TB",
-   "LV",
-   "NO",
-   "ARI",
-   "DAL",
-   "PHI",
-   "CHI",
-   "SEA",
-   "BUF",
-   "MIA",
-   "NYJ",
-   "CIN",
-   "DET",
-   "JAX",
-   "DEN",
-   "SF",
-   "LA",
-   "NE"
-  ],
-  "facts": {
-   "id": "espnnews-50535179",
-   "team": "GB",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50535691",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-20T00:49:33Z",
-  "text": "Panthers aim to hold NFC South lead while Ravens look to keep playoffs hopes alive, end 5-game skid. \u2014 The Carolina Panthers needed a walk-off 54-yard field goal from Ryan Fitzgerald to beat the New Orleans Saints 20-17 last Sunday and remain in first...",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873068",
-  "teams": [
-   "CAR",
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50535691",
-   "team": "CAR",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50535411",
-  "source": "ESPN",
-  "author": "Courtney Cronin",
-  "time": "2026-11-20T00:36:34Z",
-  "text": "Bears' Jeffery Simmons says knee injury a non-issue, expects to play vs. Saints. Bears defensive tackle Jeffery Simmons said the knee injury that held him to limited participation in practice this week wouldn't keep him from playing Sunday against the Saints.",
-  "url": "https://www.espn.com/nfl/story/_/id/50535411/bears-jeffery-simmons-says-knee-fine-expects-play-vs-saints",
-  "teams": [
-   "CHI"
-  ],
-  "facts": {
-   "id": "espnnews-50535411",
-   "team": "CHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50534340",
-  "source": "ESPN",
-  "author": "Katherine Terrell",
-  "time": "2026-11-20T00:35:00Z",
-  "text": "Saints, Justin Reid 'working through' potential release. Saints and safety Justin Reid are \"working through some things\" regarding the veteran safety's potential release, defensive coordinator Brandon Staley said Thursday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50534340/saints-justin-reid-working-potential-release",
-  "teams": [
-   "NO"
-  ],
-  "facts": {
-   "id": "espnnews-50534340",
-   "team": "NO",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50535323",
-  "source": "ESPN",
-  "author": "ESPN staff",
-  "time": "2026-11-20T00:29:58Z",
-  "text": "Washington Commanders unveil 'Beer Spear' ahead of 'Hail Raiser' debut on 'MNF'. The limited-edition collectible vessel can hold 16 ounces of beer, equipped with a gold spear at the end of it.",
-  "url": "https://www.espn.com/nfl/story/_/id/50535323/washington-commanders-beer-spear",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50535323",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50533430",
-  "source": "ESPN",
-  "author": "Kalyn Kahler",
-  "time": "2026-11-20T00:28:17Z",
-  "text": "Sam Hartman's next drive: 'The Bachelor' questions answered. A guide to the Commanders quarterback's upcoming search for love and how his NFL commitments could shape the season.",
-  "url": "https://www.espn.com/nfl/story/_/id/50533430/sam-hartman-bachelor-commanders-quarterback",
-  "teams": [
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50533430",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50535532",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-20T00:22:33Z",
-  "text": "The Steelers last won in Philadelphia in 1965. Can they top an Eagles team on 7-game losing streak?. \u2014 Perhaps the Steelers should have stayed attached at the hip pads with the Eagles \u2014 as they were when they merged for the 1943 season to form the Steagles \u2014 to avoid such an ignominious losing streak in Philadelphia.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873076",
-  "teams": [
-   "PHI",
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50535532",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50535480",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-20T00:07:43Z",
-  "text": "Commanders' defense preparing for high-flying Bengals offense. \u2014 Washington Commanders coach Dan Quinn knows the challenge facing his defense for Monday night's game against the Cincinnati Bengals.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873078",
-  "teams": [
-   "WAS",
-   "CIN"
-  ],
-  "facts": {
-   "id": "espnnews-50535480",
-   "team": "WAS",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50534625",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-19T23:23:55Z",
-  "text": "Bengals, Reds pay tribute to Fiona the hippo after her death. The world-famous hippopotamus passed away Thursday after ingesting a hat that made its way into her enclosure.",
-  "url": "https://www.espn.com/nfl/story/_/id/50534625/cincinnati-bengals-reds-fiona-hippo",
-  "teams": [
-   "CIN"
-  ],
-  "facts": {
-   "id": "espnnews-50534625",
-   "team": "CIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50535189",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-19T23:23:33Z",
-  "text": "Lions moving on after Hutchinson joins Campbell on IR and they face Bucs aiming for 6th straight win. \u2014 Dan Campbell does not want to let the Detroit Lions become miserable in the Motor City by lamenting the losses of All-Pro linebacker ",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873072",
-  "teams": [
-   "DET",
-   "TB"
-  ],
-  "facts": {
-   "id": "espnnews-50535189",
-   "team": "DET",
-   "player": null,
-   "position": null,
-   "status": "injured reserve",
-   "starting_qb": null,
-   "confirmed": true,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50535019",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-19T23:07:33Z",
-  "text": "Reeling Jets head to LA to face Chargers, who are coming off their first win of the season. \u2014 The New York Jets and Los Angeles Chargers are in the same predicament, but the conversation around the two teams could not be more different heading into their matchup on Sunday.",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873074",
-  "teams": [
-   "LAC",
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50535019",
-   "team": "LAC",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50182998",
-  "source": "ESPN",
-  "author": "Mel Kiper Jr.",
-  "time": "2026-11-19T22:42:53Z",
-  "text": "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position. Six quarterbacks and six receivers ranked in the top 25? Mel Kiper Jr. stacks the best players on the 2027 draft board as of mid-November.",
-  "url": "https://www.espn.com/nfl/draft2027/story/_/id/50182998/2027-nfl-draft-rankings-kiper-big-board-top-prospects",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50182998",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50534558",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-19T22:24:33Z",
-  "text": "Bills get chance to feast on another backup QB with Kyle McCord and Miami Dolphins up next. \u2014 Ed Oliver bristled at the notion of the Bills\u2019 defensive turnaround being the result of Buffalo spending the past three weeks feasting on backup...",
-  "url": "http://www.espn.com/nfl/preview?gameId=401873070",
-  "teams": [
-   "BUF",
-   "MIA"
-  ],
-  "facts": {
-   "id": "espnnews-50534558",
-   "team": "BUF",
    "player": null,
    "position": null,
    "status": "other",
