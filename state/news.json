@@ -1,5 +1,303 @@
 [
  {
+  "id": "espnnews-50617060",
+  "source": "ESPN",
+  "author": "Jeff Legwold",
+  "time": "2026-11-28T02:28:59Z",
+  "text": "Bo Nix, after one of his worst games for Broncos, says 'I let the team down'. After one of the most difficult starts of his NFL career, Broncos quarterback Bo Nix said \"I let the team down'' in a 27-5 loss to the Steelers on Friday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50617060/qb-bo-nix-says-let-team-broncos-routed-steelers",
+  "teams": [
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50617060",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50595780",
+  "source": "ESPN",
+  "author": "Michael F. Florio",
+  "time": "2026-11-28T02:12:35Z",
+  "text": "Fantasy football Week 12 inactives: Who's in and who's out?. Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50595780/fantasy-football-injuries-nfl-week-12-inactive-active",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-50595780",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50615653",
+  "source": "ESPN",
+  "author": "Nick Wagoner",
+  "time": "2026-11-28T01:40:50Z",
+  "text": "49ers rule QB Brock Purdy (ankle) out; Mac Jones to start vs. Seahawks. 49ers quarterback Brock Purdy (ankle) will not play Sunday against the Seahawks, according to coach Kyle Shanahan, paving the way for Mac Jones to start.",
+  "url": "https://www.espn.com/nfl/story/_/id/50615653/49ers-rule-qb-purdy-ankle-start-jones-vs-seahawks",
+  "teams": [
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50615653",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50616624",
+  "source": "ESPN",
+  "author": "Brady Henderson",
+  "time": "2026-11-28T01:37:28Z",
+  "text": "Sam Darnold 'ready to roll' vs. 49ers as Seahawks fight to stay in NFC West race. Seahawks QB Sam Darnold, who missed the past two games with a quad injury, will return to start against the Niners in a pivotal NFC West showdown.",
+  "url": "https://www.espn.com/nfl/story/_/id/50616624/seahawks-sam-darnold-return-vs-49ers-2-game-absence",
+  "teams": [
+   "SEA"
+  ],
+  "facts": {
+   "id": "espnnews-50616624",
+   "team": "SEA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50615666",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-28T01:04:32Z",
+  "text": "Inspired Steelers move on from Rodgers' exit with cathartic 27-5 win over sloppy Broncos. \u2014 The Pittsburgh Steelers weren't playing for embattled coach Mike McCarthy on Friday. They weren't necessarily playing for their season, either.",
+  "url": "http://www.espn.com/nfl/recap?gameId=401873083",
+  "teams": [
+   "PIT",
+   "DEN"
+  ],
+  "facts": {
+   "id": "espnnews-50615666",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50615818",
+  "source": "ESPN",
+  "author": "Mike Reiss",
+  "time": "2026-11-28T00:13:16Z",
+  "text": "DJ Uiagalelei to start for Chargers with Justin Herbert in concussion protocol. Chargers quarterback Justin Herbert was ruled out for Sunday as he remains in concussion protocol, coach Jim Harbaugh said Friday, meaning DJ Uiagalelei will start against Tommy DeVito and the Patriots.",
+  "url": "https://www.espn.com/nfl/story/_/id/50615818/qb-dj-uiagalelei-start-chargers-justin-herbert-concussion-protocol",
+  "teams": [
+   "LAC",
+   "NE"
+  ],
+  "facts": {
+   "id": "espnnews-50615818",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50599095",
+  "source": "ESPN",
+  "author": "Brooke Pryor and Jeff Legwold",
+  "time": "2026-11-27T23:57:03Z",
+  "text": "Steelers rally after tumultuous week to grab key Black Friday win over Broncos. The Steelers scored two defensive touchdowns and flustered Broncos QB Bo Nix throughout to rally to a key Black Friday victory.",
+  "url": "https://www.espn.com/nfl/story/_/id/50599095/steelers-beat-broncos-black-friday-two-defensive-touchdowns",
+  "teams": [
+   "DEN",
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50599095",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50615753",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-27T23:34:51Z",
+  "text": "DJ Uiagalelei trying to not overthink first NFL start. DJ Uiagalelei trying to not overthink first NFL start",
+  "url": "https://www.espn.com/video/clip/_/id/50615753/dj-uiagalelei-trying-not-overthink-first-nfl-start",
+  "teams": [
+   "LAC"
+  ],
+  "facts": {
+   "id": "espnnews-50615753",
+   "team": "LAC",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50615482",
+  "source": "ESPN",
+  "author": "Ryan McFadden",
+  "time": "2026-11-27T23:27:19Z",
+  "text": "Raiders TE Brock Bowers (ankle) doesn't practice Friday, questionable vs. Browns. Raiders tight end Brock Bowers is questionable for Sunday night's game at Cleveland because of an ankle injury he suffered in Week 10. Las Vegas will also be missing two of its starting defensive tackles and a backup.",
+  "url": "https://www.espn.com/nfl/story/_/id/50615482/raiders-brock-bowers-questionable-snf-vs-browns-ankle-injury",
+  "teams": [
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50615482",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "questionable",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50615648",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-27T23:06:39Z",
+  "text": "Denver Broncos vs. Pittsburgh Steelers: Game Highlights. Denver Broncos vs. Pittsburgh Steelers: Game Highlights",
+  "url": "https://www.espn.com/video/clip/_/id/50615648/game-highlights",
+  "teams": [
+   "DEN",
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50615648",
+   "team": "DEN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50614804",
+  "source": "ESPN",
+  "author": "Ben Baby",
+  "time": "2026-11-27T22:33:18Z",
+  "text": "Bengals WR Tee Higgins dealing with 'sore' hamstring, says coach Zac Taylor. Bengals receiver Tee Higgins is dealing with a \"sore\" hamstring, according to coach Zac Taylor, and is listed as questionable for Sunday's game vs. the Saints.",
+  "url": "https://www.espn.com/nfl/story/_/id/50614804/bengals-wr-higgins-dealing-sore-hamstring-says-taylor",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50614804",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "questionable",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50614763",
+  "source": "ESPN",
+  "author": "Todd Archer",
+  "time": "2026-11-27T22:26:13Z",
+  "text": "Brian Schottenheimer says Jerry Jones shares 'in our disappointment'. Brian Schottenheimer said Jerry Jones and Stephen Jones \"share in our disappointment\" after the trio met following the Cowboys' collapse vs. the Eagles on Thursday.",
+  "url": "https://www.espn.com/nfl/story/_/id/50614763/schottenheimer-says-jones-shares-our-disappointment",
+  "teams": [
+   "DAL"
+  ],
+  "facts": {
+   "id": "espnnews-50614763",
+   "team": "DAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-498c1694504ca",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-27T22:21:14.115Z",
+  "text": "49ers ruled out QB Brock Purdy, who did not practice this week due to a sprained ankle. 49ers QB Mac Jones will start Sunday vs. Seattle.",
+  "url": "https://www.espn.com/contributor/adam-schefter/498c1694504ca",
+  "teams": [
+   "SF",
+   "SEA"
+  ],
+  "facts": {
+   "id": "espn-498c1694504ca",
+   "team": "SF",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-dd4d02f5b237a",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-27T22:15:29.28Z",
+  "text": "Chargers ruled out QB Justin Herbert, who is in concussion protocol. Chargers QB DJ Uiagalelei now is expected to make his first NFL start vs. the Patriots.\n\nUiagalelei was a highly recruited college quarterback who played at three major programs.",
+  "url": "https://www.espn.com/contributor/adam-schefter/dd4d02f5b237a",
+  "teams": [
+   "NE",
+   "LAC"
+  ],
+  "facts": {
+   "id": "espn-dd4d02f5b237a",
+   "team": "NE",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
   "id": "espn-f6d0775f4e59a",
   "source": "ESPN",
   "author": "Adam Schefter",
@@ -327,6 +625,25 @@
   "teams": [],
   "facts": {
    "id": "espnnews-40699880",
+   "team": null,
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-49797082",
+  "source": "ESPN",
+  "author": "ESPN Fantasy",
+  "time": "2026-11-27T13:58:08Z",
+  "text": "Fantasy football rankings Week 12: PPR and superflex. Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+  "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+  "teams": [],
+  "facts": {
+   "id": "espnnews-49797082",
    "team": null,
    "player": null,
    "position": null,
@@ -6053,111 +6370,6 @@
   "facts": {
    "id": "espnnews-50522936",
    "team": "NYG",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50530832",
-  "source": "ESPN",
-  "author": "Michael F. Florio",
-  "time": "2026-11-21T01:47:16Z",
-  "text": "Fantasy football Week 11 inactives: Who's in and who's out?. Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-  "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50530832/fantasy-football-injuries-nfl-week-11-inactive-active",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50530832",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50544261",
-  "source": "ESPN",
-  "author": "Ben Baby",
-  "time": "2026-11-20T23:37:55Z",
-  "text": "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength. A full participant at practice for the second straight day despite the bug that he has battled, Bengals quarterback Joe Burrow is optimistic that he'll be at full strength when Cincinnati plays the Washington Commanders on \"Monday Night Football.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50544261/burrow-practices-again-full-strength-mnf",
-  "teams": [
-   "CIN",
-   "WAS"
-  ],
-  "facts": {
-   "id": "espnnews-50544261",
-   "team": "CIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50543613",
-  "source": "ESPN",
-  "author": "Todd Archer",
-  "time": "2026-11-20T22:37:47Z",
-  "text": "Police investigate man's death after alleged altercation at 49ers-Cowboys game. Police are investigating the death of a man who was allegedly involved in an altercation before Sunday's game between the Cowboys and 49ers at AT&T Stadium.",
-  "url": "https://www.espn.com/nfl/story/_/id/50543613/police-investigate-man-death-incident-cowboys-game",
-  "teams": [
-   "DAL",
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50543613",
-   "team": "DAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50543720",
-  "source": "ESPN",
-  "author": "Ryan McFadden",
-  "time": "2026-11-20T22:23:03Z",
-  "text": "Raiders TE Brock Bowers (ankle, quad) listed as questionable. Las Vegas Raiders tight end Brock Bowers (ankle/quad) is questionable for Sunday's divisional matchup against the Denver Broncos, coach Klint Kubiak said Friday.",
-  "url": "https://www.espn.com/nfl/story/_/id/50543720/raiders-te-brock-bowers-ankle-quad-listed-questionable",
-  "teams": [
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50543720",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "questionable",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50543665",
-  "source": "ESPN",
-  "author": "Rich Cimini",
-  "time": "2026-11-20T22:13:34Z",
-  "text": "Jets QB Geno Smith (ankle) cleared to start vs. Chargers. Jets quarterback Geno Smith made it through the practice week with no setbacks and was cleared to face the Chargers.",
-  "url": "https://www.espn.com/nfl/story/_/id/50543665/jets-qb-geno-smith-ankle-cleared-start-vs-chargers",
-  "teams": [
-   "NYJ"
-  ],
-  "facts": {
-   "id": "espnnews-50543665",
-   "team": "NYJ",
    "player": null,
    "position": null,
    "status": "other",
