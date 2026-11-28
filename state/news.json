@@ -1,5 +1,352 @@
 [
  {
+  "id": "espnnews-50623254",
+  "source": "ESPN",
+  "author": "Mike Kaye",
+  "time": "2026-11-28T20:32:56Z",
+  "text": "Panthers OLB Patrick Jones II (ankle) out vs. Buccaneers. Panthers outside linebacker Patrick Jones II has been ruled out for Monday's game against the Buccaneers because of an ankle injury.",
+  "url": "https://www.espn.com/nfl/story/_/id/50623254/panthers-olb-patrick-jones-ii-ankle-vs-buccaneers",
+  "teams": [
+   "CAR"
+  ],
+  "facts": {
+   "id": "espnnews-50623254",
+   "team": "CAR",
+   "player": null,
+   "position": null,
+   "status": "out",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50622799",
+  "source": "ESPN",
+  "author": "Sarah Barshop",
+  "time": "2026-11-28T19:36:49Z",
+  "text": "Rams TE Davis Allen to IR; Tyler Higbee has chest injury. The injuries to the Rams' tight end room continue, with Davis Allen heading to IR after hurting his ankle and Tyler Higbee dealing with a pulmonary contusion.",
+  "url": "https://www.espn.com/nfl/story/_/id/50622799/rams-te-davis-allen-ir-tyler-higbee-chest-injury",
+  "teams": [
+   "LA"
+  ],
+  "facts": {
+   "id": "espnnews-50622799",
+   "team": "LA",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50623183",
+  "source": "ESPN",
+  "author": "Adam Schefter and Ian Rapoport",
+  "time": "2026-11-28T19:02:41Z",
+  "text": "Falcons release Tua Tagovailoa, ending veteran QB's brief Atlanta stint. The Falcons have released Tua Tagovailoa, ending the veteran quarterback's time in Atlanta after less than nine months.",
+  "url": "https://www.espn.com/nfl/story/_/id/50623183/sources-falcons-agree-part-ways-qb-tua-tagovailoa",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50623183",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "released",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-f5ea82d657a18",
+  "source": "ESPN",
+  "author": "Ian Rapoport",
+  "time": "2026-11-28T18:28:31.316Z",
+  "text": "The Falcons and QB Tua Tagovailoa have agreed to part ways, per me and Adam Schefter. \n\nAnother QB with plenty of starting experience available.",
+  "url": "https://www.espn.com/contributor/ian-rapoport/f5ea82d657a18",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espn-f5ea82d657a18",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-5f5951e3fe586",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-28T18:27:51.904Z",
+  "text": "Just in: Falcons and QB Tua Tagovailoa have agreed to part ways, per @RapSheet and me.",
+  "url": "https://www.espn.com/contributor/adam-schefter/5f5951e3fe586",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espn-5f5951e3fe586",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espn-2ee7e7b998248",
+  "source": "ESPN",
+  "author": "Adam Schefter",
+  "time": "2026-11-28T18:10:46.028Z",
+  "text": "A second opinion on Bears TE Colston Loveland\u2019s sprained MCL showed that he now is expected to avoid being placed on injured reserve, and the team is considering him week to week, per source.",
+  "url": "https://www.espn.com/contributor/adam-schefter/2ee7e7b998248",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espn-2ee7e7b998248",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "injured reserve",
+   "starting_qb": null,
+   "confirmed": true,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50622628",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-28T17:47:32Z",
+  "text": "Josh Johnson to start for the Cardinals. Joshua Weinfuss details Arizona's preparation this week with Johnson stepping in at QB following Carson Beck's injury.",
+  "url": "https://www.espn.com/video/clip/_/id/50622628/josh-johnson-start-cardinals",
+  "teams": [
+   "ARI"
+  ],
+  "facts": {
+   "id": "espnnews-50622628",
+   "team": "ARI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50621729",
+  "source": "ESPN",
+  "author": "ESPN",
+  "time": "2026-11-28T16:14:53Z",
+  "text": "Shane Steichen discusses blocking out job speculation. Shane Steichen discusses blocking out job speculation",
+  "url": "https://www.espn.com/video/clip/_/id/50621729/shane-steichen-discusses-blocking-job-speculation",
+  "teams": [
+   "IND"
+  ],
+  "facts": {
+   "id": "espnnews-50621729",
+   "team": "IND",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50621182",
+  "source": "ESPN",
+  "author": "Ben Baby",
+  "time": "2026-11-28T15:11:48Z",
+  "text": "Why Bengals' 2025 first-rounder Stewart can't crack lineup. Stewart hasn't seen action in three games this season despite being healthy enough to play.",
+  "url": "https://www.espn.com/nfl/story/_/id/50621182/bengals-shemar-stewart-playing",
+  "teams": [
+   "CIN"
+  ],
+  "facts": {
+   "id": "espnnews-50621182",
+   "team": "CIN",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50618077",
+  "source": "ESPN",
+  "author": "Brooke Pryor",
+  "time": "2026-11-28T14:31:12Z",
+  "text": "Steelers, fueled by jabs over Aaron Rodgers drama, 'come together' to rout Broncos. Turned into a national punchline following Aaron Rodgers' release, the Steelers played with a sense of \"urgency\" and \"anger\" in a 27-5 win over the Broncos.",
+  "url": "https://www.espn.com/nfl/story/_/id/50618077/steelers-fueled-jabs-aaron-rodgers-drama-rout-broncos",
+  "teams": [
+   "PIT"
+  ],
+  "facts": {
+   "id": "espnnews-50618077",
+   "team": "PIT",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50618212",
+  "source": "ESPN",
+  "author": "Kalyn Kahler",
+  "time": "2026-11-28T13:06:43Z",
+  "text": "Singled out in NFL officiating video, Bears' Simmons draws false-start ire from Lions. Bears DT Jeffery Simmons was the subject of controversy during Chicago's win at Detroit on Thanksgiving Day.",
+  "url": "https://www.espn.com/nfl/story/_/id/50618212/singled-nfl-officiating-video-bears-simmons-draws-false-start-ire-lions",
+  "teams": [
+   "CHI",
+   "DET"
+  ],
+  "facts": {
+   "id": "espnnews-50618212",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50595037",
+  "source": "ESPN",
+  "author": "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
+  "time": "2026-11-28T11:37:45Z",
+  "text": "NFL Week 12 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more. Touchdown for Justin Jefferson? Upset over the Giants for the Colts? Big day for Bucky Irving? Let's predict 15 things for the Sunday and Monday matchups.",
+  "url": "https://www.espn.com/nfl/story/_/id/50595037/week-12-predictions-upsets-fantasy-sleepers-stats-2026",
+  "teams": [
+   "BAL",
+   "IND",
+   "HOU",
+   "MIA",
+   "LV",
+   "TB",
+   "WAS",
+   "CLE",
+   "MIN",
+   "ATL",
+   "SF"
+  ],
+  "facts": {
+   "id": "espnnews-50595037",
+   "team": "BAL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50616158",
+  "source": "ESPN",
+  "author": "Courtney Cronin",
+  "time": "2026-11-28T11:00:11Z",
+  "text": "Five unsung heroes of the Bears' 6-game win streak. The Bears' stars get the headlines, but these five players have been just as important for the NFC North leaders.",
+  "url": "https://www.espn.com/nfl/story/_/id/50616158/bears-win-streak-tj-edwards-dillon-thieneman",
+  "teams": [
+   "CHI"
+  ],
+  "facts": {
+   "id": "espnnews-50616158",
+   "team": "CHI",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50596874",
+  "source": "ESPN",
+  "author": "Ryan McFadden",
+  "time": "2026-11-28T11:00:10Z",
+  "text": "How has Fernando Mendoza played in his first two starts?. We took a look at what Raiders' Fernando Mendoza did well -- and not so well -- in his first two starts.",
+  "url": "https://www.espn.com/nfl/story/_/id/50596874/las-vegas-raiders-quarterback-fernando-mendoza-first-two-starts",
+  "teams": [
+   "LV"
+  ],
+  "facts": {
+   "id": "espnnews-50596874",
+   "team": "LV",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50608001",
+  "source": "ESPN",
+  "author": "Daniel Oyefusi",
+  "time": "2026-11-28T11:00:04Z",
+  "text": "A must-listen: KC Concepcion's powerful message on stuttering. There's more to the story for this Browns rookie receiver: \"Me being able to inspire people all over the world, it just means everything.\"",
+  "url": "https://www.espn.com/nfl/story/_/id/50608001/cleveland-browns-kc-concepcion-message-stuttering",
+  "teams": [
+   "CLE"
+  ],
+  "facts": {
+   "id": "espnnews-50608001",
+   "team": "CLE",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
+  "id": "espnnews-50614599",
+  "source": "ESPN",
+  "author": "Marc Raimondi",
+  "time": "2026-11-28T11:00:01Z",
+  "text": "'Give him the ball': Falcons focus on feeding Bijan Robinson. The Falcons know how getting away from feeding Bijan reflects in the win-loss column, and they vow changes.",
+  "url": "https://www.espn.com/nfl/story/_/id/50614599/falcons-focus-bijan-robinson",
+  "teams": [
+   "ATL"
+  ],
+  "facts": {
+   "id": "espnnews-50614599",
+   "team": "ATL",
+   "player": null,
+   "position": null,
+   "status": "other",
+   "starting_qb": null,
+   "confirmed": false,
+   "summary": null
+  }
+ },
+ {
   "id": "espnnews-50617060",
   "source": "ESPN",
   "author": "Jeff Legwold",
@@ -6109,267 +6456,6 @@
   "facts": {
    "id": "espnnews-50552701",
    "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50551434",
-  "source": "ESPN",
-  "author": "Turron Davenport",
-  "time": "2026-11-21T18:31:47Z",
-  "text": "Titans DL Jaylen Harrell hospitalized after car accident in Tampa. Titans defensive lineman Jaylen Harrell was involved in a serious car accident Friday and remains hospitalized, according to the team.",
-  "url": "https://www.espn.com/nfl/story/_/id/50551434/titans-dl-jaylen-harrell-hospitalized-car-accident-tampa",
-  "teams": [
-   "TEN"
-  ],
-  "facts": {
-   "id": "espnnews-50551434",
-   "team": "TEN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50550852",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-21T17:13:41Z",
-  "text": "South Carolina legend Alshon Jeffery discusses Georgia rivalry. Jeffery joins SEC Network's Marion Crowder on SEC Nation to preview the Gamecocks' matchup against the Bulldogs and explain how Shane Beamer recruited him to South Carolina.",
-  "url": "https://www.espn.com/video/clip/_/id/50550852/south-carolina-legend-alshon-jeffery-discusses-georgia-rivalry",
-  "teams": [],
-  "facts": {
-   "id": "espnnews-50550852",
-   "team": null,
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50549761",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-21T15:27:22Z",
-  "text": "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie. Saying \"I did the best I could to protect him,\" Raiders owner Mark Davis expressed frustration with the depiction of his father, the late Al Davis, in the new movie \"Madden.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50549761/mark-davis-upset-father-portrayal-movie-madden",
-  "teams": [
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50549761",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50548223",
-  "source": "ESPN",
-  "author": "ESPN",
-  "time": "2026-11-21T13:35:36Z",
-  "text": "Carmelo Anthony calls out Ravens' Humphrey over Baltimore 'criminals' remark. Former NBA star Carmelo Anthony challenged Ravens cornerback Marlon Humphrey to do more than apologize after he said Baltimore was \"best at making criminals.\"",
-  "url": "https://www.espn.com/nfl/story/_/id/50548223/carmelo-anthony-calls-ravens-humphrey-baltimore-remark",
-  "teams": [
-   "BAL"
-  ],
-  "facts": {
-   "id": "espnnews-50548223",
-   "team": "BAL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50473666",
-  "source": "ESPN",
-  "author": "Marc Raimondi",
-  "time": "2026-11-21T11:59:54Z",
-  "text": "Falcons insist winning still the goal despite trading Jessie Bates III. Atlanta wanted to ensure trading away Jessie Bates III didn't send the wrong message to the team.",
-  "url": "https://www.espn.com/nfl/story/_/id/50473666/atlanta-falcons-trade-deadline-jessie-bates-morale",
-  "teams": [
-   "ATL"
-  ],
-  "facts": {
-   "id": "espnnews-50473666",
-   "team": "ATL",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50535108",
-  "source": "ESPN",
-  "author": "Nick Wagoner",
-  "time": "2026-11-21T11:57:44Z",
-  "text": "In Mexico City, 49ers' Fred Warner can represent his heritage and boost DPOY case. Warner will represent his heritage again Sunday in Mexico City. This time while in the middle of the best Defensive Player of the Year campaign of his career.",
-  "url": "https://www.espn.com/nfl/story/_/id/50535108/san-francisco-49ers-fred-warner-mexican-heritage-dpoy",
-  "teams": [
-   "SF"
-  ],
-  "facts": {
-   "id": "espnnews-50535108",
-   "team": "SF",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50521728",
-  "source": "ESPN",
-  "author": "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
-  "time": "2026-11-21T11:49:08Z",
-  "text": "NFL Week 11 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more. Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
-  "url": "https://www.espn.com/nfl/story/_/id/50521728/week-11-predictions-upsets-fantasy-sleepers-stats-2026",
-  "teams": [
-   "PHI",
-   "MIN",
-   "KC",
-   "SF",
-   "CIN",
-   "TEN",
-   "DAL",
-   "BAL",
-   "DEN",
-   "WAS",
-   "CHI",
-   "JAX"
-  ],
-  "facts": {
-   "id": "espnnews-50521728",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50541401",
-  "source": "ESPN",
-  "author": "Tim McManus",
-  "time": "2026-11-21T11:00:15Z",
-  "text": "Edge Jonathan Greenard loves to makes plays, despite Eagles' standing. Greenard speaks on his injury-filled season and outlook for the second half of the year.",
-  "url": "https://www.espn.com/nfl/story/_/id/50541401/eagles-jonathan-greenard-loves-make-plays-record",
-  "teams": [
-   "PHI"
-  ],
-  "facts": {
-   "id": "espnnews-50541401",
-   "team": "PHI",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50545137",
-  "source": "ESPN",
-  "author": "Brooke Pryor",
-  "time": "2026-11-21T11:00:10Z",
-  "text": "How Steelers' wide receiver corps gets big boost in Week 11. DK Metcalf and the passing game are poised to get a lift this week with the return of Roman Wilson and Michael Pittman Jr.",
-  "url": "https://www.espn.com/nfl/story/_/id/50545137/steelers-receiver-corps-boost-wilson-pittman-week-11",
-  "teams": [
-   "PIT"
-  ],
-  "facts": {
-   "id": "espnnews-50545137",
-   "team": "PIT",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50543897",
-  "source": "ESPN",
-  "author": "Ben Baby",
-  "time": "2026-11-21T11:00:10Z",
-  "text": "Why Amarius Mims is an underrated key to Bengals' success. Joe Burrow is on an MVP trajectory, and a big reason is his OL, led by Amarius Mims.",
-  "url": "https://www.espn.com/nfl/story/_/id/50543897/bengals-amarius-mims-pass-protection-joe-burrow",
-  "teams": [
-   "CIN"
-  ],
-  "facts": {
-   "id": "espnnews-50543897",
-   "team": "CIN",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50533134",
-  "source": "ESPN",
-  "author": "Ryan McFadden",
-  "time": "2026-11-21T11:00:03Z",
-  "text": "Why is the Raiders' defense struggling, and how can it improve?. The Raiders' defense has struggled mightly for weeks, but small steps of progress have been made.",
-  "url": "https://www.espn.com/nfl/story/_/id/50533134/las-vegas-raiders-defense-rob-leonard-struggles",
-  "teams": [
-   "LV"
-  ],
-  "facts": {
-   "id": "espnnews-50533134",
-   "team": "LV",
-   "player": null,
-   "position": null,
-   "status": "other",
-   "starting_qb": null,
-   "confirmed": false,
-   "summary": null
-  }
- },
- {
-  "id": "espnnews-50522936",
-  "source": "ESPN",
-  "author": "Jordan Raanan",
-  "time": "2026-11-21T11:00:00Z",
-  "text": "Giants' Abdul Carter on lack of sacks: 'I've got to do more'. On the surface, the lack of sacks and hard numbers seem insufficient, but dig deeper and it's a different story.",
-  "url": "https://www.espn.com/nfl/story/_/id/50522936/giants-abdul-carter-lack-sacks",
-  "teams": [
-   "NYG"
-  ],
-  "facts": {
-   "id": "espnnews-50522936",
-   "team": "NYG",
    "player": null,
    "position": null,
    "status": "other",
